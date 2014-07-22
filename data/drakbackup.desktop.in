@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=Backups
+Icon=/usr/share/mcc/themes/default/backup-mdk.png
+Exec=/usr/sbin/drakbackup
+Terminal=false
+Type=Application
+Categories=System;SystemSetup;X-Mandrake-System

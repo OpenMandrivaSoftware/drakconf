@@ -1,0 +1,7 @@
+When testing a new icon set, do:
+- mv /usr/share/mcc/themes/default{,.old}
+- cp -a default /usr/share/mcc/themes/
+- sudo ./control-center --testing
+
+the --testing argument is important in order to ensure you didn't forgot any
+icon

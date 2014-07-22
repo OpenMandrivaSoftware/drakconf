@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=Fonts
+Icon=/usr/share/mcc/themes/default/drakfont-mdk.png
+Exec=/usr/sbin/drakfont
+Terminal=false
+Type=Application
+Categories=System;SystemSetup;X-Mandrake-System

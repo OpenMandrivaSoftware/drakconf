@@ -1,0 +1,4 @@
+USER=root
+PROGRAM=/usr/X11R6/bin/drakconf.real
+SESSION=true
+FALLBACK=false

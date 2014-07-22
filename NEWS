@@ -1,0 +1,284 @@
+Version 12.19.1 - 7 Jun 2010, João Victor Duarte Martins
+
+- Updated extended maintenance binary to mdkapplet-add-media-helper.
+
+Version 12.19 - 26 May 2010
+
+- properly align text and icons (#53383)
+- Use /usr/sbin/system-config-printer instead of the /usr/bin/ one. (Bug #58174)
+
+Version 12.18.3 - 26 January 2010, Thierry Vignaud
+
+- stop retrieving URL on startup (now done in embedded tool)
+
+Version 12.18.2 - 25 January 2010, Thierry Vignaud
+
+- translations updates
+
+Version 12.18.1 - 25 January 2010, Thierry Vignaud
+
+- extended maintenance tool:
+  o fix providing the right version
+  o provide the URL
+
+Version 12.18 - 22 January 2010, Thierry Vignaud
+
+- add extended maintenance icon
+
+Version 12.17 - 29 October 2009, Thierry Vignaud
+
+- refresh the icon list if some package got installed
+- restart cups service when installing system-config-print
+
+Version 12.16 - 27 October 2009, Thierry Vignaud
+
+- do not offer to configure the boot splash screen
+
+Version 12.15 - 12 October 2009, Thierry Vignaud
+
+- display help as user
+- fix sometimes not being able to run the help browser (#53999)
+- try harder to display release notes, bug wizards, ... as user
+
+Version 12.14 - 12 October 2009, Thierry Vignaud
+
+- fix tool URL which can be a translated UTF-8 string (eg: for CD/DVD
+  entries) (#54457)
+- run help when pressing <F1>
+
+Version 12.13.2 - 05 October 2009, Nicolas Lecureuil
+
+- Fix system-config-printer emplacement (#54303)
+
+Version 12.13.1 - 31 August 2009, Thierry Vignaud
+
+- workaround latest webkit breaking mcc (bis repetita) (teuf, #53152)
+
+Version 12.13 - 29 July 2009, Thierry Vignaud
+
+- control-center:
+  o show update frequency configurator
+
+Version 12.12 - 24 July 2009, Eugeni Dodonov
+
+- control-center:
+  o add support for tomoyo-gui.
+
+Version 12.11 - 10 July 2009, Thierry Vignaud
+
+- drakconsole
+  o fix not having the focus on startup (#48091)
+
+Version 12.10.1 - 17 April 2009, Thierry Vignaud
+
+- install task-printing-server task-printing-hp too when
+  system-printer-config is missing
+
+Version 12.10 - 17 April 2009, Thierry Vignaud
+
+- fix swedish translation (#49990)
+- enable to install missing tools through /usr/share/mcc/progs.conf
+  (eg: system-printer-config on live CDs, #49994)
+
+Version 12.9 - 15 April 2009, Thierry Vignaud
+
+- translations updates
+
+Version 12.8 - 5 April 2009, Thierry Vignaud
+
+- fix displaying name of CD/DVDs if more than one (#49565)
+
+Version 12.7 - 30 March 2009, Thierry Vignaud
+
+- translations updates
+
+Version 12.6 - 23 March 2009, Thierry Vignaud
+
+- drakconf:
+  o fix IDs of DVD/CDs thus fixing crashing on invalidly escaped
+    characters (#49034)
+- drakxconf:
+  o do use translations when using the text mode version (#48988)
+
+Version 12.5 - 19 March 2009, Thierry Vignaud
+
+- fix a rare crash when embedded program segfaulted (#48080)
+
+Version 12.4 - 16 March 2009, Thierry Vignaud
+
+- workaround latest webkit breaking mcc (again)
+
+Version 12.3 - 18 February 2009, Thierry Vignaud
+
+- fix not-working-links regression introduced by webkit workaround in
+  12.2 (#47911)
+
+Version 12.2 - 16 February 2009, Thierry Vignaud
+
+- workaround latest webkit breaking mcc (#47840)
+
+Version 12.1 - 21 January 2009, Eugeni Dodonov
+
+- removed entry for drakperm (now handled by msecgui)
+- add support for msecgui
+- changed description for draksec functionality
+
+Version 12 - 18 December 2008, Olivier Blin
+
+- drop again diagnostics, strict, vars and warnings pragmas
+  (was kept since 10.18.7)
+- enable to alter branding
+
+Version 11.9 - 4 October 2008, Olivier Blin
+
+- do not show banner when no application is embedded
+
+Version 11.8.2 - 2 October 2008, Thierry Vignaud
+
+- use different icons for sources manager & drakstats
+
+Version 11.8.1 - 1 October 2008, Thierry Vignaud
+
+- fix desktop menu entry (#44457)
+
+Version 11.8 - 30 September 2008, Thierry Vignaud
+
+- enable to translate menu entry here rather than in menu-messages (#43580)
+- right part:
+  o adjust spacing
+  o fix order with RTL languages
+  o fix titles alignment with RTL languages
+  o remove gray gradient
+  o reduce subtitles font size
+
+Version 11.7.3 - 30 September 2008, Thierry Vignaud
+
+- translations updates
+
+Version 11.7.2 - 29 September 2008, Thierry Vignaud
+
+- use new drakxtools API
+
+Version 11.7.1 - 26 September 2008, Thierry Vignaud
+
+- fix banners displaying titles with "&amp;"
+
+Version 11.7 - 26 September 2008, Thierry Vignaud
+
+- RTL languages fixes
+- fix icon ugliness
+
+Version 11.6 - 25 September 2008, Thierry Vignaud
+
+- dither splash screen
+
+Version 11.5 - 25 September 2008, Thierry Vignaud
+
+- do not crash when selecting "Reload" in contextual menu (#44226)
+- disable contextual menu
+- make icon+text act as a single item for links
+- make sure --save-html-pages write UTF-8 files
+- use gray gradient in right background
+
+Version 11.4 - 25 September 2008, Thierry Vignaud
+
+- add padding between icons & text
+- display frames around icons
+- render titles as blue and with asterisks
+
+Version 11.3 - 25 September 2008, Thierry Vignaud
+
+- reduce spacing between left items
+
+Version 11.2 - 25 September 2008, Thierry Vignaud
+
+- restore scrollbar (#44213)
+
+Version 11.1 - 25 September 2008, Thierry Vignaud
+
+- handle --save-html-pages in order to debug HTML pages generated by
+  mcc
+- make focus be visible
+- show right items as white
+
+Version 11 - 24 September 2008, Thierry Vignaud
+
+- improve style by using installer's one
+- switch from gtkhtml2 to wekbit
+
+Version 10.26 - 24 September 2008, Thierry Vignaud
+
+- fix about dialog banner (#44176)
+- new splash screen
+
+Version 10.25.2 - 23 September 2008, Thierry Vignaud
+
+- use new boot icon
+
+Version 10.25.1 - 22 September 2008, Thierry Vignaud
+
+- restore icon wrongly removed
+
+Version 10.25 - 22 September 2008, Thierry Vignaud
+
+- updated icons & translations
+
+Version 10.24 - 16 September 2008, Thierry Vignaud
+
+- do call the appropriate help index
+- fix calling the appropriate contextual help index:
+  o ensure tab order doesn't alter help ID
+  o fix help ID for "local disks" (not know yet to the doc)
+
+Version 10.23 - 15 September 2008, Thierry Vignaud
+
+- fix errata/NEWS URL (#43854)
+
+Version 10.22 - 22 August 2008, Thierry Vignaud
+
+- do not crash if an icon is missing (#37651)
+- stop probing for floppies, which can be slow (#40322)
+
+Version 10.21 - 20 August 2008, Thierry Vignaud
+
+- change system-config-printer to embed in mcc and
+  change its path to $sbindir
+
+Version 10.20 - 20 August 2008, Thierry Vignaud
+
+- Change printerdrake by system-config-printer
+
+Version 10.19 - 28 July 2008, Thierry Vignaud
+
+- update icons
+- update translations
+
+Version 10.18.7 - 28 May 2008, Thierry Vignaud
+
+- do open bug in running firefox drakbug (#31109)
+- enable to disable some icons through /etc/sysconfig/mcc.conf
+
+Version 10.18.6 - 23 May 2008, Thierry Vignaud
+
+- solve hard to reproduce perl segfault (#34505)
+
+Version 10.18.2 - 11 March 2008, Thierry Vignaud
+
+- add an icon for draksnapshot
+
+Version 10.18.1 - 10 March 2008, Thierry Vignaud
+
+- rename sound icon (#38767)
+
+Version 10.18 - 10 March 2008, Thierry Vignaud
+
+- fix calling userdrake without consolehelper-gtk else we kill
+  consolehelper-gtk instead of userdrake (#34892)
+  (also fixing unable to run userdrake in sec level > 3, #38655)
+- use 'sound' iconf for "Sound Configuration"
+
+Version 10.17 - 7 March 2008, Thierry Vignaud
+
+- add "Parental Controls" icon
+- add "Sound Configuration" icon
+- restore wait animation (regression introduced in 10.4.14-1mdv2007.1)

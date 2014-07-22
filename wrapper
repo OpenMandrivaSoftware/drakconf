@@ -1,0 +1,38 @@
+#!/usr/bin/perl
+# $Id: wrapper 222393 2004-02-12 17:59:51Z tvignaud $
+
+# Copyright (C) 1999-2002 MandrakeSoft
+#                         Damien Krotkine
+#                         Thierry Vignaud (tvignaud@mandrakesoft.com)
+#
+# This program is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2, or (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+
+# The mcc wrapper goals are :
+# - prevent bad gtk bugs if one launch it from the cli and suspend itt
+# - having less overhead for launching drakxconf if cli version must be used
+#
+# It's no more needed when using nptl on 2.6.x kernels
+
+use lib qw(/usr/lib/libDrakX);
+use common;
+
+if (!check_for_xserver()) {
+    exec ("/usr/sbin/drakxconf @ARGV; reset");
+} else {
+    unless (my $pid = fork) {
+     print "cannot fork\n" unless defined $pid;
+     exec ("/usr/sbin/drakconf.real", @ARGV);
+    }
+
+}

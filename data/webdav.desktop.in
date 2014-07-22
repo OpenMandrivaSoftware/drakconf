@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=WebDAV mount points
+Icon=/usr/share/mcc/themes/default/webdav-mdk.png
+Exec=/usr/sbin/diskdrake --dav
+Terminal=false
+Type=Application
+Categories=System;SystemSetup;X-Mandrake-MountPoints

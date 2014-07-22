@@ -1,0 +1,2159 @@
+# %s Control Center e brezhoneg
+# Copyright (C) 2002 Mandriva
+# Thierry Vignaud <tvignaud@mandrakesoft.com>, 2002
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf 0.96\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2008-12-18 17:22+0100\n"
+"Last-Translator: Thierry Vignaud <tvignaud@mandrakesoft.com>\n"
+"Language-Team: Brezhoneg <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=1;plural=0\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Pakaderien"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "kenstagadur cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "kenstagadur figlet ha distriblint"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, abiword a-vremañ, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr ""
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr ""
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM traoù, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount nevez ha labour war ar galon"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr ""
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr ""
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr ""
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr ""
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr ""
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr ""
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr ""
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr ""
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr ""
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Teuliadur"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr ""
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Distroerien"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Troerien evit norvegeg Nynorsk (nn) ha rener"
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr ""
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Troerien finnek ha rener"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Troerien nederlandek ha rener"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Troerien danek ha rener"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Troerien evit norvegeg Nynorsk (nn) ha rener"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Distroer evit Estoneg"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Distroer evit Italianeg"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Distroer evit Boesnieg"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Arnoderioù"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr ""
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr ""
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr ""
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr ""
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr ""
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+
+#: ../control-center:90
+#, c-format
+msgid "OpenMandriva Lx"
+msgstr "OpenMandriva Lx"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "Kreizenn ren %s"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "O kargañ... Gortozit mar plij"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Merour ar meziantoù"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, c-format
+msgid "Others"
+msgstr "Traoù all"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Skoazelleroù ar servijeroù"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Rannañ"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "Kefluniañ FTP"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "Kefluniañ ur servijer FTP"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Kefluniañ Samba"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Merañ ar rannoù Samba"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr ""
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Kefluniañ ar servijer web"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Kefluniañ ur servijer web"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Kefluniañ servijer ar staliadur"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Kefluniañ ur servijer staliadur rouedad evit %s"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Servijoù Rouedad"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "Kefluniañ DHCP"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "Kefluniañ ur servijer DHCP"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "Kefluniañ DNS"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "Kefluniañ ur servijer DNS"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Kefluniañ ar proksi"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Kefluniañ ur servijer proksi evit ar gwiad"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Kefluniañ an eur"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "Kefluniadur an diaoul OpenSSH"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Dilesadur"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "Kefluniañ NIS hag autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "Kefluniañ ar servijoù NIS hag autofs"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "Kefluniañ LDAP"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Kefluniañ servijoù ar renkell LDAP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Strollant"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Kefluniañ breutaenn"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Kefluniañ ar servijer keleier"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Kefluniañ groupware   "
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Kefluniañ ur servijer groupware"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Kefluniañ mailh"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Kefluniañ servijoù posteloù ar c'henrouedad"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Melestradur enlinenn"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Melestradur lec'hel"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Kefluniañ an urzhiataer lec'hel gant un etrefas gwiad"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr ""
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Mererezh a-bell"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Periantel"
+
+#: ../control-center:326
+#, c-format
+msgid "Manage your hardware"
+msgstr "Merañ ho periantel"
+
+#: ../control-center:333
+#, c-format
+msgid "Configure graphics"
+msgstr "Kefluniañ ar grafikoù"
+
+#: ../control-center:340
+#, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Kefluniañ al logodenn hag ar stokellaoueg"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Rouedad hag Internet"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, c-format
+msgid "Manage your network devices"
+msgstr "Merañ ho trobarzhelloù rouedad"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Reizhiad"
+
+#: ../control-center:403
+#, c-format
+msgid "Manage system services"
+msgstr "Merañ servijoù ar reizhiad"
+
+#: ../control-center:412
+#, c-format
+msgid "Localization"
+msgstr "Lec'hiañ"
+
+#: ../control-center:419
+#, c-format
+msgid "Administration tools"
+msgstr "Ostilhoù melestradur"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, c-format
+msgid "Network Sharing"
+msgstr "Rannoù rouedad"
+
+#: ../control-center:439
+#, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Kefluniañ rannoù Windows(R)"
+
+#: ../control-center:446
+#, c-format
+msgid "Configure NFS shares"
+msgstr "Kefluniañ rannoù NFS"
+
+#: ../control-center:453
+#, c-format
+msgid "Configure WebDAV shares"
+msgstr "Kefluniañ rannom WebDAV"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, c-format
+msgid "Local disks"
+msgstr "Pladennoù lec'hel"
+
+#: ../control-center:490
+#, c-format
+msgid "CD-ROM (%s)"
+msgstr "CD-ROM « %s »"
+
+#: ../control-center:491
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Lakaat pelec'h e vez marchañ ho CD-ROM « %s »"
+
+#: ../control-center:493
+#, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM « %s »"
+
+#: ../control-center:494
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Lakaat pelec'h e vez marchañ ho zDVD-ROM « %s »"
+
+#: ../control-center:496
+#, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "Engraver CD/DVD « %s »"
+
+#: ../control-center:497
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Lakaat pelec'h e vez marchañ ho skriver CD/DVD « %s »"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "Pladenn ZIP"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Lakaat pelec'h e vez marchañ ho vladenn ZIP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Surentez"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Loc'hañ"
+
+#: ../control-center:533
+#, fuzzy, c-format
+msgid "Configure boot steps"
+msgstr "Kefluniañ an eur"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr "Giz loc'hañ"
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Skoazelleroù ouzhpenn"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Dibarzhoù"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Diskouez ar c'herzlevr"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/Mod _enframmet"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Mod mailh evit ar _skoazhellerien"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Restr"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_Kuitaat"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Kuitaat"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Giz"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/Gizioù _muioc'h"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Skoazell"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Skoazell"
+
+#: ../control-center:668
+#, fuzzy, c-format
+msgid "/_Release notes"
+msgstr "/_Lemel"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr "/Petra zo _nevez ?"
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr "/_Errata"
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_Reiñ da c'houzout ur gudenn"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/_A-brepoz..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Nullañ"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "Kreizenn ren %s %s [war %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Fazi"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Ne m'eus ket lañsañ ar goulev dianav « %s »"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Ne vo ket bet enrollet ar c'hemmoù er mollad-mañ."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "n'eo ket fork(): %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr ""
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Echuet direizh eo ar program-mañ"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Ho evezh"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Kuitaat"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Gizioù muioc'h"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Emaon o tigas gizioù nevez"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Gizioù ouzhpenn"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Tapout gizioù ouzhpenn war www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "A-brepoz - Kreizenn ren %s"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Obererour: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(stumm e perl)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Arterezh"
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Hélène Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s : %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Thierry Vignaud"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "<tvignaud@mandrakesoft.com>"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Distroer :"
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "Kreizenn ren %s (%s) %s"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Copyright (C) %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Obererour"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "Mignonez OpenMandriva Lx"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Diskwel"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Stokellaoueg"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Logodenn"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Tud ha strolladoù"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Servijerioù"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Moger tan"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "C'harger loc'hañ"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Staliañ emgefreek"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Rannañ gevreadenn ar genrouedad"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "Efedoù ar vurev 3D"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Parzhadurioù"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Kreizenn ren"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Dibabit ar c'houlev e fell deoc'h implij"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "Kefluniañ efedoù ar vurev 3D"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr "Dibabit an hentenn zilesadur (lec'hel, NIS, LDAP, Windows Domain, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "Kefluniañ emereañ ardivink"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr "Bevaat emereañ ha dibab an arveriad da emereañ ouzh"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Dielloù"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "Kefluniañ dielloù ar reizhiad ha roadoù an arveriaded"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr "Kefluniañ doare loc'hañ ar reizhiad"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Kefluniañ penaos e vez loc'hañ ar reizhiad"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Kefluniañ giz grafik ar reizhiad en ur loc'hañ"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Dibabit giz grafik ar reizhiad en ur loc'hañ"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Rannañ gevreadenn ouzh ar genrouedad gant an urzhiataeroù lec'hel all"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Kefluniañ un etrefas rouedad (LAN, ISDN, ADLS, ...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Digor ar genrouedad"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Kemmañ dibarzhoù a bep seurt ar genrouedad"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, c-format
+msgid "Open a console as administrator"
+msgstr "Digeriñ ul letrin mererezh"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, c-format
+msgid "Manage date and time"
+msgstr "Merañ an deiziad hag an eur"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, c-format
+msgid "Set up display manager"
+msgstr "Kefluniañ merour an diskouez"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr "Dibabit merour an diskouez hag a gall dibab pehini arveriad da ereañ"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Kefluniañ ur servijer"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr "Sevel ur mor-tan evit diwall an urzhiataer hag ar rouedad"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr ""
+"Merañ, ouzhpennañ ha dilemel an nodrezhoù. Enporzh an nodrezhoù Windows(TM)"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Kelfunian ar servijer grafik"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, c-format
+msgid "Manage disk partitions"
+msgstr "Merañ parzhadurioù pladenn"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Krouiñ, lemel hag adventañ parzhadurioù pladenn"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr "Sellout ouzh ha kefluniañ ar periantel"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, c-format
+msgid "Sound Configuration"
+msgstr "Kefluniadur ar c'hlevet"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Liketennoù ostiz"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Merañ liketennoù ostiz"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, c-format
+msgid "Install & Remove Software"
+msgstr "Staliañ ha distaliañ poelladoù"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr "Staliañ ha distaliañ pakadoù"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Lakaat kefluniadr ar stokellaoueg"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Kefluniañ ar servijer strollant"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Dibabit ar yezh hag ar vro ar reizhiad"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Sellout ouzh ha klask kerzlevr ar reizhiad"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Meran kevreadennoù"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Adgefluniañ un etrefas rouedad"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Merañ strollad an urzhiataeroù"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Merañ ar pakadoù staliet e-barzh strollad an urzhiataeroù"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Giz ar meuziad"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Kefluniañ giz ar meuziad"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Evezhiañ kevreadennoù"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Evezhiañ ar c'hevreadennoù rouedad"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Lakkat trobarzhell ar buker (logodenn, tablezenn)"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "Kreizenn ren rouedad"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, c-format
+msgid "Manage different network profiles"
+msgstr "Merañ ar profiloù rouedad"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Bevaat ha merañ ar profiloù rouedad"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "Lakaat ar poentoù marc'hañ NFS"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "Merañ ar rannoù NFS"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Stadegoù ar pakadoù"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Diskouez ar stadegoù diwar-benn ar pakadoù staliet"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr "Rannañ parzhadurioù ho pladenn"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Lakaat rannañ parzhadurioù ho pladenn "
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Kefluniañ ar voullerez(ioù), al lostennoù voulañ, ..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Dleaddoù steuñvaeret"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Proksi"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "Kefluniañ ur servijer prokis evit ar restroù hag evit furchal ar gwiad"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Melestradur a-bell (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Melestradur a-bell un urzhiataer all (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Lemel ur gevreadenn"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Lemel un etrefas rouedad"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Kevreadenn hep neud"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Merañ kefluniadur Samba"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Kefluniañ an eiltreser"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, fuzzy, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Dibabit ar yezh hag ar vro ar reizhiad"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, fuzzy, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr "Dibabit live surentez ar reizhiad hag"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "Kefluniañ groupware   "
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr "Merañ arveriaded ar reizhiad"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Ouzhpennañ, lemel pe kemmañ arveriaded ar reizhiad"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, fuzzy, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Kefluniañ kevreadennoù VPN"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "Lakaat ar poentoù marc'hañ WebDAV"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Kreizenn ren kefluniadur ar meuziad"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Meuziad ar reizhiad"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Kefluniañ..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Meuziad ar dud"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Dibabit ar meuziad da implij"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Kefluniañ ar voullerez"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Klikit amañ da kefluniañ reizhiad moulañ"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Echu"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Mont tre"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Deiziad hag eur"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Kevreadenn nenez"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Pladennig staliañ emgefreek"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Loc'hañ"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Dleaddoù steuñvaeret"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Merour an diskouez"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Pladennig loc'h"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Nodrezhoù"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Reizhan"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Live hag Avetroù"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "Kartenn pellwel"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Rannañ ar parzhadurioù"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Pladennoù"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Kazetennoù"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Meuziadoù"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Poentoù marc'hañ"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "Poentoù marc'hañ NFS"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Moullerezioù"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Kefluniadur ar proksi"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Skoroù lem/laka"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Lemel ur gevreadenn"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Poentoù marc'hañ SaMBa"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Eiltreser"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Dibarzhoù ar reizhiad"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Tud ha strolladoù"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "Poentoù marc'hañ WebDAV"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Servijer grafik"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Skramm"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Spister ar skramm"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Kefluniañ hoc'h urzhiataer"
+
+#, fuzzy
+#~ msgid "Set up security level and audit"
+#~ msgstr "Dibabit live surentez ar reizhiad hag"
+
+#, fuzzy
+#~ msgid "Tune permissions on system"
+#~ msgstr "Ouzhpennañ, lemel pe kemmañ arveriaded ar reizhiad"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Degemer e kreizenn ren %s"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Krouiñ ur bladennig staliañ emgefreek"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Krouiñ ur bladennig staliañ"
+
+#~ msgid "Floppy drive"
+#~ msgstr "Pladennig"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Lakaat pelec'h e vez marchañ ho vladennig"
+
+#~ msgid "/_Upload the hardware list"
+#~ msgstr "/_Ezkargañ roll ar perientel"
+
+#~ msgid "<control>U"
+#~ msgstr "<control>E"
+
+#~ msgid "Upload the hardware list"
+#~ msgstr "Ezkargañ roll ar perientel"
+
+#~ msgid "Account:"
+#~ msgstr "Kont :"
+
+#~ msgid "Password:"
+#~ msgstr "Tremenger :"
+
+#~ msgid "Hostname:"
+#~ msgstr "Anv ostiz :"
+
+#~ msgid "Please wait"
+#~ msgstr "Gortozit mar plij"
+
+#~ msgid "Uploading in progress"
+#~ msgstr "Oc'h ezkargañ"
+
+#, fuzzy
+#~ msgid "Manage software"
+#~ msgstr "Merañ ar rannoù NFS"
+
+#, fuzzy
+#~ msgid "Use NFS shares"
+#~ msgstr "Merañ ar rannoù NFS"
+
+#~ msgid "Manage Samba configuration"
+#~ msgstr "Merañ kefluniadur Samba"
+
+#, fuzzy
+#~ msgid "Use WebDAV shares"
+#~ msgstr "Kefluniañ ar servijer web"
+
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#~ msgid "Boot theme"
+#~ msgstr "Giz al loc'hañ"
+
+#~ msgid "Console"
+#~ msgstr "Letrin"
+
+#~ msgid "Adjust the date and the time"
+#~ msgstr "Lakaat and deiziad hag an eur"
+
+#~ msgid "Fax"
+#~ msgstr "Faks"
+
+#~ msgid "Software Media Manager"
+#~ msgstr "Merour ar pakadoù"
+
+#~ msgid "Invictus Firewall"
+#~ msgstr "Moger tan Invictus"
+
+#~ msgid "Language"
+#~ msgstr "Yezh"
+
+#~ msgid "Country / Region"
+#~ msgstr "Bro / Rannvro"
+
+#~ msgid "Updates"
+#~ msgstr "Bremañaat"
+
+#, fuzzy
+#~ msgid "Control and configure network connections"
+#~ msgstr "Evezhiañ ar c'hevreadennoù rouedad"
+
+#~ msgid "Network Profiles"
+#~ msgstr "Profiloù rouedad"
+
+#~ msgid "Local disk sharing"
+#~ msgstr "Rannañ ur bladenn lec'hel"
+
+#~ msgid "Level and checks"
+#~ msgstr "Live hag avetroù"
+
+#~ msgid "Enable or disable the system services"
+#~ msgstr "Bevaat pe lazhañ servijoù ar reizhiad"
+
+#~ msgid "Media Manager"
+#~ msgstr "Merour ar media"
+
+#~ msgid "UPS"
+#~ msgstr "UPS"
+
+#~ msgid "VPN configuration"
+#~ msgstr "Kefluniadur VPN"
+
+#, fuzzy
+#~ msgid "Configure Software management"
+#~ msgstr "Merour ar meziantoù"
+
+#~ msgid "Install"
+#~ msgstr "Staliañ"
+
+#~ msgid "Look at installable software and install software packages"
+#~ msgstr "Sellout ouzh ar pakadoù ha staliañ ar pakadoù"
+
+#~ msgid ""
+#~ "Select the application menu layout and change which programs are shown on "
+#~ "the menu"
+#~ msgstr ""
+#~ "Dibab doare meuziad ar meziantoù ha cheñch ar programmoù hag a zo "
+#~ "diskouezet e-barzh"
+
+#~ msgid "Remove"
+#~ msgstr "Lemel"
+
+#~ msgid "Look at installed software and uninstall software packages"
+#~ msgstr "Sellout ouzh ar pakadoù staliet ha distaliañ pakadoù"
+
+#~ msgid "Screen resolution"
+#~ msgstr "Spister ar skramm"
+
+#~ msgid "Change the screen resolution"
+#~ msgstr "Kemmañ spister ar skramm"
+
+#~ msgid "TV card"
+#~ msgstr "Kartenn pellwel"
+
+#~ msgid "Set up TV card"
+#~ msgstr "Kefluniañ ar gartenn pellwel"
+
+#~ msgid "/_Expert mode"
+#~ msgstr "/Mod _mailh"
+
+#~ msgid "Set Samba mount points"
+#~ msgstr "Lakaat ar poentoù marc'hañ SaMBa"
+
+#~ msgid "Samba printing configuration"
+#~ msgstr "Kefluniadur moulañ dre Samba"
+
+#~ msgid "(original C version)"
+#~ msgstr "(meziant gentañ)"
+
+#~ msgid "(design)"
+#~ msgstr "(meizoud)"
+
+#~ msgid ""
+#~ "We are about to switch from the \"%s\" profile to the \"%s\" profile.\n"
+#~ "\n"
+#~ "Are you sure you want to do the switch?"
+#~ msgstr ""
+#~ "Emaon o vont da Gwintañ eus ar profil « %s » d'ar profil « %s ».\n"
+#~ "\n"
+#~ "Ha fellout a ra deoc'h rasklañ ha kenderc'hel ?"
+
+#~ msgid "/_Profiles"
+#~ msgstr "/_Profiloù"
+
+#~ msgid "/_New"
+#~ msgstr "/_Nevez"
+
+#~ msgid "New profile..."
+#~ msgstr "Profil nevez..."
+
+#~ msgid ""
+#~ "Name of the profile to create (the new profile is created as a copy of "
+#~ "the current one):"
+#~ msgstr ""
+#~ "Anv ar profil nevez (krouet eo ar profil nevez evel eil ar profil red) :"
+
+#~ msgid "Ok"
+#~ msgstr "Ya"
+
+#~ msgid "The \"%s\" profile already exists!"
+#~ msgstr "Bez' ez eus ar profil « %s » endeo !"
+
+#~ msgid "Delete profile"
+#~ msgstr "Lemel ur profil"
+
+#~ msgid "Profile to delete:"
+#~ msgstr "Profil da zilemel :"
+
+#~ msgid "You can not delete the current profile"
+#~ msgstr "N' hoc'h eus ket lemel ar profil red"
+
+#~ msgid "/File/Save _As"
+#~ msgstr "/Restr/Meuziad Lañsañ"
+
+#~ msgid "/Help/_About..."
+#~ msgstr "/Skoazell/_A-brepoz"
+
+#~ msgid "/Options"
+#~ msgstr "/Dibarzhoù"
+
+#~ msgid "Auto Install Floppy"
+#~ msgstr "Bladennig staliañ emgefreek"
+
+#~ msgid "Boot Disk"
+#~ msgstr "Planedenn loc'hañ"
+
+#~ msgid "Boot Floppy"
+#~ msgstr "Bladennig loc'h"
+
+#~ msgid "Bootstrapping"
+#~ msgstr "Loc'hañ"
+
+#~ msgid "Configure PXE"
+#~ msgstr "Kefluniañ PXE"
+
+#~ msgid "Floppy"
+#~ msgstr "Pladennig"
+
+#~ msgid "Manager Connection"
+#~ msgstr "Meran liammoù"
+
+#~ msgid "%s Control Center %s\n"
+#~ msgstr "Kreizenn ren %s %s \n"
+
+#~ msgid "Monitor Connection"
+#~ msgstr "Evezhiañ liammoù"
+
+#~ msgid "Reset"
+#~ msgstr "Dihopal"
+
+#~ msgid "Security Level"
+#~ msgstr "Live surentez"
+
+#~ msgid "Time Zone"
+#~ msgstr "Takad-eur"
+
+#~ msgid "Which is your timezone?"
+#~ msgstr "Petra 'zo ar takad-eur ?"
+
+#~ msgid "cannot open this file for read: %s"
+#~ msgstr "Fazi en ur zigeriñ %s evit skrivañ"
+
+#~ msgid "mono introduction, updated abiword"
+#~ msgstr "kenstagadur mono, abiword nevez"
+
+#~ msgid "user"
+#~ msgstr "tud"

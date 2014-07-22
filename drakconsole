@@ -1,0 +1,42 @@
+#!/usr/bin/perl
+# DrakConsole -- Display Manager chooser
+# Copyright (C) 2003 MandrakeSoft (tvignaud@mandrakesoft.com)
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2, or (at your option)
+# any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+
+use strict;
+use lib qw(/usr/lib/libDrakX);
+
+use common;
+use standalone;     #- warning, standalone must be loaded very first, for 'explanations'
+use ugtk2 qw(:create :wrappers);
+use Gnome2::Vte;
+
+my $w = ugtk2->new(N("DrakConsole"));
+
+$w->{rwindow}->add(gtkpack_(Gtk2::VBox->new(0, 0),
+                            1, my $vte = gtksignal_connect(Gnome2::Vte::Terminal->new, 'child-exited' => sub { ugtk2->exit }),
+                            0, gtkpack__(create_hbox('end'), gtksignal_connect(Gtk2::Button->new(N("Close")),
+                                                                               clicked => sub { ugtk2->exit })
+                                         )
+                          ),
+                  );
+$w->{rwindow}->show_all;
+
+$vte->grab_focus();
+#$ENV{PS1} = qq(Type "exit"\n);
+$vte->fork_command($ENV{SHELL}, [ $ENV{SHELL} ], [ map { "$_=$ENV{$_}" } keys %ENV ], $ENV{PWD}, 0, 0, 0);
+
+$w->main;

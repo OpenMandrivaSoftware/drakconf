@@ -1,0 +1,9 @@
+TODO: 
+- add draksound icon, remove harddrake icon
+- limit running apps to one if not embedded ?
+- make logdrake integration more robust
+- run logdrake only once (the first time we need to)
+- trap kill => kill pending apps
+- consolidate gdk-pixbuf code in ugtk
+- add mcc theme so that drakx tools get mcc background
+- xinerama compliant: look in gdm [dams]

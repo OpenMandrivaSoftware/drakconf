@@ -1,0 +1,115 @@
+<VFolderInfo>
+  <ItemDir>/usr/share/mcc/desktop</ItemDir>
+  <MergeDir>/usr/share/rpmdrake/desktop</MergeDir>
+
+  <DesktopDir>/usr/share/mcc/desktop</DesktopDir>
+
+  <!-- Settings -->
+  <Folder>
+    <Name>System Settings</Name>
+    <Desktop>SystemConfig.directory</Desktop>
+    <Query>
+      <And>
+        <Keyword>System</Keyword>
+	<Keyword>SystemSetup</Keyword>
+	<Not>
+	  <Or>
+	    <Keyword>X-Mandrake-Boot</Keyword>
+	    <Keyword>X-Mandrake-Hardware</Keyword>
+	    <Keyword>X-Mandrake-MountPoints</Keyword>
+	    <Keyword>X-Mandrake-NetworkInternet</Keyword>
+	    <Keyword>X-Mandrake-Security</Keyword>
+	    <Keyword>X-Mandrake-System</Keyword>
+	    <Keyword>X-Mandrake-SoftwareManagement</Keyword>
+	  </Or>
+	</Not>
+      </And>
+    </Query>
+    
+    <Folder>
+      <Name>Boot</Name>
+      <Desktop>Boot.directory</Desktop>
+      <Query>
+	  <And>
+	    <Keyword>System</Keyword>
+	    <Keyword>SystemSetup</Keyword>
+	    <Keyword>X-Mandrake-Boot</Keyword>
+	  </And>
+      </Query>
+      <DontShowIfEmpty/>
+    </Folder>
+  <Folder>
+      <Name>Hardware</Name>
+      <Desktop>Hardware.directory</Desktop>
+      <Query>
+	  <And>
+	    <Keyword>System</Keyword>
+	    <Keyword>SystemSetup</Keyword>
+	    <Keyword>X-Mandrake-Hardware</Keyword>
+	  </And>
+      </Query>
+      <DontShowIfEmpty/>
+    </Folder>
+    <Folder>
+      <Name>Mount Points</Name>
+      <Desktop>MountPoints.directory</Desktop>
+      <Query>
+	  <And>
+	    <Keyword>System</Keyword>
+	    <Keyword>SystemSetup</Keyword>
+	    <Keyword>X-Mandrake-MountPoints</Keyword>
+	  </And>
+      </Query>
+      <DontShowIfEmpty/>
+    </Folder>
+    <Folder>
+      <Name>Network &amp; Internet</Name>
+      <Desktop>NetworkInternet.directory</Desktop>
+      <Query>
+	  <And>
+	    <Keyword>System</Keyword>
+	    <Keyword>SystemSetup</Keyword>
+	    <Keyword>X-Mandrake-NetworkInternet</Keyword>
+	  </And>
+      </Query>
+      <DontShowIfEmpty/>
+    </Folder>
+    <Folder>
+      <Name>Security</Name>
+      <Desktop>Security.directory</Desktop>
+      <Query>
+	  <And>
+	    <Keyword>System</Keyword>
+	    <Keyword>SystemSetup</Keyword>
+	    <Keyword>X-Mandrake-Security</Keyword>
+	  </And>
+      </Query>
+      <DontShowIfEmpty/>
+    </Folder>
+    <Folder>
+      <Name>System</Name>
+      <Desktop>System.directory</Desktop>
+      <Query>
+	  <And>
+	    <Keyword>System</Keyword>
+	    <Keyword>SystemSetup</Keyword>
+	    <Keyword>X-Mandrake-System</Keyword>
+	  </And>
+      </Query>
+      <DontShowIfEmpty/>
+    </Folder>
+    <Folder>
+      <Name>Software Management</Name>
+      <Desktop>SoftwareManagement.directory</Desktop>
+      <Query>
+	  <And>
+	    <Keyword>System</Keyword>
+	    <Keyword>SystemSetup</Keyword>
+	    <Keyword>X-Mandrake-SoftwareManagement</Keyword>
+	  </And>
+      </Query>
+      <DontShowIfEmpty/>
+    </Folder>
+  </Folder>
+
+</VFolderInfo>

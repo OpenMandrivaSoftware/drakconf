@@ -1,0 +1,1955 @@
+# translation of ru.po to Russian
+# Translation of drakconf messages to Russian
+# Copyright (C) 2000,2003, 2004, 2005, 2006, 2007, 2008, 2009 Free Software Foundation, Inc.
+# Copyright (c) 2000 Mandriva
+#
+# Vladimir Choundalov <choundalovvv@point.pwp.ru>, 2001.
+# Aleksey Smirnov <smi@logic.ru>, 2000.
+# Vitaly Zubkov <habad@mksat.net>, 11/11/2001.
+# Pavel Maryanov <acid_jack@ukr.net>, 2002-2009.
+# Alice Lafox <alice@lafox.com.ua>, 2003,2004.
+# Alice Lafox <alice@lafox.net>, 2004, 2005.
+# Alexander Kuzmenkov <rc@mezon.ru>, 2007.
+# akdengi <kazancas@mandriva.ru>, 2008, 2009.
+# Alexander Kazancev <kazancas@mandriva.ru>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2009-08-10 22:02+0500\n"
+"Last-Translator: akdengi <kazancas@mandriva.ru>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n"
+"\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Создатели пакетов"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"большая работа по пересборке и очистке пакетов; игры, портирование на sparc, "
+"техническая чистка утилит Mandriva"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "введение в cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "введение в figlet, Distriblint (проверка rpm в дистрибутиве)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, обновленный abiword, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"обновление nc патчами от debian, исправление некоторых пакетов с perl, "
+"стартовый скрипт dnotify, urpmc, hddtemp, wipe и др..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"\"глубокая и всесторонняя\" работа над ядром (множество новых патчей до "
+"включения в официальное ядро)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "работа над ядром (патчи, связанные с аудио и видео)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "патчи к некоторым пакетам, kfiresaver, xwine. ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (предварительный релиз), сосуществующая с Samba 2.2.x, Samba-2.2."
+"x, программное обеспечение GIS (grass, mapserver), коллекция тем курсоров, "
+"различные серверные дополнения"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms и плагины, gnome-"
+"python, rox desktop"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"аудио/видео/MIDI-программы, научные приложения, руководства по обработке "
+"аудио/видео, bluetooth, pyqt и связанные с ними"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng и другая работа по ядру"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr "большинство web-пакетов и множество связанных с безопасностью"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "проверка дистрибутива slbd, зависимости при разработке"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "скрипт rpmsync, воспроизведение MIDI foolproof, тонкая настройка libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "множество дополнительных аплетов gnome и модулей python"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"sk-i18n, содействие при разработке некоторых пакетов, тестирование и "
+"интеграция openldap, bind-sdb-ldap, несколько лет использования cooker и "
+"охоты за ошибками и др..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "команда ruby, пакеты php-pear, участие в других проектах."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "клон moin wiki, beep-media-player, im-ja и некоторые другие пакеты"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "отчеты об ошибках, помощь с пакетом thunderbird..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"тестирование и отчеты об ошибках, Dovecot, bibletime, sword, помощь с pure-"
+"ftpd, spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"поддержка http-прокси в программе установки, поддержка ядра 2.6 в sndconfig, "
+"поддержка samba3 в LinNeighborhood, исправления и улучшения в urpmi, "
+"bootsplash и drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr ""
+"lm_sensors для ядра 2.6, тестирование, некоторые дополнительные пакеты."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine и некоторые другие дополнительные пакеты."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Документация"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "написание/редактирование частей файла gi/docs/HACKING"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Переводчики"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Norwegian Bokmal (nb) переводчик и координатор, работа по i18n"
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "\"команда\" mdk sk-i18n из одного человека"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Финский переводчик и координатор"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Датский переводчик и координатор"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Датский переводчик (а также немного Bokmal :-)"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Norwegian Nynorsk (nn) переводчик и координатор"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Эстонский переводчик"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Итальянский переводчик"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Боснийский переводчик"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Тестеры"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "тестирование и отчеты об ошибках, интеграция драйвера eagle-usb"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "тестирование и отчеты об ошибках"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "тестирование, отчеты об ошибках, испытание пакета Nvidia"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "тестирование, отчеты об ошибках"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, тестирование, отчеты об ошибках"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"И многие другие неназванные и неизвестные бета-тестеры и информаторы об "
+"ошибках, которые помогли убедится в том, что все работает правильно."
+
+#: ../control-center:90
+#, c-format
+msgid "OpenMandriva Lx"
+msgstr "OpenMandriva Lx"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "Центр управления %s"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Идет загрузка... Подождите, пожалуйста"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Управление программами"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, c-format
+msgid "Others"
+msgstr "Другие"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Мастеры настройки сервера"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Общий доступ"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "Настройка FTP"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "Настройка сервера FTP"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Настройка Samba"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Настройка файл-сервера и сервера печати для рабочих станций под управлением "
+"систем Linux и не-Linux"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Управление ресурсами Samba"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr ""
+"Управление, создание специального ресурса, создание общедоступного/"
+"пользовательского ресурса"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Настройка веб-сервера"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Настройка веб-сервера"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Настройка сервера установки"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Настройка сервера для установки %s по сети"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Сетевые службы"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "Настройка DHCP"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "Настройка сервера DHCP"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "Настройка DNS"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "Настройка сервера DNS (разрешения сетевых имен)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Настройка прокси"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Настройка прокси-сервера, кэширующего веб-запросы"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Настройка времени"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+"Настройка времени на сервере путем синхронизации с внешним сервером времени"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "Настройка демона OpenSSH"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Аутентификация"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "Настройка NIS и Autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "Настройка служб NIS и Autofs"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "Настройка LDAP"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Настройка службы каталогов LDAP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Групповая работа"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Настройка сервера новостей"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Настройка сервера новостей"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Настройка сервера совместной работы"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Настройка сервера совместной работы"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Настройка почты"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Настройка почтовых служб"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Онлайновое администрирование"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Локальное администрирование"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Настройка локальной машины через web-интерфейс"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr "Похоже, что у вас не установлен webmin. Локальная настройка отключена"
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Удаленное администрирование"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+"Нажмите сюда, если вы хотите настроить удаленную машину через веб-интерфейс"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Оборудование"
+
+#: ../control-center:326
+#, c-format
+msgid "Manage your hardware"
+msgstr "Управляйте своим оборудованием"
+
+#: ../control-center:333
+#, c-format
+msgid "Configure graphics"
+msgstr "Настройка графики"
+
+#: ../control-center:340
+#, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Настройка клавиатуры и мыши"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr "Настройка печати и сканирования"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Сеть и Интернет"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, c-format
+msgid "Manage your network devices"
+msgstr "Управление сетевыми службами"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr "Обеспечение безопасности сети"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Система"
+
+#: ../control-center:403
+#, c-format
+msgid "Manage system services"
+msgstr "Управление системными службами"
+
+#: ../control-center:412
+#, c-format
+msgid "Localization"
+msgstr "Локализация"
+
+#: ../control-center:419
+#, c-format
+msgid "Administration tools"
+msgstr "Инструменты администрирования"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, c-format
+msgid "Network Sharing"
+msgstr "Общие сетевые службы"
+
+#: ../control-center:439
+#, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Настройка ресурсов Windows(R)"
+
+#: ../control-center:446
+#, c-format
+msgid "Configure NFS shares"
+msgstr "Управление ресурсами NFS"
+
+#: ../control-center:453
+#, c-format
+msgid "Configure WebDAV shares"
+msgstr "Настройка ресурсов WebDAV"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, c-format
+msgid "Local disks"
+msgstr "Локальные диски"
+
+#: ../control-center:490
+#, c-format
+msgid "CD-ROM (%s)"
+msgstr "CD-ROM (%s)"
+
+#: ../control-center:491
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Настройка точки монтирования привода CD-ROM \"%s\""
+
+#: ../control-center:493
+#, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM (%s)"
+
+#: ../control-center:494
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Настройка точки монтирования привода DVD-ROM \"%s\""
+
+#: ../control-center:496
+#, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "Пишущий CD/DVD (%s)"
+
+#: ../control-center:497
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Настройка точки монтирования пишущего привода CD/DVD \"%s\""
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "ZIP-дисковод"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Настройка точки монтирования вашего ZIP-дисковода"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Безопасность"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Загрузка"
+
+#: ../control-center:533
+#, c-format
+msgid "Configure boot steps"
+msgstr "Настройка этапов загрузки"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr "Оформление загрузки"
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Дополнительные мастера"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Опции"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Показать _логи"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/_Встроенный режим"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Режим эксперта в _мастерах"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Файл"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_Выход"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Выйти"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Темы"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Это действие перезапустит центр управления.\n"
+"Любые неподтвержденные изменения будут потеряны."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Дополнительные темы"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Справка"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Справка"
+
+#: ../control-center:668
+#, c-format
+msgid "/_Release notes"
+msgstr "/_Замечания по выпуску"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr "/Что _нового?"
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr "/_Ошибки"
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_Отчет об ошибке"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/_О программе..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "Центр управления %s %s [ %s ]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Ошибка"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"Существует ошибка в переводе на ваш язык (%s)\n"
+"\n"
+"Пожалуйста сообщите об этом."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Невозможно запустить неизвестную программу '%s'"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Изменения, сделанные в данном модуле, не будут сохранены."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "невозможно выполнить ветвление: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr ""
+"невозможно сделать ветвление и выполнить \"%s\" так как он не является "
+"исполняемым"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Эта программа была завершена аварийно"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Дополнительные темы"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Получить новые темы"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Дополнительные темы"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Получить дополнительные темы с www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "О программе - Центр управления %s"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Авторы: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(версия на perl)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Оформление: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Александр Кузьменков, Павел Марьянов, Alice Lafox, Александр Казанцев"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "rc@mezon.ru, acid_jack@ukr.net, alice@lafox.net, kazancas@mandriva.ru"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Переводчик: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "Центр управления %s %s (%s)"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Copyright (C) %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Авторы"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "Контрибьюторы OpenMandriva Lx"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Показать"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Мышь"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Пользователи и группы"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Службы"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Файервол"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Загрузчик"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Авто-установка"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Совместное использование подключения к Интернету"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "Эффекты трёхмерного рабочего стола"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Разделы"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Центр управления"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Выберите утилиту, которую вы хотите использовать"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "Настройка эффектов трёхмерного рабочего стола"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr "Выберите метод аутентификации (local, NIS, LDAP, домен Windows, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr ""
+"Настройка автовхода и выбор пользователя для автоматического входа в систему"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+"Включение автовхода и выбор пользователя для автоматического входа в систему"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Резервные копии"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "Настройка резервного копирования системных и пользовательских данных"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr "Резервные снимки системы"
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr "Настройка загрузки"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Настройка процесса загрузки системы"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Настройка графической темы при загрузке системы"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Выбор графической темы при загрузке системы"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Совместное использование Интернет-соединения"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Настройка нового сетевого интерфейса (LAN, ISDN, ADSL...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Доступ в Интернет"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Перенастройка некоторых параметров Интернета"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, c-format
+msgid "Open a console as administrator"
+msgstr "Запуск консоли администратора"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, c-format
+msgid "Manage date and time"
+msgstr "Дата и время"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, c-format
+msgid "Set up display manager"
+msgstr "Оконный менеджер"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr "Выбор оконного менеджера, позволяющего пользователям входить в систему"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Настройка факс-сервера"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr "Настройка персонального файервола"
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr "Настройка персонального файервола для защиты компьютера и сети"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr "Управление шрифтами. Импортирование шрифтов Windows(TM)"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Настройка графического сервера"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, c-format
+msgid "Manage disk partitions"
+msgstr "Управление дисковыми разделами"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Создание, удаление и изменение размера дисковых разделов"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr "Поиск и настройка оборудования"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, c-format
+msgid "Sound Configuration"
+msgstr "Настройка звука"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Имена узлов"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Управление именами узлов"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, c-format
+msgid "Install & Remove Software"
+msgstr "Установка и удаление программ"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr "Установка и удаление программ"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr "Продвинутая настройка сетевых интерфейсов и файервола"
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+"Настройка перехвата отказавших сетевых интерфейсов и репликации файервола"
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Настройка раскладки клавиатуры"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Настройка сервера совместной работы"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr "Настройка локализации системы"
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Выбор языка и страны или региона системы"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Просмотр и поиск в системных журналах"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Управление подключениями"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Перенастройка сетевых интерфейсов"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Управление группой компьютеров"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Управление пакетами ПО, установленными на группе компьютеров"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr "Настройка аутентификации для утилит Mandriva"
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+"Настройка аутентификации необходима для доступа к отдельным программам "
+"настройки Mandriva"
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr "Обновление системы"
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"Поиск доступных обновлений и применение всех исправлений и обновлений к "
+"установленным пакетам"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Стиль меню"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Настройка стиля меню"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr "Импорт документов и настроек Windows(TM)"
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Мониторинг подключений"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Мониторинг сетевых подключений"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Настройка указывающего устройства (мыши, сенсорной панели)"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr "Родительский контроль"
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "Сетевой центр"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, c-format
+msgid "Manage different network profiles"
+msgstr "Управление сетевыми профилями"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Включение и управление сетевыми профилями"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr "Доступ к файлам и каталогам NFS"
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "Настройка точек монтирования NFS"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr "Предоставление общего доступа к файлам и каталогам с помощью NFS"
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "Управление ресурсами NFS"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Статистика пакетов"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Отображение статистики об использовании установленных пакетов программ"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr "Совместный доступ к разделам вашего жесткого диска"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Настройка совместного доступа к разделам вашего жесткого диска"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Настройка принтеров, очередей печати..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Запланированные задачи"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr "Планирование выполнения программ в определенное время"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Прокси"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "Настройка прокси-сервера для просмотра файлов и навигации по вебу"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Удаленное управление (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Удаленное управление другой машиной (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Удалить подключение"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Удаление сетевого интерфейса"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Беспроводное соединение"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr "Доступ к общим файлам и каталогам на системах Windows (SMB)"
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr "Настройка совместного доступа к данным для Windows-компьютеров"
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr ""
+"Предоставление общего доступа к файлам и каталогам для систем Windows (SMB)"
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Управление конфигурацией Samba"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Настройка сканера"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Настройка безопасности, прав доступа и аудита системы"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr ""
+"Настройка уровня безопасности, периодоической проверки безопасности и прав "
+"доступа"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr "Включение и отключение системных сервисов"
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr "Настройка источников установки/обновления ПО"
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr ""
+"Настройка источников для получения пакетов программ при обновлении системы"
+
+#: ../lib/MDV/Control_Center.pm:603
+#, c-format
+msgid "Configure updates frequency"
+msgstr "Настройка частоты проверки обновлений"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr "Доступ к расширенной поддержке"
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr "Настройка политик TOMOYO Linux"
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr "Просмотр и настройка политик безопасности TOMOYO Linux"
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "Настройка ИБП для наблюдения за питанием"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr "Управление пользователями"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Добавление, удаление и изменение настроек пользователей системы"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr "Виртуализация"
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr "Управление виртуальным машинами"
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Настройка VPN-соединений"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr "Доступ к общим файлам и каталогам WebDAV"
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "Настройка точек монтирования WebDAV"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Центр настройки меню"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Системное меню"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Настройка..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Меню пользователя"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Выберите меню, которое вы желаете настроить"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Печать конфигурации"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Нажмите здесь чтобы настроить систему печати"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Готово"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Автовход"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Дата и время"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Новое подключение"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Дискета автоматической установки"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Загрузка"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Запланированные задачи"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Оконный менеджер"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Загрузочная дискета"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Шрифты"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Права доступа"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Уровни и проверки"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "ТВ-тюнеры"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Совместное использование разделов"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Жесткие диски"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Журналы"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Меню"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Точки монтирования"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "Точки монтирования NFS"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Принтеры"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Настройка прокси"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Съемные устройства"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Удалить подключение"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Точки монтирования Samba"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Сканеры"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Системные настройки"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Пользователи и группы"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "Точки монтирования WebDAV"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Графический сервер"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Монитор"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Разрешение экрана"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Настройка компьютера"

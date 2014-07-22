@@ -1,0 +1,2721 @@
+# Kolio Kolev <kolio_kolev@biotronica.net>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf-bg\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2009-04-11 09:24+0200\n"
+"Last-Translator: Rossen Karpuzov <gustav cointech net>\n"
+"Language-Team: Bulgarian <Mandriva User Group - Bulgaria <mandriva-"
+"bg@googlegroups.com>>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Създатели на пакети"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Пер Ойвинд Карлсен"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"масово компилиране и изчистване на пакетите, игри, портване на sparc, "
+"корекция на инструментите на Mandriva"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Жулиам Рос"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "инструкции на cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Оливер Талвин"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr ""
+"въведение във figlet, Distriblint (проверява rpm файловете в дистрибуцията)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Марсел Пол"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, обновен abiword, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Бен Ресер"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"обновяване на nc с debian кръпки, поправени някои perl пакети, стартиращи "
+"скриптове за dnotify, urpmc, hddtemp, wipe и др."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Томас Баклунд"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"\"тежка и обемна\" работа по ядрото (много нови кръпки, преди да бъдат "
+"вкарани в официалното ядро)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Светослав Славчев"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "работа върху ядрото (кръпки за аудио и видео частта му)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Дани Толен"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "кръпки за някои пакети, kfiresaver, xwine. ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Бушан Милне"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (предварителна версия), която работи със Samba 2.2.x, Samba-2.2.x, "
+"GIS софтуер (grass, mapserver), колекция курсорни теми и др."
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Гоец Вашк"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms и gnome-python "
+"допълнения, rox десктоп"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Остин Актон"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"аудио/видео/MIDI приложения, научни приложения, аудио/видео документи, "
+"bluetooth, pyqt и други подобни"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Спенсър Андерсон"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM неща, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Андрей Борзенков"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng и други неща по ядрото"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Оден Ериксон"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr "повечето уеб базирани пакети и много такива, свързани със сигурността"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Сетфан ван дер Ейк"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "проверка на slbd, зависимости на devel пакети"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "Давид Вайсер"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr ""
+"rpmsync скриптове, достъпно просто MIDI възпроизвеждане, подобрен libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Анди Пайн"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "много допълнителни gnome аплети и python модули"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Тибор Питич"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"sk-i18n, участие с няколко пакета, тестване и интеграция на openldap, bind-"
+"sdb-ldap, няколко години използване на cooker и ловене на бъгове, и др."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Паскал Терйан"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "някои неща по ruby, php-pear пакети, различни други неща."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Михаил Рейнсш"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "клонинг на moin wiki, beep-media-player, im-ja и някои други пакети"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Кристоф Гуилоукс"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "доклади за грешки, помощ с пакета на thunderbird,..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Бруук Хъмфри"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"тестване и доклади за грешки, Dovecot, bibletime, sword, помощ за pure-ftpd, "
+"spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Оливер Талвин"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"поддръжка на http прокси при инсталиране, поддръжка на kernel 2.6 в "
+"sndconfig, поддръжка на samba3 в LinNeighborhood, поправки и "
+"усъвършенствания в urpmi, bootsplash и drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Емануел Блиндауер"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors за 2.6 kernel, тестване, някои пакети от contrib."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Матиас Дебъс"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine и други пакети от contrib."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Документация"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "Съни Дубей"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "написал/редактирал части от gi/docs/HACKING"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Преводачи"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Координатор и преводач на норвежки (букмал), работа по i18n"
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "\"един-човек\" mdk sk-i18n екип"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "координатор и преводач на фински "
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Ренау ван Шоувен"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Координатор и преводач на холандски"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Датски преводач (и малко на бокмал)"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Кари Ове Хуфамер"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Координатор и преводач на норвежки (ниноркс)"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Марек Лаан"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Преводач на естонски:"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Андреа Цели"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Преводач на италиански:"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Симеон Рицио"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Даниеле Пигин"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Ведран Любович"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Преводач на боснески:"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Тестери"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Беноин Аудоуард"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "тестване и доклади за грешки, интеграция на драйвер за eagle-usb"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Бернард Груен"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "тестване и доклади за грешки"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Юр Репинк"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Феликс Миата"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Тим Савчук"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Ерик Фемандез"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Рики Нг-Адам"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Пиер Йарилон"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Михаел Броуер"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Фредерик Химп"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Джейсън Комар"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Рафаел Гертц"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "тестване, доклад за грешка, проба на пакет за Nvidia"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "тестване, доклади за грешка"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "фабрис Факорат"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Михай Добреску"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Мери В. Джоунс-Гиампало"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Винсент Мейер"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, тестване, доклади за грешка"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"И много безименни и незнайни бета тестери и изпращачи на доклади за грешки, "
+"които помагат да сме сигурни, че всичко работи както трябва."
+
+#: ../control-center:90
+#, c-format
+msgid "OpenMandriva Lx"
+msgstr "OpenMandriva Lx"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "Контролен център на %s"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Зареждане... Моля почакайте"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Управление на софтуер"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, c-format
+msgid "Others"
+msgstr "Други"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Помощници за конфигуриране на сървърни услуги"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Споделяне"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "Конфигуриране на FTP сървър"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "Настройване на FTP сървър"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Конфигуриране на Samba сървър"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Настройване на файлов сървър и сървър за печат за работни станции с Линукс и "
+"за такива, с различни от Линукс операцинни системи"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Управление на Samba споделени ресурси"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr ""
+"Управление, създаване на специални видове споделени ресурси, създаване на  "
+"споделяне тип public или user "
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Конфигуриране на WEB сървър"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Настройване на WEB сървър"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Конфигуриране на инсталационен сървър"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Настройване на сървър за мрежови инсталации на %s"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Мрежови услуги"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "Конфигуриране на DHCP сървър"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "Настройване на DHCP сървър"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "Конфигуриране на DNS сървър"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "Настройване на DNS сървър (съответствие между мрежово име и IP адрес)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Конфигуриране на прокси сървър"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Конфигуриране на кеширащ WEB прокси сървър"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Конфигуриране на NTP сървър за време "
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+"Указване времето на сървъра да бъде синхронизирано с външен сървър за време."
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "Конфигуриране на OpenSSH услуга (сървър)"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Избор на система за идентификация"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "Конфигуриране на NIS и Autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "Конфигуриране на услуги за NIS и Autofs"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "Конфигуриране на LDAP сървър"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Конфигуриране на услуги за LDAP директориен сървър"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Софтуер за работа в група (groupware)"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Конфигуриране на Интернет новини"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Конфигуриране на сървър за новини"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Конфигуриране на софтуер за работа в група (groupware)"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Конфигуриране на сървър със софтуер за работа в група (groupware)"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Конфигуриране на пощенски услуги"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Конфигуриране на услугите за електронна поща"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Online администриране"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Локално администриране"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Конфигуриране на локален компютър през WEB интерфейс"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr ""
+"Изглежда, че няма инсталиран webmin. Локалнаната конфигурация е неактивна."
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Отдалечено администриране"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr "Kонфигуриране на отдалечен компютър през WEB интерфейс"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Хардуер"
+
+#: ../control-center:326
+#, c-format
+msgid "Manage your hardware"
+msgstr "Конфигуриране на хардуерни устройства"
+
+#: ../control-center:333
+#, c-format
+msgid "Configure graphics"
+msgstr "Конфигуриране на графична система"
+
+#: ../control-center:340
+#, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Конфигуриране на мишка и клавиатура"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr "Конфигуриране на устройства за печат и сканиране"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Мрежа и Интернет"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, c-format
+msgid "Manage your network devices"
+msgstr "Управление на мрежови устройства"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr "Персонализация и защита на мрежа"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Система"
+
+#: ../control-center:403
+#, c-format
+msgid "Manage system services"
+msgstr "Управление на системни услуги"
+
+#: ../control-center:412
+#, c-format
+msgid "Localization"
+msgstr "Регионални настройки (локализация)"
+
+#: ../control-center:419
+#, c-format
+msgid "Administration tools"
+msgstr "Инструменти за администриране"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, c-format
+msgid "Network Sharing"
+msgstr "Споделяне в LAN"
+
+#: ../control-center:439
+#, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Конфигуриране на Windows(R) споделени ресурси"
+
+#: ../control-center:446
+#, c-format
+msgid "Configure NFS shares"
+msgstr "Конфигуриране NFS споделени ресурси"
+
+#: ../control-center:453
+#, c-format
+msgid "Configure WebDAV shares"
+msgstr "Конфигуриране на WebDAV споделени ресурси"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, c-format
+msgid "Local disks"
+msgstr "Локални дискове"
+
+#: ../control-center:490
+#, c-format
+msgid "CD-ROM (%s)"
+msgstr "CD-ROM (%s)"
+
+#: ../control-center:491
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Задаване точка на монтиране на \"%s\" CD-ROM устройство"
+
+#: ../control-center:493
+#, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM (%s)"
+
+#: ../control-center:494
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Задаване точка на монтиране на \"%s\" DVD-ROM устройство"
+
+#: ../control-center:496
+#, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "Записващо CD/DVD (%s)"
+
+#: ../control-center:497
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Задаване точка на монтиране на \"%s\" CD/DVD записващо устройство"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "ZIP устройство"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Задаване точка на монтиране на ZIP устройството"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Сигурност"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Начално зареждане"
+
+#: ../control-center:533
+#, c-format
+msgid "Configure boot steps"
+msgstr "Конфигуриране на стъпките за начално зареждане"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr "Изглед по време на начално зареждане"
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Допълнителни помощници"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Настройки"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Показване на _дневниците"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/_Вграден режим"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Експертен режим при помощниците"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Файл"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_Изход"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Изход"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Теми"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Това действие ще рестартира контролният център.\n"
+"Всяка незаписана промяна ще бъде загубена."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Още теми"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Помощ"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Помощ"
+
+#: ../control-center:668
+#, c-format
+msgid "/_Release notes"
+msgstr "/_Бележки за текущата версия"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr "/_Какво e новото в текущата версия"
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr "/О_ткрити грешки (Errata)"
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_Информирай за бъг"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/_Относно..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Отказ"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "Контролен център на %s %s [на %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Грешка"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"Има бъг в превода на Вашия език (%s)\n"
+"\n"
+"Моля, съобщете за този бъг."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Не е възможно да бъде стартирана програма '%s'"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Направените промени в текущия модул няма да бъдат запазени."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "не може да се създаде дъщерен процес на %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr ""
+"не може да се създаде и изпълни дъщерен процес на \"%s\", тъй като не е "
+"изпълнима програма"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Програмата приключи с грешка."
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Затваряне"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Още теми"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Изтегляне на нови теми"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Допълнителни теми"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Изтеглете допълнителни теми от www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Относно - Контролен център на %s"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Автори:"
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(верися на perl)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Худ. произведения:"
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Хелън Дуросини"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+"Боян Иванов\n"
+"Христо Христов\n"
+"Кольо Колев"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""
+"<boyan17@bulgaria.com>\n"
+"<icobgr@abv.bg>\n"
+"<kolio_kolev@biotronica.net>"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Преводач: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, c-format
+msgid "%s %s (%s) Control Center"
+msgstr " %s %s (%s) Контролен център"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Copyright © %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Автори"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "Хора спомогнали развитието на OpenMandriva Lx"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Дисплей"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Мишка"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Потребители и групи"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Услуги"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Защитна стена"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Програма за начално за зареждане"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Автоматична инсталация"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Споделяне на Интернет връзката"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "3D десктоп ефекти"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Дялове"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Контролен център"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Изберете инструмента, който желаете да използвате"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "Конфигуриране на 3D десктоп ефекти"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+"Избор на метод за идентификация (локален, NIS, LDAP, Windows Domain, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "Настройка на автоматичното влизане"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+"Автоматичното влизане и избор на потребител, който автоматично ще се "
+"използва за влизане в системата"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Архивни копия (Backups)"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "Конфигуриране архивиране на системата и на потребителските данни"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr "Моментни състояния на системата (Snapshots)"
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr "Настройка на начално зареждане"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Укажете как ще се извършва първоначалното зареждане на системата"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Графична тема, използвана по време на начално зареждане"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr ""
+"Избор на графична тема, която ще се показва по време на началното зареждане"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Споделяне на Интернет с други компютри"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Конфигуриране на нова мрежова връзка/интерфейс (LAN, ISDN, ADSL, ...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Интернет достъп"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Промяна на някои допълнителни настройки за Интернет"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, c-format
+msgid "Open a console as administrator"
+msgstr "Отваряне на конзола като администратор"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, c-format
+msgid "Manage date and time"
+msgstr "Настройки на дата и час"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, c-format
+msgid "Set up display manager"
+msgstr "Настройка на Графичен управител"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+"Избор на Графичен управител, с който позволява избир потребител за вход в "
+"системата"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Конфигуриране на факс сървър"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr "Конфигуриране на защитна стена (firewall)"
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr ""
+"Настройване на персонална защитна стена за защита на компютъра и мрежата"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr ""
+"Управление, добавяне и премахване на шрифтове. Прехвърляне на шрифтове от "
+"Windows(TM)"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Конфигуриране на графичен сървър"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, c-format
+msgid "Manage disk partitions"
+msgstr "Управление на дискови дялове"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Създаване, изтриване и промяната размера на дялове на твърди дискове"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr "Преглед и конфигуриране на хардуерни устройства"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, c-format
+msgid "Sound Configuration"
+msgstr "Конфигуриране на звукова карта"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Задаване на хост имена"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Управление на хост имената"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, c-format
+msgid "Install & Remove Software"
+msgstr "Инсталиране и премахване на софтуер"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr "Инсталиране, премахване на  софтуер"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr "Разширени настройки за мрежови устройства и защитна стена"
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr "Настройка на мрежови резервни интерфейси и репликатор на защитна стена"
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Задаване на клавиатурна подредба"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Настройване на групуер сървър"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr "Задаване на регионални настройки"
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Избор на езика и страната или региона на системата"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Преглед и търсене в системните дневници"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Управление на връзките"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Преконфигуриране на мрежов интерфейс"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Управление на компютърна група"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Управление на инсталирания софтуер на група от компютри"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr "Задаване на методи за идентификация на отделните Мандрива инструменти"
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+"Указване на необходимото удостоверяване за достъп до отделни инстументи за "
+"конфигуриране на Мандрива"
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr "Обновяване на инсталирания софтуер"
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"Преглеждане на наличните пакети за обновяване и прилагане на вече "
+"инсталираните такива"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Промяна вида на главното меню"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Настройка на стила за менюта"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr "Прехвърляне на документи и настройки от Windows(TM)"
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Наблюдение на връзките"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Наблюдение на мрежовите връзки"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Конфигуриране на посочващо устройство (мишка, сензорен панел)"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr "Родителски контрол"
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "Център за управление на мрежови връзки"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, c-format
+msgid "Manage different network profiles"
+msgstr "Управление на мрежови профили"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Активиране и управление на мрежови профили"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr "Достъп до NFS споделени устройства и директории"
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "Задаване на NFS точки на монтиране"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr "Споделяне на устройства и директории чрез NFS"
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "Управление на NFS споделени ресурси"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Статистика за пакетите"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Показва статистика за използването на инсталираните пакети"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr "Споделяне на дяловете на твърд диск"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Настройване на споделяне на дялове от твърд диск"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Конфигуриране на принтер(и), задачи за печат, ..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Планирани задачи"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr ""
+"Програми за планиране които се пускат периодично или на определено време"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Глобална настройка за достъп до Интернет през прокси сървър"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "Настройване на проски сървър за файлов и уеб преглед"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Отдалечен достъп (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Отдалечен достъп на друга машина (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Премахване на връзка"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Изтриване на мрежов интерфейс"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Безжична връзка"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr "Достъп до Windows (SMB) споделени устройства и директории"
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr "Настройка на Windows (Samba) споделени устройства и директории"
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr "Споделяне на устройства и директории с Windows (SMB) системи"
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Конфигуриране на Samba"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Конфигуриране на скенер"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Конфигуриране на системна сигурност, права за достъп и отчети"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr ""
+"Задаване ниво на сигурност на системата, периодични одити за сигурност и "
+"права за достъп"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr "Управление на системни услуги"
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr "Настройка на източници за инсталиране и обновяване"
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr "Изберете от къде да бъде свалян софтуерът когато обновявате системата"
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "Конфигуриране на софтуер за работа в група (groupware)"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "Конфигуриране на UPS за наблюдение на захранването"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr "Управление на потребителите в системата"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Добавяне, премахване или редактиране на потребителите на системата"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr "Виртуализация"
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr "Управление на виртуални машини"
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Конфигуриране на ВЧМ (VPN) връзки за достъп към защитена мрежа"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr "Достъп до споделени устройства и директории чрез WebDAV"
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "Задаване на WebDAV точки за монтиране"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Конфигуриране на менюта"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Системно меню"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Конфигуриране..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Потребителско меню"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Изберете менюто, което ще конфигурирате"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Конфигуриране на печатащите у-ва"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Щракнете тук, за да конфигурирате системата за печат"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Готово"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Автоматично влизане"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Дата и час"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Нова връзка"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Дискета за автоматична инсталация"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Начално зареждане"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Планирани задачи"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Графичен управител"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Стартова дискета"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Шрифтове"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Права"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Нива и проверки"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "ТВ карти"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Споделяне на дялове"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Твърди дискове"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Системни дневници"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Менюта"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Точки за монтиране"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "NFS точки за монтиране"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Принтери"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Конфигуриране на достъп до Интернет през прокси сървър"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Преместваеми устройства"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Премахване на връзка"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Samba точки за монтиране"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Скенери"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Системни настройки"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Потребители и групи"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "WebDAV точки за монтиране"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Графичен сървър"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Монитор"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Разделителна способност"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Конфигуриране нa компютър"
+
+#, fuzzy
+#~ msgid "Set up security level and audit"
+#~ msgstr ""
+#~ "Задаване на ниво на сигурност на системата и предиодични одити за "
+#~ "сигурност"
+
+#, fuzzy
+#~ msgid "Tune permissions on system"
+#~ msgstr "Управление на потребителите в системата"
+
+#, fuzzy
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Относно - Контролен център на %s"
+
+#, fuzzy
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Дискета за автоматична инсталация"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Създаване на дискета за зареждане"
+
+#, fuzzy
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ "Качете вашата конфигурация за да бъдете постоянно информирани за нови "
+#~ "актуализации и надграждания"
+
+#, fuzzy
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "Качете вашата конфигурация за да бъдете постоянно информирани за нови "
+#~ "актуализации и надграждания"
+
+#~ msgid "Floppy drive"
+#~ msgstr "Флопидисково устройство"
+
+#, fuzzy
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Указване къде ще бъде монтирано ZIP устройството"
+
+#, fuzzy
+#~ msgid "<control>U"
+#~ msgstr "<control>Q"
+
+#~ msgid "Account:"
+#~ msgstr "Сметка:"
+
+#~ msgid "Password:"
+#~ msgstr "Парола:"
+
+#~ msgid "Hostname:"
+#~ msgstr "Хост:"
+
+#, fuzzy
+#~ msgid "Please wait"
+#~ msgstr "Зареждане... Моля почакайте"
+
+#, fuzzy
+#~ msgid "Manage software"
+#~ msgstr "Управление на NFS споделени ресурси"
+
+#, fuzzy
+#~ msgid "Use NFS shares"
+#~ msgstr "Управление на NFS споделени ресурси"
+
+#, fuzzy
+#~ msgid "Manage Samba configuration"
+#~ msgstr "Конфигуриране на Samba"
+
+#, fuzzy
+#~ msgid "Use WebDAV shares"
+#~ msgstr "Конфигуриране на WebDAV споделяне"
+
+#, fuzzy
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM (%s)"
+
+#, fuzzy
+#~ msgid "Boot theme"
+#~ msgstr "Още теми"
+
+#, fuzzy
+#~ msgid "Console"
+#~ msgstr "DracКонзола"
+
+#, fuzzy
+#~ msgid "Adjust the date and the time"
+#~ msgstr "Настройки на дата и час"
+
+#~ msgid "Fax"
+#~ msgstr "Факс"
+
+#, fuzzy
+#~ msgid "Software Media Manager"
+#~ msgstr "Управление на софтуер"
+
+#, fuzzy
+#~ msgid "Invictus Firewall"
+#~ msgstr "Защитна стена"
+
+#~ msgid "Language"
+#~ msgstr "Избор на език"
+
+#~ msgid "Country / Region"
+#~ msgstr "Страна / регион"
+
+#~ msgid "Updates"
+#~ msgstr "Обновяване"
+
+#, fuzzy
+#~ msgid "Control and configure network connections"
+#~ msgstr "Наблюдение на мрежовите връзки"
+
+#, fuzzy
+#~ msgid "Network Profiles"
+#~ msgstr "Мрежови услуги"
+
+#, fuzzy
+#~ msgid "Local disk sharing"
+#~ msgstr "Локални дискове"
+
+#, fuzzy
+#~ msgid "Level and checks"
+#~ msgstr "Нива и проверки"
+
+#, fuzzy
+#~ msgid "Enable or disable the system services"
+#~ msgstr "Управление на системни услуги"
+
+#, fuzzy
+#~ msgid "Media Manager"
+#~ msgstr "Графичен управител"
+
+#~ msgid "UPS"
+#~ msgstr "UPS"
+
+#, fuzzy
+#~ msgid "VPN configuration"
+#~ msgstr "Конфигуриране на достъп до интернет през прокси сървър"
+
+#, fuzzy
+#~ msgid "Configure Software management"
+#~ msgstr "Управление на софтуер"
+
+#, fuzzy
+#~ msgid "Install"
+#~ msgstr "Автоматична инсталация"
+
+#, fuzzy
+#~ msgid "Look at installable software and install software packages"
+#~ msgstr "Показва статистика за използването на инсталираните пакети"
+
+#~ msgid "Remove"
+#~ msgstr "Премахване"
+
+#, fuzzy
+#~ msgid "Look at installed software and uninstall software packages"
+#~ msgstr "Показва статистика за използването на инсталираните пакети"
+
+#, fuzzy
+#~ msgid "Screen resolution"
+#~ msgstr "Разделителна способност"
+
+#, fuzzy
+#~ msgid "Change the screen resolution"
+#~ msgstr "Разделителна способност"
+
+#, fuzzy
+#~ msgid "TV card"
+#~ msgstr "ТВ карти"
+
+#, fuzzy
+#~ msgid "Set up TV card"
+#~ msgstr "Конфигуриране на скенер"
+
+#, fuzzy
+#~ msgid "/_Expert mode"
+#~ msgstr "/Експертен режим при помощниците"
+
+#, fuzzy
+#~ msgid "Set Samba mount points"
+#~ msgstr "Samba точки за монтиране"
+
+#, fuzzy
+#~ msgid "Samba printing configuration"
+#~ msgstr "Конфигуриране на печатащите у-ва"
+
+#, fuzzy
+#~ msgid "(original C version)"
+#~ msgstr "(верися на perl)"
+
+#~ msgid "(design)"
+#~ msgstr "(дизайн)"
+
+#~ msgid ""
+#~ "Select the application menu layout and change which programs are shown on "
+#~ "the menu"
+#~ msgstr "Избор на изгледа на менюто и задаване кои програми да се показват"
+
+#~ msgid ""
+#~ "We are about to switch from the \"%s\" profile to the \"%s\" profile.\n"
+#~ "\n"
+#~ "Are you sure you want to do the switch?"
+#~ msgstr ""
+#~ "Ще смените профила \"%s\" с \"%s\" .\n"
+#~ "\n"
+#~ "Сигурен ли сте ?"
+
+#, fuzzy
+#~ msgid "/_Profiles"
+#~ msgstr "/_Файл"
+
+#~ msgid "/_New"
+#~ msgstr "/_Нов"
+
+#~ msgid "New profile..."
+#~ msgstr "Нов профил..."
+
+#~ msgid ""
+#~ "Name of the profile to create (the new profile is created as a copy of "
+#~ "the current one):"
+#~ msgstr "Име на новия профил (ще бъде създаден, като копие на текущият):"
+
+#~ msgid "Ok"
+#~ msgstr "Да"
+
+#~ msgid "The \"%s\" profile already exists!"
+#~ msgstr "Профилът \"%s\" вече съществува!"
+
+#~ msgid "Delete profile"
+#~ msgstr "Изтриване на профил"
+
+#~ msgid "Profile to delete:"
+#~ msgstr "Профил за изтриване:"
+
+#~ msgid "You can not delete the current profile"
+#~ msgstr "Не може да изтриете профила, който ползвате в момента"
+
+#~ msgid "-*-helvetica-medium-r-normal-*-20-*-100-100-p-*-iso8859-1,*-r-*"
+#~ msgstr "-*-helvetica-medium-r-normal-*-20-*-100-100-p-*-iso8859-1,*-r-*"
+
+#, fuzzy
+#~ msgid "/Display Logs"
+#~ msgstr "/Показване на _дневниците"
+
+#, fuzzy
+#~ msgid "/File"
+#~ msgstr "/_Файл"
+
+#, fuzzy
+#~ msgid "/File/-"
+#~ msgstr "/_Файл"
+
+#~ msgid "/File/Save _As"
+#~ msgstr "/Файл/Запази _като"
+
+#~ msgid "/File/_Open"
+#~ msgstr "/Файл/_Отвори"
+
+#, fuzzy
+#~ msgid "/File/_Quit"
+#~ msgstr "/_Изход"
+
+#~ msgid "/File/_Save"
+#~ msgstr "/Файл/_Запази"
+
+#, fuzzy
+#~ msgid "/Help/-"
+#~ msgstr "/_Помощ"
+
+#, fuzzy
+#~ msgid "/Help/_About..."
+#~ msgstr "/_Относно..."
+
+#, fuzzy
+#~ msgid "/Options"
+#~ msgstr "/_Настройки"
+
+#, fuzzy
+#~ msgid "/Options/Test"
+#~ msgstr "/_Настройки"
+
+#, fuzzy
+#~ msgid "/Themes"
+#~ msgstr "/_Теми"
+
+#, fuzzy
+#~ msgid "<control>N"
+#~ msgstr "<control>Q"
+
+#, fuzzy
+#~ msgid "<control>O"
+#~ msgstr "<control>Q"
+
+#, fuzzy
+#~ msgid "<control>S"
+#~ msgstr "<control>Q"
+
+#~ msgid "A tool to monitor your logs"
+#~ msgstr "Инструмент за преглеждане на вашите лог файлове"
+
+#~ msgid "Add a DNS client"
+#~ msgstr "Добавяне на DNS клиент"
+
+#~ msgid "Add new users"
+#~ msgstr "Добавяне на потребители"
+
+#~ msgid ""
+#~ "After 15 sec., Failed to launch '%s'\n"
+#~ "See if it's installed"
+#~ msgstr ""
+#~ "След 15 сек.,не успях да стартирам '%s'\n"
+#~ "Проверете дали е инсталиран"
+
+#~ msgid ""
+#~ "After 20 sec., Failed to launch \n"
+#~ "See if it's installed"
+#~ msgstr ""
+#~ "След 20 сек.,не успях да го стартирам \n"
+#~ "Проверете дали е инсталиран"
+
+#, fuzzy
+#~ msgid "Auto Install Floppy"
+#~ msgstr "Дискета за автоматична инсталация"
+
+#, fuzzy
+#~ msgid "Boot Disk"
+#~ msgstr "Начално зареждане"
+
+#, fuzzy
+#~ msgid "Boot Floppy"
+#~ msgstr "Стартова дискета"
+
+#~ msgid "CD/DVD"
+#~ msgstr "CD/DVD"
+
+#~ msgid "Calendar"
+#~ msgstr "Календар"
+
+#~ msgid "Can't find any program\n"
+#~ msgstr "Не мога да намеря програмата\n"
+
+#~ msgid "Choose file"
+#~ msgstr "Изберете файл"
+
+#, fuzzy
+#~ msgid "Choose the display manager"
+#~ msgstr "Задаване на графичен мениджър"
+
+#, fuzzy
+#~ msgid "Configuration Wizards"
+#~ msgstr "Конфигурационен център на менюта"
+
+#, fuzzy
+#~ msgid "Configure PXE"
+#~ msgstr "Конфигуриране на FTP сървър"
+
+#, fuzzy
+#~ msgid "Connection Sharing"
+#~ msgstr "Споделяне на интернет връзката"
+
+#~ msgid "Content of the file"
+#~ msgstr "Съдържание на файла"
+
+#, fuzzy
+#~ msgid "Copyright (C) 1999-2003 OpenMandriva Association"
+#~ msgstr "Copyright © %s OpenMandriva Association"
+
+#~ msgid "DHCP"
+#~ msgstr "DHCP"
+
+#~ msgid "DNS"
+#~ msgstr "DNS"
+
+#~ msgid "DVD"
+#~ msgstr "DVD"
+
+#, fuzzy
+#~ msgid "Date & Time"
+#~ msgstr "Дата и час"
+
+#, fuzzy
+#~ msgid "Disk Partionning"
+#~ msgstr "Споделяне на дялове"
+
+#, fuzzy
+#~ msgid "Display Configuration"
+#~ msgstr "Конфигуриране на достъп до интернет през прокси сървър"
+
+#, fuzzy
+#~ msgid "Display Manager"
+#~ msgstr "Графичен управител"
+
+#~ msgid "DrakAutoInst helps you produce an Auto Install floppy"
+#~ msgstr ""
+#~ "DrakAutoInst Ви помага да създадете дискета за автоматична инсталация"
+
+#~ msgid "DrakBackup helps you configure backups"
+#~ msgstr "DrakBackup ви съдейства при създаването на резервни копия"
+
+#, fuzzy
+#~ msgid "DrakClock"
+#~ msgstr "DracКонзола"
+
+#, fuzzy
+#~ msgid "DrakConf: error"
+#~ msgstr "DracКонзола"
+
+#~ msgid "DrakConnect helps you set up your network and Internet connection"
+#~ msgstr ""
+#~ "DrakConnect Ви помага да настроите локалната и/или Интернет връзката си"
+
+#~ msgid "DrakCronAt helps you run programs or scripts at certain times"
+#~ msgstr ""
+#~ "DrakCronAt ви помага да пуснете програми или скриптове в определено от "
+#~ "вас време."
+
+#~ msgid "DrakFloppy helps you produce your own boot floppy"
+#~ msgstr "DrakFloppy ви помага да създадете собствена зареждаща дискета"
+
+#~ msgid "DrakGw helps you share your Internet connection"
+#~ msgstr "DrakGw Ви помага да споделите Интернет връзката си"
+
+#~ msgid ""
+#~ "DrakPerm helps you fine-tune the system security level and permissions"
+#~ msgstr ""
+#~ "DrakPerm ви помага да направите \"фина настройка\" на нивото за сигурност "
+#~ "и правата за достъп"
+
+#~ msgid "DrakProxy helps you set up proxy servers"
+#~ msgstr "DrakProxy ви помага да настроите вашите прокси сървъри."
+
+#~ msgid "DrakSec helps you set the system security level"
+#~ msgstr "DrakSec ви помага да настроите нивото на сигурност."
+
+#~ msgid "DrakXServices helps you enable or disable services"
+#~ msgstr "DrakXServices ви помага да включвате или изключвате услуги"
+
+#~ msgid "DrakxTV helps you set up your TV card"
+#~ msgstr "DrakxTV ви помага да настроите ТВ тунера си"
+
+#~ msgid ""
+#~ "Error while parsing\n"
+#~ "config file."
+#~ msgstr ""
+#~ "Грешка при анализиране на\n"
+#~ "конфиг файл"
+
+#~ msgid "FTP"
+#~ msgstr "FTP"
+
+#, fuzzy
+#~ msgid "Firewalling"
+#~ msgstr "Защитна стена"
+
+#~ msgid "Floppy"
+#~ msgstr "Флопи"
+
+#~ msgid "Ftp Server"
+#~ msgstr "FTP сървър"
+
+#~ msgid "GMT - DrakClock"
+#~ msgstr "GMT - Дракчасовник"
+
+#~ msgid "HardDrake lists and helps you set up your hardware"
+#~ msgstr ""
+#~ "ХардДрейк ви дава списък с наличния хардуер и ви помага да го настроите"
+
+#, fuzzy
+#~ msgid "Hardware List"
+#~ msgstr "Хардуер"
+
+#, fuzzy
+#~ msgid "Internet & Network"
+#~ msgstr "Интернет достъп"
+
+#, fuzzy
+#~ msgid "Internet Access"
+#~ msgstr "Интернет достъп"
+
+#, fuzzy
+#~ msgid "Internet Connection Sharing"
+#~ msgstr "Споделяне на интернет връзката"
+
+#~ msgid "Is your hardware clock set to GMT?"
+#~ msgstr "Хардуерният ви часовник настроен  ли е по GMT?"
+
+#, fuzzy
+#~ msgid "KeyBoard Configuration"
+#~ msgstr "Конфигуриране на звукова карта"
+
+#~ msgid "KeyboardDrake helps you to set your keyboard layout"
+#~ msgstr "ДрейкКлавиатура ви помага да настроите клавиатурата си"
+
+#~ msgid "LinuxConf"
+#~ msgstr "Линукс конфигурация"
+
+#~ msgid "Machine:"
+#~ msgstr "Машина:"
+
+#~ msgid "Mail/SMS alert"
+#~ msgstr "Поща/SMS известяване"
+
+#, fuzzy
+#~ msgid "Manager Connection"
+#~ msgstr "Управление на връзките"
+
+#, fuzzy
+#~ msgid "%s Control Center %s"
+#~ msgstr "Контролен център на %s"
+
+#, fuzzy
+#~ msgid "%s Control Center %s\n"
+#~ msgstr "Контролен център на %s"
+
+#~ msgid ""
+#~ "%s Control Center is OpenMandriva Lx's main configuration\n"
+#~ "tool. It enables the system administrator to configure the hardware\n"
+#~ "and services used for all users.\n"
+#~ "\n"
+#~ "\n"
+#~ "The tools accessed through the %s Control Center greatly\n"
+#~ "simplify the use of the system, notably by avoiding the use of the\n"
+#~ "evil command line."
+#~ msgstr ""
+#~ "Мандрейклинукс Контролен Център е главния инструмент за настройка на\n"
+#~ "Мандрейклинукс.Той позволява на системния администратор да \n"
+#~ "конфигурира хардуера и услугите за всички потребители.\n"
+#~ "\n"
+#~ "\n"
+#~ "Програмите достъпни от този център значително улесняват\n"
+#~ "конфигурирането на системата и нейното използване,като се\n"
+#~ "избягва досега с трудния команден промпт."
+
+#, fuzzy
+#~ msgid "Monitor Connection"
+#~ msgstr "Наблюдение на връзките"
+
+#~ msgid "MouseDrake helps you set up your mouse"
+#~ msgstr "ДрейкМишка ви помага да настроите мишката си"
+
+#, fuzzy
+#~ msgid "New Connection"
+#~ msgstr "Нова връзка"
+
+#~ msgid "News"
+#~ msgstr "Новини"
+
+#~ msgid "Next"
+#~ msgstr "Следващ"
+
+#~ msgid "OK"
+#~ msgstr "Да"
+
+#~ msgid ""
+#~ "Partition Sharing enables to allow users to share some of their "
+#~ "directories, allowing users to simply click on \"Share\" in Konqueror and "
+#~ "Nautilus"
+#~ msgstr ""
+#~ "Споделянето разрешава на потребителите да сподеял някои техни директории "
+#~ "само с едно щракване на \"Сподели\" в Konqueror или Nautils"
+
+#~ msgid "Postfix"
+#~ msgstr "Постфикс"
+
+#~ msgid "Previous"
+#~ msgstr "Предишен"
+
+#~ msgid "PrinterDrake helps you set up your printer, job queues ...."
+#~ msgstr ""
+#~ "ПринтерДрейк ви помага да настроите принтера си,опашка от задачи и тн."
+
+#~ msgid "Reset"
+#~ msgstr "Отначало"
+
+#~ msgid "RpmDrake helps you remove software packages"
+#~ msgstr "РпмДрейк ви помага да изтриете ненужни софтуерни пакети."
+
+#~ msgid "Samba"
+#~ msgstr "Samba"
+
+#~ msgid "Save"
+#~ msgstr "Запази"
+
+#~ msgid "Save as.."
+#~ msgstr "Запази като..."
+
+#~ msgid "ScannerDrake helps you set up your scanner"
+#~ msgstr "СкенерДрейк ви помага да настроите скенера си."
+
+#, fuzzy
+#~ msgid "Security Level"
+#~ msgstr "Сигурност"
+
+#~ msgid ""
+#~ "Security Warning: I'm not allowed to connect to the internet as root user"
+#~ msgstr ""
+#~ "Предупреждение относно сигурността: Не ми е позволено да се свързвам с "
+#~ "Интернет като root потребител"
+
+#, fuzzy
+#~ msgid "Service Configuration"
+#~ msgstr "Конфигуриране на достъп до интернет през прокси сървър"
+
+#, fuzzy
+#~ msgid "Settings"
+#~ msgstr "Системни настройки"
+
+#~ msgid "Show only for this day"
+#~ msgstr "Покажи само от днес"
+
+#~ msgid "Skip Wizard"
+#~ msgstr "Прескача помощника"
+
+#, fuzzy
+#~ msgid ""
+#~ "Software Media Manager helps you define where software packages are "
+#~ "downloaded from"
+#~ msgstr ""
+#~ "Изберете от къде да бъде свалян софтуерът когато обновявате системата"
+
+#, fuzzy
+#~ msgid "System:"
+#~ msgstr "Система"
+
+#~ msgid "Technology Contributor: "
+#~ msgstr "Хора,помогнали с нещо:"
+
+#~ msgid ""
+#~ "The DHCP wizard will help you configuring the DHCP services of your server"
+#~ msgstr ""
+#~ "DHCP помощникът ще ви помогне да настроите DHCP услугите на сървъра си."
+
+#~ msgid ""
+#~ "The DNS Client wizard will help you in adding a new client in your local "
+#~ "DNS"
+#~ msgstr ""
+#~ "DNS клиент помощникът ще ви помогне да добавите нов DNS клиент към "
+#~ "локалния DNS"
+
+#~ msgid ""
+#~ "The DNS wizard will help you configuring the DNS services of your server."
+#~ msgstr ""
+#~ "DNS помощникът ще ви помогне да настройте DNS услугите на сървъра си."
+
+#~ msgid ""
+#~ "The FTP wizard will help you configuring the FTP Server for your network"
+#~ msgstr ""
+#~ "FTP помощникът ще ви помогне да настроите FTP сървър-а за вашата мрежа."
+
+#~ msgid ""
+#~ "The News wizard will help you configuring the Internet News services for "
+#~ "your network"
+#~ msgstr ""
+#~ "News помощникът ще ви помогне да настроите Интернет News услугите за "
+#~ "мрежата ви"
+
+#~ msgid ""
+#~ "The Postfix wizard will help you configuring the Internet Mail services "
+#~ "for your network"
+#~ msgstr ""
+#~ "Postfix помощникът ще ви помогне да настроите пощенския сървър за мрежата "
+#~ "ви."
+
+#, fuzzy
+#~ msgid ""
+#~ "The Proxy wizard will help you configuring a web caching proxy server"
+#~ msgstr "Конфигуриране на кеширащ WEB прокси сървър"
+
+#~ msgid ""
+#~ "The Web wizard will help you configuring the Web Server for your network"
+#~ msgstr ""
+#~ "Web помощникът ще ви помогне да настроите уеб сървъра за мрежата си."
+
+#~ msgid ""
+#~ "The application cannot be loaded,\n"
+#~ "the file '%s' has not been found.\n"
+#~ "Try to install it."
+#~ msgstr ""
+#~ "Приложението не може да се зареди,\n"
+#~ "файлът '%s' не бе намерен.\n"
+#~ "Опитайте да го инсталирате."
+
+#~ msgid "The place where you can configure your %s Box"
+#~ msgstr "Мястото ,където можете да конфигурирате Мандрейклинукс системата си"
+
+#~ msgid "Time"
+#~ msgstr "Време"
+
+#~ msgid "Time Zone"
+#~ msgstr "Часови пояс"
+
+#~ msgid "Timezone - DrakClock"
+#~ msgstr "Часови пояс - Дракчасовник"
+
+#~ msgid "Warly"
+#~ msgstr "Warly"
+
+#~ msgid "Warning: No browser specified"
+#~ msgstr "Внимание: Не не указан WEB четец"
+
+#~ msgid "Web"
+#~ msgstr "WEB"
+
+#~ msgid "Web Server"
+#~ msgstr "WEB сервер"
+
+#~ msgid "Which is your timezone?"
+#~ msgstr "Въведете времева зона?"
+
+#~ msgid "Zip"
+#~ msgstr "Zip у-во"
+
+#~ msgid ""
+#~ "_banner font:\n"
+#~ "Sans 15"
+#~ msgstr "Sans 15"
+
+#~ msgid "bootsplash, databases, drakwizard, various other stuffs."
+#~ msgstr "зареждащ екран, бази данни,ДракПомощник и други неща"
+
+#~ msgid "but not matching"
+#~ msgstr "но не съвпада"
+
+#~ msgid "cannot open this file for read: %s"
+#~ msgstr "не мога да отворя този файл за четене: %s"
+
+#, fuzzy
+#~ msgid "firewall"
+#~ msgstr "Защитна стена"
+
+#~ msgid "logdrake"
+#~ msgstr "логдрейк"
+
+#~ msgid "matching"
+#~ msgstr "съвпадение"
+
+#~ msgid "messages"
+#~ msgstr "съобщения"
+
+#~ msgid "mono introduction, updated abiword"
+#~ msgstr "въведение в моно,обновяване на abiword"
+
+#~ msgid "multimedia kernel"
+#~ msgstr "милтимедийно ядро"
+
+#~ msgid "please wait, parsing file: %s"
+#~ msgstr "моля изчакайте, правя разбор на файл: %s"
+
+#~ msgid "search"
+#~ msgstr "търси"
+
+#~ msgid "server"
+#~ msgstr "сервер"
+
+#~ msgid "syslog"
+#~ msgstr "системен лог"
+
+#~ msgid "usage: logdrake [--version]\n"
+#~ msgstr "начин на ползване : logdrake [--version]\n"
+
+#, fuzzy
+#~ msgid "user"
+#~ msgstr "Мишка"

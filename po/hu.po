@@ -1,0 +1,2027 @@
+# translation of control-center to Hungarian
+# Copyright (C) 2000,2003, 2004, 2005, 2006, 2007 Free Software Foundation, Inc.
+#
+# Tamas Szanto <tszanto@mol.hu>, 2000.
+# Arpad Biro <biro.arpad gmail>, 2001-2002,2003, 2004, 2005, 2006, 2007.
+# Gergely Lonyai <aleph@mandriva.org>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: control-center-2010.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2010-01-25 17:43+0100\n"
+"Last-Translator: Gergely Lónyai <aleph@mandriva.org>\n"
+"Language-Team: Hungarian <aleph@mandriva.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Csomagkészítők"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"tömeges csomag újraépítés és tisztogatás, játékok, sparc port, Mandriva "
+"eszközök ellenőrzése"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "Cowsay-bevezetés"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "FIGlet-bevezetés, Distriblint (RPM-ellenőrzés a disztribúcióban)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "Xfce4, AbiWord frissítése, Mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"NC frissítése debianos javításokkal, Perl-csomagok javítása, Dnotify-"
+"indítószkript, Urpmc, Hddtemp, Wipe, ..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"kernellel kapcsolatos munka (a hivatalos kernelbe való bekerülés előtti "
+"javítások)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr ""
+"kernellel kapcsolatos munka (hanggal és grafikával kapcsolatos javítások)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "javítások, Kfiresaver, Xwine, PPC-s kernel-benh"
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 2.2.x verziókkal együtt használható Samba 3.0 (előzetes kiadás), Samba-"
+"2.2.x, GIS szoftver (GRASS, MapServer), kurzortéma-gyűjtemény, "
+"kiszolgálóoldali funkciók"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"Xine, Totem, Gstreamer, MPlayer, Vlc, Vcdimager, XMMS és moduljai, Gnome-"
+"python, ROX munkaasztal"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"hang-, videó- és MIDI-alkalmazások, tudományos alkalmazások, hanganyag- és "
+"videókészítési dokumentációk, Bluetooth, PyQt és ahhoz kapcsolódó funkciók"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/GATOS/DRM, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "Supermount-NG és egyéb, kernellel kapcsolatos munka"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr "webbel és biztonsággal kapcsolatos csomagok"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "Slbd disztribúció-ellenőrzés, fejlesztési függőségek"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "Rpmsync szkript, üzembiztosabb MIDI-lejátszás, Libao-módosítások"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "GNOME-kisalkalmazások és Python-modulok"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"szlovák fordítások, csomagok, OpenLDAP-tesztelés és -integrálás, bind-sdb-"
+"ldap, tesztelés, hibakeresés, ..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "Ruby, Php-pear és egyéb csomagok"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "Moin Wiki-klón, Beep Media Player, Im-ja és további csomagok"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "hibabejelentések, Thunderbird-csomag, ..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"tesztelés, hibabejelentés, Dovecot, Bibletime, Sword, Pure-ftpd, "
+"Spamassassin, Maildrop, Clamav"
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"HTTP proxy-támogatás a telepítőben, 2.6-os kernel támogatása az "
+"Sndconfigban, Samba3-támogatás a LinNeighborhoodban, javítások és "
+"fejlesztések az Urpmi-hez, indítási kép, Drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors a 2.6-os kernelhez, tesztelés, contrib-csomagok"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "Sim, Pine, egyéb contrib-csomagok"
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "a gi/docs/HACKING fájl egyes részeinek írása, szerkesztése"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Fordítók"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "norvég bokmal (nb) fordító és koordinátor, lokalizációs munka"
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "az egyszemélyes szlovák mdk fordítócsapat"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "finn fordító és koordinátor"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "holland fordító és koordinátor"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "dán és bokmal fordító"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "norvég nynorsk (nn) fordító és koordinátor"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "észt fordító"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "olasz fordító"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "boszniai fordító"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Tesztelők"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "tesztelés, hibabejelentés, az eagle-usb meghajtóprogram integrálása"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "tesztelés és hibabejelentés"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "tesztelés, hibabejelentés, Nvidia csomag tesztelése"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "tesztelés, hibabejelentés"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, tesztelés, hibabejelentés"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"továbbá számos tesztelő és hibabejelentő, akik segítséget nyújtottak a "
+"fejlesztésben"
+
+#: ../control-center:90
+#, c-format
+msgid "OpenMandriva Lx"
+msgstr "OpenMandriva Lx"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "%s Vezérlőközpont"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Betöltés; kis türelmet..."
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Szoftverkezelés"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, c-format
+msgid "Others"
+msgstr "Egyéb"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Kiszolgálóvarázslók"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Megosztás"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "FTP beállítása"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "FTP kiszolgáló beállítása"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Samba beállítása"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Fájl- és nyomtatókiszolgáló beállítása Linuxot és más rendszereket használó "
+"munkaállomások számára"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Samba megosztás kezelése"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr ""
+"Speciális megosztás létrehozása és kezelése, nyilvános illetve felhasználói "
+"megosztás létrehozása"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Webkiszolgáló beállítása"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Webkiszolgáló beállítása"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Telepítési kiszolgáló beállítása"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Kiszolgáló beállítása a %s hálózati telepítéséhez"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Hálózati szolgáltatások"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "DHCP beállítása"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "DHCP kiszolgáló beállítása"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "DNS beállítása"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "DNS kiszolgáló beállítása (hálózati név feloldásához)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Proxy beállítása"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Webgyorstárazó proxykiszolgáló beállítása"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Idő beállítása"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+"A kiszolgáló rendszeridejének szinkronizálttá tétele egy külső "
+"időkiszolgálóhoz"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "OpenSSH szolgáltatás beállítása"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Felhasználóazonosítás"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "NIS és Autofs beállítása"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "A NIS és Autofs szolgáltatások beállítása"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "LDAP beállítása"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Az LDAP címtárszolgáltatások beállítása"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Csoportmunka alkalmazás"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Hírszolgáltatás beállítása"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Hírcsoport kiszolgáló beállítása"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Csoportmunka szoftver beállítása"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Csoportmunka alkalmazáskiszolgáló beállítása"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Levelezés beállítása"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Internetes levelezési szolgáltatások beállítása"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Hálózati adminisztráció"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Helyi adminisztráció"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "A helyi gép beállítása webes felületen keresztül"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr ""
+"Úgy tűnik, a Webmin nincs telepítve. A helyi beállítás ki lett kapcsolva."
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Távoli adminisztráció"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+"Ha szeretne beállítani egy távoli gépet webes felületen keresztül, akkor "
+"kattintson ide"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Hardver"
+
+#: ../control-center:326
+#, c-format
+msgid "Manage your hardware"
+msgstr "A hardver kezelése"
+
+#: ../control-center:333
+#, c-format
+msgid "Configure graphics"
+msgstr "Grafika beállítása"
+
+#: ../control-center:340
+#, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Egér és billentyűzet beállítása"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr "Nyomtatás és lapolvasás beállítása"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Hálózat és internet"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, c-format
+msgid "Manage your network devices"
+msgstr "Hálózati eszközök kezelése"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr "A hálózat személyre szabása és biztonságosabbá tétele"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Rendszer"
+
+#: ../control-center:403
+#, c-format
+msgid "Manage system services"
+msgstr "Rendszerszolgáltatások kezelése"
+
+#: ../control-center:412
+#, c-format
+msgid "Localization"
+msgstr "Lokalizáció"
+
+#: ../control-center:419
+#, c-format
+msgid "Administration tools"
+msgstr "Adminisztrációs eszközök"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, c-format
+msgid "Network Sharing"
+msgstr "Hálózati fájlmegosztás"
+
+#: ../control-center:439
+#, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Windows(R) megosztások beállítása"
+
+#: ../control-center:446
+#, c-format
+msgid "Configure NFS shares"
+msgstr "NFS megosztások beállítása"
+
+#: ../control-center:453
+#, c-format
+msgid "Configure WebDAV shares"
+msgstr "WebDAV megosztások beállítása"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, c-format
+msgid "Local disks"
+msgstr "Helyi lemezek"
+
+#: ../control-center:490
+#, c-format
+msgid "CD-ROM (%s)"
+msgstr "CD-ROM (%s)"
+
+#: ../control-center:491
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "\"%s\" CD-ROM-meghajtó csatolási helyének beállítása"
+
+#: ../control-center:493
+#, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM (%s)"
+
+#: ../control-center:494
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "\"%s\" DVD-ROM-meghajtó csatolási helyének beállítása"
+
+#: ../control-center:496
+#, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "CD-/DVD-író (%s)"
+
+#: ../control-center:497
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "\"%s\" CD-/DVD-író csatolási helyének beállítása"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "Zip-meghajtó"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Zip-meghajtó csatolási helyének beállítása"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Biztonság"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Rendszerindítás"
+
+#: ../control-center:533
+#, c-format
+msgid "Configure boot steps"
+msgstr "Rendszerindítási lépések beállítása"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr "Rendszerindításkori megjelenés"
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "További varázslók"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Beállítások"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Naplók _megjelenítése"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/Beá_gyazott üzemmód"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Sz_akértői üzemmód a varázslókban"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Fájl"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_Kilépés"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Kilépés"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Témák"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Ez a művelet újraindítja a vezérlőközpontot.\n"
+"Az életbe nem léptetett módosítások elvesznek."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/To_vábbi témák"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Segítség"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Segítség"
+
+#: ../control-center:668
+#, c-format
+msgid "/_Release notes"
+msgstr "/K_iadási megjegyzések"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr "/Újdo_nságok?"
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr "/Hiba_jegyzék"
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_Hibabejelentés"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/_Névjegy..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "%s Vezérlőközpont %s [rendszer: %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Hiba"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"Hiba van a fordításban (nyelv: %s)\n"
+"\n"
+"Kérjük, jelentse be a hibát."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Az ismeretlen \"%s\" program végrehajtása nem lehetséges"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "A jelenlegi modulban végzett módosítások nem kerülnek mentésre."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "nem sikerült létrehozni új példányt: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "nem sikerült végrehajtani: \"%s\" (nem végrehajtható)"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "A program bezárása közben hiba történt"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Figyelmeztetés"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Bezárás"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "További témák"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Új témák beszerzése"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "További témák"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "További témákat a www.damz.net helyen lehet szerezni"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Névjegy - %s Vezérlőközpont"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Szerzők: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(Perl nyelvű verzió)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Grafika: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Hélene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Gergely Lónyai"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "aleph@mandriva.org"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Fordítás: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "%s %s (%s) Vezérlőközpont"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Copyright (C) OpenMandriva Association, %s"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Szerzők"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "OpenMandriva Lx - közreműködők"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Képernyő"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Billentyűzet"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Egér"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Felhasználók és csoportok"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Szolgáltatások"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Tűzfal"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Rendszerindító"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Automatikus telepítés"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Internetkapcsolat megosztása"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "3D asztal"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Partíciók"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Vezérlőközpont"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Válassza ki a használni kívánt eszközt"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "3D asztal beállítása"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+"A felhasználóazonosítási módszer kiválasztása (helyi, NIS, LDAP, Windows-"
+"tartomány, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "Automatikus bejelentkezés beállítása"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+"Automatikus bejelentkezés bekapcsolása és az automatikusan "
+"bejelentkeztetendő felhasználó kiválasztása"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Mentések"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "A rendszer és a felhasználói adatok mentésének beállítása"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr "Pillanatképek"
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr "A rendszerindító beállítása"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "A rendszerindítás módjának beállítása"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "A rendszerindítás grafikus témájának beállítása"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "A rendszerindítás grafikus témájának kiválasztása"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Az internetkapcsolat megosztása más, helyi gépekkel"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Új hálózati kapcsolat beállítása (LAN, ISDN, ADSL, ...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Internet-hozzáférés"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Különböző internetes beállítások módosítása"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, c-format
+msgid "Open a console as administrator"
+msgstr "Új konzol nyitása adminisztrátorként"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, c-format
+msgid "Manage date and time"
+msgstr "Dátum és idő kezelése"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, c-format
+msgid "Set up display manager"
+msgstr "Bejelentkezéskezelő beállítása"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+"A bejelentkezéskezelő (amellyel kijelölhető, hogy melyik felhasználó nevében "
+"történjen a bejelentkezés) kiválasztása"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Faxkiszolgáló beállítása"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr "Személyi tűzfal beállítása"
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr "Személyi tűzfal beállítása a számítógép és a hálózat védelme érdekében"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr ""
+"Betűtípusok kezelése, telepítése és eltávolítása, továbbá windowsos "
+"betűtípusok importálása"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "A grafikus kiszolgáló beállítása"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, c-format
+msgid "Manage disk partitions"
+msgstr "Lemezpartíciók kezelése"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Merevlemez-partíciók létrehozása, törlése és átméretezése"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr "A hardver böngészése és beállítása"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, c-format
+msgid "Sound Configuration"
+msgstr "Hang beállítása"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Gépdefiníciók"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Gépdefiníciók kezelése"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, c-format
+msgid "Install & Remove Software"
+msgstr "Szoftver telepítése & eltávolítása"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr "Szoftver telepítése, eltávolítása"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr "Hálózati felület és tűzfal redundancia beállítása"
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+"Hálózati felületek redundanciájának (failover) és replikációjának beállítása"
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "A billentyűzetkiosztás beállítása"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Csoportmunka-kiszolgáló beállítása"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr "A rendszer lokalizációjának kezelése"
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "A rendszernyelv és az ország illetve terület kiválasztása"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "A rendszernaplók megjelenítése és keresés a rendszernaplókban"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Kapcsolatok kezelése"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Egy hálózati csatoló beállításainak módosítása"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Számítógépcsoport kezelése"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Telepített szoftvercsomagok kezelése több számítógépen"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr "Mandriva eszközök jogosultságai"
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+"Az egyedi Mandriva beállítóeszközök hozzáféréséhez szükséges azonosítás "
+"meghatározása"
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr "A rendszer frissítése"
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"Az elérhető frissítések megjelenítése és a telepített csomagok javításainak "
+"illetve frissítéseinek telepítése"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Menüstílus"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Menüstílus beállítása"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr "Windows(TM)-dokumentumok és -beállítások importálása"
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Kapcsolatok figyelése"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "A hálózati kapcsolatok figyelése"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Mutatóeszköz (egér, érintőpad) beállítása"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr "Szülői felügyelet"
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "Hálózati központ"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, c-format
+msgid "Manage different network profiles"
+msgstr "Különféle hálózati profilok kezelése"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Hálózati profilok aktiválása és kezelése"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr "Hozzáférés az NFS meghajtókhoz és könyvtárakhoz"
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "NFS csatolási pontok beállítása"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr "Meghajtók és könyvtárak megosztása NFS használatával"
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "NFS megosztások kezelése"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Csomagstatisztika"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Statisztika megjelenítése a telepített szoftvercsomagok használatáról"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr "Merevlemezes partíciók megosztása"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Merevlemezes partíciók megosztásának beállítása"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Nyomtatók és nyomtatási sorok beállítása"
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Ütemezett feladatok"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr ""
+"Programok ütemezése bizonyos időpontokban vagy periodikusan való "
+"végrehajtásra"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Proxy"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "Proxykiszolgáló beállítása fájl- és webböngészéshez"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Távirányítás (Linux/UNIX, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Másik gép távirányítása (Linux/UNIX, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Kapcsolat eltávolítása"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Egy hálózati kapcsolat eltávolítása"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Vezeték nélküli kapcsolat"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr "Hozzáférés a Windowsos (Samba) meghajtókhoz és könyvtárakhoz"
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr "Windowsos (Samba) meghajtók és könyvtárak beállítása"
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr "Meghajtók és könyvtárak megosztása egy Windows (SMB) rendszerrel"
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "A Samba beállításának kezelése"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Lapolvasó beállítása"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "A rendszer biztonságának, engedélyeinek és ellenőrzésének beálítása"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr ""
+"A rendszer biztonsági szintjének, a periodikus biztonsági és jogosultság "
+"ellenőrzések beállítása"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr "Rendszerszolgáltatások kezelése, azok be- illetve kikapcsolása"
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr "Csomagforrások beállítása telepítéshez és frissítéshez"
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr "A szoftvercsomagok letöltési forráshelyének beállítása"
+
+#: ../lib/MDV/Control_Center.pm:603
+#, c-format
+msgid "Configure updates frequency"
+msgstr "Rendszerfrissítés gyakorisága"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr "Hozzáférés a bővebb karbantartáshoz"
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr "TOMOYO Linux előírások beállítása"
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr "TOMOYO Linux biztonsági előírások beállítása és átnézése"
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "Szünetmentes áramforrás beállítása áramforrás-figyeléshez"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr "A rendszer felhasználóinak kezelése"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Rendszerfelhasználók felvétele, eltávolítása és módosítása"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr "Virtualizáció"
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr "Virtuális gépek kezelése"
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "VPN kapcsolat beállítása és biztonságos hálózatelérés"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr "Hozzáférés a WebDAV meghajtókhoz és könyvtárakhoz"
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "WebDAV csatolási pontok beállítása"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Menübeállító"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Rendszermenü"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Beállítás..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Felhasználói menü"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Válassza ki, melyik menüt szeretné beállítani"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Nyomtatás beállítása"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "A nyomtatási rendszer beállításához kattintson ide"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Kész"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Automatikus bejelentkezés"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Dátum és idő"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Új kapcsolat"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Automatikus telepítőlemez"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Rendszerindítás"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Programütemezés"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Bejelentkezéskezelő"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Rendszerindító floppy"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Betűtípusok"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Engedélyek"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Szintek és ellenőrzések"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "Tévékártyák"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Partíció megosztása"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Merevlemezek"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Naplók"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Menük"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Csatolási pontok"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "NFS csatolási pontok"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Nyomtatók"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Proxy-beállítás"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Cserélhető eszközök"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Kapcsolat törlése"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Samba csatolási pontok"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Lapolvasók"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Rendszerbeállítások"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Felhasználók és csoportok"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "WebDAV csatolási pontok"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Grafikus kiszolgáló"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Monitor"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Képernyőfelbontás"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "A számítógép beállítása"
+
+#~ msgid "Set up security level and audit"
+#~ msgstr "Biztonsági szint és auditálás beállítása"
+
+#~ msgid "Tune permissions on system"
+#~ msgstr "A rendszer engedélyeinek finombeállítása"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Üdvözöljük a %s Vezérlőközpontban"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Automatikus telepítőlemez készítése"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Rendszerindító floppy készítése"
+
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ "A gép konfigurációjának elküldése frissítési információkhoz való "
+#~ "hozzáférés érdekében"
+
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "A gép konfigurációjának elküldése annak érdekében, hogy információkat "
+#~ "kaphasson a biztonsági és egyéb frissítésekről"
+
+#~ msgid "Floppy drive"
+#~ msgstr "Floppy-meghajtó"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Floppy-meghajtó csatolási helyének beállítása"
+
+#~ msgid "/_Upload the hardware list"
+#~ msgstr "/_Hardverlista feltöltése"
+
+#~ msgid "<control>U"
+#~ msgstr "<control>U"
+
+#~ msgid "Upload the hardware list"
+#~ msgstr "Hardverlista feltöltése"
+
+#~ msgid "Account:"
+#~ msgstr "Azonosító:"
+
+#~ msgid "Password:"
+#~ msgstr "Jelszó:"
+
+#~ msgid "Hostname:"
+#~ msgstr "Gépnév:"
+
+#~ msgid "Please wait"
+#~ msgstr "Kis türelmet..."
+
+#~ msgid "Uploading in progress"
+#~ msgstr "Feltöltés folyamatban"
+
+#~ msgid "Manage software"
+#~ msgstr "Szoftverkezelés"
+
+#~ msgid "Use NFS shares"
+#~ msgstr "NFS-megosztások használata"
+
+#~ msgid "Share your data through NFS"
+#~ msgstr "Adatok megosztása NFS-en keresztül"
+
+#~ msgid "Manage Samba configuration"
+#~ msgstr "Samba-beállítás kezelése"
+
+#~ msgid "Use WebDAV shares"
+#~ msgstr "WebDAV-megosztások használata"

@@ -1,0 +1,35 @@
+#  gtkrc -- gtkrc for MCC themes
+#
+#  Copyright (C) 2000, 2001 Eazel, Inc.
+#
+#  This program is free software; you can redistribute it and/or
+#  modify it under the terms of the GNU General Public License as
+#  published by the Free Software Foundation; either version 2 of the
+#  License, or (at your option) any later version.
+#
+#  This program is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+#  General Public License for more details.
+#
+#  You should have received a copy of the GNU General Public License
+#  along with this program; if not, write to the Free Software
+#  Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+#
+#  $Id: control-center.rc 246590 2008-09-24 23:53:24Z tv $
+#
+#  Authors: Thierry Vignaud <tvignaud@mandrakesoft.com>
+
+
+# Default style for mcc specific widgets (mainly main_window and
+# scrolled windows per mcc category
+
+style "focus"
+{
+  GtkWidget::interior_focus=0
+  GtkWidget::focus-line-width=0
+}
+
+class "GtkTextView"   style "focus"
+widget "*focus*"      style "focus"
+

@@ -1,0 +1,2174 @@
+# drakconf.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# prabu <prabu_anand2000@yahoo.com>, 2002
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf 1.0\n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2004-03-04 22:50+0530\n"
+"Last-Translator: Badri Seshadri <bseshadri@yahoo.co.uk>\n"
+"Language-Team: Tamil <tamilinix@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "பொதியாக்குவோர்"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "பெர் ஆய்விண்ட் கார்ல்சன்"
+
+#: ../contributors.pl:12
+#, fuzzy, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"அதிக அளவில் பொதிகள் மறுவுருவாக்கம் மற்றும் சரிபடுத்துதல், நார்விய பொக்மால் (nb) "
+"மொழிபெயர்ப்பு, i18n பணி ( nb மற்றும் nn), விளையாட்டு மென்பொருட்கள், sparc port"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "கில்லாம் ரூஸ்"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "cowsay அறிமுகம்"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "ஒலிவியே தௌவின்"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "figlet அறிமுகம், Distriblint (பொதிகளில் rpm ஐ சரிபார்ப்பது)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "மார்சல் பொல்"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr ""
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "பென் ரெசெர்"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"nc ஐ டெபியன் ஒட்டுகளைக் கொண்டு மேம்படுத்தியது, சில பெர்ல் பொதிகளை சரி செய்தமை, "
+"dnotify startup script, urpmc, hddtemp, wipe, மற்றும் பல..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "தாமஸ் பேக்லண்ட்"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"\"deep and broad\" கெர்னல் பணி (அதிகாரப்பூர்வ கெர்னலுடன் சேர்க்கப்படும்முன் பல புதிய "
+"பொதிகள் ) "
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "ஸ்வெட்ஸ்லாவ் ஸ்லாவ்ச்சேவ்"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "கெர்னல் பணி (ஒலி-ஒளி தொடர்பான ஒட்டுகள் )"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "டானி தோலென்"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr ""
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "புசான் மில்னெ"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"சாம்பா 2.2.x உடன் இருந்த சாம்பா 3.0 (வெளியீட்டுக்கு முந்தையது), சம்பா-2.2.x, GIS "
+"மென்பொருள் (grass, mapserver), cursor_themeகள் சேகரிப்பு, பலதரப்பட்ட சேவையகம் சார்ந்த "
+"பங்களிப்புகள்"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "கோட்ஸ் வாச்சக்"
+
+#: ../contributors.pl:21
+#, fuzzy, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"பல பல்லூடகப் பொதிகள் (ஜைன்,டொடொம், gstreamer, mplayer, vlc, vcdimager), குனோம்-"
+"பைத்தான், rox desktop"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "ஆஸ்டின் ஆக்டன்"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"ஒலி/ஒளி/MIDI பயன்பாடுகள், அறிவியல் பயன்பாடுகள், ஒலி/ஒளி உருவாக்கம் எப்படி ஆவணங்கள், "
+"புளூடூத், pyqt மற்றும் தொடர்பான"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "ஸ்பென்சர் ஆண்டர்சன்"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM சார்ந்தவை, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "ஆந்த்ரே பொர்ஜென்கோவ்"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng மற்றும் மற்ற கெர்னல் பணி"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "ஓடேன் எரிக்ஸன்"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr "பெரும்பாலான வலை-சார்ந்த பொதிகள் மற்றும் பல காவல்-சார்ந்த பொதிகள்"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "ஸ்டீபன் ஃபோண்டெர் எய்க்"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "sldb distro சோதனை, அதன் சார்புடைய மென்பொருட்களை உருவாக்கியது"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "டேவிட் வால்சர்"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "rpmsync நிரல், பிழையற்ற MIDI playback சாதனம், libaoவை மாற்றியமைத்தமை"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "ஆண்டி பேய்ன்"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "பல க்னோம் ஆப்லெட்கள் மற்றும் பைத்தான் பொதிகள்"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "டிபோர் பிட்டிச்"
+
+#: ../contributors.pl:29
+#, fuzzy, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"mdk sk-i18n குழுவின் தலைவர், பல பொதிகளுக்கு பங்களித்தவர் (மொசில்லா-ஃபயர்பெர்ட், "
+"afbackup, silc-client, psi, amavis-ng, lukemftp, cacti, scponly...), "
+"பலவருடங்களாக cooker பயன்பாடு மற்றும் பிழைகள் கண்டுபிடிப்பு, மற்றும் பல..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "பாஸ்கல் டெர்ஜன்"
+
+#: ../contributors.pl:30
+#, fuzzy, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "சில ரூபி சம்மந்தப்பட்ட பணிகள், வேறுபல பொதிகள், ..."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr ""
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr ""
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr ""
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr ""
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr ""
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+
+#: ../contributors.pl:34
+#, fuzzy, c-format
+msgid "Olivier Blin"
+msgstr "ஒலிவியே தௌவின்"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr ""
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr ""
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr ""
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr ""
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "இடம்"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr ""
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr ""
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "மொழிபெயர்த்தவர்"
+
+#: ../contributors.pl:40
+#, fuzzy, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "நார்விய Bokmål (nb) மொழிபெயர்ப்பாளர் மற்றும் ஒருங்கிணைப்பாளர், i18n வேலை."
+
+#: ../contributors.pl:41
+#, fuzzy, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "mdk sk-i18n குழுவின் தலைவர்"
+
+#: ../contributors.pl:42
+#, fuzzy, c-format
+msgid "Finnish translator and coordinator"
+msgstr "பின்னிஷ் மொழிபெயர்பாளர் மற்றும் ஒருங்கிணைப்பாளர்"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "ரெய்னூட் ஃபோன் ஷூவென்"
+
+#: ../contributors.pl:43
+#, fuzzy, c-format
+msgid "Dutch translator and coordinator"
+msgstr "டச்சு மொழி மொழிபெயர்பாளர் மற்றும் ஒருங்கினைப்பாளர்"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr ""
+
+#: ../contributors.pl:44
+#, fuzzy, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "பின்னிஷ் மொழிபெயர்பாளர் மற்றும் ஒருங்கிணைப்பாளர்"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr ""
+
+#: ../contributors.pl:45
+#, fuzzy, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "நார்விய Bokmål (nb) மொழிபெயர்ப்பாளர் மற்றும் ஒருங்கிணைப்பாளர், i18n வேலை."
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr ""
+
+#: ../contributors.pl:46
+#, fuzzy, c-format
+msgid "Estonian translator"
+msgstr "மொழிபெயர்த்தவர்"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr ""
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, fuzzy, c-format
+msgid "Italian Translator"
+msgstr "மொழிபெயர்த்தவர்"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr ""
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr ""
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr ""
+
+#: ../contributors.pl:50
+#, fuzzy, c-format
+msgid "Bosnian translator"
+msgstr "மொழிபெயர்த்தவர்"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "சோதிப்பவர்"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr ""
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr ""
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr ""
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr ""
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr ""
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr ""
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr ""
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr ""
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr ""
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr ""
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr ""
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr ""
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr ""
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr ""
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr ""
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr ""
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr ""
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr ""
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr ""
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr ""
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr ""
+
+#: ../contributors.pl:71
+#, fuzzy, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"மற்றும் இது எல்லாம் சரியாக வேலை செய்வதை உறுதிபடுத்த உதவிய பல பெயர்குறிப்படப்படாத "
+"மற்றும் தெரியாத பீட்டா சோதனையாளர்கள் மற்றும் பிழை கண்டுபிடித்தவர்கள்."
+
+#: ../control-center:90
+#, fuzzy, c-format
+msgid "OpenMandriva Lx"
+msgstr "மாண்ட்ேரக்இணைய"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "மாண்ட்ரிவ கட்டுப்பாடு மையம்"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "ஏற்றப்படுகிறது....தயவுசெய்து காத்திருக்கவும்..."
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "மென்பொருள் மேலான்மை"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, fuzzy, c-format
+msgid "Others"
+msgstr "சோதிப்பவர்"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "சேவையக மாயாவிகள்"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, fuzzy, c-format
+msgid "Sharing"
+msgstr "கோப்பு பகிர்தல்"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "கோப்புப் பரிமாற்றத்தினை வடிவமை"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr ""
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "சாம்பா சேவையை வடிவமை"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+
+#: ../control-center:192
+#, fuzzy, c-format
+msgid "Manage Samba share"
+msgstr "சம்பா சேவைகளை செயல்படுத்து"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr ""
+
+#: ../control-center:195
+#, fuzzy, c-format
+msgid "Configure web server"
+msgstr "வலையை வடிவமை"
+
+#: ../control-center:196
+#, fuzzy, c-format
+msgid "Set up a web server"
+msgstr "வலையை வடிவமை"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "நிறுவல் சேவையகத்தை வடிவமை"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, fuzzy, c-format
+msgid "Network Services"
+msgstr "வலை முகப்புக்கள்"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "DHCP ஐ வடிவமை"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr ""
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "DNS சேவையை வடிவமை"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr ""
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "பதிலாள்ஐ வடிவமை"
+
+#: ../control-center:222
+#, fuzzy, c-format
+msgid "Configure a web caching proxy server"
+msgstr "வலையை வடிவமை"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "நேரத்தை வடிவமை"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+
+#: ../control-center:227 ../control-center:228
+#, fuzzy, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "வடிவமைப்பு மாயாவி"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "நல்குாிமை"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr " NIS மற்றும் Autofs வடிவமை"
+
+#: ../control-center:247
+#, fuzzy, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr " NIS மற்றும் Autofs வடிவமை"
+
+#: ../control-center:249
+#, fuzzy, c-format
+msgid "Configure LDAP"
+msgstr "DHCP ஐ வடிவமை"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, fuzzy, c-format
+msgid "Groupware"
+msgstr "கிரப்"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "செய்திகளை வடிவமை"
+
+#: ../control-center:268
+#, fuzzy, c-format
+msgid "Configure a newsgroup server"
+msgstr "வலையை வடிவமை"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "குரூப்வேரை வடிவமை"
+
+#: ../control-center:271
+#, fuzzy, c-format
+msgid "Configure a groupware server"
+msgstr "குரூப்வேரை வடிவமை"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "மடலை வடிவமை"
+
+#: ../control-center:274
+#, fuzzy, c-format
+msgid "Configure the Internet Mail services"
+msgstr "நிறுவல் சேவையகத்தை வடிவமை"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "இணைநிலை நிர்வாகம்"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "உள்ளமை நிர்வாகம்"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr ""
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr ""
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "தொலை மேலாண்மை"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "வன்பொருள்"
+
+#: ../control-center:326
+#, fuzzy, c-format
+msgid "Manage your hardware"
+msgstr "சம்பா சேவைகளை செயல்படுத்து"
+
+#: ../control-center:333
+#, fuzzy, c-format
+msgid "Configure graphics"
+msgstr "மடலை வடிவமை"
+
+#: ../control-center:340
+#, fuzzy, c-format
+msgid "Configure mouse and keyboard"
+msgstr "மடலை வடிவமை"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "வலையமைப்பும் இணையமும்"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, fuzzy, c-format
+msgid "Manage your network devices"
+msgstr "வலை முகப்புக்கள்"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "கணினி அமைப்பு"
+
+#: ../control-center:403
+#, fuzzy, c-format
+msgid "Manage system services"
+msgstr "சம்பா சேவைகளை செயல்படுத்து"
+
+#: ../control-center:412
+#, fuzzy, c-format
+msgid "Localization"
+msgstr "உள்ளமை நிர்வாகம்"
+
+#: ../control-center:419
+#, fuzzy, c-format
+msgid "Administration tools"
+msgstr "இணைநிலை நிர்வாகம்"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, fuzzy, c-format
+msgid "Network Sharing"
+msgstr "வலை முகப்புக்கள்"
+
+#: ../control-center:439
+#, fuzzy, c-format
+msgid "Configure Windows(R) shares"
+msgstr "குரூப்வேரை வடிவமை"
+
+#: ../control-center:446
+#, fuzzy, c-format
+msgid "Configure NFS shares"
+msgstr "DNS சேவையை வடிவமை"
+
+#: ../control-center:453
+#, fuzzy, c-format
+msgid "Configure WebDAV shares"
+msgstr "வலையை வடிவமை"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, fuzzy, c-format
+msgid "Local disks"
+msgstr "உள்ளமை வட்டு பங்கீடு"
+
+#: ../control-center:490
+#, fuzzy, c-format
+msgid "CD-ROM (%s)"
+msgstr "டிவிடி இயக்கி"
+
+#: ../control-center:491
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "உங்கள் சிடி இயக்கி ஏற்றப்படும் இடத்ைத அைமக்கவும்"
+
+#: ../control-center:493
+#, fuzzy, c-format
+msgid "DVD-ROM (%s)"
+msgstr "டிவிடி இயக்கி"
+
+#: ../control-center:494
+#, fuzzy, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "உங்கள் டிவிடி இயக்கி ஏற்றப்படும் இடத்ைத அைமக்கவும்"
+
+#: ../control-center:496
+#, fuzzy, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "சிடி எரிப்பான்"
+
+#: ../control-center:497
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "உங்கள் சிடி/டிவிடி எரிப்பான் ஏற்றப்படும் இடத்ைத அைமக்கவும்"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "ஜிப் இயக்கி"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "உங்கள் ஜிப் இயக்கி ஏற்றப்படும் இடத்ைத அைமக்கவும்"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "பாதுகாப்பு"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "துவங்கல்"
+
+#: ../control-center:533
+#, fuzzy, c-format
+msgid "Configure boot steps"
+msgstr "நேரத்தை வடிவமை"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr ""
+
+#: ../control-center:559
+#, fuzzy, c-format
+msgid "Additional wizards"
+msgstr "மேலும் சில உருகருக்கள்"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_விருப்பத்தேர்வு"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/பதிவுகளைக் காட்டு"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/உட்பொதிந்த முறைமை"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/மாயாவிகளில் வித்தகர் முறைமை"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_கோப்பு"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_வெளிச்செல்"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "வெளிச்செல்"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_உருகருக்கள்"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"இச்செயல் கட்டுப்பாடு மையத்தை மறுதொடக்கம் .\n"
+"நீங்கள் செய்த மாற்றங்கள் அனைத்தும் இழந்து விடுவீர்கள்"
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_மேலும் சில உருகருக்கள்"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_உதவி"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "உதவி"
+
+#: ../control-center:668
+#, fuzzy, c-format
+msgid "/_Release notes"
+msgstr "/_அழி"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr ""
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr ""
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_பிழைகளை அறிவிக்க"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/_பற்றி"
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "தவிர்"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "மாண்ட்ரிவ கட்டுப்பாடு மையம் %s [on %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "பிழை"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr ""
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "நடப்புக் கூறில் நீங்கள் செய்த மாற்றங்கள் சேமிக்கப்பட மாட்டாது"
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "%s -ஐ துவக்க முடியவில்ைல"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "\"%s\" ஐ பிளவு செய்து செயல்படுத்தமுடியாது, காரணம் இது executable கோப்புஅல்ல"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "இந்த நிரல் எதிர்பாராவிதமாக ெவளிேயறி விட்டது"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "எச்சரிக்கை"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "மூடு"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "மேலும் உருகருக்கள்"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "புதிய உருகருக்கள் பெறப்படுகின்றன"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "மேலும் சில உருகருக்கள்"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "மேலும் சில உருகருக்கள் பெற www.damz.net செல்லுங்கள்"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "மாண்ட்ரிவ கட்டுப்பாடு மையம் - பற்றி"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "ஆசிரியர்கள்: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "பெர்ல் வெளியீடு"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "கலை: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "ஹெலன் டுரோசினி"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr ""
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "பிரபு"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "prabu_anand2000@yahoo.com"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "மொழிபெயர்த்தவர்"
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, fuzzy, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "மாண்ட்ரிவ கட்டுப்பாடு மையம்"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "உரிமை (C) %s மாண்டரேக்சாப்ட் நிறுவனம்"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "ஆசிரியர்கள்"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "மாண்ரேக் லினக்ஸ் பங்களிப்பாளர்கள்"
+
+#: ../drakconsole:27
+#, fuzzy, c-format
+msgid "DrakConsole"
+msgstr "முனையம்"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "காட்டி"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "விசைப்பலகை"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "எலி"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "பயனர்களும் குழுக்களும்"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "துவக்கச்சேவைகள்"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "நெருப்புச்சுவர்"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "தொடக்க ஏற்றி"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "தானியங்கு நிறுவல்"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "இணையத் தொடர்பு பங்கீடு"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr ""
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "பிரிவுகள்"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "மாண்ட்ரிவ கட்டுப்பாடு மையம்"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "வடிவமைக்க வேண்டிய பட்டியைத் தேர்வுசெய்"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, fuzzy, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "வலையை வடிவமை"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "காப்பெடுத்தல்"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:118
+#, fuzzy, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "வரைவியல் சேவையகம்"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, fuzzy, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "வலையமைப்பு அட்ைடயை தேர்வுச் செய்"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "இணைய அனுகல்"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, fuzzy, c-format
+msgid "Open a console as administrator"
+msgstr "கன்ேசாைல துவக்கு"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, fuzzy, c-format
+msgid "Manage date and time"
+msgstr "தேதி மற்றும் நேரம்"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, fuzzy, c-format
+msgid "Set up display manager"
+msgstr "காட்டி மேலாளர்"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "தொலைநகல் சேவையகத்தை "
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, fuzzy, c-format
+msgid "Set up the graphical server"
+msgstr "வரைவியல் சேவையகம்"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, fuzzy, c-format
+msgid "Manage disk partitions"
+msgstr "இணைப்புகளை மேலான்மைசெய்"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, fuzzy, c-format
+msgid "Browse and configure hardware"
+msgstr "சம்பா சேவைகளை செயல்படுத்து"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, fuzzy, c-format
+msgid "Sound Configuration"
+msgstr "புரோக் வடிவமைப்பு"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:261
+#, fuzzy, c-format
+msgid "Manage hosts definitions"
+msgstr "இணைப்புகளை மேலான்மைசெய்"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, fuzzy, c-format
+msgid "Install & Remove Software"
+msgstr "ெமன்ெபாருளை நிறுவுங்கள்"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, fuzzy, c-format
+msgid "Set up a groupware server"
+msgstr "வலையை வடிவமை"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "இணைப்புகளை மேலான்மைசெய்"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "கணினிக் குழுவை மேலான்மைசெய்"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "பட்டியின் பாந்தம்"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, fuzzy, c-format
+msgid "Menu Style Configuration"
+msgstr "பட்டி வடிவமைப்பு மையம்"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "திரை இணைப்புகள்"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, fuzzy, c-format
+msgid "Monitor the network connections"
+msgstr "திரை இணைப்புகள்"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:418
+#, fuzzy, c-format
+msgid "Network Center"
+msgstr "வலையமைப்பும் இணையமும்"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, fuzzy, c-format
+msgid "Manage different network profiles"
+msgstr "வலை முகப்புக்கள்"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:439
+#, fuzzy, c-format
+msgid "Set NFS mount points"
+msgstr "NFS ஏற்றப்புள்ளிகள்"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:459
+#, fuzzy, c-format
+msgid "Package Stats"
+msgstr "பொதியாக்குவோர்"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "திட்டமிட்டுள்ள பணிகள்"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "பினாமி"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "ஒரு தொடர்பை நீக்கவும்"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, fuzzy, c-format
+msgid "Wireless connection"
+msgstr "கேபிள் இணைப்பு"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:552
+#, fuzzy, c-format
+msgid "Manage configuration of Samba"
+msgstr "அச்சு வடிவமைப்பு"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, fuzzy, c-format
+msgid "Set up scanner"
+msgstr "வருடிகள்"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "குரூப்வேரை வடிவமை"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, fuzzy, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "திரை இணைப்புகள்"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:679
+#, fuzzy, c-format
+msgid "Set WebDAV mount points"
+msgstr "WebDAV ஏற்றப்புள்ளிகள்"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "பட்டி வடிவமைப்பு மையம்"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "அமைப்புப் பட்டி"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "வடிவமை..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "பயனர் பட்டி"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"நீங்கள் எந்த பட்டியை வடிவமைக்க விரும்புகிறிர்கள்"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "அச்சு வடிவமைப்பு"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "உங்கள் அச்சுக்கருவியை வடிவமை"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "முடிந்தது"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "தன்னியக்க உள்நுழைவு"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "தேதி மற்றும் நேரம்"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "புதிய இணைப்பு"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "தானியயங்கு நிறுவல் நெகிழ்தட்டு"
+
+#: ../data/drakboot.desktop.in.h:1
+#, fuzzy
+msgid "Boot Loading"
+msgstr "தொடக்க ஏற்றி"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "திட்டமிட்டுள்ள பணிகள்"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "காட்டி மேலாளர்"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "தொடக்க நெகிழ்தட்டு"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "எழுத்துரு"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "அனுமதிகள்"
+
+#: ../data/draksec.desktop.in.h:1
+#, fuzzy
+msgid "Levels and Checks"
+msgstr "நிலை மற்றும் சோதனைகள்"
+
+#: ../data/drakxtv.desktop.in.h:1
+#, fuzzy
+msgid "TV Cards"
+msgstr "டிவி அட்டைகள் "
+
+#: ../data/fileshare.desktop.in.h:1
+#, fuzzy
+msgid "Partition Sharing"
+msgstr "வகிர் ெசய்தல்"
+
+#: ../data/harddrive.desktop.in.h:1
+#, fuzzy
+msgid "Hard Drives"
+msgstr "டிரேக்வன்ெபாருள்"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "பதிவுகள்"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "பட்டிகள்"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "ஏற்றப்புள்ளிகள்"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "NFS ஏற்றப்புள்ளிகள்"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "அச்சுப்பொறிகள்"
+
+#: ../data/proxy.desktop.in.h:1
+#, fuzzy
+msgid "Proxy Configuration"
+msgstr "புரோக் வடிவமைப்பு"
+
+#: ../data/removable.desktop.in.h:1
+#, fuzzy
+msgid "Removable devices"
+msgstr "நுழைவிடத்ைத நீக்கு"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "இணைப்பை நீக்கு"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "சம்பா ஏற்றப்புள்ளிகள்"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "வருடிகள்"
+
+#: ../data/SystemConfig.directory.in.h:1
+#, fuzzy
+msgid "System Settings"
+msgstr "வகிர்தலை தனிப்பயனாக்கு"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "பயனீட்டாளர்கள் மற்றும் குழுக்கள்"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "WebDAV ஏற்றப்புள்ளிகள்"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "வரைவியல் சேவையகம்"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "திரையகம்"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "திரைப் பரிமாணங்கள்"
+
+#: ../drakconf.desktop.in.h:1
+#, fuzzy
+msgid "Configure Your Computer"
+msgstr "குரூப்வேரை வடிவமை"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "மாண்ட்ரிவ கட்டுப்பாடு மையத்திற்கு வருக"
+
+#, fuzzy
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "தானியயங்கு நிறுவல் நெகிழ்தட்டு"
+
+#, fuzzy
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ " வேலைச் செய்ய வேண்டும்.இது உங்கள் கணிணிக்குத் தேவையான \n"
+#~ "புதிய நிரல்களை அனுப்ப வடிவமைப்பு விவரங்களை ஓர் தரவுத்தளத்திற்கு\n"
+#~ "அனுப்பி வைக்கும்.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ " வேலைச் செய்ய வேண்டும்.இது உங்கள் கணிணிக்குத் தேவையான \n"
+#~ "புதிய நிரல்களை அனுப்ப வடிவமைப்பு விவரங்களை ஓர் தரவுத்தளத்திற்கு\n"
+#~ "அனுப்பி வைக்கும்.\n"
+
+#~ msgid "Floppy drive"
+#~ msgstr "நெகிழ்வட்டு இயக்கி"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "உங்கள் நெகிழ்வட்டு ஏற்றப்படும் இடத்ைத அைமக்கவும்"
+
+#, fuzzy
+#~ msgid "<control>U"
+#~ msgstr "<control>Q"
+
+#~ msgid "Account:"
+#~ msgstr "கணக்கு"
+
+#~ msgid "Password:"
+#~ msgstr "கடவுச்சொல்:"
+
+#~ msgid "Hostname:"
+#~ msgstr "புரவலர் பெயர்:"
+
+#~ msgid "Please wait"
+#~ msgstr "தயவுசெய்து காத்திருக்கவும்.."
+
+#, fuzzy
+#~ msgid "Manage software"
+#~ msgstr "சம்பா சேவைகளை செயல்படுத்து"
+
+#, fuzzy
+#~ msgid "Use NFS shares"
+#~ msgstr "DNS சேவையை வடிவமை"
+
+#, fuzzy
+#~ msgid "Manage Samba configuration"
+#~ msgstr "அறிவிப்பாளரின் வடிவமைப்பு "
+
+#, fuzzy
+#~ msgid "Use WebDAV shares"
+#~ msgstr "வலையை வடிவமை"
+
+#~ msgid "CD-ROM"
+#~ msgstr "சிடி இயக்கி"
+
+#~ msgid "Boot theme"
+#~ msgstr "உள்நுழை உருகரு"
+
+#~ msgid "Console"
+#~ msgstr "முனையம்"
+
+#~ msgid "Fax"
+#~ msgstr "ஃபேக்ஸ்"
+
+#, fuzzy
+#~ msgid "Software Media Manager"
+#~ msgstr " ெமன்ெபாருள் மூலங்கள் மேலாளர்"
+
+#, fuzzy
+#~ msgid "Invictus Firewall"
+#~ msgstr "நெருப்புச்சுவர்"
+
+#~ msgid "Language"
+#~ msgstr "உங்கள் மொழியைத் தேர்வுச் செய்க"
+
+#, fuzzy
+#~ msgid "Country / Region"
+#~ msgstr "நாடு"
+
+#~ msgid "Updates"
+#~ msgstr "புதுப்பித்தல்கள்"
+
+#, fuzzy
+#~ msgid "Control and configure network connections"
+#~ msgstr "திரை இணைப்புகள்"
+
+#, fuzzy
+#~ msgid "Network Profiles"
+#~ msgstr "வலை முகப்புக்கள்"
+
+#~ msgid "Local disk sharing"
+#~ msgstr "உள்ளமை வட்டு பங்கீடு"
+
+#~ msgid "Level and checks"
+#~ msgstr "நிலை மற்றும் சோதனைகள்"
+
+#~ msgid "Media Manager"
+#~ msgstr "ஊடகசாதன மேலாளர்"
+
+#~ msgid "UPS"
+#~ msgstr "UPS"
+
+#, fuzzy
+#~ msgid "VPN configuration"
+#~ msgstr "CUPS  வடிவமைப்பு"
+
+#, fuzzy
+#~ msgid "Configure Software management"
+#~ msgstr "மென்பொருள் மேலான்மை"
+
+#~ msgid "Install"
+#~ msgstr "நிறுவு"
+
+#~ msgid "Remove"
+#~ msgstr "நீக்கு"
+
+#~ msgid "Screen resolution"
+#~ msgstr "திரைப் பரிமாணங்கள்"
+
+#, fuzzy
+#~ msgid "Change the screen resolution"
+#~ msgstr "திரைப் பரிமாணங்கள்"
+
+#~ msgid "TV card"
+#~ msgstr "டிவி அட்டைகள் "
+
+#, fuzzy
+#~ msgid "Set up TV card"
+#~ msgstr "டிவி அட்டைகள் "
+
+#~ msgid "/_Expert mode"
+#~ msgstr "/_அறிஞர் முறைமை"
+
+#, fuzzy
+#~ msgid "Set Samba mount points"
+#~ msgstr "சம்பா ஏற்றப்புள்ளிகள்"
+
+#, fuzzy
+#~ msgid "Samba printing configuration"
+#~ msgstr "அச்சு வடிவமைப்பு"
+
+#~ msgid "(original C version)"
+#~ msgstr "(மூல c வெளியீடு)"
+
+#~ msgid "(design)"
+#~ msgstr "(வடிவமைப்பு)"
+
+#~ msgid ""
+#~ "We are about to switch from the \"%s\" profile to the \"%s\" profile.\n"
+#~ "\n"
+#~ "Are you sure you want to do the switch?"
+#~ msgstr ""
+#~ "நாம் தற்போது \"%s\" அடையாளக்குறிப்பிலிருந்து \"%s\" அடையாளக்குறிப்புக்கு "
+#~ "மாறப்போகிறோம்.\n"
+#~ "\n"
+#~ "கண்டிப்பாக அடையாளக்குறிப்பை மாற்ற விரும்புகிறீரா?"
+
+#~ msgid "/_Profiles"
+#~ msgstr "/_அடையாளக்குறிப்புகள்"
+
+#~ msgid "/_New"
+#~ msgstr "/_செய்தி"
+
+#~ msgid "New profile..."
+#~ msgstr "புதிய அடையாளக்குறிப்பு..."
+
+#~ msgid ""
+#~ "Name of the profile to create (the new profile is created as a copy of "
+#~ "the current one):"
+#~ msgstr ""
+#~ "உருவாக்கவேண்டிய அடையாளக்குறிப்பின் பெயரை இடுக(உருவாக்கப்படும் அடையாளக்குறிப்பு "
+#~ "நடப்பு அடையாளக்குறிப்பின் நகலாக உருவாக்கப்படும்)"
+
+#~ msgid "Ok"
+#~ msgstr "சரி"
+
+#~ msgid "The \"%s\" profile already exists!"
+#~ msgstr "இவ்வடையாளக்குறிப்பு \"%s\" ஏற்கனவே உள்ளது!"
+
+#~ msgid "Delete profile"
+#~ msgstr "அடையாளக்குறிப்பை அழி"
+
+#~ msgid "Profile to delete:"
+#~ msgstr "அழிக்கப்படவேண்டிய அடையாளக்குறிப்பு"
+
+#~ msgid "You can not delete the current profile"
+#~ msgstr "நடப்பு அடையாளக்குறிப்பை அழிக்கமுடியாது"
+
+#~ msgid "Auto Install Floppy"
+#~ msgstr "தானியயங்கு நிறுவல் நெகிழ்தட்டு"
+
+#~ msgid "Boot Floppy"
+#~ msgstr "துவங்கல் வட்டு"
+
+#~ msgid "CD/DVD"
+#~ msgstr "சிடி/டிவிடி"
+
+#~ msgid "Configure PXE"
+#~ msgstr "PXE ஐ வடிவமை"
+
+#~ msgid "DVD"
+#~ msgstr "டிவிடி இயக்கி"
+
+#~ msgid "Date & Time"
+#~ msgstr "§¾¾¢ & §¿Ãõ"
+
+#~ msgid "Display Manager"
+#~ msgstr "காட்டி மேலாளர்"
+
+#~ msgid "Floppy"
+#~ msgstr "நெகிழ் வட்டு"
+
+#~ msgid "Internet Access"
+#~ msgstr "இணைய அனுகல்"
+
+#~ msgid "Internet Connection Sharing"
+#~ msgstr "இணையத் தொடர்பு பங்கீடு"
+
+#~ msgid "Manager Connection"
+#~ msgstr "இணைப்புகளை மேலான்மைசெய்"
+
+#~ msgid "%s Control Center %s\n"
+#~ msgstr "மாண்ட்ரிவ கட்டுப்பாடு மையம் %s\n"
+
+#~ msgid "Monitor Connection"
+#~ msgstr "திரை இணைப்புகள்"
+
+#~ msgid "New Connection"
+#~ msgstr "புதிய இணைப்பு"
+
+#~ msgid "Previous"
+#~ msgstr "முன்னது"
+
+#~ msgid "Zip"
+#~ msgstr "ஜிப்"
+
+#~ msgid "mono introduction, updated abiword"
+#~ msgstr "ஒற்றை அறிமுகம், மேம்படுத்தப்பட்ட அபிவேர்ட்"
+
+#~ msgid "multimedia kernel"
+#~ msgstr "பல்லூடக கெர்னல்"

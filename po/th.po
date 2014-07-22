@@ -1,0 +1,2285 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2000 Free Software Foundation, Inc.
+# Wachara Chinsettawong <wachara@yahoo.com>, 2000, 2001.
+# Thaweesak <taekratt@yahoo.com>, 2002
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf 0.90\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2003-03-01 08:12+0900\n"
+"Last-Translator: Pramote Khuwijitjaru <kmote@hotmail.com>\n"
+"Language-Team: Thai <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr ""
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr ""
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr ""
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr ""
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr ""
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr ""
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr ""
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr ""
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr ""
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr ""
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr ""
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr ""
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr ""
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr ""
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr ""
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr ""
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+
+#: ../contributors.pl:23
+#, fuzzy, c-format
+msgid "Spencer Anderson"
+msgstr "รุ่นของเคอเนล:"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr ""
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr ""
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr ""
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr ""
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr ""
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr ""
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr ""
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr ""
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr ""
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr ""
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr ""
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr ""
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr ""
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr ""
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr ""
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr ""
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr ""
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr ""
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr ""
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr ""
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr ""
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr ""
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr ""
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr ""
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "คู่มือ"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr ""
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr ""
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "ผู้แปลภาษา"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr ""
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr ""
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr ""
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr ""
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr ""
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr ""
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr ""
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr ""
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, fuzzy, c-format
+msgid "Estonian translator"
+msgstr "ผู้แปล:"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr ""
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, fuzzy, c-format
+msgid "Italian Translator"
+msgstr "ผู้แปล:"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr ""
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, fuzzy, c-format
+msgid "Bosnian translator"
+msgstr "ผู้แปล:"
+
+#: ../contributors.pl:51
+#, fuzzy, c-format
+msgid "Testers"
+msgstr "ผู้ใช้"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr ""
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr ""
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr ""
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr ""
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr ""
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr ""
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr ""
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr ""
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr ""
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr ""
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr ""
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr ""
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr ""
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr ""
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr ""
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr ""
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr ""
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr ""
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr ""
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr ""
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr ""
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+
+#: ../control-center:90
+#, fuzzy, c-format
+msgid "OpenMandriva Lx"
+msgstr "Mandriva Online"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "%s ฐานควบคุม"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "โปรดรอสักครู่..."
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "การบริหารโปรแกรม"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, fuzzy, c-format
+msgid "Others"
+msgstr "ผู้ใช้"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, fuzzy, c-format
+msgid "Sharing"
+msgstr "ใช้แฟ้มร่วมกัน"
+
+#: ../control-center:186
+#, fuzzy, c-format
+msgid "Configure FTP"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr ""
+
+#: ../control-center:189
+#, fuzzy, c-format
+msgid "Configure Samba"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:190
+#, fuzzy, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"วิซาร์ด Samba "
+"จะช่วยคุณปรับแต่งเซิฟเวอร์ของคุณให้เป็นเซิฟเวอร์ไฟล์และเครื่องพิมพ์สำหรับเครื่องเวิร์คสเตชั่นที่ "
+"ใช้ระบบที่ไม่ใช่ลินุกส์"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr ""
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr ""
+
+#: ../control-center:195
+#, fuzzy, c-format
+msgid "Configure web server"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:196
+#, fuzzy, c-format
+msgid "Set up a web server"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:198
+#, fuzzy, c-format
+msgid "Configure installation server"
+msgstr "ศูนย์การปรับแต่งเมนู"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, fuzzy, c-format
+msgid "Network Services"
+msgstr "แผงวงจรระบบเครือข่าย"
+
+#: ../control-center:215
+#, fuzzy, c-format
+msgid "Configure DHCP"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr ""
+
+#: ../control-center:218
+#, fuzzy, c-format
+msgid "Configure DNS"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr ""
+
+#: ../control-center:221
+#, fuzzy, c-format
+msgid "Configure proxy"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:222
+#, fuzzy, c-format
+msgid "Configure a web caching proxy server"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:224
+#, fuzzy, c-format
+msgid "Configure time"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:225
+#, fuzzy, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr "วิซาร์ด Time จะช่วยคุณตั้งเวลาของเซิฟเวอร์ให้ตรงกับ time server ภายนอก"
+
+#: ../control-center:227 ../control-center:228
+#, fuzzy, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "การปรับแต่งการพิมพ์"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "การตรวจสอบสิทธิ์การใช้งาน"
+
+#: ../control-center:246
+#, fuzzy, c-format
+msgid "Configure NIS and Autofs"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:247
+#, fuzzy, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:249
+#, fuzzy, c-format
+msgid "Configure LDAP"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, fuzzy, c-format
+msgid "Groupware"
+msgstr "เวิร์กกรุ๊ป (workgroup)"
+
+#: ../control-center:267
+#, fuzzy, c-format
+msgid "Configure news"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:268
+#, fuzzy, c-format
+msgid "Configure a newsgroup server"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:270
+#, fuzzy, c-format
+msgid "Configure groupware"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:271
+#, fuzzy, c-format
+msgid "Configure a groupware server"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:273
+#, fuzzy, c-format
+msgid "Configure mail"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:274
+#, fuzzy, c-format
+msgid "Configure the Internet Mail services"
+msgstr "ศูนย์การปรับแต่งเมนู"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr ""
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr ""
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr ""
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr ""
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "การดูแลระบบระยะไกล"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "ฮาร์ดแวร์"
+
+#: ../control-center:326
+#, c-format
+msgid "Manage your hardware"
+msgstr ""
+
+#: ../control-center:333
+#, fuzzy, c-format
+msgid "Configure graphics"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:340
+#, fuzzy, c-format
+msgid "Configure mouse and keyboard"
+msgstr "ปรับแต่งจอภาพของคุณ"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "เน็ตเวิร์คกับอินเตอร์เน็ต"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, fuzzy, c-format
+msgid "Manage your network devices"
+msgstr "แผงวงจรระบบเครือข่าย"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "ระบบ"
+
+#: ../control-center:403
+#, c-format
+msgid "Manage system services"
+msgstr ""
+
+#: ../control-center:412
+#, c-format
+msgid "Localization"
+msgstr ""
+
+#: ../control-center:419
+#, fuzzy, c-format
+msgid "Administration tools"
+msgstr "การดูแลระบบระยะไกล"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, fuzzy, c-format
+msgid "Network Sharing"
+msgstr "แผงวงจรระบบเครือข่าย"
+
+#: ../control-center:439
+#, fuzzy, c-format
+msgid "Configure Windows(R) shares"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:446
+#, fuzzy, c-format
+msgid "Configure NFS shares"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:453
+#, fuzzy, c-format
+msgid "Configure WebDAV shares"
+msgstr "ทำการปรับแต่ง.."
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, c-format
+msgid "Local disks"
+msgstr ""
+
+#: ../control-center:490
+#, fuzzy, c-format
+msgid "CD-ROM (%s)"
+msgstr "ซีดี-รอม"
+
+#: ../control-center:491
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "ตั้งจุดเม้าท์ไดร์ฟซีดี-รอม"
+
+#: ../control-center:493
+#, fuzzy, c-format
+msgid "DVD-ROM (%s)"
+msgstr "ซีดี-รอม"
+
+#: ../control-center:494
+#, fuzzy, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "ตั้งจุดเม้าท์ดีวีดี-รอม"
+
+#: ../control-center:496
+#, fuzzy, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "เครื่องเขียนซีดี"
+
+#: ../control-center:497
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "ตั้งจุดเม้าท์เครื่องเขียนซีดี"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr ""
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "ตั้งจุดเม้าท์ซิปไดร์ฟ"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "ความปลอดภัย"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "บู๊ต"
+
+#: ../control-center:533
+#, fuzzy, c-format
+msgid "Configure boot steps"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr ""
+
+#: ../control-center:559
+#, fuzzy, c-format
+msgid "Additional wizards"
+msgstr "ธีมเพิ่มเติม"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/อ็อปชั่น"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/แสดงล็อก"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/โหมดฝัง"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/โหมดผู้เชี่ยวชาญในวิซาร์ด"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/ไฟล์"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/เลิก"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "ออก"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/ธีม"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"การกระทำนี้จะทำให้ Control Center เริ่มทำงานใหม่ \n"
+"การเปลี่ยนแปลงที่ยังไม่ได้เรียกใช้จะหายไป"
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/ธีมอื่น"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/ช่วยเหลือ"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "ช่วยเหลือ"
+
+#: ../control-center:668
+#, fuzzy, c-format
+msgid "/_Release notes"
+msgstr "/_ลบ"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr ""
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr ""
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/แจ้งบั๊ก"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/เกี่ยวกับ..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: ../control-center:750
+#, fuzzy, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "%s Control Center %s"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "ผิดพลาด"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr ""
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "การเปลี่บนแปลงที่ทำอยู่ที่นี่จะไม่ถูกบันทึก"
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "ไม่สามารถ fork: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr ""
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "ออกจากโปรแกรมแบบไม่ปรกติ"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "คำเตือน"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "ปิด"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "ธีมอื่นๆ"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "กำลังอ่านธีมใหม่อื่นๆ"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "ธีมเพิ่มเติม"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "อ่านธีมใหม่เพิ่มเติมจาก www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "เกี่ยวกับ - %s Control Center"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "ผู้แต่ง:  "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "รุ่นของเคอเนล:"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "งานศิลป์: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr ""
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "ทวีศักดิ์ แตะกระโทก"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "<taekratt@yahoo.com>"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "ผู้แปล:"
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, fuzzy, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "%s ฐานควบคุม"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "สงวนลิขสิทธิ์ (C) %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "ผู้แต่ง"
+
+#: ../control-center:1495
+#, fuzzy, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "OpenMandriva Lx Control Center %s"
+
+#: ../drakconsole:27
+#, fuzzy, c-format
+msgid "DrakConsole"
+msgstr "ปิด"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Display"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "คีย์บอร์ด"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "เม้าส์"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr ""
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "เซอร์วิส"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr ""
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr ""
+
+#: ../drakxconf:36
+#, fuzzy, c-format
+msgid "Auto Install"
+msgstr "ติดตั้ง"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "การเชื่อมต่อกับ Internet แบบ sharing"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr ""
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "พาร์ติชัน"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "ศูนย์ควบคุม"
+
+#: ../drakxconf:42
+#, fuzzy, c-format
+msgid "Choose the tool you want to use"
+msgstr ""
+"\n"
+"\n"
+"เลือกใช้รายการที่คุณต้องการทำการปรับแต่ง"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, fuzzy, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "ทำสำเนา"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:108
+#, fuzzy, c-format
+msgid "Set up boot system"
+msgstr "DrakBoot ช่วยในการตั้งวิธีการบู๊ตระบบ"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, fuzzy, c-format
+msgid "Set up how the system boots"
+msgstr "DrakBoot ช่วยในการตั้งวิธีการบู๊ตระบบ"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, fuzzy, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "XFdrake ช่วยคุณตั้งระบบเซิฟเวอร์กราฟฟิค"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, fuzzy, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "เลือก network interface"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "การติดต่อ internet"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, fuzzy, c-format
+msgid "Open a console as administrator"
+msgstr "เปิดคอนโซล"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, fuzzy, c-format
+msgid "Manage date and time"
+msgstr "ตั้งวันที่และเวลา"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, fuzzy, c-format
+msgid "Set up display manager"
+msgstr "ตัวเลือกตัวจัดการการแสดงผล"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "ตั้งค่าเครื่องโทรสาร"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, fuzzy, c-format
+msgid "Set up your personal firewall"
+msgstr "DrakFirewall ช่วยคุณตั้งไฟร์วอลล์ส่วนบุคคล"
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, fuzzy, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr "DrakFont ช่วยคุณเพิ่มและลบฟ้อนท์ซึ่งรวมถึงฟ้อนจากวินโดว์"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, fuzzy, c-format
+msgid "Set up the graphical server"
+msgstr "XFdrake ช่วยคุณตั้งระบบเซิฟเวอร์กราฟฟิค"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, fuzzy, c-format
+msgid "Manage disk partitions"
+msgstr "cable connection"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, fuzzy, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "DiskDrake ช่วยคุณระบุและปรับขนาดพาร์ติชั่นของฮาร์ดดิสค์"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, fuzzy, c-format
+msgid "Sound Configuration"
+msgstr "ตั้งค่าพร็อกซี"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:261
+#, fuzzy, c-format
+msgid "Manage hosts definitions"
+msgstr "cable connection"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, fuzzy, c-format
+msgid "Install & Remove Software"
+msgstr "Install โปรแกรม"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, fuzzy, c-format
+msgid "Set up a groupware server"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, fuzzy, c-format
+msgid "View and search system logs"
+msgstr "LogDrake ช่วยคุณดูและค้นหาล็อกของระบบ"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, fuzzy, c-format
+msgid "Manage connections"
+msgstr "cable connection"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:359
+#, fuzzy, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr "%s Update ช่วยคุณติดตั้งตัวแก้ไขหรือตัวอัพเดทของแพ็คเกจที่ติดตั้งแล้ว"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "รูปแบบเมนู"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, fuzzy, c-format
+msgid "Menu Style Configuration"
+msgstr "ศูนย์การปรับแต่งเมนู"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:390
+#, fuzzy, c-format
+msgid "Monitor the network connections"
+msgstr "การติดต่อโดยใช้ Modem ธรรมดา"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:418
+#, fuzzy, c-format
+msgid "Network Center"
+msgstr "เน็ตเวิร์คกับอินเตอร์เน็ต"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, fuzzy, c-format
+msgid "Manage different network profiles"
+msgstr "แผงวงจรระบบเครือข่าย"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:439
+#, fuzzy, c-format
+msgid "Set NFS mount points"
+msgstr "ตั้งจุดเมาท์ NFS "
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:459
+#, fuzzy, c-format
+msgid "Package Stats"
+msgstr "จัดการแพ็คเกจ"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, fuzzy, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "RpmDrake ช่วยคุณติดตั้งแพ็คเกจซอฟท์แวร์"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, fuzzy, c-format
+msgid "Share your hard disk partitions"
+msgstr "DiskDrake ช่วยคุณระบุและปรับขนาดพาร์ติชั่นของฮาร์ดดิสค์"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "พรอกซี"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "ไร้สาย"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:552
+#, fuzzy, c-format
+msgid "Manage configuration of Samba"
+msgstr "การปรับแต่งการพิมพ์"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:572
+#, fuzzy, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr "DrakPerm ช่วยคุณปรับระดับความปลอดภัยของระบบและสิทธิ์อย่างละเอียด"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "ทำการปรับแต่ง.."
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:647
+#, fuzzy, c-format
+msgid "Manage users on system"
+msgstr "UserDrake ช่วยคุณเพิ่ม ลบหรือเปลี่ยนผู้ใช้ของระบบ"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, fuzzy, c-format
+msgid "Add, remove or change users of the system"
+msgstr "UserDrake ช่วยคุณเพิ่ม ลบหรือเปลี่ยนผู้ใช้ของระบบ"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, fuzzy, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "cable connection"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:679
+#, fuzzy, c-format
+msgid "Set WebDAV mount points"
+msgstr "ตั้งจุดเม้าท์ของ WebDAV"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "ศูนย์การปรับแต่งเมนู"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "เมนูของระบบ"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "ทำการปรับแต่ง.."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "เมนูของผู้ใช้ "
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"เลือกใช้รายการที่คุณต้องการทำการปรับแต่ง"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "การปรับแต่งการพิมพ์"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "คลิ๊กที่นี่เพื่อกำหนดระบบการพิมพ์"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "เรียบร้อย"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Autologin"
+
+#: ../data/clock.desktop.in.h:1
+#, fuzzy
+msgid "Date and time"
+msgstr "ตั้งวันที่และเวลา"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr ""
+
+#: ../data/drakautoinst.desktop.in.h:1
+#, fuzzy
+msgid "Auto Install floppy"
+msgstr "ติดตั้งโดยอัตโนมัติ"
+
+#: ../data/drakboot.desktop.in.h:1
+#, fuzzy
+msgid "Boot Loading"
+msgstr "จัดการการบูต (LILO)"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr ""
+
+#: ../data/drakdm.desktop.in.h:1
+#, fuzzy
+msgid "Display manager"
+msgstr "ตัวเลือกตัวจัดการการแสดงผล"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr ""
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "ฟอนส์"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "สิทธิ์"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr ""
+
+#: ../data/drakxtv.desktop.in.h:1
+#, fuzzy
+msgid "TV Cards"
+msgstr "การ์ด TV"
+
+#: ../data/fileshare.desktop.in.h:1
+#, fuzzy
+msgid "Partition Sharing"
+msgstr "เครื่องพิมพ์"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "ฮาร์ดไดร์"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "ล็อก"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "เมนู"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "จุดเม้าท์"
+
+#: ../data/nfs.desktop.in.h:1
+#, fuzzy
+msgid "NFS mount points"
+msgstr "ตั้งจุดเมาท์ NFS "
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "เครื่องพิมพ์"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "ตั้งค่าพร็อกซี"
+
+#: ../data/removable.desktop.in.h:1
+#, fuzzy
+msgid "Removable devices"
+msgstr "เครื่องพิมพ์แบบรีโมท"
+
+#: ../data/remove-connection.desktop.in.h:1
+#, fuzzy
+msgid "Remove Connection"
+msgstr "เครื่องพิมพ์แบบรีโมท"
+
+#: ../data/samba.desktop.in.h:1
+#, fuzzy
+msgid "Samba mount points"
+msgstr "ตั้งจุดเม้าท์ของ Samba"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr ""
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "ตั้งค่าระบบ"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "ผู้ใช้และกลุ่มผู้ใช้"
+
+#: ../data/webdav.desktop.in.h:1
+#, fuzzy
+msgid "WebDAV mount points"
+msgstr "ตั้งจุดเม้าท์ของ WebDAV"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr ""
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "จอโมนิเตอร์"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "ความละเอียดของจอ"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "ปรับแต่งเครื่องคอมพิวเตอร์ของท่าน"
+
+#, fuzzy
+#~ msgid "Tune permissions on system"
+#~ msgstr "UserDrake ช่วยคุณเพิ่ม ลบหรือเปลี่ยนผู้ใช้ของระบบ"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "ยินดีต้อนรับสู่ %s Control Center"
+
+#, fuzzy
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "ติดตั้งโดยอัตโนมัติ"
+
+#, fuzzy
+#~ msgid "Floppy drive"
+#~ msgstr "ฟล้อปปี้"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "ตั้งจุดเม้าท์ฟล้อปปี้"
+
+#, fuzzy
+#~ msgid "<control>U"
+#~ msgstr "<control>Q"
+
+#~ msgid "Account:"
+#~ msgstr "บัญชีผู้ใช้:"
+
+#~ msgid "Password:"
+#~ msgstr "รหัสผ่าน:"
+
+#~ msgid "Hostname:"
+#~ msgstr "ชื่อโฮสต์:"
+
+#~ msgid "Please wait"
+#~ msgstr "โปรดรอสักครู่"
+
+#, fuzzy
+#~ msgid "Manage software"
+#~ msgstr "แผงวงจรระบบเครือข่าย"
+
+#, fuzzy
+#~ msgid "Use NFS shares"
+#~ msgstr "ทำการปรับแต่ง.."
+
+#, fuzzy
+#~ msgid "Manage Samba configuration"
+#~ msgstr "การปรับแต่ง LAN"
+
+#, fuzzy
+#~ msgid "Use WebDAV shares"
+#~ msgstr "ทำการปรับแต่ง.."
+
+#~ msgid "CD-ROM"
+#~ msgstr "ซีดี-รอม"
+
+#, fuzzy
+#~ msgid "Boot theme"
+#~ msgstr "ธีมอื่นๆ"
+
+#, fuzzy
+#~ msgid "Console"
+#~ msgstr "ปิด"
+
+#~ msgid "Fax"
+#~ msgstr "โทรสาร"
+
+#~ msgid "Software Media Manager"
+#~ msgstr "Software Media Manager"
+
+#~ msgid "Language"
+#~ msgstr "เลือกภาษาที่คุณใช้"
+
+#, fuzzy
+#~ msgid "Country / Region"
+#~ msgstr "ขนาดจอภาพ"
+
+#, fuzzy
+#~ msgid "Updates"
+#~ msgstr "อัพเดท"
+
+#, fuzzy
+#~ msgid "Control and configure network connections"
+#~ msgstr "การติดต่อโดยใช้ Modem ธรรมดา"
+
+#, fuzzy
+#~ msgid "Network Profiles"
+#~ msgstr "แผงวงจรระบบเครือข่าย"
+
+#, fuzzy
+#~ msgid "UPS"
+#~ msgstr "HFS"
+
+#, fuzzy
+#~ msgid "VPN configuration"
+#~ msgstr "การปรับแต่ง LAN"
+
+#, fuzzy
+#~ msgid "Configure Software management"
+#~ msgstr "การบริหารโปรแกรม"
+
+#~ msgid "Install"
+#~ msgstr "Install"
+
+#, fuzzy
+#~ msgid "Look at installable software and install software packages"
+#~ msgstr "RpmDrake ช่วยคุณติดตั้งแพ็คเกจซอฟท์แวร์"
+
+#~ msgid "Remove"
+#~ msgstr "เอาออก"
+
+#, fuzzy
+#~ msgid "Look at installed software and uninstall software packages"
+#~ msgstr "RpmDrake ช่วยคุณติดตั้งแพ็คเกจซอฟท์แวร์"
+
+#, fuzzy
+#~ msgid "Screen resolution"
+#~ msgstr "ความละเอียดของภาพ"
+
+#, fuzzy
+#~ msgid "Change the screen resolution"
+#~ msgstr "เปลี่ยนความละเอียดของจดภาพ"
+
+#~ msgid "TV card"
+#~ msgstr "TV card"
+
+#, fuzzy
+#~ msgid "Set up TV card"
+#~ msgstr "การ์ด TV"
+
+#~ msgid "/_Expert mode"
+#~ msgstr "/โหมดผู้เชี่ยวชาญ"
+
+#, fuzzy
+#~ msgid "Set Samba mount points"
+#~ msgstr "ตั้งจุดเม้าท์ของ Samba"
+
+#, fuzzy
+#~ msgid "Samba printing configuration"
+#~ msgstr "การปรับแต่งการพิมพ์"
+
+#~ msgid "(original C version)"
+#~ msgstr "(รุ่นดั้งเดิมภาษาซี)"
+
+#~ msgid "(design)"
+#~ msgstr "(ออกแบบ)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Select the application menu layout and change which programs are shown on "
+#~ "the menu"
+#~ msgstr " MenuDrake ช่วยคุณเปลี่ยนแปลงเมนูที่ใช้แสดงโปรแกรม"
+
+#~ msgid "/_Profiles"
+#~ msgstr "/โพรไฟล์ "
+
+#~ msgid "/_New"
+#~ msgstr "/_ใหม่"
+
+#~ msgid "Ok"
+#~ msgstr "ตกลง"
+
+#~ msgid "/Display Logs"
+#~ msgstr "/ล็อกสำหรับการแสดงผลบนหน้าจอ"
+
+#~ msgid "/Embedded Mode"
+#~ msgstr "/โหมดฝัง"
+
+#~ msgid "/File"
+#~ msgstr "/ไฟล์"
+
+#~ msgid "/Options"
+#~ msgstr "/Options"
+
+#~ msgid "/Themes"
+#~ msgstr "/ธีม"
+
+#~ msgid "DVD"
+#~ msgstr "ดีวีดี"
+
+#~ msgid "Date & Time"
+#~ msgstr "วันที่และเวลา"
+
+#~ msgid "DrakAutoInst helps you produce an Auto Install floppy"
+#~ msgstr "DrakAutoInst ช่วยในสร้างแผ่นติดตั้งอัตโนมัติ"
+
+#~ msgid "DrakClock"
+#~ msgstr "DrakClock"
+
+#~ msgid "DrakConnect helps you set up your network and Internet connection"
+#~ msgstr "DrakConnect ช่วยคุณตั้งเน็ตเวอร์คและการต่ออินเตอร์เน็ต"
+
+#~ msgid "DrakCronAt helps you run programs or scripts at certain times"
+#~ msgstr "DrakCronAt ช่วยคุณรันโปรแกรมหรือสคริปท์ตามกำหนดเวลา"
+
+#~ msgid "DrakFloppy helps you produce your own boot floppy"
+#~ msgstr "DrakFloppy ช่วยสร้างแผ่นบู๊ต"
+
+#~ msgid "DrakGw helps you share your Internet connection"
+#~ msgstr "DrakGw ช่วยคุณแชร์อินเตอร์เน็ต"
+
+#~ msgid "DrakProxy helps you set up proxy servers"
+#~ msgstr "DrakProxy ช่วยคุณตั้งพร๊อกซี่เซิฟเวอร์"
+
+#~ msgid "DrakSec helps you set the system security level"
+#~ msgstr "DrakSec ช่วยคุณตั้งระดับความปลอดภัยของระบบ"
+
+#~ msgid "DrakXServices helps you enable or disable services"
+#~ msgstr "DrakXServices ช่วยคุณเปิดหรือปิดเซอร์วิส"
+
+#~ msgid "DrakxTV helps you set up your TV card"
+#~ msgstr "DrakxTV ช่วยคุณตั้งการ์ดโทรทัศน์"
+
+#~ msgid "Floppy"
+#~ msgstr "ฟล้อปปี้"
+
+#~ msgid "GMT - DrakClock"
+#~ msgstr "GMT-DrakClock"
+
+#~ msgid "HardDrake lists and helps you set up your hardware"
+#~ msgstr "HardDrake แสดงรายการและช่วยคุณตั้งฮาร์ดแวร์"
+
+#~ msgid "Hardware List"
+#~ msgstr "ชนิดของHardware"
+
+#~ msgid "Internet Access"
+#~ msgstr "การติดต่อ internet"
+
+#~ msgid "Internet Connection Sharing"
+#~ msgstr "การเชื่อมต่อกับ Internet แบบ sharing"
+
+#~ msgid "Is your hardware clock set to GMT?"
+#~ msgstr "คุณต้องการให้เซ็ตนาฬิกาฮาร์ดแวร์เป็น GMT?"
+
+#~ msgid "KeyboardDrake helps you to set your keyboard layout"
+#~ msgstr "KeyboardDrake ช่วยคุณตั้งเลย์เอ้าท์ของคีย์บอร์ด"
+
+#~ msgid "%s Control Center %s\n"
+#~ msgstr "%s Control Center %s\n"
+
+#~ msgid ""
+#~ "%s Control Center is OpenMandriva Lx's main configuration\n"
+#~ "tool. It enables the system administrator to configure the hardware\n"
+#~ "and services used for all users.\n"
+#~ "\n"
+#~ "\n"
+#~ "The tools accessed through the %s Control Center greatly\n"
+#~ "simplify the use of the system, notably by avoiding the use of the\n"
+#~ "evil command line."
+#~ msgstr ""
+#~ "%s Control Center คือเครื่องมือหลักสำหรับการปรับแต่ง OpenMandriva Lx\n"
+#~ "ในนี้ ผู้ดูแลระบบจะสามารถปรับแต่งฮาร์ดแวร์\n"
+#~ "และบริการต่างๆ สำหรับผู้ใช้ทั้งหมด\n"
+#~ "\n"
+#~ "\n"
+#~ "เครื่องมือที่ใช้ผ่าน %s Control Center ได้ถูก\n"
+#~ "ทำให้ง่ายต่อการใช้ระบบ เห็นได้ชัดเจนจากการไม่จำเป็นต้อง \n"
+#~ "ใช้คำสั่งแบบคอมมานด์ไลน์"
+
+#~ msgid "MouseDrake helps you set up your mouse"
+#~ msgstr "MouseDrake ช่วยคุณตั้งเม้าส์"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Old authors: "
+#~ msgstr "ผู้แต่งเดิม: "
+
+#~ msgid ""
+#~ "Partition Sharing enables to allow users to share some of their "
+#~ "directories, allowing users to simply click on \"Share\" in Konqueror and "
+#~ "Nautilus"
+#~ msgstr ""
+#~ "Partition Sharing เป็นการเปิดให้ผู้ใช้แชร์ไดเร็คทอรี่โดยผู้ใช้เพียงคลิกบน \"Share\" ใน "
+#~ "Konqueror และ Nautilus"
+
+#~ msgid "Previous"
+#~ msgstr "ก่อน"
+
+#~ msgid "PrinterDrake helps you set up your printer, job queues ...."
+#~ msgstr "PrinterDrake ช่วยคุณตั้งเครื่องพิมพ์, คิวของงาน ...."
+
+#~ msgid "Reset"
+#~ msgstr "เริ่มต้นใหม่"
+
+#~ msgid "RpmDrake helps you remove software packages"
+#~ msgstr "RpmDrake ช่วยคุณลบแพ็คเกจซอร์ฟแวร์"
+
+#~ msgid "ScannerDrake helps you set up your scanner"
+#~ msgstr "ScannerDrake ช่วยคุณตั้งเครื่องสแกน"
+
+#~ msgid "Security Level"
+#~ msgstr "ระดับความปลอดภัย"
+
+#~ msgid ""
+#~ "Security Warning: I'm not allowed to connect to the internet as root user"
+#~ msgstr "เพื่อความปลอดภัย: ไม่สามารถเชื่อมต่อ internet เป็น root"
+
+#~ msgid ""
+#~ "The DHCP wizard will help you configuring the DHCP services of your server"
+#~ msgstr "ตัววิซาร์ด DHCP จะช่วยคุณปรับแต่งบริการ DHCP ของเซิฟเวอร์ของคุณ"
+
+#~ msgid ""
+#~ "The DNS Client wizard will help you in adding a new client in your local "
+#~ "DNS"
+#~ msgstr "วิซาร์ด DNS Client จะช่วยคุณเพิ่มเครื่องไคลเอ้นท์ใหม่เข้าสู่ local DNS"
+
+#~ msgid ""
+#~ "The DNS wizard will help you configuring the DNS services of your server."
+#~ msgstr "วิซาร์ด DNS wizard จะช่วยคุณปรับแต่งบริการ DNS services ของเซิฟเวอร์ของคุณ."
+
+#~ msgid ""
+#~ "The FTP wizard will help you configuring the FTP Server for your network"
+#~ msgstr "วิซาร์ด FTP จะช่วยคุณปรับแต่งเซิฟเวอร์ FTP ของเน็ตเวิร์คของคุณ"
+
+#~ msgid ""
+#~ "The Firewall wizard will help you configuring your server firewall that "
+#~ "will protects your internal network from unauthorized accesses from the "
+#~ "Internet"
+#~ msgstr ""
+#~ "วิซาร์ด Firewall "
+#~ "จะช่วยคุณปรับแต่งไฟล์วอลล์ของเซิฟเวอร์ซึ่งจะช่วยป้องกันเน็ตเวิร์คภายในจากการ "
+#~ "เข้าถึงโดยไม่ได้รับอนุญาตจากอินเตอร์เน็ต"
+
+#~ msgid ""
+#~ "The NFS wizard will help you configuring the NFS Server for your network"
+#~ msgstr "วิซาร์ด NFS จะช่วยคุณปรับแต่งเซิฟเวอร์ NFS สำหรับเน็ตเวิร์คของคุณ"
+
+#~ msgid ""
+#~ "The News wizard will help you configuring the Internet News services for "
+#~ "your network"
+#~ msgstr "วิซาร์ด News จะช่วยคุณปรับแต่งบริการ Internet News สำหรับเน็ตเวิร์คของคุณ"
+
+#~ msgid ""
+#~ "The Postfix wizard will help you configuring the Internet Mail services "
+#~ "for your network"
+#~ msgstr "วิซาร์ด Postfix จะช่วยคุณปรับแต่งบริการ Internet Mail สำหรับเน็ตเวิร์คของคุณ"
+
+#~ msgid ""
+#~ "The Proxy wizard will help you configuring a web caching proxy server"
+#~ msgstr "วิซาร์ด Proxy จะช่วยคุณปรับแต่างเซิฟเวอร์พร๊อกซี่สำหรับทำเว็บเคชชิ่ง"
+
+#~ msgid ""
+#~ "The Server wizard will help you configuring the basic networking services "
+#~ "of your server"
+#~ msgstr "วิซาร์ด Server จะช่วยคุณปรับแต่งบริการด้านเน็ตเวิร์คเบื้องต้นของเซิฟเวอร์ของคุณ"
+
+#~ msgid ""
+#~ "The Web wizard will help you configuring the Web Server for your network"
+#~ msgstr "วิซาร์ด Web จะช่วยคุณปรับแต่าง Web Server สำหรับเน็ตเวิร์คของคุณ"
+
+#~ msgid "Time"
+#~ msgstr "เวลา"
+
+#~ msgid "Time Zone"
+#~ msgstr "ช่วงเวลา"
+
+#~ msgid "Timezone - DrakClock"
+#~ msgstr "ช่วงเวลา-DrakClock"
+
+#~ msgid "Warning: No browser specified"
+#~ msgstr "ข้อควรระวัง:ไม่ได้เลือก browser"
+
+#~ msgid "Which is your timezone?"
+#~ msgstr "คุณใช้ช่วงเวลาใด? "
+
+#~ msgid "Zip"
+#~ msgstr "ซิปไดร์ฟ"
+
+#~ msgid "cannot open this file for read: %s"
+#~ msgstr "ไม่สามารถอ่านไฟล์นี้ได้: %s"

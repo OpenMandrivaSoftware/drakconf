@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=Keyboard
+Icon=/usr/share/mcc/themes/default/keyboard-mdk.png
+Exec=/usr/sbin/keyboarddrake
+Terminal=false
+Type=Application
+Categories=System;SystemSetup;X-Mandrake-Hardware

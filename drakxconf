@@ -1,0 +1,46 @@
+#!/usr/bin/perl
+
+use lib qw(/usr/lib/libDrakX);
+use strict;
+
+# i18n: IMPORTANT: to get correct namespace (drakconf instead of libDrakX)
+BEGIN { unshift @::textdomains, 'drakconf' }
+
+use standalone;     #- warning, standalone must be loaded very first, for 'explanations'
+use interactive;
+use common;
+
+local $_ = join '', @ARGV;
+
+/-h/ and die "usage: drakxconf\n";
+/-version/ and die 'version: $Id: drakxconf 272333 2011-04-20 13:42:11Z aginies $\n';
+
+my $in = 'interactive'->vnew('su', 'default');
+
+my @l = map {
+    my $path;
+    foreach my $i (split (":", $ENV{PATH})) { 
+        my $j = "$i/$_->{cmd}";
+        $path = $j if -x $j;
+    }
+    { des => $_->{des}, cmd => $path };
+} (
+   { des => N("Display"), cmd => 'XFdrake' },
+   { des => N("Keyboard"), cmd => 'keyboarddrake' },
+   { des => N("Mouse"), cmd => 'mousedrake' },
+   { des => N("Network & Internet"), cmd => 'drakconnect' },
+   { des => N("Users and groups"), cmd => 'adduserdrake' },
+   { des => N("Services"), cmd => 'drakxservices' },
+   { des => N("Firewall"), cmd => 'drakfirewall' },
+   { des => N("Boot loader"), cmd => 'drakboot' },
+   { des => N("Auto Install"), cmd => 'drakautoinst' },
+   { des => N("Internet connection sharing"), cmd => 'drakgw' },
+   { des => N("Partitions"), cmd => 'diskdrake' }
+   );
+
+my $choice = $in->ask_from_listf(N("Control Center"), N("Choose the tool you want to use"), sub { $_[0]{des} }, \@l)
+    or $in->exit(1);
+$in->end;
+
+-x $choice->{cmd} or die "$choice->{cmd} is not executable!\n";
+exec $choice->{cmd}, @ARGV or $in->exit(1);

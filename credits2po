@@ -1,0 +1,35 @@
+#!/usr/bin/perl
+
+use strict;
+use lib qw(/usr/lib/libDrakX);
+use MDK::Common;
+use standalone;
+use run_program;
+
+output("contributors.pl", 
+       join("\n", 
+            qq(#/usr/bin/perl
+#
+# DO NOT ALTER HERE !!!
+# THIS IS GENERATED FROM /usr/share/doc/mandrake-release-<RELEASE>/CREDITS
+# WHICH IS FILLED FROM THE COOKER WIKI
+#
+use lib qw(/usr/lib/libDrakX);
+use common;
+{
+),
+            (map {
+                if (/^\s*\* (.*)$/) {
+                    my ($contributor, $descr) = split(', ', $1, 2);
+                    #if (/^\s*\* (.*), (.*)/) {
+                    chomp($descr);
+                    $descr =~ s/(["@$])/\\$1/g;
+                    join('', qq(\t"$contributor" => ), $descr ? qq(N("$descr"),) : '"",'); 
+                } else {
+                    chomp;
+                    qq(\tN("$_") => "",); 
+                }
+            } grep { $_ ne "\n" } cat_(glob("/usr/share/doc/mandriva-release-*/CREDITS"))),
+            "}"
+           )
+      );

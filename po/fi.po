@@ -1,0 +1,1977 @@
+# finnish translation of drakconf
+#
+# Copyright (C) 2002,2003, 2004, 2005, 2006, 2008 Free Software Foundation, Inc.
+# Copyright (C) 2002 Mandriva
+#
+# Matias Griese <mahagr@utu.fi>, 2001, 2002.
+# Janne Puonti <janne.puonti@kolumbus.fi>, 2002.
+# Taisto Kuikka <69319@batman.jypoly.fi>, 2003, 2004.
+# Esa Linna <denzo@mbnet.fi>, 2004.
+# Thomas Backlund <tmb@mandrake.org>, 2002, 2003, 2004, 2005.
+# Thomas Backlund <tmb@mandriva.org>, 2005, 2006, 2008.
+# Anssi Hannula <anssi@mandriva.org>, 2007, 2008.
+# Jani Välimaa <wally@mandriva.org>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2010-01-28 13:41+0200\n"
+"Last-Translator: Jani Välimaa <wally@mandriva.org>\n"
+"Language-Team: Finnish <cooker-i18n@mandrivalinux.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Paketoijat"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"lukuisten pakettien uudelleenkääntäminen ja siistiminen, pelit, sparc-"
+"alusta, Mandrivan työkalujen oikoluku"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "figlet, Distriblint (tarkastaa rpm-paketit levityspaketissa)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, päivitetty abiword, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"nc:n päivitys Debianin korjauksilla, joidenkin perl-pakettien korjaus, "
+"dnotify-käynnistysskripti, urpmc, hddtemp, wipe, jne..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"ytimen \"syvä ja laaja\" kehitys (monet uudet korjaukset/parannukset ennen "
+"viralliseen ytimeen lisäämistä)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "ytimen kehitys (ääneen ja videoon liittyvät korjaukset)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "patcheja muutamiin paketteihin, kfiresaver, xwine. ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (esijulkaisu), joka toimii Samba 2.2.x:n rinnalla, Samba 2.2.x, "
+"GIS-ohjelmisto (grass, mapserver), cursor_themes-kokoelma, sekalaisia "
+"palvelinpuolen parannuksia"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms ja lisäosat, gnome-"
+"python, rox-työpöytä"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"ääni/video/MIDI-sovellukset, tieteelliset sovellukset, audio/video-tuotannon "
+"HOWTO:t, bluetooth, pyqt ja siihen liittyvät paketit"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng ja muu ytimen kehitys"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr "useimmat web-pohjaiset paketit ja monet tietoturvaan liittyvät paketit"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "slbd jakelun tarkistus, devel riippuvuudet"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "rpmsync-skripti, idioottivarma MIDI-toisto, paranneltu libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "useita ylimääräisiä gnome-sovelluksia ja python-moduuleita"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"sk-i18n, useat paketit, openldapin testaus ja integroiminen, bind-sdb-ldap, "
+"monivuotinen Cooker-käyttäjä ja virheidenetsijä, ..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "jotkut ruby-paketit, php-pear-paketteja ja paljon muuta."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "moin wiki -klooni, beep-media-player, im-ja ja joitain muita paketteja"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "virheraportteja, avustanut thunderbird-paketin kanssa, ..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"testausta ja virheraportteja, Dovecot, bibletime, sword, avustanut pure-ftpd-"
+"paketin kanssa, spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"asennusohjelman http-välityspalvelintuki, sndconfig-ohjelman 2.6-sarjan "
+"ytimen tuki, LinNeighborhood-ohjelman samba3-tuki, ohjelmien urpmi, "
+"bootsplash ja drakxtools korjauksia ja parannuksia"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors 2.6-sarjan ytimille, testausta, joitakin contrib-paketteja."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine ja joitakin muita contrib-paketteja."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Dokumentaatio"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "kirjoitti/muokkasi osia gi/docs/HACKING-tiedostosta"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Kääntäjät"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Norjankielen (nb) kääntäjä ja koordinaattori, i18n-työt."
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "\"yhden miehen\" mdk sk-i18n-tiimi"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Suomenkielen kääntäjä ja koordinaattori"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Hollanninkielen kääntäjä ja koordinaattori"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Tanskankielen kääntäjä (ja vähän Bokmal myös :-))"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Norjankielen (nn) kääntäjä ja koordinaattori"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Vironkielen kääntäjä"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Italiankielen kääntäjä"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Bosniankielen kääntäjä"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Testaajat"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "testausta ja virheraportointia, eagle-usb-ajurin integrointi"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "testausta ja virheraportointia"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "testausta, virheraportteja, nVidian paketointiyrityksiä"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "testausta, virheraportointia"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, testausta, virheraportointia"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"Ja lukuisat nimettömät ja tuntemattomat beta-testaajat ja virheiden "
+"raportoijat, jotka auttoivat varmistamaan kaiken toimivan oikein."
+
+#: ../control-center:90
+#, c-format
+msgid "OpenMandriva Lx"
+msgstr "OpenMandriva Lx"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "%s Ohjauskeskus"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Ladataan... Odota hetki"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Ohjelmistojen hallinta"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, c-format
+msgid "Others"
+msgstr "Muut"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Palvelinvelhot"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Jakaminen"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "Aseta FTP-palvelin"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "Aseta FTP-palvelin"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Aseta Samba"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr "Aseta tiedosto- ja tulostuspalvelin"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Hallitse Samba-jakoja"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr "Hallitse, luo erikoisjako, luo julkinen tai käyttäjäjako"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Aseta WWW-palvelin"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Aseta WWW-palvelin"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Aseta asennuspalvelin"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Aseta palvelin %sin verkkoasennusta varten"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Verkkopalvelut"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "Aseta DHCP-palvelin"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "Aseta DHCP-palvelin"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "Aseta DNS-palvelin"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "Aseta DNS-palvelin (nimipalvelin)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Aseta välityspalvelin"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Aseta Internetin välityspalvelin"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Aseta aika"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr "Aseta palvelimen kello tahdistettavaksi ulkoisen aikapalvelimen kanssa"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "OpenSSH-palvelimen asetukset"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Tunnistautuminen"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "Aseta NIS ja Autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "Aseta NIS- ja Autofs-palvelut"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "Aseta LDAP"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Aseta LDAP-hakemistopalvelu"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Groupware"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Aseta uutisryhmäpalvelin"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Aseta uutisryhmäpalvelin"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Aseta ryhmätyöpalvelin"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Aseta ryhmätyöpalvelin"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Aseta sähköpostipalvelin"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Aseta Internetin sähköpostipalvelut"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Verkkoylläpito"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Paikallinen ylläpito"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Hallitse paikallisen koneen asetuksia Internet-selaimen avulla"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr "Webminiä ei ole asennettu. Paikallinen asettaminen poistettu käytöstä."
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Etäylläpito"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+"Paina, jos haluat muuttaa etäkoneiden asetuksia Internet-selaimen avulla"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Laitteisto"
+
+#: ../control-center:326
+#, c-format
+msgid "Manage your hardware"
+msgstr "Hallitse laitteistoa"
+
+#: ../control-center:333
+#, c-format
+msgid "Configure graphics"
+msgstr "Aseta grafiikka"
+
+#: ../control-center:340
+#, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Aseta hiiri ja näppäimistö"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr "Aseta tulostus ja kuvanluku"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Verkko ja Internet"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, c-format
+msgid "Manage your network devices"
+msgstr "Hallitse verkkoyhteyksiä"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr "Yksilöi ja turvaa verkko"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Järjestelmä"
+
+#: ../control-center:403
+#, c-format
+msgid "Manage system services"
+msgstr "Hallitse järjestelmäpalveluita"
+
+#: ../control-center:412
+#, c-format
+msgid "Localization"
+msgstr "Lokalisaatio"
+
+#: ../control-center:419
+#, c-format
+msgid "Administration tools"
+msgstr "Ylläpitotyökalut"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, c-format
+msgid "Network Sharing"
+msgstr "Tiedostojen jakaminen"
+
+#: ../control-center:439
+#, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Aseta Windows-jaot"
+
+#: ../control-center:446
+#, c-format
+msgid "Configure NFS shares"
+msgstr "Aseta NFS-jaot"
+
+#: ../control-center:453
+#, c-format
+msgid "Configure WebDAV shares"
+msgstr "Aseta WebDAV-jaot"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, c-format
+msgid "Local disks"
+msgstr "Paikalliset levyt"
+
+#: ../control-center:490
+#, c-format
+msgid "CD-ROM (%s)"
+msgstr "CD-ROM (%s)"
+
+#: ../control-center:491
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Aseta CD-aseman %s liitospiste"
+
+#: ../control-center:493
+#, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM (%s)"
+
+#: ../control-center:494
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Aseta DVD-aseman %s liitospiste"
+
+#: ../control-center:496
+#, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "CD/DVD-poltin (%s)"
+
+#: ../control-center:497
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Aseta polttavan CD/DVD-aseman %s liitospiste"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "ZIP-asema"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Määritä ZIP-aseman liitospiste"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Tietoturva"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Käynnistys"
+
+#: ../control-center:533
+#, c-format
+msgid "Configure boot steps"
+msgstr "Aseta käynnistysvaiheet"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr "Käynnistyksen käyttötuntuma"
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Muut velhot"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Asetukset"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Näytä _lokit"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/Upot_ettu tila"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/_Velhojen asiantuntija-tila"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Tiedosto"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_Lopeta"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>P"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Lopeta"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Teemat"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Tämä toiminto käynnistää ohjauskeskuksen uudelleen.\n"
+"Kaikki toteuttamattomat muutokset menetetään."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Lisää teemoja"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/O_hje"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Ohje"
+
+#: ../control-center:668
+#, c-format
+msgid "/_Release notes"
+msgstr "/_Julkaisutiedot"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr "/Mitä _uutta?"
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr "/Tunnetut _ongelmat"
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_Raportoi virheestä"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/_Tietoja..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "%s %s Ohjauskeskus [%s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Virhe"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"Kielen %s käännöksessä on virhe.\n"
+"\n"
+"Raportoi virheestä."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Ohjelmaa %s ei löydy"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Tämänhetkiseen moduuliin tehtyjä muutoksia ei tallenneta."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "ei voi haaroittaa: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "%s ei ole suoritettava ohjelma; ei voida haaroittaa ja suorittaa"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Ohjelma lopetti toimintansa poikkeuksellisesti"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Varoitus"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Sulje"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Lisää teemoja"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Haetaan uusia teemoja"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Lisäteemat"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Hae lisää teemoja osoitteesta: www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Tietoja - %sin Ohjauskeskus"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Tekijät: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(perl versio)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Kuvitus: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Hélène Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+"Thomas Backlund\n"
+"Jani Välimaa"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""
+"<tmb@mandrake.org>\n"
+"<jani.valimaa@gmail.com>"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Kääntäjä: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "%s %s (%s) Ohjauskeskus"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Copyright © %s, OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Tekijät"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "OpenMandriva Lxin tekemisessä avustaneet"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Näyttö"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Näppäimistö"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Hiiri"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Käyttäjät ja ryhmät"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Palvelut"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Palomuuri"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Käynnistyslatain"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Automaattiasennus"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Internet-yhteyden jakaminen"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "3D-työpöytätehosteet"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Osiot"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Ohjauskeskus"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Valitse käytettävä työkalu"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "Aseta 3D-työpöytätehosteet"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr "Valitse tunnistustapa"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "Aseta automaattinen kirjautuminen"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+"Ota automaattinen kirjautuminen käyttöön ja valitse käytettävä käyttäjä"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Varmuuskopiot"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "Määritä järjestelmän ja käyttäjien tiedostojen varmistukset"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr "Tilannevedokset"
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr "Aseta järjestelmän käynnistäminen"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Määritä miten järjestelmä käynnistyy"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Aseta käynnistysteema"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Valitse järjestelmän käynnistyessä käytettävä graafinen teema"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Jaa Internet-yhteys muille paikallisille koneille"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Aseta uusi verkkoliitäntä"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Internet-yhteys"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Aseta sekalaiset Internet-asetukset"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, c-format
+msgid "Open a console as administrator"
+msgstr "Avaa pääkäyttäjän konsoli"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, c-format
+msgid "Manage date and time"
+msgstr "Päivämäärän ja kellonajan asetukset"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, c-format
+msgid "Set up display manager"
+msgstr "Aseta näytönhallinta"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+"Valitse näytönhallintaohjelma, joka mahdollistaa käyttäjien valinnan "
+"kirjauduttaessa"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Aseta faksipalvelin"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr "Aseta henkilökohtainen palomuuri"
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr "Aseta henkilökohtainen palomuuri tietokoneen ja lähiverkon suojaksi"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr "Hallitse, lisää ja poista kirjasimia. Tuo Windows-kirjasimet"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Aseta graafinen palvelin"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, c-format
+msgid "Manage disk partitions"
+msgstr "Levyosioiden hallinta"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Luo, poista ja muuta kovalevyn osioita"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr "Selaa ja aseta laitteistoa"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, c-format
+msgid "Sound Configuration"
+msgstr "Ääniasetukset"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Koneiden nimet"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Hallitse koneiden nimiä"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, c-format
+msgid "Install & Remove Software"
+msgstr "Asenna ja poista ohjelmia"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr "Asenna ja poista ohjelmia"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr "Verkkoliitäntöjen ja palomuurin lisäasetukset"
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+"Aseta verkkoliitäntöjen vikasietoisuus- ja palomuurin replikointiasetukset"
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Aseta näppäimistöasettelu"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Aseta työryhmäpalvelin"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr "Hallitse järjestelmän maa-asetuksia"
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Valitse järjestelmän kieli ja maa/maanosa"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Tutki ja etsi järjestelmälokeista"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Hallitse yhteyksiä"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Aseta verkkoliitäntä uudelleen"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Hallitse laitteistoryhmää"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Hallitse useaan tietokoneeseen asennettuja ohjelmapaketteja"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr "Aseta Mandrivan työkalujen tunnistautumis-asetukset"
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+"Määrittele Mandrivan asetustyökalujen käyttämiseen vaadittavat "
+"tunnistautumiset "
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr "Järjestelmän päivitys"
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr "Tutki ja asenna asennettuihin ohjelmiin saatavilla olevia päivityksiä"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Valikkotyyli"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Valikkotyylin asetukset"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr "Tuo asiakirjat ja asetukset Windows-osiolta"
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Valvo yhteyksiä"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Valvo verkkoyhteyksiä"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Aseta osoitinlaitteet (hiiri, kosketuslevy)"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr "Lapsilukko"
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "Verkkokeskus"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, c-format
+msgid "Manage different network profiles"
+msgstr "Hallitse verkkoprofiileja"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Aktivoi ja hallitse verkkoprofiileja"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr "Aseta NFS-jaot"
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "Aseta NFS-liitospisteet"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr "Tee asemista ja hakemistoista NFS-jakoja"
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "Hallitse NFS-jakoja"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Pakettitilastot"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Näytä tilastoja asennettujen ohjelmien käytöstä"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr "Jaa kovalevyn osioita"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Aseta kovalevyn osioiden jakaminen"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Aseta tulostimet ja tulostusjonot"
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Ajoitetut tehtävät"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr ""
+"Ajoita ohjelmat käynnistymään tietyin aikavälein tai tiettyinä ajankohtina"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Välityspalvelin"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "Aseta välityspalvelin Internetin selaamista varten"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Etähallinta"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Muiden koneiden etähallinta"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Poista liitäntä"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Poista verkkoliitäntä"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Langaton yhteys"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr "Windows / Samba -jakojen asettaminen"
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr "Windows / Samba -jakojen asettaminen"
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr "Jaa asemat ja hakemistot Windows-järjestelmien kanssa"
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Hallitse Samban asetuksia"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Aseta kuvanlukija"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Aseta järjestelmän turvallisuus, oikeudet ja turvatarkistukset"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr ""
+"Aseta järjestelmän turvallisuustaso, ajoittaiset turvatarkistukset ja "
+"oikeudet"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr "Hallitse järjestelmän palveluita"
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr "Aseta ohjelmistolähteet"
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr "Valitse, mistä ohjelmistopaketteja haetaan "
+
+#: ../lib/MDV/Control_Center.pm:603
+#, c-format
+msgid "Configure updates frequency"
+msgstr "Päivitysasetukset"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr "Ylläpitolaajennus"
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr "Aseta TOMOYO Linux -käytännöt"
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr "Näytä ja muokkaa TOMOYO Linuxin turvallisuuskäytäntöjä"
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "Aseta UPS sähkön seurantaan"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr "Hallitse järjestelmän käyttäjiä"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Lisää, poista tai muuta järjestelmän käyttäjiä"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr "Virtualisointi"
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr "Virtuaalikoneiden hallinta"
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Aseta turvallinen VPN-etäyhteys"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr "Aseta WebDAV-jaot"
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "Aseta WebDAV-liitospisteet"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Valikon asetuskeskus"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Järjestelmävalikko"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Aseta..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Käyttäjävalikko"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Valitse muokattava valikko"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Tulostuksen asetukset"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Klikkaa asettaaksesi tulostusjärjestelmä"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Valmis"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Automaattinen kirjautuminen"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Päivämäärä ja kellonaika"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Uusi yhteys"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Automaattiasennus-levyke"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Järjestelmän käynnistyminen"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Ajoitetut tehtävät"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Näytönhallinta"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Käynnistyslevyke"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Kirjasimet"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Oikeudet"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Turvallisuustasot ja -tarkistukset"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "TV-kortit"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Osioiden jakaminen"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Kiintolevyt"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Lokit"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Valikot"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Liitospisteet"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "NFS-liitospisteet"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Tulostimet"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Välityspalvelimen asetukset"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Siirrettävät laitteet"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Poista yhteys"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Samba-liitospisteet"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Kuvanlukijat"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Järjestelmäasetukset"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Käyttäjät ja ryhmät"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "WebDAV-liitospisteet"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Graafinen palvelin"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Näyttö"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Näytön resoluutio"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Aseta tietokone"
+
+#~ msgid "Set up security level and audit"
+#~ msgstr "Aseta turvallisuusaste ja -tarkistus"
+
+#~ msgid "Tune permissions on system"
+#~ msgstr "Säädä järjestelmän oikeuksia"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Tervetuloa %sin Ohjauskeskukseen"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Luo automaattiasennus-levyke"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Luo yksittäinen käynnistyslevyke"
+
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr "Lähetä järjestelmäasetuksesi saadaksesi tietoa päivityksistä"
+
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "Lähetä järjestelmäasetuksesi jotta sinut voitaisiin pitää ajan tasalla "
+#~ "turva- ja muista päivityksistä"
+
+#~ msgid "Floppy drive"
+#~ msgstr "Levykeasema"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Määritä levykeasemasi liitospiste"

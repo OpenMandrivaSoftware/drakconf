@@ -1,0 +1,2115 @@
+# translation of drakconf-bs.po to Bosnian
+# translation of bs.po to Bosanski
+# translation of drakconf-bs.po to Bosanski
+# Copyright (C) 2001,2003, 2004, 2005, 2006. Free Software Foundation, Inc.
+# Amila Akagić <bono@lugbih.org>, 2001.
+# Vedran Ljubovic <vljubovic@smartnet.ba>, 2003, 2004, 2005, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf-bs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2006-09-09 13:00+0200\n"
+"Last-Translator: Vedran Ljubovic <vljubovic@smartnet.ba>\n"
+"Language-Team: Bosnian <lokal@linux.org.ba>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Autori paketa"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"masivno čišćenje i prepakiranje paketa, igre, port na SPARC arhitekturu, "
+"lektorisanje Mandriva alata"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "priprema cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "priprema figlet-a, Distriblint (provjera ispravnosti RPMova)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, ažuriran Abiword, Mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"ažuriran nc sa Debian zakrpama, ispravljeni neki Perl paketi, skripta za "
+"pokretanje dnotify, urpmc, hddtemp, wipe, itd."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"rad na kernelu \"naduboko i naširoko\" (mnoge nove zakrpe prije integracije "
+"u zvaničnom kernelu)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "rad na kernelu (zakrpe vezane za audio i video)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "zakrpe za neke pakete, kfiresaver, xwine. ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (pred-izdanje) koje koegzistira sa Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), kolekcija kursor tema , razni serverski "
+"doprinosi"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms sa dodacima, gnome-"
+"python, rox desktop"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"audio/video/MIDI programi, naučni programi, uputstva za audio/video "
+"produkciju, bluetooth, pyqt i slično"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM stvari, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng i ostali kernelski poslovi"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr "većina web-baziranih paketa i mnogi paketi u vezi sa sigurnošću"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "slbd provjera distribucije, devel ovisnosti"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "rpmsync skripta, jednostavno sviranje MIDI datoteka, ispravke za libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "mnogi dodatni GNOME appleti i Python moduli"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"prijevod na slovački, više raznih paketa, OpenLDAP testiranje i integracija, "
+"bind-sdb-ldap, nekoliko godina korištenja Cookera i otkrivanja bugova itd."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "neke Ruby stvari, PHP-Pear paketi, štošta drugog."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "Moin wiki, Beep-media-player, im-ja i neki drugi paketi"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "prijave bugova, pomoć sa Thunderbird paketom..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"testiranje i prijave bugova, Dovecot, Bibletime, Sword, pomoć sa Pure-Ftpd, "
+"Spamassassin, Maildrop, Clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"podrška za HTTP proxy tokom instalacije, podrška za 2.6 kernel u Sndconfig "
+"alatu, podrška za Samba3 u LinNeighborhood, popravke i proširenja za urpmi, "
+"bootsplash i drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors za 2.6 kernel, testiranje, neki contrib paketi."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine i drugi contrib paketi."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "napisao/uredio dijelove gi/docs/HACKING"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Prevodioci"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Norveški Bokmål (nb) prevodilac i koordinator, i18n stvari"
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "\"čovjek-tim\" za slovački jezik"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Finski prevodilac i koordinator"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Holandski prevodilac i koordinator"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Danski prevodilac (i nešto Bokmåla :-)"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Norveški Nynorsk (nn) prevodilac i koordinator"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Estonski prevodilac"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Italijanski prevodilac"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubović"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Bosanski prevodilac"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Testeri"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "testiranje i prijava bugova, integracija eagle-usb drajvera"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "testiranje i prijava bugova"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "testiranje, prijave bugova, provjera nVidia paketa"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "testiranje, prijave bugova"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, testiranje, prijave bugova"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"I mnogi bezimeni i nepoznati beta testeri i prijavljivači bugova koji su "
+"pomogli da sve radi kako treba."
+
+#: ../control-center:90
+#, fuzzy, c-format
+msgid "OpenMandriva Lx"
+msgstr "Mandriva Online"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "Mandriva Kontrolni centar"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Učitavam... Molim sačekajte."
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Programi"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, fuzzy, c-format
+msgid "Others"
+msgstr "Testeri"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Čarobnjaci za servere"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Dijeljenje"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "Podesi FTP"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "Podesite FTP server"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Podesi Sambu"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Podesite datotečni server i server za štampu za radne stanice na kojima su "
+"Linux i ne-Linux sistemi"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Upravljanje Samba dijeljenjem"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr ""
+"Kreirajte, mijenjajte i brišite javne, korisničke i posebne dijeljene resurse"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Podesi web server"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Podesite web server"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Podesi server za instalaciju"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Podesite server za mrežne instalacije %sa"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Mrežni servisi"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "Podesi DHCP"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "Podesite DHCP server"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "Podesi DNS"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "Podesite DNS server (razrješavanje mrežnih imena)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Podesi proxy"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Podesite web caching proxy server"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Sinhronizacija sata"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr "Podesite sinhronizaciju sistemskog sata sa time serverom"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "Podešavanje OpenSSH servera"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Baza korisnika"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "Podesi NIS i Autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "Podesite NIS i Autofs servise"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "Podesi LDAP"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Podesite LDAP imenički servis"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Groupware"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Podesi news"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Podesite server za news grupe (Usenet)"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Podesi groupware"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Podesite groupware server"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Podesi mail"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Podesite Internet e-mail server"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "On-line administracija"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Lokalna administracija"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Podešavanje lokalnog računara putem web interfejsa"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr "Izgleda da niste instalirali webmin. Lokalno podešavanje je isključeno"
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Udaljena administracija"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+"Kliknite ovdje ako želite podesiti udaljeni računar putem web interfejsa"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Hardware"
+
+#: ../control-center:326
+#, fuzzy, c-format
+msgid "Manage your hardware"
+msgstr "Upravljajte NFS dijeljenim resursima"
+
+#: ../control-center:333
+#, fuzzy, c-format
+msgid "Configure graphics"
+msgstr "Podesi mail"
+
+#: ../control-center:340
+#, fuzzy, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Podesite vaš monitor"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Mreža i Internet"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, fuzzy, c-format
+msgid "Manage your network devices"
+msgstr "Mrežni servisi"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Sistem"
+
+#: ../control-center:403
+#, fuzzy, c-format
+msgid "Manage system services"
+msgstr "Uključite ili isključite sistemske servise"
+
+#: ../control-center:412
+#, fuzzy, c-format
+msgid "Localization"
+msgstr "Lokalna administracija"
+
+#: ../control-center:419
+#, fuzzy, c-format
+msgid "Administration tools"
+msgstr "On-line administracija"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, fuzzy, c-format
+msgid "Network Sharing"
+msgstr "Mrežni servisi"
+
+#: ../control-center:439
+#, fuzzy, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Podesi groupware"
+
+#: ../control-center:446
+#, fuzzy, c-format
+msgid "Configure NFS shares"
+msgstr "Upravljajte NFS dijeljenim resursima"
+
+#: ../control-center:453
+#, fuzzy, c-format
+msgid "Configure WebDAV shares"
+msgstr "Podesi web server"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, fuzzy, c-format
+msgid "Local disks"
+msgstr "Dijeljenje lokalnog diska"
+
+#: ../control-center:490
+#, fuzzy, c-format
+msgid "CD-ROM (%s)"
+msgstr "DVD-ROM"
+
+#: ../control-center:491
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Podesite tačku montiranja vašeg CD-ROM uređaja"
+
+#: ../control-center:493
+#, fuzzy, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM"
+
+#: ../control-center:494
+#, fuzzy, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Podesite tačku montiranja vašeg DVD uređaja"
+
+#: ../control-center:496
+#, fuzzy, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "CD/DVD pisač"
+
+#: ../control-center:497
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Podesite tačku montiranja vašeg CD/DVD pisača"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "ZIP jedinica"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Podesite mjesto montiranja vašeg ZIP uređaja"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Sigurnost"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Boot"
+
+#: ../control-center:533
+#, fuzzy, c-format
+msgid "Configure boot steps"
+msgstr "Sinhronizacija sata"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr ""
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Dodatni čarobnjaci"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Opcije"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Prikaži dnevnik _akcija"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/Otvaraj _stavke unutar prozora"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Čarobnjaci za e_ksperte"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Datoteka"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_Izlaz"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Izlaz"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Teme"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Ova će akcija ponovo pokrenuti kontrolni centar.\n"
+"Promjene koje nisu primijenjene bit će izgubljene."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Više tema"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Pomoć"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Pomoć"
+
+#: ../control-center:668
+#, c-format
+msgid "/_Release notes"
+msgstr ""
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr ""
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr ""
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/Prijavi _grešku"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/O p_rogramu..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Odustani"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "%s kontrolni centar %s [na %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Greška"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"Prijevod programa na vaš jezik je neispravan (%s)\n"
+"\n"
+"Molimo da prijavite bug prevodiocu."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Ne mogu pokrenuti nepoznati program '%s'"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Izmjene u trenutnom modulu neće biti snimljene."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "ne mogu napraviti fork: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "ne mogu napraviti fork i exec \"%s\" pošto nije izvršna datoteka"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Ovaj program nije zaustavljen na pravilan način."
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Upozorenje"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Zatvori"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Više tema"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Nabavka novih tema"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Dodatne teme"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Dodatne teme možete naći na www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "O - %s Kontrolnom centru"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Autori: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(Perl verzija)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Grafika: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Vedran Ljubović"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "<vljubovic@smartnet.ba>"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Prevodilac: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, fuzzy, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "Mandriva Kontrolni centar"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Autorska prava (C) %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Autori"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "OpenMandriva Lxu su doprinijeli"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Prikaz"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Tastatura"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Miš"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Korisnici i grupe"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Servisi"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Firewall"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Boot loader"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Auto-instalacija"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Dijeljenje Internet konekcije"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "3D efekti"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Particije"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Kontrolni centar"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Izaberite alat koji želite koristiti"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "Podesite 3D desktop efekte"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+"Izaberite metodu provjere identiteta (lokalno, NIS, LDAP, Windows domena...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, fuzzy, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "Uključite automatsku prijavu i izaberite korisnika"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr "Uključite automatsku prijavu i izaberite korisnika"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Backup"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "Podesite sigurnosne kopije sistema i korisničkih podataka"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:108
+#, fuzzy, c-format
+msgid "Set up boot system"
+msgstr "Podesite kako se sistem pokreće"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Podesite kako se sistem pokreće"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, fuzzy, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Izaberite grafičku temu sistema prilikom pokretanja"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Izaberite grafičku temu sistema prilikom pokretanja"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Dijelite Internet vezu sa drugim lokalnim računarima"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Podesite novi mrežni interfejs (LAN, ISDN, ADSL...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Internet pristup"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Izmijenite razne Internet postavke"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, fuzzy, c-format
+msgid "Open a console as administrator"
+msgstr "Otvori konzolu"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, fuzzy, c-format
+msgid "Manage date and time"
+msgstr "Datum i vrijeme"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, fuzzy, c-format
+msgid "Set up display manager"
+msgstr "Display manager"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+"Izaberite 'display manager' - program kojim birate korisnika prilikom prijave"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Podesi faks server"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr ""
+"Podesite lični firewall (vatrozid) kako biste zaštitili računar i mrežu"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr ""
+"Upravljajte fontovima, dodajte i uklanjajte fontove. Prenesite fontove iz "
+"Windows-a(TM)"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Podesite grafički server"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, fuzzy, c-format
+msgid "Manage disk partitions"
+msgstr "Podesite lokalna imena za računare (DNS)"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Napravite, obrišite i promijenite veličinu hard disk particija"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, fuzzy, c-format
+msgid "Browse and configure hardware"
+msgstr "Pregledajte i podesite hardware"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, fuzzy, c-format
+msgid "Sound Configuration"
+msgstr "Podešavanje proxy-ja"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Hosts definicije"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Podesite lokalna imena za računare (DNS)"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, fuzzy, c-format
+msgid "Install & Remove Software"
+msgstr "Instaliraj softver"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, fuzzy, c-format
+msgid "Install, uninstall software"
+msgstr "Instalirani software"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, fuzzy, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr "Podesite failover mrežnih interfejsa i replikaciju firewalla"
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr "Podesite failover mrežnih interfejsa i replikaciju firewalla"
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Podesite raspored tipaka na tastaturi"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Podesite groupware server"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Izaberite jezik i državu odnosno oblast za ovaj sistem"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Pregledajte i pretražite sistemske dnevnike (logove)"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Upravljanje konekcijama"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Promijenite postavke mrežnog interfejsa"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Upravljanje grupom računara"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Upravljajte instaliranim softverskim paketima na grupi računara"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"Pregledajte nove verzije paketa koje su dostupne i ažurirajte instalirane "
+"pakete"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Stil menija"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Podesite stil vašeg menija"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Nadzor konekcija"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Pregledajte mrežne konekcije"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Podesite pokazivački uređaj (miš, touchpad)"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:418
+#, fuzzy, c-format
+msgid "Network Center"
+msgstr "Mreža i Internet"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, fuzzy, c-format
+msgid "Manage different network profiles"
+msgstr "Mrežni servisi"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Aktivirajte i upravljajte mrežnim profilima"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "Podesite NFS tačke montiranja"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "Upravljajte NFS dijeljenim resursima"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Statistika paketa"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Prikaži statistiku upotrebe instaliranih softverskih paketa"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, fuzzy, c-format
+msgid "Share your hard disk partitions"
+msgstr "Podesite dijeljenje (sharing) particija vašeg diska"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Podesite dijeljenje (sharing) particija vašeg diska"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Podesite štampače, redove za štampu..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Zakazani zadaci"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr "Zakažite izvršavanje programa u određenim terminima"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Proxy"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "Podesite proxy server za datoteke i pretraživanje weba"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Daljinsko upravljanje (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Daljinsko upravljanje drugom mašinom (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Obriši konekciju"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Obrišite mrežni interfejs"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Bežična veza"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Podesite konfiguraciju Samba servera"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Podesite skener"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, fuzzy, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Fino podesite sigurnost i dozvole na sistemu"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, fuzzy, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr "Podesite sistemski nivo sigurnosti i periodične procjene sigurnosti"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:593
+#, fuzzy, c-format
+msgid "Select from where software packages are downloaded "
+msgstr "Izaberite odakle će biti preuzeti paketi prilikom ažuriranja sistema"
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "Podesi groupware"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "Podesite UPS za nadzor električne energije"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, fuzzy, c-format
+msgid "Manage users on system"
+msgstr "Dodajte, uklonite ili izmijenite korisnike na sistemu"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Dodajte, uklonite ili izmijenite korisnike na sistemu"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, fuzzy, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Podesite Virtual Private Networking (VPN)"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "Podesite WebDAV tačke montiranja"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Centar za editovanje menija"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Sistemski meni"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Podesi..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Korisnički meni"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Izaberite meni koji želite izmijeniti"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Podešavanje štampanja"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Kliknite ovdje da podesite sistem za štampu"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Gotovo"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Autologin"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Datum i vrijeme"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Nova konekcija"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Disketa za auto-instalaciju"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Startovanje sistema"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Zakazani zadaci"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Display manager"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Boot disketa"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Fontovi"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Privilegije"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Nivoi i provjere"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "TV kartica"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Dijeljenje particija"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Hard diskovi"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Logovi"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Meniji"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Diskovi i dijeljenje"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "NFS tačke montiranja"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Štampači"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Podešavanje proxy-ja"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Izmjenjivi uređaji"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Ukloni konekciju"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Samba tačke montiranja"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Skeneri"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Sistemske postavke"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Korisnici i grupe"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "WebDAV tačke montiranja"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Grafički server"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Monitor"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Rezolucija ekrana"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Podesite vaš računar"
+
+#, fuzzy
+#~ msgid "Set up security level and audit"
+#~ msgstr "Podesite sistemski nivo sigurnosti i periodične procjene sigurnosti"
+
+#, fuzzy
+#~ msgid "Tune permissions on system"
+#~ msgstr "Fino podesite sigurnost i dozvole na sistemu"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Dobro došli u %s Kontrolni centar"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Napravi auto instalacijsku disketu"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Napravi samostalnu boot disketu"
+
+#, fuzzy
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ "Pošaljite vašu konfiguraciju kako bismo vas mogli informisali o "
+#~ "sigurnosnim ispravkama i korisnim nadogradnjama"
+
+#, fuzzy
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "Pošaljite vašu konfiguraciju kako bismo vas mogli informisali o "
+#~ "sigurnosnim ispravkama i korisnim nadogradnjama"
+
+#~ msgid "Floppy drive"
+#~ msgstr "Disketna jedinica"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Podesite mjesto montiranja vašeg disketnog uređaja"
+
+#~ msgid "/_Upload the hardware list"
+#~ msgstr "/Pošalji spisak _hardvera"
+
+#~ msgid "<control>U"
+#~ msgstr "<control>U"
+
+#~ msgid "Upload the hardware list"
+#~ msgstr "Pošalji spisak hardvera"
+
+#~ msgid "Account:"
+#~ msgstr "Račun:"
+
+#~ msgid "Password:"
+#~ msgstr "Šifra:"
+
+#~ msgid "Hostname:"
+#~ msgstr "Ime računara:"
+
+#~ msgid "Please wait"
+#~ msgstr "Molim sačekajte"
+
+#~ msgid "Uploading in progress"
+#~ msgstr "Slanje je u toku"
+
+#, fuzzy
+#~ msgid "Manage software"
+#~ msgstr "Upravljajte NFS dijeljenim resursima"
+
+#, fuzzy
+#~ msgid "Use NFS shares"
+#~ msgstr "Upravljajte NFS dijeljenim resursima"
+
+#~ msgid "Manage Samba configuration"
+#~ msgstr "Izmjena Samba konfiguracije"
+
+#, fuzzy
+#~ msgid "Use WebDAV shares"
+#~ msgstr "Podesi web server"
+
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#~ msgid "Boot theme"
+#~ msgstr "Boot tema"
+
+#~ msgid "Console"
+#~ msgstr "Konzola"
+
+#~ msgid "Adjust the date and the time"
+#~ msgstr "Prilagodite datum i vrijeme"
+
+#~ msgid "Fax"
+#~ msgstr "Faks"
+
+#~ msgid "Software Media Manager"
+#~ msgstr "Upravitelj medijima softvera"
+
+#~ msgid "Invictus Firewall"
+#~ msgstr "Invictus Firewall"
+
+#~ msgid "Language"
+#~ msgstr "Jezik"
+
+#~ msgid "Country / Region"
+#~ msgstr "Država / Oblast"
+
+#~ msgid "Updates"
+#~ msgstr "Ažuriranje sistema"
+
+#, fuzzy
+#~ msgid "Control and configure network connections"
+#~ msgstr "Pregledajte mrežne konekcije"
+
+#~ msgid "Network Profiles"
+#~ msgstr "Mrežni profili"
+
+#~ msgid "Local disk sharing"
+#~ msgstr "Dijeljenje lokalnog diska"
+
+#~ msgid "Level and checks"
+#~ msgstr "Nivoi i provjere"
+
+#~ msgid "Enable or disable the system services"
+#~ msgstr "Uključite ili isključite sistemske servise"
+
+#~ msgid "Media Manager"
+#~ msgstr "Upravljanje medijima"
+
+#~ msgid "UPS"
+#~ msgstr "UPS"
+
+#~ msgid "VPN configuration"
+#~ msgstr "Podešavanje VPNa"
+
+#, fuzzy
+#~ msgid "Configure Software management"
+#~ msgstr "Programi"
+
+#~ msgid "Install"
+#~ msgstr "Instalacija"
+
+#~ msgid "Look at installable software and install software packages"
+#~ msgstr "Pregledajte programe koji se mogu instalirati i instalirajte pakete"
+
+#~ msgid "Remove"
+#~ msgstr "Ukloni"
+
+#~ msgid "Look at installed software and uninstall software packages"
+#~ msgstr "Pregledajte instalirani software i deinstalirajte pakete"
+
+#~ msgid "Screen resolution"
+#~ msgstr "Rezolucija ekrana"
+
+#~ msgid "Change the screen resolution"
+#~ msgstr "Promijenite rezoluciju ekrana"
+
+#~ msgid "TV card"
+#~ msgstr "TV kartica"
+
+#~ msgid "Set up TV card"
+#~ msgstr "Podesite TV karticu"
+
+#~ msgid "/_Expert mode"
+#~ msgstr "/_Ekspertni mod"
+
+#~ msgid "Set Samba mount points"
+#~ msgstr "Podesite Samba tačke montiranja"
+
+#~ msgid "Samba printing configuration"
+#~ msgstr "Podešavanje Samba štampanja"
+
+#~ msgid "Enable or disable printers in your Samba server configuration"
+#~ msgstr "Uključite ili isključite štampače u konfiguraciji Samba servera"
+
+#~ msgid "(original C version)"
+#~ msgstr "(izvorna C verzija)"
+
+#~ msgid "(design)"
+#~ msgstr "(dizajn)"

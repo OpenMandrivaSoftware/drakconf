@@ -1,0 +1,16 @@
+# current maintainers:
+
+Thierry Vignaud <tvignaud@mandrakesoft.com> : alpha layer support for
+icons, animation on application startup, lot of bugs :-(, ...
+
+Daouda Lo <daouda@mandrakesoft.com> : mdk8.0 contributions, lot of
+logdrake & process fixes :-), ...
+
+# Old maintainers and authors
+# (no more working for mandrakesoft):
+
+Yves Duret 	<yduret@mandrakesoft.com> : perl version
+
+Damien Krotkine <damien@mandrakesoft.com> : logdrake interaction
+
+Chmouel Boudjnah <chmouel@mandrakesoft.com> : original C version

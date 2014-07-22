@@ -1,0 +1,2199 @@
+# Lithuanian translation of DrakConf
+# Copyright (C) 2000 Free Software Foundation, Inc.
+# Gediminas Paulauskas <menesis@delfi.lt>, 2000,2002.
+# Mykolas Norvaišas <Myka@centras.lt>, 1999-2001.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf 0.96\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2005-09-26 15:35+0200\n"
+"Last-Translator: Arvydas Svirka <arvydas@arvis.lt>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%"
+"100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Paketų kūrėjai"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"didelių paketų pertvarkymas ir valymas, žaidimai, sparc prievadas, Mandriva "
+"įrankių taisymas"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "cowsay pristatymas"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "figlet pristatymas, Distriblint (tikrina distro rpm)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, atnaujinta abiword, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"atnaujinta nc su debian pataisymais, pataisyti kai kurie perl paketai, "
+"dnotify paleidimo skriptas, urpmc, hddtemp, wipe, ir t.t...."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"\"gilus ir platus\" darbas su branduoliu (daug naujų pataisymų prieš "
+"integraciją į oficialų branduolį)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "darbas su branduoliu (audio- ir video- pataisymai)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "kai kurių paketų pataisymai, kfiresaver, xwine. ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (pirma versija), kuri koegzistuoja su Samba 2.2.x, Samba-2.2.x, "
+"GIS programos (grass, mapserver), kursoriaus temų rinkinys, įvairi pagalba "
+"dėl serverių"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms ir priedai gnome-"
+"python, rox desktop"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"audio/video/MIDI programos, mokslinės programos, audio/video produkcijos "
+"instrukcijos, bluetooth, pyqt ir kiti susiję darbai"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM darbai, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng ir kiti darbai su branduoliu"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr "dauguma web ir nemažai saugumo paketų"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "slbd distro tikrinimas, devel priklausiniai"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "rpmsync skriptas, paprastas MIDI grotuvas, patobulintas libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "daug papildomų gnome taikomųjų programų ir python moduliai"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"sk-i18n, pagalba kuriant keletą paketų, openldap bandymas ir integravimas, "
+"bind-sdb-ldap, keleri metai programinės įrangos bandymo ir klaidų paieškos "
+"ir t.t...."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "dalis ruby programų, php-pear paketai, įvairūs kiti darbai."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "moin wiki clone, beep-media-player, im-ja ir kiti paketai"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "pranešimai apie klaidas, pagalba su thunderbird paketu,..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"bandymas ir pranešimai apie klaidas, Dovecot, bibletime, sword, pagalba su "
+"pure-ftpd, spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"http tarpinių serverių palaikymas diegimo programoje, branduolio 2.6 "
+"palaikymas sndconfig, samba3 palaikymas LinNeighborhood, urpmi pataisymai ir "
+"patobulinimai, bootsplash ir drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr ""
+"lm_sensors 2.6 branduoliui, bandymas, bendradarbiavimas kuriant kitus "
+"paketus."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine ir kiti bendri paketai."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "parašytos/redaguotos gi/docs/HACKING bylos dalys"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Vertėjai"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Norvegų Bokmal (nb) vertėjas ir koordinatorius, i18n darbas"
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "\"vieno žmogaus\" mdk sk-i18n komanda"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Suomių vertėjas ir koordinatorius"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Vokiečių vertėjas ir koordinatorius"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Danų vertėjas (ir šiek tiek Bokmal :-)"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Norvegų Nynorsk (nn) vertėjas ir koordinatorius"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Estų vertėjas"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Italų vertėjas"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Bosnijos vertėjas"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Bandytojai"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "bandymas ir pranešimai apie klaidas, eagle-usb valdyklės integravimas"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "bandymas ir pranešimai apie klaidas"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "bandymas, pranešimai apie klaidas, Nvidia paketo bandymas"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "bandymas, pranešimai apie klaidas"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, bandymas, pranešimai apie klaidas"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"Ir daug neįvardintų ir nežinomų beta versijos bandytojų ir klaidų pranešėjų, "
+"kurie padėjo, kad viskas puikiai veiktų."
+
+#: ../control-center:90
+#, fuzzy, c-format
+msgid "OpenMandriva Lx"
+msgstr "Mandriva Online"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "%s valdymo centras"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Kraunama... Prašome palaukti"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Programinės įrangos tvarkyklė"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, fuzzy, c-format
+msgid "Others"
+msgstr "Bandytojai"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Serverio vedliai"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Dalijimasis"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "Konfigūruoti FTP"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "FTP serverio nustatymas"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Konfigūruoti Samba"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Bylų ir spausdinimo serverių nustatymas kompiuteriams, dirbantiems su Linux "
+"ir ne su Linux sistemomis"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Valdyti Samba dalijimą"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr "Valdyti, sukurti specialųjį dalijimą, sukurti viešą/vartotojo dalijimą"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Konfigūruoti web serverį"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Nustatyti web serverį"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Konfigūruoti įdiegimo serverį"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Serverio nustatymas %s įdiegimui per tinklą"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Tinklo paslaugos"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "Konfigūruoti DHCP"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "DHCP serverio nustatymas"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "Konfigūruoti DNS"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "DND serverio nustatymas (tinklo vardų raiška)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Konfigūruoti tarpinį serverį"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Konfigūruoti web spartinimo tarpinį serverį"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Konfigūruoti laiką"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+"Laiko nustatymas serveriui, kuris bus sinchronizuotas su išoriniu laiko "
+"serveriu"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "OpenSSH programos konfigūracija"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Atpažinimas"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "Konfigūruoti NIS ir Autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "Konfigūruoti NIS ir Autofs paslaugas"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "Konfigūruoti LDAP"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Konfigūruoti LDAP katalogų paslaugas"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Grupinis darbas"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Konfigūruoti naujienas"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Konfigūruoti naujienų grupės serverį"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Konfigūruoti grupinį darbą"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Konfigūruoti grupinio darbo serverį"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Konfigūruoti paštą"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Konfigūruoti Interneto pašto paslaugas"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Administravimas per tinklą"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Vietinis administravimas"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Vietinio kompiuterio konfigūravimas per web sąsają"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr "Atrodo, kad jūs neįdiegėte webmin. Vietinis konfigūravimas uždraustas"
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Nuotolinis administravimas"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr "Jei norite per Web sąsają konfigūruoti nuotolinį langą, spauskite čia"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Įranga"
+
+#: ../control-center:326
+#, fuzzy, c-format
+msgid "Manage your hardware"
+msgstr "Valdyti NFS dalijimus"
+
+#: ../control-center:333
+#, fuzzy, c-format
+msgid "Configure graphics"
+msgstr "Konfigūruoti paštą"
+
+#: ../control-center:340
+#, fuzzy, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Konfigūruoti vaizduoklį"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Tinklas ir Internetas"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, fuzzy, c-format
+msgid "Manage your network devices"
+msgstr "Tinklo paslaugos"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Sistema"
+
+#: ../control-center:403
+#, fuzzy, c-format
+msgid "Manage system services"
+msgstr "Sistemos paslaugų įjungimas arba išjungimas"
+
+#: ../control-center:412
+#, fuzzy, c-format
+msgid "Localization"
+msgstr "Vietinis administravimas"
+
+#: ../control-center:419
+#, fuzzy, c-format
+msgid "Administration tools"
+msgstr "Administravimas per tinklą"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, fuzzy, c-format
+msgid "Network Sharing"
+msgstr "Tinklo paslaugos"
+
+#: ../control-center:439
+#, fuzzy, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Konfigūruoti grupinį darbą"
+
+#: ../control-center:446
+#, fuzzy, c-format
+msgid "Configure NFS shares"
+msgstr "Valdyti NFS dalijimus"
+
+#: ../control-center:453
+#, fuzzy, c-format
+msgid "Configure WebDAV shares"
+msgstr "Konfigūruoti web serverį"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, fuzzy, c-format
+msgid "Local disks"
+msgstr "Dalijimasis vietiniu disku"
+
+#: ../control-center:490
+#, fuzzy, c-format
+msgid "CD-ROM (%s)"
+msgstr "DVD diskų įrenginys"
+
+#: ../control-center:491
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Nustatykite, kur sumontuotas kompaktinių diskų įrenginys"
+
+#: ../control-center:493
+#, fuzzy, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD diskų įrenginys"
+
+#: ../control-center:494
+#, fuzzy, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Nustatykite, kur sumontuotas DVD diskų įrenginys"
+
+#: ../control-center:496
+#, fuzzy, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "CD/DVD įrašymo įrenginys"
+
+#: ../control-center:497
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Nustatykite, kur sumontuotas CD/DVD diskų įrašymo įrenginys"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "ZIP įrenginys"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Nustatykite, kur sumontuotas ZIP įrenginys"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Saugumas"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Įkrovimas"
+
+#: ../control-center:533
+#, fuzzy, c-format
+msgid "Configure boot steps"
+msgstr "Konfigūruoti laiką"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr ""
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Papildomi vedliai"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/Nu_ostatos"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Rodyti _išrašus"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/_Įterptinė veiksena "
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Eksperto veiksena _vedliuose"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Byla"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/Bai_gti"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Baigti"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Temos"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Šiuo veiksmu perkrausite kontrolės centrą.\n"
+"Visi neišsaugoti pakeitimai bus prarasti."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Daugiau temų"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Pagalba"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Pagalba"
+
+#: ../control-center:668
+#, fuzzy, c-format
+msgid "/_Release notes"
+msgstr "/_Pašalinti"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr ""
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr ""
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/Pranešti apie _klaidą"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/_Apie..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "%s valdymo centras %s [čia: %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Klaida"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"Jūsų kalbos vertime yra klaida (%s)\n"
+"\n"
+"Prašome pranešti apie šią klaidą."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Neįmanoma paleisti nežinomos '%s' programos"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Esamo modulio pakeitimai nebus išsaugoti"
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "negaliu vykdyti fork komandos: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "negaliu vykdyti fork ir exec komandų \"%s\" nes jis nėra vykdomasis"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Ši programa buvo uždaryta nenormaliai"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Įspėjimas"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Uždaryti"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Daugiau temų"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Naujų temų gavimas"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Papildomos temos"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Gauti papildomas temas iš www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Apie - %s valdymo centras"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Autoriai: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(perl versija)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Dizainas: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+"_: NAME OF TRANSLATORS\n"
+"Jūsų vardai"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""
+"_: EMAIL OF TRANSLATORS\n"
+"Jūsų el. pašto adresai"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Vertėjas:"
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, fuzzy, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "%s valdymo centras"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Autorinės teisės © %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Autoriai"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "OpenMandriva Lx bendradarbiai"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Rodyti"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Klaviatūra"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Pelė"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Vartotojai ir grupės"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Paslaugos"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Ugniasienė"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Įkrovimo programa"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Automatinis įdiegimas"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Interneto prieigos dalinimasis"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr ""
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Skirsniai"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Valdymo centras"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Pasirinkite, kurį įrankį naudosite"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, fuzzy, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "Konfigūruoti naujienų grupės serverį"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+"Pasirinkite atpažinimo metodą (vietinis, NIS, LDAP, Windows domenas, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, fuzzy, c-format
+msgid "Set up autologin to automatically log in"
+msgstr ""
+"Įgalinti automatinį prisijungimą ir parinkti vartotoją, kuriam bus suteiktos "
+"automatinio prisijungimo teisės"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+"Įgalinti automatinį prisijungimą ir parinkti vartotoją, kuriam bus suteiktos "
+"automatinio prisijungimo teisės"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Dubliavimas"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "Konfigūruoti sistemos ir vartotojų duomenų dubliavimą"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:108
+#, fuzzy, c-format
+msgid "Set up boot system"
+msgstr "Nustatyti, kaip sistema įsikraus"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Nustatyti, kaip sistema įsikraus"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, fuzzy, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Pasirinkite grafinę sistemos įkrovos temą"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Pasirinkite grafinę sistemos įkrovos temą"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Dalintis Inerneto prieiga su kitais vietiniais kompiuteriais"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Nustatyti naują tinklo sąsają (LAN, ISDN, ADSL, ...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Interneto prieiga"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Pakeisti įvairias Interneto nuostatas"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, fuzzy, c-format
+msgid "Open a console as administrator"
+msgstr "Atidaryti konsolę"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, fuzzy, c-format
+msgid "Manage date and time"
+msgstr "Data ir laikas"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, fuzzy, c-format
+msgid "Set up display manager"
+msgstr "Vaizdo valdyklė"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+"Pasirinkite ekrano tvarkyklę, kurios pagalba galėsite pasirinkti, kurio "
+"vartotojo vardu prisijungti"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Fakso serverio konfigūravimas"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr "Nustatyti asmeninę ugniasienę kompiuterio ir tinklo apsaugai"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr ""
+"Tvarkyti, įtraukti ir pašalinti šriftus. Importuoti Windows(TM) šriftus"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Nustatyti grafinį serverį"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, fuzzy, c-format
+msgid "Manage disk partitions"
+msgstr "Valdyti stočių aprašus"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Sukurti, pakeisti dydį ir ištrinti kietojo disko skirsnius"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, fuzzy, c-format
+msgid "Browse and configure hardware"
+msgstr "Peržvelgti ir konfigūruoti įrangą"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, fuzzy, c-format
+msgid "Sound Configuration"
+msgstr "Tarpinio serverio konfigūravimas"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Stočių aprašai"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Valdyti stočių aprašus"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, fuzzy, c-format
+msgid "Install & Remove Software"
+msgstr "Instaliuoja ir peržiūri šriftus"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, fuzzy, c-format
+msgid "Install, uninstall software"
+msgstr "Įdiegta programinė įranga"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Nustatyti klaviatūros išdėstymą"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Nustatyti grupinio darbo serverį"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Nustatyti šalies ar regiono kalbą sistemai"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Peržiūrėti ir ieškoti sistemos išrašų"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Tvarkyti ryšius"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Pakeisti tinklo sąsajos konfigūravimą"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Tvarkyti kompiuterių grupę"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Tvarkyti įdiegtos programinės įrangos paketus kompiuterių grupėje"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"Peržiūrėti galimus atnaujinimus ir pataisyti arba atnaujinti įdiegtus paketus"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Meniu stilius"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, fuzzy, c-format
+msgid "Menu Style Configuration"
+msgstr "Meniu konfigūravimo centras"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Kontroliuoti ryšius"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Kontroliuoti tinklo ryšius"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Nustatyti žymeklio įtaisą (pelę, žymeklio valdymo aikštelę)"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:418
+#, fuzzy, c-format
+msgid "Network Center"
+msgstr "Tinklas ir Internetas"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, fuzzy, c-format
+msgid "Manage different network profiles"
+msgstr "Tinklo paslaugos"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "Nustatyti NFS sukūrimo taškus"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "Valdyti NFS dalijimus"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Paketo statistika"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Rodyti įdiegtos programinės įrangos paketų naudojimo statistiką"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, fuzzy, c-format
+msgid "Share your hard disk partitions"
+msgstr "Nustatyti dalijimąsi kietojo disko skirsniais"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Nustatyti dalijimąsi kietojo disko skirsniais"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Nustatyti spausdintuvą(-us), spausdinimo darbų eiles, ..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Planuotos užduotys"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr "Sudaryti programų periodinio ar tam tikru laiku paleidimo planą"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Tarpinis serveris"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "Nustatyti tarpinį serverį bylų ir web naršymui"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Nuotolinis valdymas (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Kito kompiuterio nuotolinis valdymas (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Pašalinti ryšį"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Ištrinti tinklo sąsają"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Bevielis ryšys"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Samba valdymo konfigūracija"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Nustatyti skaitytuvą"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, fuzzy, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Sistemos saugumo leidimų tikslus nustatymas"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, fuzzy, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr "Nustatykite sistemos saugumo lygį ir periodinį saugumo patikrinimą"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:593
+#, fuzzy, c-format
+msgid "Select from where software packages are downloaded "
+msgstr ""
+"Pasirinkite iš kur, sistemos atnaujinimo metu, bus atsiunčiami programinės "
+"įrangos paketai"
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "Konfigūruoti grupinį darbą"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "UPS nustatymas elektros energijos kontrolei"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, fuzzy, c-format
+msgid "Manage users on system"
+msgstr "Įtraukti, pašalinti arba pakeisti sistemos vartotojus"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Įtraukti, pašalinti arba pakeisti sistemos vartotojus"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, fuzzy, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Kontroliuoti ryšius"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "Nustatyti WebDAV sukūrimo taškus"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Meniu konfigūravimo centras"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Sistemos meniu"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Konfigūruoti..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Vartotojo meniu"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Pasirinkite, kurį meniu norite konfigūruoti"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Spausdinimo konfigūravimas"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Spausdinimo sistemos konfigūravimui spauskite čia"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Atlikta"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Automatinis prisijungimas"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Data ir laikas"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Naujas ryšys"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Automatinio įdiegimo diskelis"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Įkrovimo įkėlimas"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Programų plano sudarymas"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Vaizdo valdyklė"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Įkrovimo diskelis"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Šriftai"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Leidimai"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Lygiai ir patikrinimai"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "TV plokštės"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Dalijimasis skirsniu"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Kietieji diskai"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Serverio išrašai"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Meniu"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Sukūrimo taškai"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "NFS sukūrimo taškai"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Spausdintuvai"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Tarpinio serverio konfigūravimas"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Kilnojami įtaisai"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Pašalinti ryšį"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Samba sukūrimo taškai"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Skaitytuvai"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Sistemos nuostatos"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Vartotojai ir grupės"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "WebDAV sukūrimo taškai"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Grafinis serveris"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Vaizduoklis"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Ekrano raiška"
+
+#: ../drakconf.desktop.in.h:1
+#, fuzzy
+msgid "Configure Your Computer"
+msgstr "Konfigūruoti grupinį darbą"
+
+#, fuzzy
+#~ msgid "Set up security level and audit"
+#~ msgstr "Nustatykite sistemos saugumo lygį ir periodinį saugumo patikrinimą"
+
+#, fuzzy
+#~ msgid "Tune permissions on system"
+#~ msgstr "Sistemos saugumo leidimų tikslus nustatymas"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Sveiki atvykę į %s valdymo centrą"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Sukurti automatinio įdiegimo diskelį"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Sukurti savarankišką įkrovimo diskelį"
+
+#, fuzzy
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ "Atsiųskite savo sistemos konfigūraciją, kad galėtumėte gauti informaciją "
+#~ "apie saugumo pataisymus ir naudingus atnaujinimus"
+
+#, fuzzy
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "Atsiųskite savo sistemos konfigūraciją, kad galėtumėte gauti informaciją "
+#~ "apie saugumo pataisymus ir naudingus atnaujinimus"
+
+#~ msgid "Floppy drive"
+#~ msgstr "Diskelių įrenginys"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Nustatykite, kur sumontuotas diskelių įrenginys"
+
+#, fuzzy
+#~ msgid "<control>U"
+#~ msgstr "<control>Q"
+
+#~ msgid "Account:"
+#~ msgstr "Paskyra:"
+
+#~ msgid "Password:"
+#~ msgstr "Slaptažodis:"
+
+#~ msgid "Hostname:"
+#~ msgstr "Mazgo vardas:"
+
+#~ msgid "Please wait"
+#~ msgstr "Prašom palaukti"
+
+#, fuzzy
+#~ msgid "Manage software"
+#~ msgstr "Valdyti NFS dalijimus"
+
+#, fuzzy
+#~ msgid "Use NFS shares"
+#~ msgstr "Valdyti NFS dalijimus"
+
+#~ msgid "Manage Samba configuration"
+#~ msgstr "Valdyti Samba konfigūraciją"
+
+#, fuzzy
+#~ msgid "Use WebDAV shares"
+#~ msgstr "Konfigūruoti web serverį"
+
+#~ msgid "CD-ROM"
+#~ msgstr "Kompaktinių diskų įrenginys"
+
+#~ msgid "Boot theme"
+#~ msgstr "Įkrovimo tema"
+
+#~ msgid "Console"
+#~ msgstr "Konsolė"
+
+#~ msgid "Adjust the date and the time"
+#~ msgstr "Nustatyti datą ir laiką"
+
+#~ msgid "Fax"
+#~ msgstr "Faksas"
+
+#, fuzzy
+#~ msgid "Software Media Manager"
+#~ msgstr "Programinės įrangos įdiegimas"
+
+#, fuzzy
+#~ msgid "Invictus Firewall"
+#~ msgstr "Ugniasienė"
+
+#~ msgid "Language"
+#~ msgstr "Kalba"
+
+#~ msgid "Country / Region"
+#~ msgstr "Šalis/regionas"
+
+#~ msgid "Updates"
+#~ msgstr "Atnaujinimai"
+
+#, fuzzy
+#~ msgid "Control and configure network connections"
+#~ msgstr "Kontroliuoti tinklo ryšius"
+
+#, fuzzy
+#~ msgid "Network Profiles"
+#~ msgstr "Tinklo paslaugos"
+
+#~ msgid "Local disk sharing"
+#~ msgstr "Dalijimasis vietiniu disku"
+
+#~ msgid "Level and checks"
+#~ msgstr "Lygis ir patikrinimai"
+
+#~ msgid "Enable or disable the system services"
+#~ msgstr "Sistemos paslaugų įjungimas arba išjungimas"
+
+#~ msgid "Media Manager"
+#~ msgstr "Media tvarkyklė"
+
+#~ msgid "UPS"
+#~ msgstr "Nepertraukiamo maitinimo šaltinis (UPS)"
+
+#, fuzzy
+#~ msgid "VPN configuration"
+#~ msgstr "LAN Konfiguravimas"
+
+#, fuzzy
+#~ msgid "Configure Software management"
+#~ msgstr "Programinės įrangos tvarkyklė"
+
+#~ msgid "Install"
+#~ msgstr "Įdiegti"
+
+#~ msgid "Look at installable software and install software packages"
+#~ msgstr ""
+#~ "Peržvelgti programinę įrangą, skirtą įdiegimui, ir įdiegti programinės "
+#~ "įrangos paketus"
+
+#~ msgid "Remove"
+#~ msgstr "Pašalinti"
+
+#~ msgid "Look at installed software and uninstall software packages"
+#~ msgstr ""
+#~ "Peržiūrėti įdiegtą programinę įrangą ir pašalinti programinės įrangos "
+#~ "paketus"
+
+#~ msgid "Screen resolution"
+#~ msgstr "Ekrano raiška"
+
+#~ msgid "Change the screen resolution"
+#~ msgstr "Pakeisti ekrano raišką"
+
+#~ msgid "TV card"
+#~ msgstr "TV plokštė"
+
+#~ msgid "Set up TV card"
+#~ msgstr "Nustatyti TV plokštę"
+
+#~ msgid "/_Expert mode"
+#~ msgstr "/_Experto režimas"
+
+#~ msgid "Set Samba mount points"
+#~ msgstr "Nustatyti Samba sukūrimo taškus"
+
+#~ msgid "Samba printing configuration"
+#~ msgstr "Samba spausdinimo konfigūracija"
+
+#~ msgid "Enable or disable printers in your Samba server configuration"
+#~ msgstr "Įjungti arba išjungti spausdintuvus Samba serverio konfigūracijoje"
+
+#~ msgid "(original C version)"
+#~ msgstr "(originali C versija)"
+
+#~ msgid "(design)"
+#~ msgstr "(projektas)"
+
+#~ msgid ""
+#~ "Select the application menu layout and change which programs are shown on "
+#~ "the menu"
+#~ msgstr ""
+#~ "Pasirinkite programos meniu išdėstymą ir nustatykite, kurios programos "
+#~ "bus rodomos meniu"
+
+#~ msgid ""
+#~ "We are about to switch from the \"%s\" profile to the \"%s\" profile.\n"
+#~ "\n"
+#~ "Are you sure you want to do the switch?"
+#~ msgstr ""
+#~ "Jūs perjungsite \"%s\" profilį į \"%s\" profilį.\n"
+#~ "\n"
+#~ "Ar tikrai norite perjungti?"
+
+#~ msgid "/_Profiles"
+#~ msgstr "/_Profiliai"
+
+#~ msgid "/_New"
+#~ msgstr "/_Naujas"
+
+#~ msgid "New profile..."
+#~ msgstr "Naujas profilis..."
+
+#~ msgid ""
+#~ "Name of the profile to create (the new profile is created as a copy of "
+#~ "the current one):"
+#~ msgstr ""
+#~ "Sukuriamo profilio vardas (naujas profilis yra sukuriamas nukopijuojant "
+#~ "esamą):"
+
+#~ msgid "Ok"
+#~ msgstr "Gerai"
+
+#~ msgid "The \"%s\" profile already exists!"
+#~ msgstr "\"%s\" profilis jau yra!"
+
+#~ msgid "Delete profile"
+#~ msgstr "Ištrinti profilį"
+
+#~ msgid "Profile to delete:"
+#~ msgstr "Ištrinti šį profilį:"
+
+#~ msgid "You can not delete the current profile"
+#~ msgstr "Jūs negalite ištrinti esamo profilio"
+
+#~ msgid ""
+#~ "massive packages rebuilding and cleaning, games, sparc port, proofreading "
+#~ "of Mandrake tools"
+#~ msgstr ""
+#~ "didelių paketų atstatymas ir valymas, žaidimai, sparc prievadas, Mandrake "
+#~ "įrankių taisymas"
+
+#~ msgid "Mandrakelinux Control Center"
+#~ msgstr "Mandrakelinux valdymo centras"
+
+#~ msgid "Mandrakeonline"
+#~ msgstr "Mandrakeonline"
+
+#~ msgid "Set up server for network installations of Mandrakelinux"
+#~ msgstr "Mandrakelinux įdiegimo per tinklą nustatymas"
+
+#~ msgid "Mandrakelinux Control Center %s [on %s]"
+#~ msgstr "Mandrakelinux valdymo centras %s [čia: %s]"
+
+#~ msgid "Welcome to the Mandrakelinux Control Center"
+#~ msgstr "Sveiki atvykę į Mandrakelinux valdymo centrą"
+
+#~ msgid "About - Mandrakelinux Control Center"
+#~ msgstr "Apie - Mandrakelinux valdymo centras"
+
+#~ msgid "Mandrakelinux Contributors"
+#~ msgstr "Mandrakelinux bendradarbiai"

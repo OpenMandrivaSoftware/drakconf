@@ -1,0 +1,2118 @@
+# translation of drakconf-tl.po to Filipino
+# translation of drakconf.po to Filipino
+# Copyright (C) 2004, 2005 Free Software Foundation, Inc.
+# Arys P. Deloso <arys@deloso.org>, 2004, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf-tl\n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2005-02-02 23:38+0000\n"
+"Last-Translator: Arys P. Deloso <arys@deloso.org>\n"
+"Language-Team: Filipino <salin@pandaypinoy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Mga taga-package"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"mabigatang muling pagbuo at paglinis ng mga package, laro, sparc port, "
+"masinsinang pagbasa ng mga kagamitang Mandriva"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "pagpapakilala ng cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "pagpapakilala ng figlet, Distriblint (sinusuri ang rpm sa distro)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, in-update ang abiword, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"in-update ang nc na may mga debian patch, inayos ang ilang mga perl package, "
+"dnotify startup script, urpmc, hddtemp, wipe, atbp..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"\"malalim at malawak\" na gawaing kernel (maraming mga bagong patch bago ang "
+"pagsama sa opisyal na kernel)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "gawaing kernel (mga patch na kaugnay ng audio at video)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr ""
+"mga patch para sa ilang mga package, kfiresaver, xwine, ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (prerelease) na kasabay ng Samba 2.2.x, Samba-2.2.x, GIS software "
+"(grass, mapserver), koleksyon ng cursor_themes, samut-samot na pag-ambag sa "
+"bahagi ng server"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms at mga plugin gnome-"
+"python, rox desktop"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"audio/video/MIDI apps, scientific apps, mga HOWTOs sa paggawa ng audio/"
+"video, bluetooth, pyqt & kaugnay"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM na bagay, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng at ibang gawaing kernel"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr ""
+"karamihan ng mga package na nakabatay sa web at maraming package na kaugnay "
+"ng seguridad"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "pagsusuri ng slbd distro, mga devel dependency"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "rpmsync script, foolproof na MIDI playback, tweaked libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "maraming dagdag na gnome applet at python module"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"sk-i18n, nag-ambag ng ilang mga package, pagsusuri at pagsama ng openldap, "
+"bind-sdb-ldap, ilang taong paggamit ng cooker at paghahanap ng bug, atbp..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "ilang bagay sa ruby, mga package ng php-pear, sari-saring bagay."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "moin wiki clone, beep-media-player, im-ja at ilang ibang mga package"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "pag-uulat ng mga bug, tulong sa package na thunderbird,..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"pagsusuri at pag-uulat ng mga bug, Dovecot, bibletime, sword, tulong sa pure-"
+"ftpd, spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"pagsuporta sa http proxy ng pang-install, pagsuporta sa kernel 2.6 ng "
+"sndconfig, pagsuporta sa samba3 ng LinNeighborhood, pag-ayos at pagpapabuti "
+"ng urpmi, bootsplash at drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors para sa 2.6 kernel, pagsusuri, ilang inambag na package."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine at ilang inambag na package."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Dokumentasyon"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "sumulat/nag-edit ng bahagi gi/docs/HACKING na file"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Tagapagsalin"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Norwegian Bokmål (nb) tagapagsalin at tagapangasiwa, gawaing i18n"
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "nag-iisang bumubuo ng koponan ng mdk sk-i18n."
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Tagapagsalin at tagapangasiwa ng Finnish"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Tagapagsalin at tagapangasiwa ng Dutch"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Tagapagsalin ng Danish (at ilang Bokmal din)"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Tagapagsalin at tagapangasiwa ng Norwegian Nynorsk (nn)"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Tagapagsalin ng Estonian"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Tagapagsalin ng Italian"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Tagapagsalin ng Bosnian"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Mga tagasubok"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "pagsusubok at pag-uulat ng bug, pagsama ng driver ng eagle-usb"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "pagsusubok at pag-uulat ng bug"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "pagsusubok, pag-uulat ng bug, pagsubok ng NVidia package"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "pagsusubok, pag-uulat ng bug"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, pagsusubok, pag-uulat ng bug"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"At marami pang di-pinangalanan at di-kilalang mga beta tester at mga "
+"tagaulat ng bug na nakatulong sa pagtiyak na gumagana nang tama ang lahat."
+
+#: ../control-center:90
+#, fuzzy, c-format
+msgid "OpenMandriva Lx"
+msgstr "Mandriva Online"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "Sentro ng Kontrol ng %s"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Naglo-load... Pakihintay"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Pangangasiwa ng Software"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, fuzzy, c-format
+msgid "Others"
+msgstr "Mga tagasubok"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Mga server wizard"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Pamamahagi"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "I-configure ang FTP"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr ""
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "I-configure ang Samba"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+
+#: ../control-center:192
+#, fuzzy, c-format
+msgid "Manage Samba share"
+msgstr "Mga gumaganang service ng Samba"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr ""
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "I-configure ang web server"
+
+#: ../control-center:196
+#, fuzzy, c-format
+msgid "Set up a web server"
+msgstr "I-configure ang web server"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "I-configure ang pang-install na server"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Serbisyong Pang-network"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "I-configure ang DHCP"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr ""
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "I-configure ang DNS"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr ""
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "I-configure ang proxy"
+
+#: ../control-center:222
+#, fuzzy, c-format
+msgid "Configure a web caching proxy server"
+msgstr "I-configure ang web server"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "I-configure ang oras"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+
+#: ../control-center:227 ../control-center:228
+#, fuzzy, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "Ipakita ang configuration ng Ldap"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Pagpapatunay"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "I-configure ang NIS at Autofs"
+
+#: ../control-center:247
+#, fuzzy, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "I-configure ang NIS at Autofs"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "I-configure ang LDAP"
+
+#: ../control-center:250
+#, fuzzy, c-format
+msgid "Configure the LDAP directory services"
+msgstr "I-configure ang NIS at Autofs"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Groupware"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "I-configure ang balita"
+
+#: ../control-center:268
+#, fuzzy, c-format
+msgid "Configure a newsgroup server"
+msgstr "I-configure ang web server"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "I-configure ang groupware"
+
+#: ../control-center:271
+#, fuzzy, c-format
+msgid "Configure a groupware server"
+msgstr "I-configure ang groupware"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "I-configure ang mail"
+
+#: ../control-center:274
+#, fuzzy, c-format
+msgid "Configure the Internet Mail services"
+msgstr "I-configure ang pang-install na server"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Online na Pamamahala"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Lokal na pamamahala"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr ""
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr ""
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Malayuang pamamahala"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Hardware"
+
+#: ../control-center:326
+#, fuzzy, c-format
+msgid "Manage your hardware"
+msgstr "Mga gumaganang service ng Samba"
+
+#: ../control-center:333
+#, fuzzy, c-format
+msgid "Configure graphics"
+msgstr "I-configure ang mail"
+
+#: ../control-center:340
+#, fuzzy, c-format
+msgid "Configure mouse and keyboard"
+msgstr "I-configure ang mail"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Network at Internet"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, fuzzy, c-format
+msgid "Manage your network devices"
+msgstr "Serbisyong Pang-network"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Sistema"
+
+#: ../control-center:403
+#, fuzzy, c-format
+msgid "Manage system services"
+msgstr "Mga gumaganang service ng Samba"
+
+#: ../control-center:412
+#, fuzzy, c-format
+msgid "Localization"
+msgstr "Lokal na pamamahala"
+
+#: ../control-center:419
+#, fuzzy, c-format
+msgid "Administration tools"
+msgstr "Online na Pamamahala"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, fuzzy, c-format
+msgid "Network Sharing"
+msgstr "Serbisyong Pang-network"
+
+#: ../control-center:439
+#, fuzzy, c-format
+msgid "Configure Windows(R) shares"
+msgstr "I-configure ang groupware"
+
+#: ../control-center:446
+#, fuzzy, c-format
+msgid "Configure NFS shares"
+msgstr "I-configure ang DNS"
+
+#: ../control-center:453
+#, fuzzy, c-format
+msgid "Configure WebDAV shares"
+msgstr "I-configure ang web server"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, fuzzy, c-format
+msgid "Local disks"
+msgstr "Pamamahagi ng lokal na disk"
+
+#: ../control-center:490
+#, fuzzy, c-format
+msgid "CD-ROM (%s)"
+msgstr "DVD-ROM"
+
+#: ../control-center:491
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr ""
+
+#: ../control-center:493
+#, fuzzy, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM"
+
+#: ../control-center:494
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr ""
+
+#: ../control-center:496
+#, fuzzy, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "CD/DVD Burner"
+
+#: ../control-center:497
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr ""
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "ZIP drive"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Seguridad"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Boot"
+
+#: ../control-center:533
+#, fuzzy, c-format
+msgid "Configure boot steps"
+msgstr "I-configure ang oras"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr ""
+
+#: ../control-center:559
+#, fuzzy, c-format
+msgid "Additional wizards"
+msgstr "Mga karagdagang theme"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/Mga _Option"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Ipakita ang mga _Log"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/_Embedded na Mode"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Bihasang mode sa mga _wizard"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_File"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_Quit"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Quit"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/Mga _Tema"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Sisimulan muli nito ang sentro ng control.\n"
+"Kahit anong pagbabago na hindi inilapat ay mawawala."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Marami pang theme"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Tulong"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Tulong"
+
+#: ../control-center:668
+#, fuzzy, c-format
+msgid "/_Release notes"
+msgstr "/_Tanggalin"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr ""
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr ""
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/Mag-ulat ng _Bug"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/Tung_kol sa..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "I-cancel"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "Sentro ng Kontrol ng %s %s [sa %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Error"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Hindi maaring patakbuhin ang program na '%s'"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Ang mga pagbabagong ginawa sa kasalukuyang module ay hindi ise-save."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "hindi ma-fork ang: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "hindi ma-fork at ma-exec ang \"%s\" dahil hindi ito executable"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Ang program na ito ay abnormal na lumabas"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Babala"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Isara"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Marami pang theme"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Kumukuha ng mga bagong theme"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Mga karagdagang theme"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Kumuha ng mga karagdagang theme sa www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Tungkol sa - Sentro ng Kontrol ng %s"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Mga may-akda: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(perl version)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Artwork: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr ""
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Arys P. Deloso"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "<arys@deloso.org>"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Tagapagsalin: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, fuzzy, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "Sentro ng Kontrol ng %s"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Copyright (C) %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Mga may-akda"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "Mga Tagaambag sa OpenMandriva Lx"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Display"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Keyboard"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Mouse"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Mga gumagamit at grupo"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Mga serbisyo"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Firewall"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Taga-load ng boot"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Auto Install"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Pamamahagi ng koneksyon sa Internet"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr ""
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Mga partisyon"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Sentro ng Kontrol"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Piliin ang kagamitang gusto mong gamitin"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, fuzzy, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "I-configure ang web server"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Mga backup"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:118
+#, fuzzy, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Graphical server"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, fuzzy, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Mag-alis ng network interface"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Pag-access sa Internet"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, fuzzy, c-format
+msgid "Open a console as administrator"
+msgstr "Online na Pamamahala"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, fuzzy, c-format
+msgid "Manage date and time"
+msgstr "Petsa at oras"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, fuzzy, c-format
+msgid "Set up display manager"
+msgstr "Tagapangasiwa ng display"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Mag-configure ng fax server"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, fuzzy, c-format
+msgid "Set up the graphical server"
+msgstr "Graphical server"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, fuzzy, c-format
+msgid "Manage disk partitions"
+msgstr "Pangasiwaan ang mga koneksyon"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, fuzzy, c-format
+msgid "Browse and configure hardware"
+msgstr "Mga gumaganang service ng Samba"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, fuzzy, c-format
+msgid "Sound Configuration"
+msgstr "Configuration ng Proxy"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:261
+#, fuzzy, c-format
+msgid "Manage hosts definitions"
+msgstr "Pangasiwaan ang mga koneksyon"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, fuzzy, c-format
+msgid "Install & Remove Software"
+msgstr "Mag-install ng Software"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, fuzzy, c-format
+msgid "Install, uninstall software"
+msgstr "Naka-install na Software"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, fuzzy, c-format
+msgid "Set up a groupware server"
+msgstr "I-configure ang web server"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Pangasiwaan ang mga koneksyon"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Pangasiwaan ang grupo ng computer"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Style ng Menu"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, fuzzy, c-format
+msgid "Menu Style Configuration"
+msgstr "Menu Configuration Center"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Manmanan ang mga koneksyon"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, fuzzy, c-format
+msgid "Monitor the network connections"
+msgstr "Manmanan ang mga koneksyon"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:418
+#, fuzzy, c-format
+msgid "Network Center"
+msgstr "Network at Internet"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, fuzzy, c-format
+msgid "Manage different network profiles"
+msgstr "Serbisyong Pang-network"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:439
+#, fuzzy, c-format
+msgid "Set NFS mount points"
+msgstr "Mga mount point ng NFS"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Stats ng Package"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Naka-schedule na mga gawain"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Proxy"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Malayuang Kontrol (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, fuzzy, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Malayuang Kontrol (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Magtanggal ng koneksyon"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Wireless na koneksyon"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:552
+#, fuzzy, c-format
+msgid "Manage configuration of Samba"
+msgstr "Configuration ng pagpi-print"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, fuzzy, c-format
+msgid "Set up scanner"
+msgstr "Mga scanner"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "I-configure ang groupware"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, fuzzy, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Manmanan ang mga koneksyon"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:679
+#, fuzzy, c-format
+msgid "Set WebDAV mount points"
+msgstr "Mga mount point ng WebDAV"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Menu Configuration Center"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Menu ng Sistema"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "I-configure..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Menu ng User (Gumagamit)"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Piliin kung aling menu ang gusto mong i-configure"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Configuration ng pagpi-print"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "I-click dito para i-configure ang sistema ng pagpi-print"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Tapos"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Autologin"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Petsa at oras"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Bagong koneksyon"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Auto Install floppy"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Boot Loading"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Pag-i-schedule ng mga program"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Tagapangasiwa ng display"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Boot floppy"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Mga font"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Mga pahintulot"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Mga Antas at Pagsusuri"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "Mga TV Card"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Pamamahagi ng Partisyon"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Mga Hard Drive"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Mga log"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Mga menu"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Mga Mount Point"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "Mga mount point ng NFS"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Mga printer"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Configuration ng Proxy"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Mga naaalis na device"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Tanggalin ang Koneksyon"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Mga mount point ng Samba"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Mga scanner"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Mga Setting ng Sistema"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Mga Gumagamit at Grupo"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "Mga mount point ng WebDAV"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Graphical server"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Monitor"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Resolution ng Screen"
+
+#: ../drakconf.desktop.in.h:1
+#, fuzzy
+msgid "Configure Your Computer"
+msgstr "I-configure ang groupware"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Maligayang pagdating sa Sentro ng Kontrol ng %s"
+
+#, fuzzy
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Auto Install floppy"
+
+#, fuzzy
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ "Ang alalay na ito ay tutulong sa iyong i-upload ang iyong configuration\n"
+#~ "(mga package, hardware configuration) sa isang centralized database\n"
+#~ "para mapaalam sa iyo ang tungkol sa mga update sa seguridad at mga\n"
+#~ "kapakipakinabang na mga upgrade.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "Ang alalay na ito ay tutulong sa iyong i-upload ang iyong configuration\n"
+#~ "(mga package, hardware configuration) sa isang centralized database\n"
+#~ "para mapaalam sa iyo ang tungkol sa mga update sa seguridad at mga\n"
+#~ "kapakipakinabang na mga upgrade.\n"
+
+#~ msgid "Floppy drive"
+#~ msgstr "Floppy drive"
+
+#, fuzzy
+#~ msgid "<control>U"
+#~ msgstr "<control>L"
+
+#, fuzzy
+#~ msgid "Account:"
+#~ msgstr "Mount"
+
+#~ msgid "Password:"
+#~ msgstr "Password:"
+
+#~ msgid "Hostname:"
+#~ msgstr "Hostname:"
+
+#~ msgid "Please wait"
+#~ msgstr "Maghintay lamang"
+
+#, fuzzy
+#~ msgid "Manage software"
+#~ msgstr "Mga gumaganang service ng Samba"
+
+#, fuzzy
+#~ msgid "Use NFS shares"
+#~ msgstr "I-configure ang DNS"
+
+#, fuzzy
+#~ msgid "Manage Samba configuration"
+#~ msgstr "Mail alert configuration"
+
+#, fuzzy
+#~ msgid "Use WebDAV shares"
+#~ msgstr "I-configure ang web server"
+
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#~ msgid "Boot theme"
+#~ msgstr "Tema ng boot"
+
+#~ msgid "Console"
+#~ msgstr "Console"
+
+#~ msgid "Fax"
+#~ msgstr "Fax"
+
+#~ msgid "Software Media Manager"
+#~ msgstr "Tagapangasiwa ng Software Media"
+
+#, fuzzy
+#~ msgid "Invictus Firewall"
+#~ msgstr "Firewall"
+
+#~ msgid "Language"
+#~ msgstr "Wika"
+
+#~ msgid "Country / Region"
+#~ msgstr "Bansa / Rehiyon"
+
+#~ msgid "Updates"
+#~ msgstr "Mga update"
+
+#, fuzzy
+#~ msgid "Control and configure network connections"
+#~ msgstr "Manmanan ang mga koneksyon"
+
+#, fuzzy
+#~ msgid "Network Profiles"
+#~ msgstr "Serbisyong Pang-network"
+
+#~ msgid "Local disk sharing"
+#~ msgstr "Pamamahagi ng lokal na disk"
+
+#~ msgid "Level and checks"
+#~ msgstr "Antas at mga pagsusuri"
+
+#~ msgid "Media Manager"
+#~ msgstr "Tagapangasiwa ng Media"
+
+#~ msgid "UPS"
+#~ msgstr "UPS"
+
+#, fuzzy
+#~ msgid "VPN configuration"
+#~ msgstr "Configuration ng CUPS"
+
+#, fuzzy
+#~ msgid "Configure Software management"
+#~ msgstr "Pangangasiwa ng Software"
+
+#~ msgid "Install"
+#~ msgstr "Maglagay"
+
+#~ msgid "Remove"
+#~ msgstr "Magtanggal"
+
+#~ msgid "Screen resolution"
+#~ msgstr "Screen resolution"
+
+#, fuzzy
+#~ msgid "Change the screen resolution"
+#~ msgstr "Screen resolution"
+
+#~ msgid "TV card"
+#~ msgstr "TV card"
+
+#, fuzzy
+#~ msgid "Set up TV card"
+#~ msgstr "TV card"
+
+#~ msgid "/_Expert mode"
+#~ msgstr "/Bi_hasang mode"
+
+#, fuzzy
+#~ msgid "Set Samba mount points"
+#~ msgstr "Mga mount point ng Samba"
+
+#, fuzzy
+#~ msgid "Samba printing configuration"
+#~ msgstr "Configuration ng pagpi-print"
+
+#~ msgid "(original C version)"
+#~ msgstr "(original C version)"
+
+#~ msgid "(design)"
+#~ msgstr "(design)"
+
+#~ msgid ""
+#~ "We are about to switch from the \"%s\" profile to the \"%s\" profile.\n"
+#~ "\n"
+#~ "Are you sure you want to do the switch?"
+#~ msgstr ""
+#~ "Tayo ay lilipat na mula sa \"%s\" na profile patungong \"%s\" na "
+#~ "profile.\n"
+#~ "\n"
+#~ "Sigurado ka bang gusto mong gawin ang paglipat?"
+
+#~ msgid "/_Profiles"
+#~ msgstr "/Mga _Profile"
+
+#~ msgid "/_New"
+#~ msgstr "/_Bago"
+
+#~ msgid "New profile..."
+#~ msgstr "Bagong profile..."
+
+#~ msgid ""
+#~ "Name of the profile to create (the new profile is created as a copy of "
+#~ "the current one):"
+#~ msgstr ""
+#~ "Pangalan ng profile na gagawin (ang bagong profile ay ginawang sipi ng "
+#~ "kasalukuyan):"
+
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#~ msgid "The \"%s\" profile already exists!"
+#~ msgstr "Mayroon nang profile na \"%s\"!"
+
+#~ msgid "Delete profile"
+#~ msgstr "Tanggalin ang profile"
+
+#~ msgid "Profile to delete:"
+#~ msgstr "Profile na tatanggalin:"
+
+#~ msgid "You can not delete the current profile"
+#~ msgstr "Hindi mo matatanggal ang kasalukuyang profile"

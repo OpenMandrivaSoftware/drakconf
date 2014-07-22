@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=TV Cards
+Icon=/usr/share/mcc/themes/default/tv-mdk.png
+Exec=/usr/sbin/drakxtv
+Terminal=false
+Type=Application
+Categories=System;SystemSetup;X-Mandrake-Hardware

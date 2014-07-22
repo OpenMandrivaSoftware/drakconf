@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=Users and Groups
+Icon=/usr/share/mcc/themes/default/user-mdk.png
+Exec=/usr/bin/userdrake
+Terminal=false
+Type=Application
+Categories=System;SystemSetup;X-Mandrake-System

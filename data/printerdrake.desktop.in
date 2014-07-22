@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=Printers
+Icon=/usr/share/mcc/themes/default/printer-mcc-mdk.png
+Exec=/usr/sbin/printerdrake
+Terminal=false
+Type=Application
+Categories=System;SystemSetup;X-Mandrake-Hardware

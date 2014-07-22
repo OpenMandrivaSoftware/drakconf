@@ -1,0 +1,2327 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2000 Free Software Foundation, Inc.
+# Copyright (c) 2000 Mandriva
+# Pablo Saratxaga <pablo@mandrakesoft.com>, 2000,2003,2004.
+# Lorint Hendschel <LorintHendschel@skynet.be>, 2002.
+# Pablo Saratxaga <pablo@walon.org>, 2004, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf 0.96\n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2004-09-03 00:27+0200\n"
+"Last-Translator: Pablo Saratxaga <pablo@walon.org>\n"
+"Language-Team: Walloon <linux-wa@walon.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.2\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Pacaedjeus"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Øyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"bråmint des rpacaedjaedjes eyet netiaedjes, djeus, poirtaedje sparc, "
+"verifiaedje des usteyes %s"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "introduccion a cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr ""
+"introduccion a figlet, Distriblint (verifiaedje des pacaedjes rpm del distro)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, metaedje a djoû d' abiword, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"metaedje a djoû di nc avou des patches debian, coridjaedje di sacwants "
+"pacaedjes perl, dnotify ezès scripes d' enondaedje, urpmc, hddtemp, wipe, "
+"evnd..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"boutaedje «parfond et lådje» sol nawea (bråmint di noveas patches ki sront "
+"pus tård integrés dins l' nawea oficir)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "ovraedje sol nawea (patches pol videyo eyet l' son)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "patches po sacwants pacaedjes, kfiresaver, xwine. ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (prerelease) ki pout co-egzister avou Samba 2.2.x, Samba-2.2.x, "
+"programe GIS (grass, mapserver), ramexhnêye di tinmes cursoe, totes sôres di "
+"contribouwaedjes costé sierveu"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Götz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"bråmint di pacaedjes multimedia (xine, totem, gstreamer, mplayer, vlc, "
+"vcdimager, xmms et ses tchôke-divins), gnome-python, sicribanne rox"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"programes odio/videyo/MIDI, programes syintifikes, howtos di fijhaedje odio/"
+"videyo, bluetooth, pyqt & ses pareys"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "sacwès a vey avou ATI/gatos/DRM, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng eyet ds ôtès sacwès sol nawea"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr ""
+"li plupårt des pacaedjes a vey avou l' waibe, eyet bråmint des pacaedjes a "
+"vey avou l' såvrité"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "verifiaedje del distro sldb, aloyaedjes des pacaedjes di diswalpaedje"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "sicripe rpmsync, verifiaedje do djoweu MIDI, ovraedje so libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "bråmint des apliketes gnome di rawete eyet des modules python"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"cordinateu di l' ekipe di ratournaedje e slovake, sayaedje eyet etegråcion "
+"d' openldap, bind-sdb-ldap, eployant cooker eyet tchessant les bugs dispoy "
+"ddja sacwantès anêyes,..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "des sacwès a vey avou ruby, pacaedjes php-pear, sacwants pacaedjes,..."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "clône di moin wiki, beep-media-player, im-ja eyet ds ôtes pacaedjes"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "rapoirts di bugs, aidaedje avou l' pacaedje thunderbird,..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"sayes eyet rapoirts di bugs, Dovecot, bibletime, sword, côp di spale avou "
+"pure-ftpd, spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"sopoirt po les procsis http dins l' programe d' astalaedje, sopoirt do nawea "
+"2.6 po sndconfig, sopoirt samba3 dins LinNeighborhood, coridjaedjes eyet "
+"ramidraedjes po urpmi, bootsplash eyet drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors fpol nawea 2.6, sayes, kékes pacaedjes di contribouwaedje."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine eyet des ôtes pacaedjes di contribouwaedje"
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Documintåcion"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "sicrijha/candja des bokets do fitchî gi/docs/HACKING"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Ratourneus"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Ratourneu eyet cordinateu pol norvedjyin bokmål, ovraedje so i18n."
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "moenneu di l' ekipe di ratournaedje e slovenyin"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Ratourneu eyet cordinateu pol finwès"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Ratourneu eyet cordinateu pol neyerlandès"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Ratourneu e daenwès (eyet ene miete di Bokmål eto :-) )"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Ratourneu eyet cordinateu pol noû-norvedjyin (nynorsk)"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Ratourneu po l' estonyin"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Ratourneu po l' itålyin"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubović"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Ratourneu pol bosnyin"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Sayeus"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoît Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr ""
+"fijhaedje di sayes eyet rapoirtaedje di bugs, etegråcion do mineu eagle-usb"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Grün"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "fijhaedje di sayes eyet disbugaedje"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "sayes, rapoirtaedje di bugs, saye di pacaedje Nvidia"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "sayes, rapoirtaedje di bugs"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, sayes, rapoirtaedje di bugs"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"Eyet bråmint ds ôtes nén lomés chal, eyet des sayeus des modêyes beta k' ont-"
+"st aidî a fé ki tot rotaxhe comifåt. "
+
+#: ../control-center:90
+#, fuzzy, c-format
+msgid "OpenMandriva Lx"
+msgstr "Mandriva Online"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "Cinte di contrôle di %s"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Tårdjîz on pô s' i vs plait... dji tchedje"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Manaedjeu di programes"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, fuzzy, c-format
+msgid "Others"
+msgstr "Sayeus"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Macreas des sierveus"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Pårtaedje"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "Apontyî l' FTP"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "Apontyî on sierveu d' fitchîs FTP"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Apontyî Samba"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Apontyî on sierveu di scrireces et d' fitchîs po des posses éndjolreces "
+"Linux ossu bén k' po des posses avou des sistinmes nén-Linux"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Manaedjî les pårtaedjes Samba"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr "Manaedjî, ahiver des pårtaedjes sipeciås, des pårtaedjes publik/uzeu"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Apontyî sierveu waibe"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Apontyî on sierveu waibe"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Apontyî on sierveu d' astalaedje"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Apontyî on sierveu po fé des astalaedjes di %s viè l' rantoele"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Siervices rantoele"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "Apontyî l' DHCP"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "Apontyî on sierveu DHCP (po dner des adresses IP otomatikes)"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "Apontyî l' DNS"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "Apontyî on sierveu DNS (rizolucion des nos d' lodjoe)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Apontyî l' procsi"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Apontyî on sierveu procsi po fé d' muchete waibe"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Apontyî l' eure"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+"Apontyî l' éndjole po k' ele sincronijhe l' eure avou on dfoûtrin sierveu "
+"d' eure"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "Apontiaedje do démon OpenSSH"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Otintifiaedje"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "Apontyî NIS eyet Autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "Apontyî les siervices NIS eyet Autofs"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "Apontyî l' LDAP"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Apontyî les siervices do botin LDAP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Ovraedje e groupe"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Apontyî les copinreyes (news)"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Apontyî on sierveu di copinreyes (usenet news)"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Apontyî l' ovraedje e groupe"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Apontyî on sierveu d' ovraedje e groupe (groupware)"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Apontyî l' emilreye"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Apontyî les siervices d' emilaedje"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Manaedjmint so les fyis"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Manaedjmint locå"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Aponty l'ndjole locle d trivi d'ene eterface waibe"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr "Vos n'avoz nn wabmin d'astal. L'apontiaedje loc est dismetou"
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Manaedjmint då lon"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+"Clitchz chal si vos vloz pleur aponty des ndjoles d lon d trivi di "
+"l'eterface waibe"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Éndjolreye"
+
+#: ../control-center:326
+#, fuzzy, c-format
+msgid "Manage your hardware"
+msgstr "Manaedjî les pårtaedjes NFS"
+
+#: ../control-center:333
+#, fuzzy, c-format
+msgid "Configure graphics"
+msgstr "Apontyî l' emilreye"
+
+#: ../control-center:340
+#, fuzzy, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Apontyî l' waitroûle da vosse"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Rantoele & Daegntoele"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, fuzzy, c-format
+msgid "Manage your network devices"
+msgstr "Siervices rantoele"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Sistinme"
+
+#: ../control-center:403
+#, fuzzy, c-format
+msgid "Manage system services"
+msgstr "Mete en alaedje ou dismete des siervices do sistinme"
+
+#: ../control-center:412
+#, fuzzy, c-format
+msgid "Localization"
+msgstr "Forvoeyaedje"
+
+#: ../control-center:419
+#, fuzzy, c-format
+msgid "Administration tools"
+msgstr "Manaedjmint so les fyis"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, fuzzy, c-format
+msgid "Network Sharing"
+msgstr "Siervices rantoele"
+
+#: ../control-center:439
+#, fuzzy, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Apontyî l' ovraedje e groupe"
+
+#: ../control-center:446
+#, fuzzy, c-format
+msgid "Configure NFS shares"
+msgstr "Manaedjî les pårtaedjes NFS"
+
+#: ../control-center:453
+#, fuzzy, c-format
+msgid "Configure WebDAV shares"
+msgstr "Apontyî sierveu waibe"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, fuzzy, c-format
+msgid "Local disks"
+msgstr "Pårtaedje del deure plake locåle"
+
+#: ../control-center:490
+#, fuzzy, c-format
+msgid "CD-ROM (%s)"
+msgstr "DVD-ROM"
+
+#: ../control-center:491
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Defini l'plaece wice monter vosse plake lazer"
+
+#: ../control-center:493
+#, fuzzy, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM"
+
+#: ../control-center:494
+#, fuzzy, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Defini l'plaece wice monter vosse DVD"
+
+#: ../control-center:496
+#, fuzzy, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "Broûleu di CD/DVD"
+
+#: ../control-center:497
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Defini l'plaece wice monter vosse broleu di CD/DVD"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "Léjheu d' plaketes ZIP"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Defini l'plaece wice monter vosse plakete ZIP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Såvrité"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Enondaedje"
+
+#: ../control-center:533
+#, fuzzy, c-format
+msgid "Configure boot steps"
+msgstr "Apontyî l' eure"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr ""
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Macreas di rawete"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Tchuzes"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Håynaedje des _djournås"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/Môde _ravalêyes"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Môde sipepieus po les _macreas"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Fitchî"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/Moussî _foû"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Cwiter"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Tinmes"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Ciste accion chal va renonder li cinte di contrôle.\n"
+"Tot candjmint ki n' åreut nén stî metou en alaedje srè pierdou."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Co des ôtes tinmes"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Aidance"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Aidance"
+
+#: ../control-center:668
+#, fuzzy, c-format
+msgid "/_Release notes"
+msgstr "/_Disfacer"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr ""
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr ""
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_Rapoirter on bug"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/Å_d fwait..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Rinoncî"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "Cinte di contrôle di %s %s [so %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Aroke"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"I gn a-st on bug dins l' ratournaedje e walon (%s)\n"
+"\n"
+"Fijhoz on rapoirt di bug s' i vs plait, po k' ça poye esse coridjî."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "C' est nén possibe d' enonder li programe «%s» ki n' est nén cnoxhou"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Les candjmints k' ont stî fwaits el module ni sront nén schapés."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "dji n' sai fé on fork(): %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "dji n' sai fé on fork() eyet enonder «%s», ca i n' est nén enondåve"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Ci programe chal n' a nén fini s' bouye normålmint"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Adviertixhmint"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Clôre"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Co des ôtes tinmes"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Aberweter des noveas tinmes"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Tinmes di rawete"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Aberweter des noveas tinmes di www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Åd fwait - Cinte di contrôle di %s"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Oteurs: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(modêye perl)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Dessinaedjes: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Hélène Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Pablo Saratxaga"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "<pablo@mandrakesoft.com>"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Ratourneu: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, fuzzy, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "Cinte di contrôle di %s"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Copyright © %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Oteurs"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "Contribouweus a OpenMandriva Lx"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "Conzôle"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Håynaedje"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Taprece"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Sori"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Uzeus et groupes"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Siervices"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Côpe feu"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Enondrece"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Astalaedje otomatike"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Pårtaedje do raloyaedje al daegntoele"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "Efets scribanne 3D"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Pårticions"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Cinte di contrôle"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Tchoezixhoz l' usteye ki vos vloz eployî"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "Apontyî les efets do scribanne 3D"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+"Tchoezixhoz l' metôde d' otintifiaedje (fitchîs locås, NIS, LDAP, Dominne "
+"Windows,...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, fuzzy, c-format
+msgid "Set up autologin to automatically log in"
+msgstr ""
+"Permete l' elodjaedje otomatike a l' enondaedje di l' éndjole, et defini "
+"l' uzeu eployî po cist elodjaedje la"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+"Permete l' elodjaedje otomatike a l' enondaedje di l' éndjole, et defini "
+"l' uzeu eployî po cist elodjaedje la"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Copeyes di såvrité"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr ""
+"Apontyî l' fijhaedje di copeyes di såvrité des dnêyes do sistinme et des "
+"uzeus"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:108
+#, fuzzy, c-format
+msgid "Set up boot system"
+msgstr "Apontyî cmint ki l' sistinme s' enonde"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Apontyî cmint ki l' sistinme s' enonde"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, fuzzy, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Tchoezixhoz l' tinme grafike tins d' l' enondaedje do sistinme"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Tchoezixhoz l' tinme grafike tins d' l' enondaedje do sistinme"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr ""
+"Pårtaedjîz l' raloyaedje al daegntoele avou des ôtès copiutreces del "
+"rantoele locåle"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Apontyî ene novele eterface rantoele (locåle, RDIS, ADSL,...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Accès al daegntoele"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Candjî totes sôres d' apontiaedjes åd fwait del daegntoele"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, fuzzy, c-format
+msgid "Open a console as administrator"
+msgstr "Drovi ene conzôle"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, fuzzy, c-format
+msgid "Manage date and time"
+msgstr "Date ey eure"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, fuzzy, c-format
+msgid "Set up display manager"
+msgstr "Manaedjeu di håynaedje"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+"Tchoezixhoz l' manaedjeu di håynaedje (ki permete di tchoezi l' uzeu po "
+"s' elodjî) a-z eployî"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Apontyî on sierveu d' facs"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr ""
+"Defini on côpe-feu da vosse po waerenti vosse copiutrece et vosse rantoele"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr ""
+"Manaedjî, radjouter eyet oister les fontes. Elzès prinde d' ene pårticion "
+"Windows™"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Apontiaedje do sierveu grafike"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, fuzzy, c-format
+msgid "Manage disk partitions"
+msgstr "Manaedjî les definixhas des lodjoes"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Pårti l' deure plake, disfacer ou candjî d' grandeu des pårticions"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, fuzzy, c-format
+msgid "Browse and configure hardware"
+msgstr "Loukî l' éndjolreye eyet l' apontyî"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, fuzzy, c-format
+msgid "Sound Configuration"
+msgstr "Apontiaedje di l' enondaedje"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Definixhas des lodjoes"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Manaedjî les definixhas des lodjoes"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, fuzzy, c-format
+msgid "Install & Remove Software"
+msgstr "Astaler des programes"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, fuzzy, c-format
+msgid "Install, uninstall software"
+msgstr "Programes d' astalés"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, fuzzy, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr ""
+"Apontyî les eterfaces rantoele di redondance eyet l' replicaedje di côpe-feu"
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+"Apontyî les eterfaces rantoele di redondance eyet l' replicaedje di côpe-feu"
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Apontyî l' taprece"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Apontyî on sierveu d' ovraedje e groupe"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr ""
+"Tchoezixhoz l' lingaejde eyet l' payis ki vos vloz apontyî vosse sistinme po"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Lére eyet cweri dins les djournås sistinme"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Manaedjî les raloyaedjes"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Rapontyî ene eterface rantoele"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Manaedjî groupe d' éndjoles"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr ""
+"Manaedjî les pacaedjes di programes d' astalés, so ene troke di copiutreces"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"Cweri après les metaedjes adjoû k' i gn a, eyet apliker les coridjaedjes ou "
+"metaedjes a djoû po les pacaedjes ki sont-st astalés"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Stîle do menu"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Apontiaedje do stîle do menu"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Corwaitî les raloyaedjes"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Corwaitî les raloyaedjes rantoele"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Apontyî l' éndjin d' pwintaedje (sori, tåvlete a toutchî)"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "Cinte rantoele"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, fuzzy, c-format
+msgid "Manage different network profiles"
+msgstr "Siervices rantoele"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Mete en alaedje eyet manaedjî les profils rantoele"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "Apontyî les ponts di montaedje NFS"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "Manaedjî les pårtaedjes NFS"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Sitatistikes des pacaedjes"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr ""
+"Mostrer des statistikes so l' eployaedje des pacaedjes di programes ki sont-"
+"st astalés"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, fuzzy, c-format
+msgid "Share your hard disk partitions"
+msgstr "Apontyî cmint pårtaedjî les pårticions di vosse deure plake"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Apontyî cmint pårtaedjî les pårticions di vosse deure plake"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Apontyî les scrireces, les caweyes po les bouyes d' imprimaedje,..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Bouyes programêyes"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr ""
+"Defini des bouyes ou programes a-z enonder periodicmint a des moumints dnés"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Procsi"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr ""
+"Apontyî on sierveu procsi po l' naiviaedje waibe eyet l' transfer di fitchîs"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Controle då lon (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Controle d' ene ôte éndjole (Linux/Unix, Windows) k' est å lon"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Oister on raloyaedje"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Disfacer ene eterface rantoele"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Raloyaedje sins fyis"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Manaedjî l' apontiaedje di Samba"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Apontyî les scanreces"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, fuzzy, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Apontyîz a l' idêye les permissions do sistinme"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, fuzzy, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr ""
+"Defini l' livea d' såvrité eyet les verifiaedjes di såvrité otomatikes ki "
+"sont-st enondés periodicmint"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:593
+#, fuzzy, c-format
+msgid "Select from where software packages are downloaded "
+msgstr ""
+"Definixhoz les sopoirts d' astalaedje (did wice ki les pacaedjes a-z astaler "
+"sont-st aberwetés pol metaedje a djoû do sistinme)"
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "Apontyî l' ovraedje e groupe"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr ""
+"Apontyî on UPS (sistinme siconte des côpeures di corant) po waitî å corant"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, fuzzy, c-format
+msgid "Manage users on system"
+msgstr "Radjouter, bodjî ou candjî des uzeus do sistinme"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Radjouter, bodjî ou candjî des uzeus do sistinme"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr "Forvoeyaedje"
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr "Manaedjaedje di forveyowès éndjoles"
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, fuzzy, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Apontyî les raloyaedjes VPN"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "Apontyî les ponts di montaedje WebDAV"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Cinte d' apontiaedje des menus"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Menu do sistinme"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Apontyî..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Menu di l' uzeu"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Tchoezixhoz ké menu ki vos vloz apontyî"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Apontiaedje di l' imprimaedje"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Clitchîz chal po-z apontyî li sistinme d' imprimaedje"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Fwait"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Elodjaedje otomatike"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Date ey eure"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Novea raloyaedje"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Plakete d' otoastalaedje"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Enondrece"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Bouyes programêyes"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Manaedjeu di håynaedje"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Plakete d' enondaedje"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Fontes"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Permissions"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Liveas eyet verifiaedjes"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "Cåte tévé"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Pårtaedje di plakes"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Deurès plakes"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Djournås"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Menus"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Ponts di montaedje"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "Ponts di montaedje NFS"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Sicrireces"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Apontiaedje des procsis"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Bodjåves sopoirts"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Oister on raloyaedje"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Ponts di montaedje Samba"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Sicanreces"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Apontiaedjes do sistinme"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Uzeus et groupes"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "Ponts di montaedje WebDAV"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Sierveu grafike"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Waitroûle"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Finté del waitroûle"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Apontyî vosse copiutrece"
+
+#, fuzzy
+#~ msgid "Set up security level and audit"
+#~ msgstr ""
+#~ "Defini l' livea d' såvrité eyet les verifiaedjes di såvrité otomatikes ki "
+#~ "sont-st enondés periodicmint"
+
+#, fuzzy
+#~ msgid "Tune permissions on system"
+#~ msgstr "Apontyîz a l' idêye les permissions do sistinme"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Wilicome å cinte di contrôle di %s"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Ahiver ene plakete d' otoastalaedje"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Ahiver ene plakete d' enondaedje"
+
+#, fuzzy
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ "Evoyîz nos l' apontiaedje di l' éndjolreye da vosse por nos pleur vos "
+#~ "informer tchaeke côp k' i gn årè on metaedje a djoû di såvrité, oudonbén "
+#~ "ahessåve pol apontiaedje da vosse."
+
+#, fuzzy
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "Evoyîz nos l' apontiaedje di l' éndjolreye da vosse por nos pleur vos "
+#~ "informer tchaeke côp k' i gn årè on metaedje a djoû di såvrité, oudonbén "
+#~ "ahessåve pol apontiaedje da vosse."
+
+#~ msgid "Floppy drive"
+#~ msgstr "Léjheu d' plaketes"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Defini l'plaece wice monter vosse plakete"
+
+#~ msgid "/_Upload the hardware list"
+#~ msgstr "/_Evoyî l' djivêye di l' éndjolreye"
+
+#~ msgid "<control>U"
+#~ msgstr "<control>Q"
+
+#~ msgid "Upload the hardware list"
+#~ msgstr "Evoyî l' djivêye di voste éndjolreye"
+
+#~ msgid "Account:"
+#~ msgstr "Conte:"
+
+#~ msgid "Password:"
+#~ msgstr "Sicret:"
+
+#~ msgid "Hostname:"
+#~ msgstr "No do lodjoe:"
+
+#~ msgid "Please wait"
+#~ msgstr "Tårdjîz on pô, s' i vs plait"
+
+#~ msgid "Uploading in progress"
+#~ msgstr "Eberwetaedje en alaedje"
+
+#, fuzzy
+#~ msgid "Manage software"
+#~ msgstr "Manaedjî les pårtaedjes NFS"
+
+#, fuzzy
+#~ msgid "Use NFS shares"
+#~ msgstr "Manaedjî les pårtaedjes NFS"
+
+#~ msgid "Manage Samba configuration"
+#~ msgstr "Manaedjî l' apontiaedje di Samba"
+
+#, fuzzy
+#~ msgid "Use WebDAV shares"
+#~ msgstr "Apontyî sierveu waibe"
+
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#~ msgid "Boot theme"
+#~ msgstr "Tinme d' enondaedje"
+
+#~ msgid "Console"
+#~ msgstr "Conzôle"
+
+#~ msgid "Adjust the date and the time"
+#~ msgstr "Apontyî l' date et l' eure"
+
+#~ msgid "Fax"
+#~ msgstr "Facs"
+
+#~ msgid "Software Media Manager"
+#~ msgstr "Manaedjeu des sopoirts d' astalaedje"
+
+#~ msgid "Invictus Firewall"
+#~ msgstr "Côpe feu Invictus"
+
+#~ msgid "Language"
+#~ msgstr "Lingaedje"
+
+#~ msgid "Country / Region"
+#~ msgstr "Payis/Redjon"
+
+#~ msgid "Updates"
+#~ msgstr "Metaedjes a djoû"
+
+#~ msgid "Control and configure network connections"
+#~ msgstr "Corwaitî eyet apontyî les raloyaedjes rantoele"
+
+#~ msgid "Network Profiles"
+#~ msgstr "Profils rantoele"
+
+#~ msgid "Local disk sharing"
+#~ msgstr "Pårtaedje del deure plake locåle"
+
+#~ msgid "Level and checks"
+#~ msgstr "Liveas eyet verifiaedjes"
+
+#~ msgid "Enable or disable the system services"
+#~ msgstr "Mete en alaedje ou dismete des siervices do sistinme"
+
+#~ msgid "Media Manager"
+#~ msgstr "Manaedjeu des sopoirts d' astalaedje"
+
+#~ msgid "UPS"
+#~ msgstr "UPS"
+
+#~ msgid "VPN configuration"
+#~ msgstr "Apontiaedje VPN"
+
+#, fuzzy
+#~ msgid "Configure Software management"
+#~ msgstr "Manaedjeu di programes"
+
+#~ msgid "Install"
+#~ msgstr "Astalaedje"
+
+#~ msgid "Look at installable software and install software packages"
+#~ msgstr ""
+#~ "Astaler des pacaedjes di programes, loukî après les programes k' on pout "
+#~ "astaler"
+
+#~ msgid "Remove"
+#~ msgstr "Oister"
+
+#~ msgid "Look at installed software and uninstall software packages"
+#~ msgstr "Loukî les programes d' astalés, eyet dizastaler des pacadjes"
+
+#~ msgid "Screen resolution"
+#~ msgstr "Finté del waitroûle"
+
+#~ msgid "Change the screen resolution"
+#~ msgstr "Candjî l' finté del waitroûle"
+
+#~ msgid "TV card"
+#~ msgstr "Cåte tévé"
+
+#~ msgid "Set up TV card"
+#~ msgstr "Apontyî l' cåte tévé"
+
+#~ msgid "/_Expert mode"
+#~ msgstr "/Môde _sipepieus"
+
+#~ msgid "Set Samba mount points"
+#~ msgstr "Apontyî les ponts di montaedje Samba"
+
+#~ msgid "Samba printing configuration"
+#~ msgstr "Apontiaedje di l' imprimaedje di Samba"
+
+#~ msgid "Enable or disable printers in your Samba server configuration"
+#~ msgstr ""
+#~ "Mete ene alaedje ou dismete des scrireces dins l' apontiaedje do sierveu "
+#~ "Samba da vosse"
+
+#~ msgid "(original C version)"
+#~ msgstr "(modêye C oridjinåle)"
+
+#~ msgid "(design)"
+#~ msgstr "(adjinçnaedje)"
+
+#~ msgid ""
+#~ "Select the application menu layout and change which programs are shown on "
+#~ "the menu"
+#~ msgstr ""
+#~ "Tchoezixhoz l' adjinçnaedje do menu des programes, eyet candjîz les "
+#~ "programes k' aparexhèt e menu"
+
+#~ msgid ""
+#~ "We are about to switch from the \"%s\" profile to the \"%s\" profile.\n"
+#~ "\n"
+#~ "Are you sure you want to do the switch?"
+#~ msgstr ""
+#~ "On va fé l' discandje do profil «%s» viè l' profil «%s».\n"
+#~ "\n"
+#~ "Estoz vs seur ki vos vloz candjî?"
+
+#~ msgid "/_Profiles"
+#~ msgstr "/_Profils"
+
+#~ msgid "/_New"
+#~ msgstr "/_Novea"
+
+#~ msgid "New profile..."
+#~ msgstr "Novea profil..."
+
+#~ msgid ""
+#~ "Name of the profile to create (the new profile is created as a copy of "
+#~ "the current one):"
+#~ msgstr ""
+#~ "No do profil a-z askepyî (li novea profil est askepyî come ene copeye do "
+#~ "ci do moumint):"
+
+#~ msgid "Ok"
+#~ msgstr "'l est bon"
+
+#~ msgid "The \"%s\" profile already exists!"
+#~ msgstr "Li profil «%s» egzistêye dedja!"
+
+#~ msgid "Delete profile"
+#~ msgstr "Disfacer profil"
+
+#~ msgid "Profile to delete:"
+#~ msgstr "Profil a disfacer:"
+
+#~ msgid "You can not delete the current profile"
+#~ msgstr "Vos n' poloz nén disfacer li profil do moumint"
+
+#~ msgid "Add a DNS client"
+#~ msgstr "Radjouter on cliyint DNS"
+
+#~ msgid "Add new users"
+#~ msgstr "Radjouter des noveas uzeus"
+
+#~ msgid "Auto Install Floppy"
+#~ msgstr "Plakete d' otoastalaedje"
+
+#~ msgid "Boot Floppy"
+#~ msgstr "Plakete d' enondaedje"
+
+#~ msgid "CD/DVD"
+#~ msgstr "Plakes lazer"
+
+#~ msgid "Configure PXE"
+#~ msgstr "Apontyî PXE"
+
+#~ msgid "Connection Sharing"
+#~ msgstr "Pårtaedje do raloyaedje al daegntoele"
+
+#~ msgid "DVD"
+#~ msgstr "DVD"
+
+#~ msgid "Date & Time"
+#~ msgstr "Date et eure"
+
+#~ msgid "Disk Partionning"
+#~ msgstr "Pårtixhaedje del deure plake"
+
+#~ msgid "Display Configuration"
+#~ msgstr "Apontiaedje do håynaedje"
+
+#~ msgid "Display Manager"
+#~ msgstr "Manaedjeu di håynaedje"
+
+#~ msgid "Floppy"
+#~ msgstr "Plakete"
+
+#~ msgid "Internet & Network"
+#~ msgstr "Rantoele & daegntoele"
+
+#~ msgid "Internet Access"
+#~ msgstr "Accès al daegntoele"
+
+#~ msgid "Internet Connection Sharing"
+#~ msgstr "Pårtaedje do raloyaedje al rantoele daegnrece"
+
+#~ msgid "KeyBoard Configuration"
+#~ msgstr "Apontiaedje del taprece"
+
+#~ msgid "Manager Connection"
+#~ msgstr "Manaedjî les raloyaedjes"
+
+#~ msgid "%s Control Center %s\n"
+#~ msgstr "Cinte di contrôle di %s %s\n"
+
+#~ msgid "Monitor Connection"
+#~ msgstr "Corwaitî les raloyaedjes"
+
+#~ msgid "New Connection"
+#~ msgstr "Novea raloyaedje"
+
+#~ msgid "Next"
+#~ msgstr "Shuvant"
+
+#~ msgid "Previous"
+#~ msgstr "Di dvant"
+
+#~ msgid "Samba 3.0 (prerelease) that co-exists with Samba 2.2.x"
+#~ msgstr "Samba 3.0 (prerelease) ki pout egzister avou Samba 2.2.x"
+
+#~ msgid "Service Configuration"
+#~ msgstr "Apontiaedje des siervices"
+
+#~ msgid "Skip Wizard"
+#~ msgstr "Passer houte do macrea"
+
+#~ msgid "Warly"
+#~ msgstr "Warly"
+
+#~ msgid "Zip"
+#~ msgstr "Plakete ZIP"
+
+#~ msgid ""
+#~ "_banner font:\n"
+#~ "Sans 15"
+#~ msgstr "Sans 15"
+
+#~ msgid "audio/video/MIDI apps"
+#~ msgstr "programes odio/videyo/MIDI"
+
+#~ msgid "bootsplash, databases, drakwizard, various other stuffs."
+#~ msgstr "bootsplash, båzes di dnêyes, macrea, et co ds ôtes."
+
+#~ msgid "figlet introduction"
+#~ msgstr "introduccion a figlet"
+
+#~ msgid "leader of the mdk sk-i18n team."
+#~ msgstr "moenneu di l' ekipe di ratournaedje e slovake"
+
+#~ msgid "many multimedia packages (xine,totem"
+#~ msgstr "bråmint di pacaedjes multimedia (wine,totem)"
+
+#~ msgid ""
+#~ "massive packages rebuilding and cleaning, Norwegian Bokmål (nb) "
+#~ "translation, i18n work (nb and nn), games, sparc port"
+#~ msgstr ""
+#~ "bråmint des rfijhaedjes et netiaedjes di pacaedjes, ratournaedje e "
+#~ "norvedjyin bokmål, ovraedje so l' i18n, djeus, poirtaedje sparc"
+
+#~ msgid "mono introduction"
+#~ msgstr "introduccion a mono"
+
+#~ msgid "mono introduction, updated abiword"
+#~ msgstr "introduccion a mono, metaedje a djoû d' AbiWord"
+
+#~ msgid "multimedia kernel"
+#~ msgstr "nawea multimedia"
+
+#~ msgid "rpmsync script"
+#~ msgstr "sicripe rpmsync"
+
+#~ msgid "some ruby stuff"
+#~ msgstr "des sacwès e lingaedje ruby"
+
+#~ msgid "updated nc with debian patches"
+#~ msgstr "metaedje a djoû di «nc» avou des patches debian"

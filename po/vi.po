@@ -1,0 +1,2153 @@
+# Vietnamese Translation For drakconf.
+# Copyright (C) 2001-2003, 2004 Free Software Foundation, Inc.
+# Trinh Minh Thanh <tmthanh@yahoo.com>, 2001 - 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf-vi\n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2005-03-04 13:14+0700\n"
+"Last-Translator: Trinh Minh Thanh <tmthanh@yahoo.com>\n"
+"Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Người đóng gói"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"viết lại và sửa lỗi nhiều gói phần mềm, trò chơi, sparc port, proofreading "
+"cho các công cụ của  %s"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "giới thiệu cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "giới thiệu figlet, Distriblint (kiểm tra rpm trong distro)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, abiword mới, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"cập nhật nc với debian patches, sửa lỗi một số gói perl, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"hoạt động kernel \"sâu và rộng\" (nhiều miếng vá mới trước khi tích hợp "
+"trong kernel chính thức)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "công việc kernel (các patch liên quan đến audio và video)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "miếng vá lỗi cho một số gói, kfiresaver, xwine. ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (prerelease) tồn tại cùng Samba 2.2.x, Samba-2.2.x, GIS software "
+"(grass, mapserver), sưu tập cursor_themes, các phân phối cho phần server"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms và plugins gnome-"
+"python, rox desktop"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"ứng dụng audio/video/MIDI, ứng dụng khoa học, cách làm audio/video, "
+"bluetooth, pyqt & các thứ liên quan"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM stuff, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng và cách hoạt động khác của kernel"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr "hầu hết các gói dựa trên web và nhiều gói liên quan đến bảo mật"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "kiểm tra slbd distro, devel dependancies"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "rpmsync script, foolproof MIDI playback, tweaked libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "rất nhiều extra gnome applets và python modules"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"sk-i18n, phân phối một số gói, chạy thử và tích hợp openldap, bind-sdb-ldap, "
+"một vài năm sử dụng cooker và tìm lỗi, v.v..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "một số gói some ruby, gói php-pear, và các thứ khác."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "bản sao moin wiki, beep-media-player, im-ja và một số gói khác"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "báo cáo lỗi, trợ giúp bằng thunderbird,..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"chạy thử và báo lỗi, Dovecot, bibletime, sword, trợ giúp bằng pure-ftpd, "
+"spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"http proxy được hỗ trợ trong installer, kernel 2.6 được hỗ trợ trong "
+"sndconfig, samba3 được hỗ trợ trong LinNeighborhood, sửa lỗi và cải tiến cho "
+"urpmi, bootsplash và drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors cho 2.6 kernel, chạy thử, một số gói contrib."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine và một số gói khác."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "các phần được viết/hiệu chỉnh của tập tin gi/docs/HACKING"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Người dịch"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Người dịch và điều phối tiếng Na Uy Bokmal"
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "\"one-man\" mdk sk-i18n team"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Người dịch và người điều phối cho tiếng Phần Lan"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Người dịch và người điều phối cho tiếng Hà Lan"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Người dịch tiếng Đan Mạch"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Người dịch và điều phối tiếng Na Uy Nynorsk"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Người dịch tiếng Ét-s-tô-ni-a"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Người dịch tiếng Ý"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Người dịch tiếng Bốt-s-ni-a"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Người thử nghiệm"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "chạy thử và ghi lại lỗi, tích hợp eagle-usb driver"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "chạy thử và ghi lại lỗi"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "chạy thử, ghi lại lỗi, thử gói NVidia"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "chạy thử, ghi lại lỗi "
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, chạy thử, ghi lại lỗi"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"Và rất nhiều người đã chạy thử và báo lỗi để đảm bảo hệ thống chạy tốt."
+
+#: ../control-center:90
+#, fuzzy, c-format
+msgid "OpenMandriva Lx"
+msgstr "Mandriva Online"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "Trung Tâm Điều Khiển %s"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Đang nạp... Hãy chờ"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Quản Lý Phần Mềm"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, fuzzy, c-format
+msgid "Others"
+msgstr "Người thử nghiệm"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Đồ thuật máy chủ"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Chia sẻ"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "Cấu hình FTP"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "Thiết lập FTP server"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Cấu hình Samba"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Thiết lập máy chủ tập tin và in ấn cho các máy trạm chạy Linux và chạy hệ "
+"điều hành khác"
+
+#: ../control-center:192
+#, fuzzy, c-format
+msgid "Manage Samba share"
+msgstr "Các dịch vụ Samba được bật chạy"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr ""
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Cấu hình máy chủ web"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Thiết lập máy chủ web"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Cấu hình máy chủ cài đặt"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Thiết lập máy chủ để cài đặt %s qua mạng"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Dịch vụ mạng"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "Cấu hình DHCP"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "Thiết lập DHCP server"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "Cấu hình DNS"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "Thiết lập DNS server (network name resolution)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Cấu hình Proxy"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Cấu hình web caching proxy server"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Cấu hình thời gian"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+"Đặt thời gian cho máy chủ để được đồng bộ hoá với máy chủ thời gian bên ngoài"
+
+#: ../control-center:227 ../control-center:228
+#, fuzzy, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "Hiển thị cấu hình Ldap"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Xác thực"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "Cấu hình NIS và Autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "Cấu hình dịch vụ NIS và Autofs"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "Cấu hình LDAP"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Cấu hình các dịch vụ thư mục LDAP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Groupware"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Cấu hình News"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Cấu hình máy chủ newsgroup"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Cấu hình groupware"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Cấu hình máy chủ groupware"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Cấu hình Mail"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Cấu hình Internet Mail services"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Quản trị trực tuyến"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Quản trị tại chỗ"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Cấu hình máy nội bộ qua giao diện Web"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr "Có vẻ như chưa cài đặt webmin. Cấu hình cục bộ không hoạt động"
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Quản trị từ xa"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr "Nhấn vào đây nếu muốn cấu hình điều khiển từ xa qua giao diện Web"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Phần Cứng"
+
+#: ../control-center:326
+#, fuzzy, c-format
+msgid "Manage your hardware"
+msgstr "DrakSamba quản lý điểm chia sẻ Samba"
+
+#: ../control-center:333
+#, fuzzy, c-format
+msgid "Configure graphics"
+msgstr "Cấu hình Mail"
+
+#: ../control-center:340
+#, fuzzy, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Cấu hình monitor"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Mạng & Internet"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, fuzzy, c-format
+msgid "Manage your network devices"
+msgstr "Dịch vụ mạng"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Hệ Thống"
+
+#: ../control-center:403
+#, fuzzy, c-format
+msgid "Manage system services"
+msgstr "Bật hay tắt các dịch vụ hệ thống"
+
+#: ../control-center:412
+#, fuzzy, c-format
+msgid "Localization"
+msgstr "Quản trị tại chỗ"
+
+#: ../control-center:419
+#, fuzzy, c-format
+msgid "Administration tools"
+msgstr "Quản trị trực tuyến"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, fuzzy, c-format
+msgid "Network Sharing"
+msgstr "Dịch vụ mạng"
+
+#: ../control-center:439
+#, fuzzy, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Cấu hình groupware"
+
+#: ../control-center:446
+#, fuzzy, c-format
+msgid "Configure NFS shares"
+msgstr "DrakSamba quản lý điểm chia sẻ Samba"
+
+#: ../control-center:453
+#, fuzzy, c-format
+msgid "Configure WebDAV shares"
+msgstr "Cấu hình máy chủ web"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, fuzzy, c-format
+msgid "Local disks"
+msgstr "Chia sẻ ổ đĩa cục bộ"
+
+#: ../control-center:490
+#, fuzzy, c-format
+msgid "CD-ROM (%s)"
+msgstr "DVD-ROM"
+
+#: ../control-center:491
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Lập điểm gắn kết CD-ROM drive"
+
+#: ../control-center:493
+#, fuzzy, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM"
+
+#: ../control-center:494
+#, fuzzy, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Lập điểm gắn kết DVD-ROM drive"
+
+#: ../control-center:496
+#, fuzzy, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "Ổ Ghi CD/DVD"
+
+#: ../control-center:497
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Lập điểm gắn kết ổ ghi CD/DVD"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "Ổ ZIP"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Lập điểm gắn kết ổ đĩa ZIP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Bảo mật"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Khởi Động"
+
+#: ../control-center:533
+#, fuzzy, c-format
+msgid "Configure boot steps"
+msgstr "Cấu hình thời gian"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr ""
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Đồ thuật bổ sung"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/Tùy _chọn"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Hiển thị _Bản ghi (Log)"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/Chế độ _Nhúng"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Chế độ chuyên gia trong _đồ thuật"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Tệp"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/T_hoát"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Thoát"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/Th_emes"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Việc này sẽ khởi động lại trung tâm điều khiển.\n"
+"Mọi thay đổi chưa được áp dụng sẽ bị mất."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/Thê_m theme"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/Trợ _giúp"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: ../control-center:668
+#, fuzzy, c-format
+msgid "/_Release notes"
+msgstr "/_Xóa"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr ""
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr ""
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/Báo _Cáo Lỗi"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/Giới t_hiệu..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Bỏ qua"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "Trung Tâm Điều Khiển %s %s [trên %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Lỗi"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"Có lỗi dịch ngôn ngữ của bạn (%s)\n"
+"\n"
+"Hãy ghi báo cáo lỗi đó."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Không thể chạy chương trình không xác định '%s'"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Sẽ không lưu lại những thay đổi thực hiện trong module hiện thời."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "không thể fork: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "không thể fork và exec \"%s\" vì nó không có khả năng thực thi"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Chương trình này đã thoát ra bất thường"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Đóng"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Thêm theme"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Lấy theme mới"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Theme bổ sung"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Lấy thêm theme tại www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Giới thiệu - Trung Tâm Điều Khiển %s"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Tác giả: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(phiên bản perl)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Trang trí nghệ thuật: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr ""
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+"_: NAME OF TRANSLATORS\n"
+"Trịnh Minh Thanh"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""
+"_: EMAIL OF TRANSLATORS\n"
+"tmthanh@yahoo.com"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Dịch sang tiếng Việt:"
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, fuzzy, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "Trung Tâm Điều Khiển %s"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Bản quyền (C) %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Tác giả"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "Người Đóng Góp Cho OpenMandriva Lx"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Hiển thị"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Bàn phím"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Chuột"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Người Dùng và Nhóm"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Dịch vụ"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Tường lửa"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Trình nạp khởi động"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Cài đặt tự động"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Chia sẻ kết nối internet"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr ""
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Phân vùng"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Trung Tâm Điều Khiển"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Chọn công cụ bạn muốn dùng"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, fuzzy, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "Cấu hình máy chủ newsgroup"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr "Chọn phương thức chứng thực (local, NIS, LDAP, Windows Domain, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, fuzzy, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "Bật autologin và chọn người dùng để đăng nhập tự động"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr "Bật autologin và chọn người dùng để đăng nhập tự động"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Sao lưu"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "Cấu hình sao lưu hệ thống và dữ liệu của người dùng"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:108
+#, fuzzy, c-format
+msgid "Set up boot system"
+msgstr "Thiết lập cách khởi động hệ thống"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Thiết lập cách khởi động hệ thống"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, fuzzy, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Chọn theme đồ họa khi hệ thống khởi động"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Chọn theme đồ họa khi hệ thống khởi động"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Chia sẻ kết nối Internet với các máy khác trong mạng nội bộ"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Thiết lập giao diện mạng mới (LAN, ISDN, ADSL, ...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Truy cập internet"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Thay đổi các thiết lập internet khác"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, fuzzy, c-format
+msgid "Open a console as administrator"
+msgstr "Mở một console"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, fuzzy, c-format
+msgid "Manage date and time"
+msgstr "Ngày và Giờ"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, fuzzy, c-format
+msgid "Set up display manager"
+msgstr "Trình quản lý hiển thị"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr "Chọn trình quản lý hiển thị để cho phép chọn người dùng đăng nhập"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Cấu hình fax server"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr "Thiết lập tường lửa cá nhân để bảo vệ mạng và máy tính"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr "Quản lý, thêm, bỏ phông chữ. Nhập phông chữ từ Windows(TM)"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Thiết lập máy chủ đồ họa"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, fuzzy, c-format
+msgid "Manage disk partitions"
+msgstr "DrakHOSTS quản lý định nghĩa của các máy"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Tạo, xoá và thay đổi phân vùng đĩa cứng"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, fuzzy, c-format
+msgid "Browse and configure hardware"
+msgstr "Xem và cấu hình phần cứng"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, fuzzy, c-format
+msgid "Sound Configuration"
+msgstr "Cấu hình proxy"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:261
+#, fuzzy, c-format
+msgid "Manage hosts definitions"
+msgstr "DrakHOSTS quản lý định nghĩa của các máy"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, fuzzy, c-format
+msgid "Install & Remove Software"
+msgstr "Cài đặt Phần mềm"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, fuzzy, c-format
+msgid "Install, uninstall software"
+msgstr "Phầm mềm đã cài đặt"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Thiết lập tổ chức bàn phím"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Thiết lập máy chủ groupware"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Thiết lập ngôn ngữ, quốc gia hay vùng cho hệ thống"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Xem và tìm kiếm bản ghi hệ thống"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Quản lý kết nối"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Cấu hình lại giao diện mạng"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Quản trị nhóm máy tính"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Quản lý gói phần mềm đã cài đặt của một nhóm"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"Xem các cập nhật hiện có và thực hiện cập nhật hay nâng cấp các gói đã cài "
+"đặt "
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Kiểu dáng Menu"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, fuzzy, c-format
+msgid "Menu Style Configuration"
+msgstr "Trung Tâm Cấu Hình Menu"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Theo dõi kết nối"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Theo dõi kết nối mạng"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Thiết lập thiết bị con trỏ (mouse, touchpad)"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:418
+#, fuzzy, c-format
+msgid "Network Center"
+msgstr "Mạng & Internet"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, fuzzy, c-format
+msgid "Manage different network profiles"
+msgstr "Dịch vụ mạng"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "Lập điểm gắn kết NFS"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:449
+#, fuzzy, c-format
+msgid "Manage NFS shares"
+msgstr "DrakSamba quản lý điểm chia sẻ Samba"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Trạng thái gói"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Hiển thị thống kê về việc dùng các gói phần mềm trong hệ thống"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, fuzzy, c-format
+msgid "Share your hard disk partitions"
+msgstr "Thiết lập việc chia sẻ các phân vùng đĩa cứng"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Thiết lập việc chia sẻ các phân vùng đĩa cứng"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Thiết lập máy in, hàng đợi in,..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Tác vụ theo lịch"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr "Lên lịch chạy chương trình theo định kỳ hay theo thời gian cụ thể"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Proxy"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "Thiết lập proxy server để duyệt web và tập tin"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Điều khiển từ xa (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Điều khiển máy tính từ xa (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Bỏ kết nối"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Xoá giao diện mạng"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Kết nối không dây"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:552
+#, fuzzy, c-format
+msgid "Manage configuration of Samba"
+msgstr "Cấu hình việc in ấn"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Thiết lập máy quét"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, fuzzy, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Tinh chỉnh quyền hạn bảo mật cho hệ thống"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, fuzzy, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr "Đặt mức bảo mật hệ thống và kiểm tra bảo mật định kỳ"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:593
+#, fuzzy, c-format
+msgid "Select from where software packages are downloaded "
+msgstr "Chọn nơi tải về các gói để cập nhật hệ thống"
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "Cấu hình groupware"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#  -PO: here power means electrical power
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "Thiết lập UPS để theo dõi nguồn điện"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, fuzzy, c-format
+msgid "Manage users on system"
+msgstr "Thêm, bỏ hay thay đổi người dùng của hệ thống"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Thêm, bỏ hay thay đổi người dùng của hệ thống"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, fuzzy, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Theo dõi kết nối"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "Lập điểm gắn kết WebDAV"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Trung Tâm Cấu Hình Menu"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Menu hệ thống"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Cấu hình..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Menu người dùng"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Hãy chọn menu để cấu hình"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Cấu hình việc in ấn"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Nhấn vào đây để cấu hình hệ thống in"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Hoàn thành"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Đăng nhập tự động"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Ngày và Giờ"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Kết nối mới"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Đĩa mềm cài đặt tự động"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Nạp khởi động"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Tác vụ theo lịch"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Trình quản lý hiển thị"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Đĩa mềm khởi động"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Phông chữ"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Quyền hạn"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Mức độ và việc kiểm tra"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "TV Card"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Chia sẻ phân vùng đĩa"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Đĩa Cứng"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Bản ghi (log)"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Menu"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Điểm Gắn Kết"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "Điểm gắn kết NFS"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Máy in"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Cấu hình proxy"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Thiết bị tháo lắp"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Bỏ kết nối"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Điểm gắn kết Samba"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Máy quét"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Thiết lập của hệ thống"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Người Dùng và Nhóm"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "Điểm gắn kết WebDAV"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Máy chủ đồ họa"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Monitor"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Độ phân giải màn hình"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Cấu hình máy tính"
+
+#, fuzzy
+#~ msgid "Set up security level and audit"
+#~ msgstr "Đặt mức bảo mật hệ thống và kiểm tra bảo mật định kỳ"
+
+#, fuzzy
+#~ msgid "Tune permissions on system"
+#~ msgstr "Tinh chỉnh quyền hạn bảo mật cho hệ thống"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Chào Mừng Trung Tâm Điều Khiển %s"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Tạo đĩa mềm cài đặt tự động"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Tạo đĩa mềm khởi động độc lập"
+
+#, fuzzy
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ "Tải lên cấu hình của bạn để duy trì thông báo về các cập nhật bảo mật và "
+#~ "nâng cấp hữu ích"
+
+#, fuzzy
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "Tải lên cấu hình của bạn để duy trì thông báo về các cập nhật bảo mật và "
+#~ "nâng cấp hữu ích"
+
+#~ msgid "Floppy drive"
+#~ msgstr "Ổ đĩa mềm"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Lập điểm gắn kết ổ đĩa mềm"
+
+#~ msgid "/_Upload the hardware list"
+#~ msgstr "/_Tải lên danh sách phần cứng"
+
+#, fuzzy
+#~ msgid "<control>U"
+#~ msgstr "<control>Q"
+
+#~ msgid "Upload the hardware list"
+#~ msgstr "Tải lên danh sách phần cứng"
+
+#~ msgid "Account:"
+#~ msgstr "Tài khoản:"
+
+#~ msgid "Password:"
+#~ msgstr "Mật khẩu:"
+
+#~ msgid "Hostname:"
+#~ msgstr "Tên máy chủ:"
+
+#~ msgid "Please wait"
+#~ msgstr "Hãy đợi"
+
+#, fuzzy
+#~ msgid "Manage software"
+#~ msgstr "DrakSamba quản lý điểm chia sẻ Samba"
+
+#, fuzzy
+#~ msgid "Use NFS shares"
+#~ msgstr "DrakSamba quản lý điểm chia sẻ Samba"
+
+#, fuzzy
+#~ msgid "Manage Samba configuration"
+#~ msgstr "Cấu hình Thư Cảnh Báo"
+
+#, fuzzy
+#~ msgid "Use WebDAV shares"
+#~ msgstr "Cấu hình máy chủ web"
+
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#~ msgid "Boot theme"
+#~ msgstr "Theme khởi động"
+
+#~ msgid "Console"
+#~ msgstr "Console"
+
+#~ msgid "Adjust the date and the time"
+#~ msgstr "Hiệu chỉnh Ngày & Giờ"
+
+#~ msgid "Fax"
+#~ msgstr "Fax"
+
+#~ msgid "Software Media Manager"
+#~ msgstr "Trình Quản Lý Nguồn Phần Mềm"
+
+#, fuzzy
+#~ msgid "Invictus Firewall"
+#~ msgstr "Tường lửa"
+
+#~ msgid "Language"
+#~ msgstr "Ngôn ngữ"
+
+#~ msgid "Country / Region"
+#~ msgstr "Quốc gia / Vùng"
+
+#~ msgid "Updates"
+#~ msgstr "Cập nhật"
+
+#, fuzzy
+#~ msgid "Control and configure network connections"
+#~ msgstr "Theo dõi kết nối mạng"
+
+#, fuzzy
+#~ msgid "Network Profiles"
+#~ msgstr "Dịch vụ mạng"
+
+#~ msgid "Local disk sharing"
+#~ msgstr "Chia sẻ ổ đĩa cục bộ"
+
+#~ msgid "Level and checks"
+#~ msgstr "Mức độ và việc kiểm tra"
+
+#~ msgid "Enable or disable the system services"
+#~ msgstr "Bật hay tắt các dịch vụ hệ thống"
+
+#~ msgid "Media Manager"
+#~ msgstr "Trình quản lý phương tiện"
+
+#~ msgid "UPS"
+#~ msgstr "UPS"
+
+#, fuzzy
+#~ msgid "VPN configuration"
+#~ msgstr "Cấu hình DVB"
+
+#, fuzzy
+#~ msgid "Configure Software management"
+#~ msgstr "Quản Lý Phần Mềm"
+
+#~ msgid "Install"
+#~ msgstr "Cài đặt"
+
+#~ msgid "Look at installable software and install software packages"
+#~ msgstr "Xem phần mềm có thể cài đặt và cài đặt gói phần mềm"
+
+#~ msgid "Remove"
+#~ msgstr "Gỡ bỏ"
+
+#~ msgid "Look at installed software and uninstall software packages"
+#~ msgstr "Xem các gói đã và chưa cài đặt"
+
+#~ msgid "Screen resolution"
+#~ msgstr "Độ phân giải màn hình"
+
+#~ msgid "Change the screen resolution"
+#~ msgstr "Thay đổi độ phân giải màn hình"
+
+#~ msgid "TV card"
+#~ msgstr "TV card"
+
+#~ msgid "Set up TV card"
+#~ msgstr "Thiết lập TV card"
+
+#~ msgid "/_Expert mode"
+#~ msgstr "/Chế độ _Chuyên Gia"
+
+#~ msgid "Set Samba mount points"
+#~ msgstr "Lập điểm gắn kết Samba"
+
+#, fuzzy
+#~ msgid "Samba printing configuration"
+#~ msgstr "Cấu hình việc in ấn"
+
+#~ msgid "(original C version)"
+#~ msgstr "(phiên bản C gốc)"
+
+#~ msgid "(design)"
+#~ msgstr "(thiết kế)"
+
+#~ msgid ""
+#~ "Select the application menu layout and change which programs are shown on "
+#~ "the menu"
+#~ msgstr ""
+#~ "Chọn layout cho menu của ứng dụng và thay đổi chương trình nào được hiển "
+#~ "thị trên menu"
+
+#~ msgid ""
+#~ "We are about to switch from the \"%s\" profile to the \"%s\" profile.\n"
+#~ "\n"
+#~ "Are you sure you want to do the switch?"
+#~ msgstr ""
+#~ "Sẽ chuyển từ lý lịch \"%s\" sang lý lịch \"%s\".\n"
+#~ "\n"
+#~ "Bạn có chắc chắn muốn chuyển không?"
+
+#~ msgid "/_Profiles"
+#~ msgstr "/_Lý lịch"
+
+#~ msgid "/_New"
+#~ msgstr "/Mớ_i"
+
+#~ msgid "New profile..."
+#~ msgstr "Lý lịch mới..."
+
+#~ msgid ""
+#~ "Name of the profile to create (the new profile is created as a copy of "
+#~ "the current one):"
+#~ msgstr ""
+#~ "Tên lý lịch để tạo (lý lịch mới được tạo như bản sao của lý lịch hiện "
+#~ "thời):"
+
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#~ msgid "The \"%s\" profile already exists!"
+#~ msgstr "Lý lịch \"%s\" đang tồn tại rồi!"
+
+#~ msgid "Delete profile"
+#~ msgstr "Xóa lý lịch"
+
+#~ msgid "Profile to delete:"
+#~ msgstr "Xóa lý lịch:"
+
+#~ msgid "You can not delete the current profile"
+#~ msgstr "Bạn không thể xóa lý lịch hiện thời"

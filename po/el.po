@@ -1,0 +1,2015 @@
+# translation of drakconf-el.po to Greek
+# Greek Translation of DrakConf.
+# Copyright (C) 2000,2003 Free Software Foundation, Inc.
+# Copyright (c) 2000 Mandriva
+#
+# Theodore J. Soldatos <bafh@hellug.gr>, 2000.
+# Additions/Corrections: Michael Menegakis <admin@www0.org>, 2002.
+#  Νίκος Νύκταρης (Nick Niktaris) <niktarin@yahoo.com>, 2003.
+# nikos papadopoulos <231036448@freemail.gr>,2007-2008.
+# Glentadakis Dimitrios <dglent@gmail.com>, 2009, 2010.
+# Dimitrios Glentadakis, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf-el\n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2010-06-13 09:09+0200\n"
+"Last-Translator: Dimitrios Glentadakis\n"
+"Language-Team: Greek <translators_team@mandrivalinux.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: GREECE\n"
+"X-Generator: Lokalize 1.0\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Δημιουργοί πακέτων"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"μαζικό ξαναχτίσιμο και καθάρισμα πακέτων , παιχνίδια, sparc port, έλεγχος "
+"και διόρθωση σφαλμάτων στα εργαλεία της Mandriva"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "εισαγωγή cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "εισαγωγή figlet,  Distriblint (έλεγχος των rpm στη διανομή)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, ενημερωμένο abiword, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"ενημέρωση του nc με βελτιώσεις κώδικα (patches) στο debian, διόρθωση μερικών "
+"πακέτων perl, σενάριο εκκίνησης dnotify, urpmc, hddtemp, wipe, κλπ..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"\"πολλή\"  δουλειά στον πυρήνα  (πολλές βελτιώσεις κώδικα (patches) πριν την "
+"ενσωμάτωση στον επίσημο πυρήνα)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr ""
+"δουλειά πάνω στον πυρήνα (βελτιώσεις κώδικα (patch) που σχετίζονται με τον "
+"ήχο και το βίντεο)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr ""
+"βελτιώσεις κώδικα (patch) σε κάποια πακέτα, kfiresaver, xwine. ppc kernel-"
+"benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (πρώιμη έκδοση)  που συνυπάρχει με το Samba 2.2.x, Samba-2.2.x, "
+"λογισμικό GIS  (grass, mapserver), συλλογή cursor_themes (θέματα δείκτη "
+"ποντικιού), διάφορες συνεισφορές στην πλευρά του εξυπηρετητή"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms και πρόσθετα (plugins) "
+"gnome-python, rox desktop"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"εφαρμογές ήχου/βίντεο/MIDI, επιστημονικές εφαρμογές, howtos (οδηγίες) "
+"παραγωγής ήχου/βίντεο, bluetooth, pyqt και τα σχετικά"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng και δουλειά στον πυρήνα"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr ""
+"τα περισσότερα πακέτα που βασίζονται στο διαδίκτυο και πολλά πακέτα σχετικά "
+"με ασφάλεια"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "έλεγχος διανομής slbd, εξαρτήσεις devel"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "σενάριο rpmsync, αναπαραγωγή foolproof MIDI, «πειραγμένο» libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "πολλές επιπλέον εφαρμογές gnome και αρθρώματα (modules) python"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"sk-i18n, συνεισφορά πολλών πακέτων, έλεγχος και ενσωμάτωση του openldap, "
+"bind-sdb-ldap, αρκετά χρόνια χρήσης της έκδοσης cooker και ξετρύπωμα "
+"δυσλειτουργιών, κλπ..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr ""
+"κάποια δουλειά πάνω στη ruby, πακέτα php-pear, και διάφορα άλλα πράγματα."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "κλώνος moin wiki, beep-media-player, im-ja και κάποια άλλα πακέτα"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "αναφορά δυσλειτουργιών, βοήθεια πάνω στα πακέτα του thunderbird,..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"έλεγχος και αναφορές δυσλειτουργιών, Dovecot, bibletime, sword, βοήθεια πάνω "
+"στο pure-ftpd, spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"υποστήριξη http proxy στο πρόγραμμα εγκατάστασης, υποστήριξη του kernel 2.6 "
+"στο sndconfig, υποστήριξη του samba3 στο LinNeighborhood, διορθώσεις και "
+"βελτιώσεις στο urpmi, bootsplash και drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors για το 2.6 kernel, έλεγχος, μερικά πακέτα contrib."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine και άλλα πακέτα contrib"
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "έγραψε/επεξεργάστηκε τμήματα του αρχείου gi/docs/HACKING"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Μεταφραστές"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr ""
+"Συντονιστής και μεταφραστής για τα Bokmal Νορβηγικά (nb), συμμετοχή στο i18n "
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "από μόνος του, όλη η ομάδα mdk sk-i18n"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Συντονιστής και μεταφραστής για τα Φινλανδικά"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Συντονιστής και μεταφραστής για τα Ολλανδικά"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Μεταφραστής για τα Φινλανδικά (και λίγα Bokmal :-)"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Συντονιστής και μεταφραστής για τα Nynorsk Νορβηγικά (nn)"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Εσθονός μεταφραστής"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Ιταλός μεταφραστής"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Βόσνιος μεταφραστής"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Δοκιμαστές"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr ""
+"έλεγχος και αναφορά δυσλειτουργιών, ενσωμάτωση του οδηγού συσκευής eagle-usb"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "έλεγχος και αναφορά δυσλειτουργιών"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "έλεγχος, αναφορά δυσλειτουργιών, έλεγχος πακέτων για Nvidia"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "έλεγχος, αναφορά δυσλειτουργιών"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, έλεγχος, αναφορά δυσλειτουργιών"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"Και πολλοί ανώνυμοι και άγνωστοι δοκιμαστές που ανέφεραν δυσλειτουργίες και "
+"βοήθησαν ώστε όλα να λειτουργούν σωστά."
+
+#: ../control-center:90
+#, c-format
+msgid "OpenMandriva Lx"
+msgstr "OpenMandriva Lx"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "Κέντρο Ελέγχου %s"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Φόρτωση... Παρακαλώ περιμένετε"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Λογισμικό"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, c-format
+msgid "Others"
+msgstr "Άλλα"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Οδηγοί ρυθμίσεων εξυπηρετητή"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Εξυπηρετητές"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "Ρύθμιση FTP"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "Ρύθμιση εξυπηρετητή FTP"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Ρύθμιση Samba"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Ρύθμισε ένα εξυπηρετητή αρχείων και εκτυπώσεων, για σύνδεση με υπολογιστές "
+"που τρέχουν σε συστήματα Linux και μη-Linux"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Διαχειρίσου τις κοινές χρήσεις Samba"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr ""
+"Διαχειρίσου, δημιούργησε ειδικές «κοινές χρήσεις», δημιούργησε δημόσιες/«ανά "
+"χρήστη» «κοινές χρήσεις»"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Ρύθμιση εξυπηρετητή διαδικτύου"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Ρύθμισε έναν εξυπηρετητή διαδικτύου"
+
+# ???
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Ρύθμιση εξυπηρετητή εγκατάστασης"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Ρύθμιση εξυπηρετητή για δικτυακές εγκαταστάσεις του %s"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Υπηρεσίες Δικτύου"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "Ρύθμιση DHCP"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "Ρύθμιση εξυπηρετητή DHCP"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "Ρύθμιση  DNS"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "Στήσιμο ενός εξυπηρετητή DNS (ανάλυση ονομάτων δικτύου)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Ρύθμιση διαμεσολαβητή"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Ρύθμισε έναν εξυπηρετητή διαμεσολαβητή προσωρινής αποθήκευσης"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Ρύθμιση ώρας"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+"Όρισε η ώρα του εξυπηρετητή να συγχρονίζεται με ένα εξωτερικό εξυπηρετητή "
+"ώρας"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "Ρυθμίσεις του δαίμονα OpenSSH"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Πιστοποίηση"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "Ρύθμιση  NIS και Autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "Ρύθμιση  των υπηρεσιών NIS και Autofs"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "Ρύθμιση LDAP"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Ρύθμιση των υπηρεσιών καταλόγου LDAP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Groupware"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Ρύθμιση νέων"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Ρύθμιση ενός εξυπηρετητή newsgroup"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Ρύθμιση groupware"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Ρύθμιση ενός εξυπηρετητή groupware"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Ρύθμιση ταχυδρομείου"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Ρύθμιση των υπηρεσιών διαδικτυακού ταχυδρομείου"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Διαχείριση μέσω Δικτύου"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Τοπική Διαχείριση"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Ρύθμιση του τοπικού συστήματος, μέσω περιβάλλοντος χρήσης διαδικτύου"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr ""
+"Φαίνεται πως δεν έχεις εγκαταστημένο το webmin. Το τοπικό config είναι "
+"απενεργοποιημένο"
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Απομακρυσμένη διαχείριση"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+"Κάνε κλικ εδώ αν θέλεις να ρυθμίσεις ένα απομακρυσμένο υπολογιστή, μέσω "
+"περιβάλλοντος χρήσης διαδικτύου"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Υλικό"
+
+#: ../control-center:326
+#, c-format
+msgid "Manage your hardware"
+msgstr "Διαχείριση των συσκευών του υπολογιστή"
+
+#: ../control-center:333
+#, c-format
+msgid "Configure graphics"
+msgstr "Ρύθμιση των γραφικών"
+
+#: ../control-center:340
+#, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Ρύθμιση του ποντικιού και του πληκτρολογίου"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr "Ρύθμιση των εκτυπώσεων και των σαρώσεων"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Δίκτυο και Διαδίκτυο"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, c-format
+msgid "Manage your network devices"
+msgstr "Διαχείριση των συσκευών δικτύου"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr "Προσάρμοσε και Ασφάλισε το δίκτυό σου"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Σύστημα"
+
+#: ../control-center:403
+#, c-format
+msgid "Manage system services"
+msgstr "Διαχείριση των υπηρεσιών συστήματος"
+
+#: ../control-center:412
+#, c-format
+msgid "Localization"
+msgstr "Τοπικοποίηση"
+
+#: ../control-center:419
+#, c-format
+msgid "Administration tools"
+msgstr "Εργαλεία διαχείρισης συστήματος"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, c-format
+msgid "Network Sharing"
+msgstr "Κοινή Χρήση"
+
+#: ../control-center:439
+#, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Ρύθμισε τις κοινές χρήσεις με τα Microsoft Windows(R)"
+
+#: ../control-center:446
+#, c-format
+msgid "Configure NFS shares"
+msgstr "Ρύθμισε τις κοινές χρήσεις NFS"
+
+#: ../control-center:453
+#, c-format
+msgid "Configure WebDAV shares"
+msgstr "Ρύθμισε τις κοινές χρήσεις WebDAV"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, c-format
+msgid "Local disks"
+msgstr "Τοπικοί δίσκοι"
+
+#: ../control-center:490
+#, c-format
+msgid "CD-ROM (%s)"
+msgstr "CD-ROM (%s)"
+
+#: ../control-center:491
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Όρισε που προσαρτάται η συσκευή CD-ROM \"%s\""
+
+#: ../control-center:493
+#, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM (%s)"
+
+#: ../control-center:494
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Όρισε που προσαρτάται η συσκευή DVD-ROM \"%s\" "
+
+#: ../control-center:496
+#, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "Εγγραφέας CD/DVD (%s)"
+
+#: ../control-center:497
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Όρισε που προσαρτάται η συσκευή εγγραφής CD/DVD \"%s\""
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "Μονάδα Ζip"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Όρισε που προσαρτάται η συσκευή ZIP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Ασφάλεια"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Εκκίνηση"
+
+#: ../control-center:533
+#, c-format
+msgid "Configure boot steps"
+msgstr "Ρύθμιση των βημάτων εκκίνησης"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr "Εμφάνιση και αίσθηση της εκκίνησης"
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Επιπρόσθετοι οδηγοί ρυθμίσεων"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Επιλογές"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Προβολή _Καταγραφών"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/_Ενσωματωμένη Λειτουργία"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Λειτουργία ειδικών στους οδηγούς"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Αρχείο"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_Έξοδος"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Έξοδος"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Θέματα"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Αυτή η ενέργεια θα επανεκκινήσει το κέντρο ελέγχου.\n"
+"Οποιαδήποτε αλλαγή που δεν εφαρμόστηκε θα χαθεί."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Περισσότερα θέματα"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Βοήθεια"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: ../control-center:668
+#, c-format
+msgid "/_Release notes"
+msgstr "/_Σημειώσεις έκδοσης"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr "/Τα_Νέα"
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr "/_Δυσλειτουργίες"
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_Αναφορά Δυσλειτουργίας"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/_Σχετικά με..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "Κέντρο Ελέγχου %s %s [στον %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"Υπάρχει ένα σφάλμα στις μεταφράσεις της γλώσσας σου (%s)\n"
+"\n"
+"Παρακαλώ ανέφερε αυτή τη δυσλειτουργία."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Αδύνατη η εκτέλεση του αγνώστου προγράμματος '%s'"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Οι τροποποιήσεις που έγιναν στο τρέχον άρθρωμα δεν θα αποθηκευτούν."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "αποτυχία του fork () : %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "Αδύνατη η εκκίνηση του « %s » διότι δεν είναι εκτελέσιμο"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Αυτό το πρόγραμμα δεν τερματίστηκε κανονικά"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Προσοχή"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Περισσότερα θέματα"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Εύρεση νέων θεμάτων"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Περισσότερα θέματα"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Βρείτε περισσότερα θέματα στο www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Περί - Κέντρου Ελέγχου %s"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Δημιουργοί: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(έκδοση perl)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Καλλιτεχνική Δημιουργία: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Νίκος Παπαδόπουλος"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "231036448«παπάκι»freemail-τελεία-gr"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Μεταφραστής: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "Κέντρο Ελέγχου %s %s (%s)"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Copyright (C) %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Δημιουργοί"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "Συνεργάτες του OpenMandriva Lx"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Προβολή"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Πληκτρολόγιο"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Ποντίκι"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Χρήστες και Ομάδες"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Υπηρεσίες"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Τοίχος Προστασίας"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Προγράμμα εκκίνησης"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Αυτόματη εγκατάσταση"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Κοινή Σύνδεση Διαδικτύου"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "Εφέ τρισδιάστατης επιφάνειας εργασίας"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Κατατμήσεις"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Κέντρο Ελέγχου"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Επιλέξτε το εργαλείο που θέλετε να χρησιμοποιήσετε"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "Ρύθμισε τα εφέ τρισδιάστατης επιφάνειας εργασίας"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+"Επέλεξε την μέθοδο πιστοποίησης (local, NIS, LDAP, Windows Domain, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "Ενεργοποίησε την «αυτόματη σύνδεση» χρήστη"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+"Ενεργοποίησε την «αυτόματη σύνδεση» και επέλεξε τον χρήστη που θα συνδέεται "
+"αυτόματα"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Αντίγραφα ασφαλείας "
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr ""
+"Ρύθμισε τη λήψη αντίγραφων ασφαλείας του συστήματος \n"
+"και των αρχείων του χρήστη"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr "Στιγμιότυπα"
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr "Ρύθμισε την εκκίνηση του υπολογιστή"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Ρύθμισε την εκκίνηση του συστήματος"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Ρύθμισε την εμφάνιση κατά την εκκίνηση του συστήματος"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Επέλεξε το θέμα γραφικών του συστήματος κατά την εκκίνηση"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Μοιράσου τη σύνδεση διαδικτύου με άλλους τοπικούς υπολογιστές"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Ρύθμισε μία καινούρια σύνδεση δικτύου (LAN, ISDN, ADSL, ...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Πρόσβαση στο Διαδίκτυο"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Άλλαξε διάφορες ρυθμίσεις σχετικές με το διαδίκτυο"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, c-format
+msgid "Open a console as administrator"
+msgstr "Άνοιγμα της κονσόλας υπερχρήστη"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, c-format
+msgid "Manage date and time"
+msgstr "Ρύθμισε την ώρα και την ημερομηνία"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, c-format
+msgid "Set up display manager"
+msgstr "Ρύθμισε τον διαχειριστή σύνδεσης των χρηστών"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+"Επέλεξε το διαχειριστή προβολής, που εμφανίζεται κατά τη σύνδεση του χρήστη"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Ρύθμιση ενός εξυπηρετητή fax"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr "Ρύθμισε το προσωπικό τοίχος προστασίας"
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr ""
+"Ρύθμισε ένα προσωπικό τοίχος προστασίας ώστε να προστατέψεις τον υπολογιστή "
+"και το δίκτυο"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr ""
+"Διαχειρίσου τις γραμματοσειρές.\n"
+"Εγκατέστησε γραμματοσειρές Microsoft Windows™"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Ρύθμισε τον εξυπηρετητή γραφικών"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, c-format
+msgid "Manage disk partitions"
+msgstr "Διαχειρίσου τις κατατμήσεις των σκληρών δίσκων"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Διαχειρίσου τις κατατμήσεις των σκληρών δίσκων"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr "Δες και ρύθμισε τις συσκευές του υπολογιστή"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, c-format
+msgid "Sound Configuration"
+msgstr "Ρύθμισε τον ήχο"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Όρισε τους υπολογιστές"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Διαχειρίσου τους ορισμούς των υπολογιστών"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, c-format
+msgid "Install & Remove Software"
+msgstr "Εγκατάσταση και απεγκατάσταση λογισμικού"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr "Εγκατάσταση, απεγκατάσταση λογισμικού"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr ""
+"Προχωρημένες ρυθμίσεις για τις συνδέσεις δικτύου και το τοίχος προστασίας"
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+"Στίσε τη «έκτακτη ασφαλιστική μεταπήδηση των λειτουργιών» (failover) των "
+"συνδέσεων δικτύου και την αντίκρουση (replication) του τοίχους προστασίας"
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Όρισε τη διάταξη πληκτρολογίου"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Στήσιμο ενός εξυπηρετητή groupware"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr "Διαχειρίσου την τοπικοποίηση του συστήματός σου"
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Επέλεξε γλώσσα και χώρα ή επαρχία για τον υπολογιστή"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Δες και αναζήτησε καταγραφές του συστήματος"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Διαχείριση των συνδέσεων"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Επαναρύθμισε μία σύνδεση δικτύου"
+
+# ???
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Διαχείριση ομάδας υπολογιστών"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr ""
+"Διαχειρίσου τα εγκατεστημένα πακέτα λογισμικού σε μια ομάδα από υπολογιστές"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr "Ρύθμισε την πιστοποίηση των εργαλείων Mandriva"
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+"Όρισε την πιστοποίηση που απαιτείται για κάθε εργαλείο ρυθμίσεων Mandriva "
+"ξεχωριστά"
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr "Ενημέρωση του συστήματος"
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"Προβολή των διαθέσιμων ενημερώσεων και εφαρμογή διορθώσεων ή αναβαθμίσεων "
+"στα εγκαταστημένα πακέτα"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Μορφή του Μενού"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Ρύθμιση της Μορφής του Μενού"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr "Εισήγαγε αρχεία και ρυθμίσεις από τα Microsoft Windows ™"
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Παρακολούθηση των συνδέσεων"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Παρακολούθηση των συνδέσεων δικτύου"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Ρύθμισε τη συσκευή «δείκτης» (ποντίκι, δείκτης αφής)"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr "Γονικός Έλεγχος"
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "Κέντρο Δικτύου"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, c-format
+msgid "Manage different network profiles"
+msgstr "Διαχειρίσου διαφορετικά προφίλ δικτύου"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Ενεργοποίησε και διαχειρίσου τα προφίλ δικτύου"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr "Πρόσβαση στους κοινούς δίσκους και καταλόγους NFS"
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "Ορισμός σημείων προσάρτησης NFS"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr "Κοινή χρήση δίσκων και καταλόγων χρησιμοποιώντας το NFS"
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "Διαχειρίσου τις κοινές χρήσεις NFS"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Στατιστικά Πακέτων"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Εμφάνισε στατιστικά στοιχεία χρήσης των πακέτων λογισμικού"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr "Κοινή χρήση των κατατμήσεων των σκληρών δίσκων"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Όρισε την κοινή χρήση των κατατμήσεων των σκληρών δίσκων"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Ρύθμισε τον εκτυπωτή, την λίστα εργασιών εκτύπωσης, ..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Προγραμματισμένες Εργασίες"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr ""
+"Προγραμμάτισε προγράμματα να τρέχουν περιοδικά, ή σε συγκεκριμένες στιγμές"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Proxy (Διαμεσολαβητής)"
+
+# ???
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr ""
+"Ρύθμιση του εξυπηρετητή διαμεσολάβησης (proxy) για «σερφάρισμα» διαδικτύου "
+"και αρχείων"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Απομακρυσμένος Έλεγχος (Linux/Unix, Microsoft Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr ""
+"Απομακρυσμένος Έλεγχος ενός άλλου μηχανήματος (Linux/Unix, Microsoft Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Διέγραψε μία σύνδεση"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Διέγραψε μια σύνδεση δικτύου"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Ασύρματη σύνδεση"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr ""
+"Πρόσβαση στους κοινούς δίσκους και καταλόγους των Microsoft Windows (SMB)"
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr ""
+"Ρύθμιση των κοινών με τα Microsoft Windows ™ (Samba) δίσκων και καταλόγων"
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr "Κοινή χρήση δίσκων και καταλόγων με συστήματα Microsoft Windows (SMB)"
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Διαχειρίσου τη ρύθμιση του Samba"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Ρύθμισε τον σαρωτή"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr ""
+"Ρύθμισε την ασφάλεια του συστήματος, τις άδειες και τους ελέγχους ασφαλείας"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr ""
+"Όρισε το επίπεδο ασφαλείας του συστήματος, τους περιοδικούς ελέγχους "
+"ασφαλείας και τις άδειες"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr "Ενεργοποίησε ή απενεργοποίησε τις υπηρεσίες του συστήματος"
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr "Πηγές λογισμικού"
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr "Επέλεξε από που θα λαμβάνονται τα πακέτα λογισμικού"
+
+#: ../lib/MDV/Control_Center.pm:603
+#, c-format
+msgid "Configure updates frequency"
+msgstr "Ρύθμιση συχνότητας ενημερώσεων"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr "Πρόσβαση σε εκτεταμένη συντήρηση"
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr "Ρύθμιση πολιτικής TOMOYO Linux"
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr "Προβολή και ρύθμιση πολιτικής ασφαλείας TOMOYO Linux"
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "Ρύθμισε ένα UPS, για τον έλεγχο του ρεύματος"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr "Διαχειρίσου τους χρήστες του συστήματος"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Διαχειρίσου τους χρήστες του συστήματος"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr "Εικονικοποίηση"
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr "Διαχείριση εικονικών συστημάτων"
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Ρύθμισε τις συνδέσεις VPN, για την ασφαλή πρόσβαση δικτύου"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr "Πρόσβαση στους κοινούς δίσκους και καταλόγους WebDAV"
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "Ορισμός σημείων προσάρτησης WebDAV"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Κέντρο Ρυθμίσεων Μενού"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Μενού συστήματος"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Ρύθμιση..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Μενού χρήστη"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Επιλέξτε το μενού που θέλετε να ρυθμίσετε"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Ρυθμίσεις εκτύπωσης"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Κάντε κλικ εδώ για να ρυθμίσετε το σύστημα εκτύπωσης"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Έγινε"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Αυτόματη σύνδεση"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Ημερομηνία και Ώρα"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Νέα σύνδεση"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Δισκέτα αυτόματης εγκατάστασης"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Εκκίνηση"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Χρονοπρογραμματισμός προγραμμάτων"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Διαχειριστής απεικόνισης"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Δισκέτα Εκκίνησης"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Γραμματοσειρές"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Άδειες"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Επίπεδα και Έλεγχοι"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "Κάρτες TV"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Μοίρασμα Κατάτμησης"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Σκληροί Δίσκοι"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Καταγραφές"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Μενού"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Σημεία Προσάρτησης"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "Σημεία προσάρτησης NFS"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Εκτυπωτές"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Ρύθμιση Διαμεσολαβητή"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Αφαιρούμενες συσκευές"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Διαγραφή Σύνδεσης"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Σημεία προσάρτησης Samba "
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Σαρωτές"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Ρυθμίσεις Συστήματος"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Χρήστες και Ομάδες"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "Σημεία προσάρτησης WebDAV"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Εξυπηρετητής Γραφικών"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Οθόνη"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Ανάλυση οθόνης"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Ρυθμίστε τον υπολογιστή σας"
+
+#~ msgid "Set up security level and audit"
+#~ msgstr ""
+#~ "Όρισε το επίπεδο ασφαλείας του συστήματος και τον έλεγχο ασφαλείας (audit)"
+
+#~ msgid "Tune permissions on system"
+#~ msgstr "Συντόνισε τις άδειες του συστήματος"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Καλώς ήρθατε στο Κέντρο Ελέγχου του %s"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Δημιούργησε μία δισκέτα αυτόματης εγκατάστασης"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Δημιούργησε μία αυτόνομη δισκέτα εκκίνησης"
+
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ "Αποστολή της σύνθεσης του υπολογιστή, ώστε να σε πληροφορούμε για τις "
+#~ "αναβαθμίσεις"
+
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "Αποστολή της σύνθεσης του υπολογιστή, ώστε να σε πληροφορούμε για τις "
+#~ "ενημερώσεις ασφαλείας, όπως και για χρήσιμες αναβαθμίσεις"
+
+#~ msgid "Floppy drive"
+#~ msgstr "Οδηγός δισκέτας"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Όρισε που προσαρτάται η συσκευή δισκέτας"

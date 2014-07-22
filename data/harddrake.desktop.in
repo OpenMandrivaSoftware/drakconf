@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=Hardware
+Icon=/usr/share/mcc/themes/default/harddrake-mdk.png
+Exec=/usr/sbin/harddrake2
+Terminal=false
+Type=Application
+Categories=System;SystemSetup;X-Mandrake-Hardware

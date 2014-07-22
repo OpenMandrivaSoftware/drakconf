@@ -1,0 +1,1997 @@
+# Rhoslyn Prys <rhoslyn.prys@ntlworld.com>, 2002, 2003
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf-cy\n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2009-08-24 19:15-0000\n"
+"Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
+"Language-Team: Cymraeg/Welsh <cy@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Welsh\n"
+"X-Poedit-Country: UK\n"
+"Plural-Forms: nplurals=2; plural=(n == 2) ? 1 : 0;\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Pecynwyr"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"ailadeiladu a chlirio sylweddol,  gemau, trosiad sparc, prawf ddarllen offer "
+"Mandriva"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "cyflwyniad cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "cyflwyno figlet, Distriblint (gwirio rpm y dosbarthiad)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, diweddariad abiword, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"nc diweddaraf gyda chlytiau debian, trwsio rhai pecynnau perl, sgript "
+"cychwyn dnotify, urpmc, hddtemp, wipe, ag ati..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"gwaith \"dwfn a llydan\" ar y cnewyllyn (nifer o glytiau newydd cyn "
+"integreiddio i'r cnewyllyn swyddogol)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "gwaith ar y cnewyllyn (clytiau sain a fideo)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "cyweiriad i rai pecynnau, kfiresaver, xwine. ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (rhag rhyddhad) sy'n cyd-fynd â meddalwedd Samba 2.2.x, Samba-2.2."
+"x, GIS (grass, mapserver), casgliad cursor_themes, cyfraniadau ochr gweinydd "
+"amrywiol"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms ac ategynnau gnome-"
+"python, rox desktop"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"rhaglenni sain/fideo/MIDI, rhaglenni gwyddonol, howtos cynhyrchu sain a "
+"fideo, bluetooth, pyqt ac ati"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "pethau ATI/gatos/DRM, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng a gwaith arall ar y cnewyllyn"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr ""
+"y rhan fwyaf o waith ar becynnau gwe a llawer o waith ar becynnau diogelwch"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "gwirio dosbarthiad slbd, dibyniaethau datblygiadol"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "sgript rpmsync, chwarae nôl MIDI hawdd, newid libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "llawer o raglenigau gnome ychwanegol a modiwlau python"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"sk-i18n, cyfrannu nifer o becynnau, profi ac integreiddio openldap, bind-sdb-"
+"ldap, sawl blwyddyn o ddefnyddio cooker a chwilio am wallau, ac ati..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "peth stwff Ruby, pecynnau php-bear, amryw o bethau eraill,..."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "moin wiki clone, beep-media-player, im-ja a rhai pecynnau eraill"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "adroddiadau gwall, cymorth gyda phecyn Thunderbird"
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"profi ac adroddiadau gwall, Dovecot, bibletime, sword, cymorth gyda pure-"
+"ftpd, spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"cymorth dirprwy http  yng ngosodwr, cefnogaeth cnewyllyn 2.6 yn sndconfig, "
+"cefnogaeth i samba3 LinNeighborhood, trwsio a gwella bootsplash a drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors ar gyfer  cnewyllyn 2.6, profi a rhai pecynnau contrib."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine a phecynnau contrib eraill."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Dogfennaeth"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "ysgrifennu/golygu rhannau o gi/docs/HACKING file"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Cyfieithwyr"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Cyfieithydd Bokmål Norwyaidd (nb) a chyd-drefnydd gwaith i18n."
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "\"one-man\" tîm mdk sk-i18n"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Cyfieithydd a chyd-drefnydd Ffineg"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Cyfieithydd a chyd-drefnydd Is Almaeneg"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Cyfieithydd Daneg ( a pheth Bokmal hefyd:-)"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Cyfieithydd Norwyeg Nynorsk (nn) a chyd-drefnydd gwaith i18n."
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Cyfieithydd Estoneg"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Cyfieithydd Eidaleg"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Cyfieithydd Bosnieg"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Profwyr"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "profi ac adrodd ar wallau, integreiddio gyrrwr eagle-usb"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "profi ac adrodd ar wallau"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "profi, adrodd ar wall, profi pecyn Nvidia"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "profi, adrodd ar wallau"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, profi, adrodd ar wallau"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"A llawer o brofwyr beta ac adroddwyr gwallau dienw ac anhysbys sydd wedi "
+"cynorthwyo i'w wneud yn siŵr ei fod yn gweithio'n iawn."
+
+#: ../control-center:90
+#, c-format
+msgid "OpenMandriva Lx"
+msgstr "OpenMandriva Lx"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "Canolfan Rheoli %s"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Arhoswch...Llwytho"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Rheoli Meddalwedd"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, c-format
+msgid "Others"
+msgstr "Eraill"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Dewiniaid gweinydd"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Rhannu"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "Ffurfweddu FTP"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "Gosod gweinydd FTP"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Ffurfweddu Samba"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Gosod gweinydd ffeil ac argraffu ar gyfer gorsaf waith sy'n rhedeg systemau "
+"Linux a rhai eraill"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Rheoli rhannu Samba"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr "çRheoli, creu rhannau arbennig, creu rhannau cyhoeddus/defnyddiwr"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Ffurfweddu gweinydd gwe"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Gosod gweinydd gwe"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Gosodiad Defnyddiwr Gweinydd"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Gosod gweinydd ar gyfer gosodiad rhwydwaith %s"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Gwasanaethau Rhwydweithiau"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "Ffurfweddu DHCP"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "Gosod gweinydd DHCP"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "Ffurfweddu DNS"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "Gosod gweinydd DNS (cydrannu enw rhwydwaith)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Ffurfweddu dirprwy"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Ffurfweddu gweinydd dirprwy storio gwe"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Ffurfweddu amser"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr "Gosod amser y gweinydd i fod yn cydamseru â'r gweinydd amser allanol"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "Ffurfweddiad daemon OpenSSH"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Dilysu"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "Dewin ffurfweddu NIS+autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "Ffurfweddu gwasanaethau NIS ac Autofs"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "Ffurfweddu LDAP"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Ffurfweddu gwasanaethau cyfeiriadur LDAP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Grwpwar"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Ffurfweddu newyddion"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Ffurfweddu gweinydd grŵp newyddion"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Ffurfweddu'r grwpwar"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Ffurfweddu gweinydd grwpwar"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Ffurfweddu e-bost"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Ffurfweddu gwasanaethau E-bost Rhyngrwyd"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Gweinyddiaeth Ar-lein"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Gweinyddiaeth leol"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Ffurfweddu'r peiriant lleol drwy ryngwyneb gwe"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr "Nid yw webadmin i weld wedi ei osod. Anablu ffurfweddiad lleol."
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Gweinyddiaeth bell"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr "Clicio yma os hoffech chi ffurfweddu blwch pell drwy ryngwyneb Gwe."
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Caledwedd"
+
+#: ../control-center:326
+#, c-format
+msgid "Manage your hardware"
+msgstr "Rheoli eich caledwedd"
+
+#: ../control-center:333
+#, c-format
+msgid "Configure graphics"
+msgstr "Ffurfweddu graffigau"
+
+#: ../control-center:340
+#, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Ffurfweddu llygoden a bysellfwrdd"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr "Ffurfweddu argraffu a sganio"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Rhwydwaith a'r Rhyngrwyd"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, c-format
+msgid "Manage your network devices"
+msgstr "Rheoli eich dyfeisiau rhwydwaith"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr "Personoli a Diogelu eich rhwydwaith"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "System"
+
+#: ../control-center:403
+#, c-format
+msgid "Manage system services"
+msgstr "Rheoli gwasanaethau system"
+
+#: ../control-center:412
+#, c-format
+msgid "Localization"
+msgstr "Lleoleiddio"
+
+#: ../control-center:419
+#, c-format
+msgid "Administration tools"
+msgstr "Offer gweinyddol"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, c-format
+msgid "Network Sharing"
+msgstr "Rhannu Rhwydwaith"
+
+#: ../control-center:439
+#, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Ffurfweddu rhannu Windows(TM)"
+
+#: ../control-center:446
+#, c-format
+msgid "Configure NFS shares"
+msgstr "Ffurfweddu rhannu NFS"
+
+#: ../control-center:453
+#, c-format
+msgid "Configure WebDAV shares"
+msgstr "Ffurfweddu rhannu WebDAV"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, c-format
+msgid "Local disks"
+msgstr "Disgiau lleol"
+
+#: ../control-center:490
+#, c-format
+msgid "CD-ROM (%s)"
+msgstr "CD-ROM (%s)"
+
+#: ../control-center:491
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Pennu lle mae eich CD-ROM \"%s\" wedi ei osod"
+
+#: ../control-center:493
+#, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM (%s)"
+
+#: ../control-center:494
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Pennu lle mae eich DVD-ROM \"%s\" wedi ei osod"
+
+#: ../control-center:496
+#, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "Llosgwr CD/DVD (%s)"
+
+#: ../control-center:497
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Pennu lle mae eich llosgwr CD/DVD \"%s\" wedi ei osod"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "Disg ZIP"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Pennu lle mae eich gyrrwr ZIP wedi ei osod"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Diogelwch"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Cychwyn"
+
+#: ../control-center:533
+#, c-format
+msgid "Configure boot steps"
+msgstr "Ffurfweddu cammau cychwyn"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr "Golwg a Theimlad Cychwyn"
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Dewiniaid ychwanegol"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Dewisiadau"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Dangos _Cofnodion"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/Modd _Mewnosod"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Modd arbenigwr mewn _dewin"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Ffeil"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_Gadael"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Gadael"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Themâu"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Bydd y weithred hon yn ail gychwyn y ganolfan rheoli.\n"
+"Byd unrhyw newid heb ei osod yn cael ei golli."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Rhagor o themâu"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Cymorth"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Cymorth"
+
+#: ../control-center:668
+#, c-format
+msgid "/_Release notes"
+msgstr "/_Nodiadau ryddhau"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr "/What's _New?"
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr "/_Errata"
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_Adrodd ar Wallau"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/_Ynghylch..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Diddymu"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "Canolfan Rheoli %s %s (ar %s)"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Gwall"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"Mae yna wall yng nghyfieithiad eich iaith (%s)\n"
+"\n"
+"Adroddwch ar y gwall."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Methu rhedeg rhaglen %s anhysbys"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Ni fydd y newidiadau wnaed yn y modiwl cyfredol yn cael ei gadw."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "Methu fforchio: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "methu fforchio a gweithredu \"%s\" am nad yw'n weithredadwy"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Mae'r rhaglen wedi gorffen yn ddisymwth"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Rhybudd"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Cau"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Rhagor o themâu"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Estyn themâu newydd"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Themâu ychwanegol"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Estyn themâu ychwanegol o www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Ynghylch - Canolfan Rheoli %s"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Awdur: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "fersiwn perl"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Gwaith Celf:"
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Rhoslyn Prys"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "<post@meddal.com>"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Cyfieithydd"
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "Canolfan Rheoli %s %s (%s)"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Hawlfraint (C) %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Awdur"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "Cyfraniadau OpenMandriva Lx"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Dangos"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Bysellfwrdd"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Llygoden"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Defnyddwyr a grwpiau"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Gwasanaethau"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Mur cadarn"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Rheolwr Cychwyn"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Awto Gosod"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Rhannu cyswllt rhyngrwyd"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "Effeithiau Bwrdd Gwaith 3D"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Rhaniadau"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Canolfan Rheoli"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Dewiswch yr offeryn rydych am ei ddefnyddio"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "Ffurfweddu effeithiau Bwrdd Gwaith 3D"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr "Dewiswch y dull dilysu (lleol, NIS, LDAP, Parth Windows, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "Galluogi awto mewngofnodi i fewngofnodi'n awtomatig"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr "Galluogi awto mewngofnodi a'r dewis i gael mewngofnodi'n awtomatig"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Wrth gefn"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "Ffurfweddu copïau wrth gefn a data'r defnyddiwr"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr "Copi Llawn"
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr "Gosod sut mae'r system yn cychwyn"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Gosod sut mae'r system yn cychwyn"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Gosod thema graffigol cychwyn y system"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Dewis thema graffigol y system wrth gychwyn"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Rhannu'r cysylltiad Rhyngrwyd gyda pheiriannau eraill"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Gosod rhyngwyneb rhwydwaith newydd (LAN, ISDN, ADSL, ...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Mynediad i'r rhyngrwyd"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Newid gosodiadau rhyngrwyd"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, c-format
+msgid "Open a console as administrator"
+msgstr "Agor consol fel gweinyddwr"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, c-format
+msgid "Manage date and time"
+msgstr "Rheoli dyddiad ac amser"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, c-format
+msgid "Set up display manager"
+msgstr "Gosod y rheolwr dangos"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr "Dewis rheolwr dangos sy'n galluogi dewis pa ddefnyddiwr i fewngofnodi"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Ffurfweddu gweinydd ffacs"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr "Gosod eich mur cadarn personol"
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr ""
+"Creu mur cadarn personol er mwyn amddiffyn y cyfrifiadur â'r rhwydwaith"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr "Rheoli, ychwanegu a thynnu ffontiau. Mewnforio ffontiau Windows (TM)"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Gosod gweinydd graffigol"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, c-format
+msgid "Manage disk partitions"
+msgstr "Rheoli rhaniadau disg"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Creu, dileu a newid maint rhaniadau disg caled"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr "Pori a ffurfweddu caledwedd"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, c-format
+msgid "Sound Configuration"
+msgstr "Ffurfweddu Sain"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Diffiniadau gwesteiwyr"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Rheoli diffiniadau gwesteiwyr"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, c-format
+msgid "Install & Remove Software"
+msgstr "Gosod a Thynnu  Meddalwedd"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr "Gosod, dad-osod meddalwedd"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr "Gosod uwch rhyngwynebau rhwydwaith a muriau cadarn"
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr "Gosod methiant rhyngwynebau rhwydwaith ac ail-greu mur cadarn"
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Gosod cynllun y bysellfwrdd"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Gosod gweinydd grwpwar"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr "Rheoli lleoleiddio ar eich system"
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Dewis iaith a gwlad neu ardal y system"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Darllen neu chwilio cofnodion y system"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Rheoli cysylltiadau"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Ail-ffurfweddu rhyngwyneb rhwydwaith"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Grŵp cyfrifiadur rheoli"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Rheoli pecynnau meddalwedd wedi eu gosod ar grŵp o gyfrifiaduron"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr "Ffurfweddu dilysu ar gyfer offer Mandriva"
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+"Mae angen diffinio'r dilysu er mwyn cael mynediad at offer ffurfweddu unigol "
+"Mandriva."
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr "Diweddaru eich system"
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr "Gweld diweddariadau a gosod ffeiliau trwsio neu uwchraddio"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Arddull Dewislenni"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Canolfan Ffurfweddu Dewislenni"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr "Mewnforio gosodiadau a dogfennau Windows(TM)"
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Monitro cysylltiadau"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Monitro'r cysylltiadau rhwydwaith"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Gosod dyfais pwyntio (llygoden, pad cyffwrdd)"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr "Rheolau Rhiant"
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "Canolfan Rhwydwaith"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, c-format
+msgid "Manage different network profiles"
+msgstr "Rheoli proffiliau rhwydwaith amrywiol"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Gweithredu a rheoli proffiliau rhwydwaith"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr "Cael mynediad at gyrrwyr rhanedig a chyfeiriaduron NFS"
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "Gosod pwyntiau gosod NFS"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr "Rhannu gyrrwyr a chyfeiriaduron drwy NFS"
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "Rheoli rhaniadau NFS"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Ystadegau Pecynnau"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Dangos ystadegau am ddefnydd o'r pecynnau meddalwedd"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr "Rhannu eich rhaniadau disg caled"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Gosod rhannu eich rhaniadau disg caled"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Gosod argraffydd(ion) rhesi gwaith argraffu..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Tasgau amserlenwyd"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr "Amserlennu rhaglenni i redeg yn achlysurol neu yn benodol"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Dirprwy"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "Gosod gweinydd dirprwyol ar gyfer ffeiliau a phori'r we"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Rheolydd Pell (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Rheoli Pell peiriant arall (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Tynnu cysylltiad"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Dileu rhyngwyneb rhwydwaith"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Cysylltiad diwyfr"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr "Cael mynediad at yrrwyr rhanedig a chyfeiriaduron Windows (SMB)"
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr "Ffurfweddu gyrrwyr rhanedig a chyfeiriaduron Windows (Samba)"
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr "Rhannu gyrrwyr a chyfeiriaduron gyda systemau Windows (SMB)"
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Rheoli ffurfweddiad Samba"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Gosod sganiwr"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Ffurfweddu diogelwch system, caniatás ac awdit."
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr "Gosod lefel diogelwch y system,awdit diogelwch achlysurol a chaniatád"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr "Rheoli gwasanaethau system drwy eu galluogi neu eu analluogi"
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr "Ffurfweddu cyfrwng ffynhonnell ar gyfer gosod a diweddaru"
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr "Dewis ffynhonell llwytho i lawr pecynnau meddalwedd "
+
+#: ../lib/MDV/Control_Center.pm:603
+#, c-format
+msgid "Configure updates frequency"
+msgstr "Ffurfweddu amlder diweddaru"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr "Ffurfweddu polisi TOMOYO Linux"
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr "Darllen a ffurfweddu polisi diogelwch TOMOYO Linux"
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "Gosod UPS ar gyfer monitro'r pŵer"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr "Rheoli defnyddwyr y system"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Ychwanegu, tynnu neu newid defnyddwyr y system"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr "Rhithweld"
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr "Rheoli peiriannau rhithiol"
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Ffurfweddu cysylltiadau VPN i ddiogelu mynediad i rwydwaith"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr "Cael mynediad at yrrwyr rhanedig a chyfeiriaduron WebDAV"
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "Gosod pwyntiau gosod WebDAV"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Canolfan Ffurfweddu Dewislenni"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Dewislen y System"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Ffurfweddu..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Dewislen y Defnyddiwr"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Dewiswch ba ddewislen rydych am ei ffurfweddu."
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Ffurfweddiad Argraffu"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Cliciwch yma i ffurfweddu'r system argraffu"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Gorffen"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Awto mewngofnodi"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Dyddiad ac amser"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Cysylltiad newydd"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Disg meddal awto gosod"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Cychwynnwr"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Tasgau amserlenwyd"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Rheolwr dangos"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Disg meddal cychwyn"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Ffontiau"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Caniatâd"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Lefelau a Gwiriadau"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "Cerdyn Teledu"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Rhannu Rhaniad"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Disg Caled"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Cofnodion"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Dewislenni"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Pwyntiau Gosod"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "Pwyntiau gosod NFS"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Argraffyddion"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Ffurfweddu Dirprwy"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Dyfeisiadau datodadwy"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Tynnu Cysylltiad"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Pwyntiau gosod Samba"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Sganwyr"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Gosodiadau'r System"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Defnyddwyr a Grwpiau"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "Pwyntiau gosod WebDAV"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Gweinydd Graffigol"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Monitro"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Cydraniad Sgrin"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Ffurfweddu eich Cyfrifiadur"
+
+#~ msgid "Set up security level and audit"
+#~ msgstr "Gosod lefel diogelwch y system ac awdit"
+
+#~ msgid "Tune permissions on system"
+#~ msgstr "Gwneud newidiadau mân ar systemau"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Croeso i Ganolfan Rheoli %s"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Cynhyrchu disg meddal Awto Gosod"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Cynhyrchu disg meddal cychwyn"
+
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ "Llwythwch ffurfweddiad i fyny er mwyn cael gwybodaeth ar ddiweddariadau."
+
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "Llwythwch ffurfweddiad i fyny er mwyn eich hysbysu am ddiweddariadau "
+#~ "diogelwch a defnyddiol."
+
+#~ msgid "Floppy drive"
+#~ msgstr "Disg meddal"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Pennu lle mae eich disg meddal wedi ei osod"
+
+#~ msgid "/_Upload the hardware list"
+#~ msgstr "/_Llwytho'r rhestr caledwedd"
+
+#~ msgid "<control>U"
+#~ msgstr "<control>U"
+
+#~ msgid "Upload the hardware list"
+#~ msgstr "Llwytho'r rhestr caledwedd"
+
+#~ msgid "Account:"
+#~ msgstr "Cyfrif:"
+
+#~ msgid "Password:"
+#~ msgstr "Cyfrinair:"
+
+#~ msgid "Hostname:"
+#~ msgstr "Enw Gwesteiwr:"
+
+#~ msgid "Please wait"
+#~ msgstr "Arhoswch"
+
+#~ msgid "Uploading in progress"
+#~ msgstr "Wrthi'n llwytho i fyny"
+
+#~ msgid "Manage software"
+#~ msgstr "Rheoli meddalwedd"
+
+#~ msgid "Use NFS shares"
+#~ msgstr "Defnyddio rhaniadau NFS"
+
+#~ msgid "Share your data through NFS"
+#~ msgstr "Rhannu eich data drwy NFS"
+
+#~ msgid "Manage Samba configuration"
+#~ msgstr "Rheoli ffurfweddiad Samba"
+
+#~ msgid "Use WebDAV shares"
+#~ msgstr "Defnyddio rhannu WebDAV"

@@ -1,0 +1,5 @@
+This file contains all the known bugs with current release.
+When a bug is corrected set the flag "FIXED".
+
+- Clock.pl doesn't display 7 AM/PM time.
+ 

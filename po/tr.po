@@ -1,0 +1,1939 @@
+# translation of drakconf.po to Turkish
+# Copyright (C) 2008 Free Software Foundation, Inc.
+# ############################################
+# ############################################
+# Ömer Fadıl USTA  <omer_fad@hotmail.com>, 2002, 2003, 2004.
+# Tuncay YENİAY < tuncayyeniay@mynet.com>, 2002.
+# Sinan İmamoğlu <sinan@myrealbox.com>, 2002.
+# Erçin EKER <erc.caldera@gmx.net>, 2003.
+# Atilla ÖNTAŞ <atilla_ontas@hotmail.com>, 2008.
+# Atilla ÖNTAŞ <atilla_ontas@mandriva.org>, 2009.
+# Atilla ÖNTAŞ <atilla_ontas@mandriva.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf\n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2010-04-26 20:27+0200\n"
+"Last-Translator: Atilla ÖNTAŞ <atilla_ontas@mandriva.org>\n"
+"Language-Team: Turkish <cooker-i18n@mandrivalinux.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Paketleyiciler"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"Paketlerin büyük ölçüde yeniden derlenmesi ve temizlenmesi, oyunlar,sparc "
+"portu,Mandriva Araçları düzeltmesi"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "cowsay tanıtımı"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "figlet tanıtımı, Distriblint (dağıtımdaki rpmlerin kontrolü)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4,·yenilenmiş·abiword,·mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"debian yamaları ile nc güncellemesi,bazı perl paketlerinin "
+"düzenlenmesidnotify başlangıç programcıklarının düzenlenmesi,urpmc,hddtemp,"
+"wipe,vs..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"\"Ayrıntılı\" çekirdek çalışmaları (resmi kernele birçok yeni yamanın "
+"uygulanması)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "Çekirdek çalışmaları (ses ve video il ilgili yamalar)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "Kfiresaver, xwine. ppc kernel-benh paketlerine yamalar."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 2.2.x sürümünden Samba 3.0 (erkensürümü) hazırlanması,Samba 2.2.x, GIS "
+"yazılımı (grass, mapserver),imleç temaları, çeşitli sunucularla ilgili "
+"katkılar "
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"Ses/video/MIDI uygulamaları, bilimsel uygulamalar, ses/video üretim "
+"ipuçları, bluetooth, pyqt & bununla ilgili çalışmalar"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM ile ilgili şeyler, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng ve çekirdekle ilgili çeşitli çalışmalar"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr "web tabanlı paketlerin birçoğu ve birçok güvenlikle ilgili paketler"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "slbd dağıtım kontrolü, devel bağımlılıkları"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "rpmsync betiği, hatasız MIDI çalıcı, ayarlanmış libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "Birçok ekstra gnome uygulamacığı ve python modülü"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"mdk sk-i18n takım lideri, birçok pakete katkısı oldu (mozilla-firebird, "
+"afbackup, silc-client, psi, amavis-ng, lukemftp, cacti, scponly...) uzun "
+"zamandır cooker kullanması ve birçok hatayı bulması, vs... "
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "Bazı ruby işleri, php-pear paketleri, çeşitli başka paketler."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "moin wiki klonu, beep çokluortam çalıcı, im-ja ve bazı başka paketler"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "hata raporları ve thunderbird paketi yardımı,..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"test ve hata raporlaması, Dovecot, bibletime,sword, pure-ftpd paketi "
+"yardımı, spamassasin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"kurulumda http vekil sunucu desteği, 2.6 çekirdeği sndconfig desteği, "
+"LinNeighborhood samba3 desteği, urpmi geliştirme ve yamaları, bootsplash ve "
+"drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "2.6 çekirdeği için lmsensors desteği, bazı contrib paketlerinin testi"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine ve diğer bağzı contrib paketleri"
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "gi/docs/HACKING dosyalarının bazılarının düzenlenmesi ve yazılması"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Çevirmenler: "
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Norveççe Bokmål (nb) çevirmeni ve kordinatörü, i18n çalışması."
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "\"one-man\" mdk sk-i18n takımı lideri "
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Fince çevirmeni ve koordinatörü "
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Almanca çevirmeni ve koordinatörü "
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Danca çevirmeni ve koordinatörü "
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Norveççe Nynorsk (nn) çevirmeni ve kordinatörü"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Estonyaca çevirmeni"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "İtalyanca çevirmeni"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Boşnakça çevirmeni"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Deneme Ekibi"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "eagle usb sürücüsünün testi ve hata geri bildirimi"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "test ve hata bildirimi"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "Nvidia paket denemesi testi ve hata geri bildirimi"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "test ve hata geri bildirimi"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, test ve hata geri bildirimi"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"Ve hata bildiren veya düzgün çalıştığından emin olmamızı sağlayan birçok "
+"tanımadığımız insandan oluşan beta test ekibi "
+
+#: ../control-center:90
+#, c-format
+msgid "OpenMandriva Lx"
+msgstr "OpenMandriva Lx"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "%s Denetim Merkezi"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Yükleniyor... Lütfen Bekleyiniz"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Yazılım Yöneticisi"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, c-format
+msgid "Others"
+msgstr "Diğerleri"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Sunucu sihirbazları"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Dosya Paylaşımı"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "FTP'yi yapılandır"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "Bir FTP sunucu kurun"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Samba'yı yapılandır"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr "Linux ve diğer istemcileri için bir dosya ve yazıcı sunucusu kurun"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Samba Paylaşımlarını yönetin"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr "Özel, genel ve kullanıcıya özgü paylaşım oluşturun"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Web sunucuyu yapılandır"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Bir web sunucusu kur"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Kurulum sunucusunu yapılandır"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "%s ağ kurulumu için sunucu oluşturun."
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Ağ Hizmetleri"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "DHCP'yi yapılandır"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "DHCP sunucusu yapılandırın"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "DNS'yi yapılandır"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "DNS sunucusu yapılandırın (ağ isim çözümlemesi)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Vekil Sunucu'yu yapılandır"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Web vekil sunucusu yapılandır"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Zamanı yapılandır"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr "Sistem saatini uzaktaki bir zaman sunucusu ile eşleyin"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "OpenSSH uygulamacık yapılandırması"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Kimlik kanıtlama"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "NIS ve Otomatik bağlamayı(Autofs) Yapılandır"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "NIS ve Otomatik bağlamayı(Autofs) Yapılandır"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "LDAP'ı yapılandır"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "LDAP dizin sunucusu kurun"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Groupware"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Haberleri yapılandır"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Bir haber sunucusu yapılandır."
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Topluluğu yapılandır"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Bir topluluk sunucusu yapılandır"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Posta'yı yapılandır"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "İnternet E-posta hizmetlerini yapılandır. "
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Çevrimiçi Yönetim"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Yerel yönetim"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Yerel makineyi web arayüzü ile yönetin"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr "Webmin kurulu gözükmüyor. Yerel yapılandırma devredışı."
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Uzaktan yönetim"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr "Bir uzak sunucuyu web arayüzü ile yönetmek için buraya tıklayın."
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Donanım"
+
+#: ../control-center:326
+#, c-format
+msgid "Manage your hardware"
+msgstr "Donanımınızı yönetin"
+
+#: ../control-center:333
+#, c-format
+msgid "Configure graphics"
+msgstr "Görüntü ayarlarını yapılandırın"
+
+#: ../control-center:340
+#, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Fare ve Klavyeyi yapılandırın."
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr "Yazıcı ve tarayıcı yapılandır."
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Ağ & İnternet"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, c-format
+msgid "Manage your network devices"
+msgstr "Ağ araçlarını yönet"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr "Ağınızı kişiselleştirin ve güvenli hale getirin."
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Sistem"
+
+#: ../control-center:403
+#, c-format
+msgid "Manage system services"
+msgstr "Sistem hizmetlerini yönet"
+
+#: ../control-center:412
+#, c-format
+msgid "Localization"
+msgstr "Yerelleştirme"
+
+#: ../control-center:419
+#, c-format
+msgid "Administration tools"
+msgstr "Yönetim araçları"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, c-format
+msgid "Network Sharing"
+msgstr "Ağ Paylaşımı"
+
+#: ../control-center:439
+#, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Windows (R) paylaşımlarını yapılandır."
+
+#: ../control-center:446
+#, c-format
+msgid "Configure NFS shares"
+msgstr "NFS paylaşımlarını yapılandır"
+
+#: ../control-center:453
+#, c-format
+msgid "Configure WebDAV shares"
+msgstr "WebDAV paylaşımlarını yapılandır"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, c-format
+msgid "Local disks"
+msgstr "Yerel diskler"
+
+#: ../control-center:490
+#, c-format
+msgid "CD-ROM (%s)"
+msgstr "CD-ROM (%s)"
+
+#: ../control-center:491
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "\"%s\" CD-ROM sürücünüzün nereye bağlanacağını belirleyin"
+
+#: ../control-center:493
+#, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM (%s)"
+
+#: ../control-center:494
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "\"%s\" DVD-ROM sürücünüzün nereye bağlanacağını belirleyin"
+
+#: ../control-center:496
+#, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "CD/DVD Yazıcı (%s)"
+
+#: ../control-center:497
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "\"%s\" CD/DVD yazıcınızın nereye bağlanacağını belirleyin"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "ZIP-sürücü"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "ZIP sürücünüzün nereye bağlanacağını belirleyin"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Güvenlik"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Ön Yükleme"
+
+#: ../control-center:533
+#, c-format
+msgid "Configure boot steps"
+msgstr "Açılış adımlarını yapılandır."
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr "Başlama görünümü"
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Ek Sihirbazlar"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Seçenekler"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/_Kayıtları Göster"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/_Gömülü Kip"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Si_hirbaz içinde Uzman kipi"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Dosya"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/Çı_k"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Çık"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Temalar"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Bu eylem denetim merkezini yeniden başlatacaktır.\n"
+"Kaydedilmemiş değişiklikler yitirilecek."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Daha çok tema"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Yardım"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Yardım"
+
+#: ../control-center:668
+#, c-format
+msgid "/_Release notes"
+msgstr "/Sü_rüm notları"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr "/ Ne _Yeni?"
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr "/_Errata"
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_Hata raporla"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/Hakkın_da..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "%s Denetim Merkezi %s [%s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Hata"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"Dilinizin yerelleştirmesinde bir hata var. (%s)\n"
+"\n"
+"Lütfen bu hatayı bildiriniz."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Bilinmeyen '%s' uygulamasının çalıştırılması imkansızdır"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Geçerli modulde yapılan düzenlemeler kaydedilmeyecek."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "ayrılamıyor: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "\"%s\" ayrılıp çalıştırılamıyor, çalışıtırılabilir değil"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Bu uygulama istem dışı sonlandırıldı"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Uyarı"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Kapat"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Daha çok tema"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Yeni temalar alınıyor"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Ek Temalar"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Ek temaları www.damz.net'ten alabilirsiniz"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Hakkında - %s Denetim Merkezi"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Yazarlar: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(perl sürümü)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Sanat Çalışmaları: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Atilla ÖNTAŞ"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "<atilla_ontas@mandriva.org>"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Çevirmen: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "%s %s (%s) Denetim Merkezi"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Tel'if Hakkı (C) %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Yazarlar"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "OpenMandriva Lx'a Katkıda Bulunanlar"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Ekran"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Klavye"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Fare"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Kullanıcılar ve gruplar"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Hizmetler"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Güvenlik Duvarı"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Ön yükleyici"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Otomatik Kurulum"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "İnternet bağlantı paylaşımı"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "3B Masaüstü efektleri"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Bölümlemeler"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Denetim Merkezi"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Kullanmak istediğiniz aracı seçiniz"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "3 Boyutlu Masaüstü Özelliklerini Yapılandır."
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+"Kimlik doğrulama yöntemini seçiniz. (local, NIS, LDAP, Windows Domain, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "Otomatik giriş ayarı"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+"Otomatik girişi etkinleştirin ve otomatik giriş yapacak kullanıcıyı seçin."
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Yedekler"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr ""
+"Sistem ve kullanıcı bilgilerini yedeklemek için gerekli ayarlamaları yapın"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr "Görüntüler"
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr "Başlangıç sistemini ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Sistemin nasıl başlatılacağını ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Sistem açılışı grafiksel temasını belirle."
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Sistemin başlangıcı için grafiksel bir tema seçin."
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Yerel ağdaki diğer makinelerle internet bağlantısını paylaşın."
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Yeni bir ağ ara birimi ayarla. (LAN, ISDN, ADSL, ...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "İnternet erişimi"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Diğer internet ayarlarını değiştirin."
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, c-format
+msgid "Open a console as administrator"
+msgstr "Konsolu yönetici olarak aç."
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, c-format
+msgid "Manage date and time"
+msgstr "Tarih ve saati ayarla."
+
+#: ../lib/MDV/Control_Center.pm:179
+#, c-format
+msgid "Set up display manager"
+msgstr "Ekran yöneticisini ayarla"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+"Hangi kullanıcının sisteme giriş yapacağını belirleyen ekran yöneticisini "
+"seçin"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Bir faks sunucusu yapılandır"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr "Kişisel bir güvenlik duvarı kurun"
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr "Ağınızı ve bilgisayarı korumak için bir güvenlik duvarı oluşturun."
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr "Fontları yönetin,ekleyin veya kaldırın. Windows(TM) fontlarını alın"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Grafiksel sunucuyu ayarla."
+
+#: ../lib/MDV/Control_Center.pm:229
+#, c-format
+msgid "Manage disk partitions"
+msgstr "Disk bölümlerini yönet."
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Disk bölümleri oluşturun, düzenleyin, silin."
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr "Donanımı incele ve ayarla."
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, c-format
+msgid "Sound Configuration"
+msgstr "Ses Yapılandırması"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Makine tanımları"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Makine tanımlarını yönet"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, c-format
+msgid "Install & Remove Software"
+msgstr "Yazılım Kur ve Kaldır"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr "Yazılım kurun ve kaldırın"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr "Ağ ara birimleri ve güvenlik duvarı ayrıntılı ayarları."
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr "Güvenlik duvarı replikasyonu ve yedek ağ sistemi ayarla."
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Klavye düzenini ayarla"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Topluluk sunucusu kur."
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr "Sistem yerellerini belirle"
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Sistemin ülke ve dil, veya bölge ayarlarını değiştirin"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Sistem günlüklerini tara ve görüntüle"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Bağlantıları yönet"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Ağ ara birimini yeniden yapılandır."
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Bilgisayar Grubunu Yönet"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Bir makine grubuna kurulmuş yazılımları yönet."
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr "Mandriva araçları için kimlik kanıtlamayı yapılandır"
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+"Ayrı Mandriva yapılandırma araçlarına erişim için gereken kimlik kanıtlamayı "
+"tanımlayın"
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr "Sistemi güncelle"
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr "Mevcut güncellemeleri incele ve kur."
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Menü Biçimi"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Menü biçimi yapılandırması"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr "Windows (TM) belge ve ayarlarını aktar"
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Bağlantıları izle"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Ağ Bağlantılarını izle "
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "İşaretleme aracı (fare, touchpad) yapılandır"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr "Ebeveyn Denetimi"
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "Ağ Merkezi"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, c-format
+msgid "Manage different network profiles"
+msgstr "Ağ profillerini yönet."
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Ağ profillerini etkinleştir, yönet"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr "NFS paylaşımları ve dizinlerine erişim"
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "NFS bağlama noktaları yapılandır"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr "Sürücü ve dizinleri NFS kullanarak paylaş"
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "NFS paylaşımlarını yönet"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Paket İstatistikleri"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Kurulu paketlerin kullanım istatistiklerini göster"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr "Sabit disk bölümlerini paylaşın"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Sabit disk bölümlerinin paylaşımını ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Yazıcıları ve yazıcı arayüzlerini yönet..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Zamanlanmış görevler"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr "Programları belirtilen gün ve saatlerde çalıştır."
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Vekil Sunucu"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "Dosyalar ve webde gezinme için bir vekil sunucu kur."
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Uzaktan kontrol (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Başka bir makinenin uzaktan kontrolü (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Bir bağlantıyı kaldır"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Bir ağ ara birimini sil."
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Kablosuz bağlantı"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr "Windows (SMB) paylaşımları ve dizinlerine erişim"
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr "Windows (Samba) paylaşımları ve dizinleri yapılandırması"
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr "Windows (SMB) sistemleri ile sürücü ve dizinleri paylaş."
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Samba yapılandırmasını yönetin"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Tarayıcı kur "
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Sistemdeki izinleri yönet"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr ""
+"Sistem güvenlik seviyesi, aralıklı güvenlik denetimi ve izinleri ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr "Sistem hizmetlerini yönetin"
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr "Kurulum ve güncelleştirme için kurulum kaynağı seçin"
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr "Yazılım paketlerinin nereden indirileceğini seçin"
+
+#: ../lib/MDV/Control_Center.pm:603
+#, c-format
+msgid "Configure updates frequency"
+msgstr "Güncelleme sıklığını yapılandırın"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr "Genişletilmiş bakıma erişim"
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr "TOMOYO Linux kuralını yapılandırın"
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr "TOMOYO Linux güvenlik kuralını görüntüleyin ve yapılandırın"
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "Güç yönetimi için UPS ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr "Sistemdeki kullanıcıları ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Kullanıcı ekleyin, çıkarın, düzenleyin."
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr "Sanallaştırma"
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr "Sanal makine yönetimi"
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Güvenli uzaktan erişim için vpn yapılandırması"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr "WebDAV paylaşımlı sürücü ve dizinlere erişim"
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "WebDAV bağlama noktalarını ayarlayın"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Menü Yapılandırma Merkezi"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Sistem menüsü"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Yapılandır..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Kullanıcı menüsü"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Hangi menüyü düzenleyeceğinizi seçiniz"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Yazdırma yapılandırması"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Yazdırma sistemini yapılandırmak için buraya tıklayın"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Tamamlandı"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Otomatik Giriş"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Tarih ve saat"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Yeni bağlantı"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Otomatik Kurulum disketi"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Açılış Yükleyicisi"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Zamanlanmış görevler"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Ekran yöneticisi"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Açılış disketi"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Yazı tipleri"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "İzinler"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Seviyeler ve Denetimler"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "TV Kartları"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Bölüm Paylaşımı"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Sabit Diskler"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Günlük Kayıtları"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Menüler"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Bağlama Noktaları"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "NFS bağlama noktaları"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Yazıcılar"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Vekil Sunucu Yapılandırması"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Ayrılabilir aygıtlar"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Bağlantı Kaldır"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Samba bağlama noktaları"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Tarayıcılar"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Kullanıcı ve Gruplar"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "WebDAV bağlama noktaları"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Grafiksel sunucu"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Monitör"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Ekran Çözünürlüğü"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Bilgisayarınızı Yapılandırın"

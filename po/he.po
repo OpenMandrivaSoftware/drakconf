@@ -1,0 +1,1957 @@
+# translation of control-center.po to Hebrew
+# Copyright (C) 2003, 2004, 2005, 2007, 2008 Free Software Foundation, Inc.
+# This file is distributed under the GNU GPL license.
+#
+# Avi Abexis <admin@guides4u.co.il>, 2003.
+# nadav mavor <nadav@mavor.com>, 2003.
+# Diego Iastrubni <iastrubn@actcom.co.il>, 2003.
+# el-cuco <cuco3001@yahoo.com>, 2003.
+# dovix <dovix2003@yahoo.com>, 2004, 2005.
+# Diego Iastrubni <elcuco@kde.org>, 2005.
+# Dotan Kamber <kamberd@yahoo.com>, 2007, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: control-center\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2008-03-11 23:45+0200\n"
+"Last-Translator: Dotan Kamber <kamberd@yahoo.com>\n"
+"Language-Team: Hebrew\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "אורזי חבילות"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"בנייה וניקוי חבילות בהיקף גדול, משחקים, היסב ל sparc, הגהה לכלים של מנדריבה "
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "שילוב cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "שילוב figlet ו Distriblint (בדיקת חבילות RPM בהפצה)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, עדכון abiword, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"עדכון nc עם טלאי Debian, תיקון מספר חבילות perl, תסריט הפעלת dnotify וכן "
+"urpmc, hddtemp, wipe..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"עבודה \"מקיפה ועמוקה\" על הגרעין (שילוב טלאים רבים לפני הטמעתם בגרעין הרשמי)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "עבודה על הגרעין (טלאים הקשורים לקול ותמונה)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "טלאים למספר חבילות, kfiresaver, xwine. ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"גרסה מוקדמת של סמבה 3.0 העובדת במקביל ל סמבה 2.2.x וכן סמבה 2.2.x, תוכנות "
+"GIS (grass, mapserver), אוסף ערכות סמן, תרומות שונות בתוכנות שרת"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"תוכנות מולטימדיה רבות (xine, totem, gstreamer, mplayer, vlc,vcdimager) וכן "
+"gnome-python, rox desktop"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"יישומי audio/video/MIDI, יישומים מדעיים, מדריכי הפקת audio/video וכן "
+"bluetooth, pyqt"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/רכיבי DRM, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng ועבודות גרעין אחרות"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr "רוב חבילות האינטרנט וחבילות בנושאי אבטחה"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "בדיקות הפצת slbd, בדיקת תלויות פיתוח"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "תסריט rpmsync, נגינת MIDI חסרת תקלות, libao מוטלא"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andy Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "יישומוני Gnome רבים נוספים ומודולי פיית'ון"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"הובלת קבוצת התרגום לסקנדינבית, בדיקות ושילוב openldap, bind-sdb-ldap, מספר "
+"שנים של שימוש ב cooker ואיתור תקלות, וכו'..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "דברים הקשורים ב ruby, חבילות php-pear, וחבילות אחרות."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "moin wiki clone, beep-media-player, im-ja וחבילות אחרות"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "דיווח באגים, עזרה עם חבילת thunderbird,..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"בדיקות איכות ודיווחי באגים, Dovecot, bibletime, sword, עזרה עם pure-ftpd, "
+"spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"תמיכה בשרת מתווך בתוכנת ההתקנה, תמיכת קרנל 2.6 ב sndconfig, סמבה3 תמיכה ב "
+"LinNeighborhood,תיקונים ושיפורים של urpmi, bootsplash וdrakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors עבור קרנל 2.6, בדיקות איכות,מספר חבילות contrib."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine וכמה חבילות contrib."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "תיעוד"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "כתב/ערך חלקים מקובץ gi/docs/HACKING"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "מתרגמים"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "מתרגם ומרכז Norwegian Bokmål (nb), עבודה i18n."
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "מתרגם sk-i18n."
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "מתרגם ומתאם תרגום לפינלנדית"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "מתרגם ומתאם התרגום להולנדית"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "מתרגם ומתאם תרגום לדנית"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "מתרגם ומרכז Norwegian Nynorsk (nn)"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "מתרגם לאסטונית"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "מתרגם לאיטלקית"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "מתרגם לבוסנית"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "בודקי איכות"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "בדיקות, דיווחי תקלות, הטמעת eagle-usb driver"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "בדיקות, דיווחי תקלות"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "בדיקות, דיווחי תקלות, נסיונות עם חבילות Nvidia "
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "בדיקות, דיווחי תקלות"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "בדיקות, דיווחי תקלות, MD"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"ועוד בודקי איכות ומדווחי תקלות אלמוניים ולא ידועים שעזרו לנו לעשות את הדבר "
+"הנכון. "
+
+#: ../control-center:90
+#, fuzzy, c-format
+msgid "OpenMandriva Lx"
+msgstr "אנשים שתורמים או עוזרים למנדריבה לינוקס"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "מרכז הבקרה של מנדריבה לינוקס"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "טוען... נא להמתין"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "ניהול תוכנות"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, c-format
+msgid "Others"
+msgstr "שונות"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "אשפי שרת"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "שיתוף"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "הגדרת FTP"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "הגדרת שרת FTP"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "הגדרת סמבה"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"הגדרת שרת קבצים והדפסות לתחנות עבודה עליהן פועלת לינוקס או מערכת שאינה לינוקס"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "ניהול שיתופי סמבה"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr "ניהול, יצירת שיתופים מיוחדים, יצירת שיתופים פומביים/של משתמש"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "הגדרת שרת Web"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "הגדרת שרת אינטרנט"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "הגדרת שרת התקנה"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "הגדרת שרת להתקנות מהרשת של מנדריבה לינוקס"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "שרותי רשת"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "הגדרת DHCP"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "הגדרת שרת DHCP"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "הגדרת DNS"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "הגדרת שרת DNS (תרגום כתובות רשת)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "הגדרת שרת מתווך"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "הגדרת שרת מתווך לשימוש כמטמון גלישה באינטרנט"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "הגדרת זמן"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr "הגדרת סינכרון של זמן השרת לשרת זמן חיצוני"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "הגדרת תוכנת הרקע OpenSSH"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "אימות"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "הגדרת NIS ו Autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "הגדרת שרותי NIS ו Autofs"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "הגדרת LDAP"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "הגדרת שרותי מדריך LDAP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "תוכנה קבוצתית"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "הגדרת NNTP"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "הגדרת שרת דיונים קבוצתיים"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "הגדרת ,תוכנת שיתוף בקבוצות עבודה"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "הגדרת שרת שיתוף בקבוצות עבודה"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "הגדרת דואר"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "הגדרת שרותי דוא\"ל באינטרנט"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "ניהול מקוון"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "ניהול מקומי"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "הגדרת תצורת המחשב המקומי דרך ממשק ווב"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr "נראה שתוכנת webmin אינה מותקנת במחשב זה. הגדרת התצורה המקומית תנוטרל"
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "ניהול מרוחק"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr "עליך ללחוץ כאן אם ברצונך להגדיר מחשב מרוחק דרך ממשק ווב"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "חומרה"
+
+#: ../control-center:326
+#, c-format
+msgid "Manage your hardware"
+msgstr "ניהול חומרה"
+
+#: ../control-center:333
+#, c-format
+msgid "Configure graphics"
+msgstr "הגדרות גרפיקה"
+
+#: ../control-center:340
+#, c-format
+msgid "Configure mouse and keyboard"
+msgstr "הגדרות עכבר ומקלדת"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr "הגדרות הדפסה וסריקה"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "רשת ואינטרנט"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, c-format
+msgid "Manage your network devices"
+msgstr "הגדרות התקני רשת"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr "הגדרות פרטיות ואבטחה ברשת"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "מערכת"
+
+#: ../control-center:403
+#, c-format
+msgid "Manage system services"
+msgstr "הגדרות שירותי המערכת"
+
+#: ../control-center:412
+#, c-format
+msgid "Localization"
+msgstr "התאמה למקום"
+
+#: ../control-center:419
+#, c-format
+msgid "Administration tools"
+msgstr "כלי ניהול"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, c-format
+msgid "Network Sharing"
+msgstr "שיתופי רשת"
+
+#: ../control-center:439
+#, c-format
+msgid "Configure Windows(R) shares"
+msgstr "הגדרות שיתופי וינדוז"
+
+#: ../control-center:446
+#, c-format
+msgid "Configure NFS shares"
+msgstr "הגדרות שיתופי NFS"
+
+#: ../control-center:453
+#, c-format
+msgid "Configure WebDAV shares"
+msgstr "הגדרות שיתופי WebDAV"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, c-format
+msgid "Local disks"
+msgstr "כוננים מקומיים"
+
+#: ../control-center:490
+#, c-format
+msgid "CD-ROM (%s)"
+msgstr "CD-ROM (%s)"
+
+#: ../control-center:491
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "הגדרת נקודת העיגון של כונן התקליטורים \"%s\"שלך"
+
+#: ../control-center:493
+#, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM (%s)"
+
+#: ../control-center:494
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "הגדרת נקודת העיגון של כונן ה־DVD-ROM \"%s\" שלך"
+
+#: ../control-center:496
+#, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "צורב CD/DVD \"%s\""
+
+#: ../control-center:497
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "הגדרת נקודת העיגון של צורב ה-CD/DVD \"%s\" שלך"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "כונן ZIP"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "הגדר לאיזו ספריה יעוגן כונן ה־ZIP שלך"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "אבטחה"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "אתחול"
+
+#: ../control-center:533
+#, c-format
+msgid "Configure boot steps"
+msgstr "הגדרות שלבי האתחול"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr "מראה והתנהגות באתחול"
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "אשפים נוספים"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_אפשרויות"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/הצג יומן"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/_מצב משולב"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/מצב מומחה באשפים"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_קובץ"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_יציאה"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "יציאה"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_ערכות נושא"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"פעולה זו תאתחל את מרכז הבקרה \n"
+"כל שינוי שנעשה ילך לאיבוד."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_עוד ערכות נושא"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_עזרה"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "עזרה"
+
+#: ../control-center:668
+#, c-format
+msgid "/_Release notes"
+msgstr "/_הערות שחרור"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr "/מה _חדש?"
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr "/_תיקוני כשלים"
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_דווח על בעיות"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/_אודות ..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "ביטול"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "מרכז הבקרה של מנדריבה לינוקס %s על %s"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "שגיאה"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"קיימת בעיה עם התרגומים לשפתך (%s)\n"
+"\n"
+"כדאי לך לדווח על בעיה זו."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "אין אפשרות להריץ תכנית לא מוכרת '%s' "
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "השינויים שנעשו במודול הזה לא ישמרו"
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "אין אפשרות להתפצל: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "אין אפשרות להתפצל ולהריץ \"%s\" מאחר ואינו בר־הרצה"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "התכנית הסתיימה בצורה לא צפויה"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "אזהרה"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "סגור"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "עוד ערכות נושא"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "השגת ערכות נושא נוספות"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "ערכות נושא נוספות"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "השגת ערכות נושא מ־www.damz.net "
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "אודות מרכז הבקרה של מנדריבה לינוקס"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "מפתחים:"
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(perl version)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Artwork: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "dovix"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "<dovix2003@yahoo.com>"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "תרגום: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "מרכז הבקרה של מנדריבה לינוקס %s (%s)"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Copyright (C) %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "מפתחים"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "אנשים שתורמים או עוזרים למנדריבה לינוקס"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "הצג"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "מקלדת"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "עכבר"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "משתמשים וקבוצות"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "שרותים"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "חומת אש"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "טוען המערכת"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "התקנה אוטומטית"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "שיתוף חיבור אינטרנט"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "תלת-מימד בשולחן העבודה"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "ניהול מחיצות"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "מרכז הבקרה"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "יש לבחור באיזה כלי ברצונך להשתמש"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "הגדרת תלת-מימד בשולחן העבודה"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr "בחירת שיטת הזיהוי (מקומית, NIS, LDAP, מתחם חלונות, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "הגדרת כניסה אוטומטית לחשבון"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr "אפשור כניסה אוטומטית לחשבון ובחירת המשתמש שיחובר באופן אוטומטי"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "גיבויים"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "הגדרת גיבויי המערכת ומידע השייך למשתמשים"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr "תמונות מערכת"
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr "הגדרת אתחול המערכת"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "הגדרת אופן האתחול של המערכת"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "בחירת ערכת הנושא באתחול המערכת"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "בחירת ערכת הנושא שתוצג בעת אתחול המערכת"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "שיתוף הקישור לאינטרנט עם מחשבים אחרים ברשת מקומית"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "הגדרת מנשק רשת חדש (LAN, ISDN, ADSL, ...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "גישה לאינטרנט"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "שינוי הגדרות שונות הקשורות לחיבור האינטרנט"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, c-format
+msgid "Open a console as administrator"
+msgstr "פתיחת מסוף כמנהל המערכת"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, c-format
+msgid "Manage date and time"
+msgstr "ניהול תאריך ושעה"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, c-format
+msgid "Set up display manager"
+msgstr "הגדרת מנהל ההפעלה"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr "בחירת מנהל התצוגה שיאפשר את בחירת המשתמש שמתחבר למערכת"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "הגדרת שרת פקס"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr "הגדרת חומת-האש האישית שלך"
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr "הגדרת חומת אש אישית כדי להגן על מחשב המחובר לרשת"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr "ניהול, הוספה והסרת גופנים. ייבוא גופני חלונות (שם רשום)"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "הגדרת שרת גרפי"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, c-format
+msgid "Manage disk partitions"
+msgstr "ניהול מחיצות הכונן"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "יצירת, מחיקת ושינוי גודל של מחיצות בכונן הקשיח"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr "סיור והגדרת החומרה"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, c-format
+msgid "Sound Configuration"
+msgstr "הגדרות קול"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "הגדרת מארחים"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "ניהול הגדרות מארחים"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, c-format
+msgid "Install & Remove Software"
+msgstr "התקנת והסרת תוכנה"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr "התקנת/הסרת תכנה"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr "הגדרות מתקדמות למנשקי הרשת וחומת-האש"
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr "הגדרת גיבוי אוטומטי של מנשקי רשת ושכפול חומת-אש"
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "הגדרת פרישת המקלדת"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "הגדרת שרת עבודה קבוצתית"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr "ניהול התאמה למקום של המערכת שלך"
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "בחירת השפה והמדינה או האזור של המערכת"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "עיון וחיפוש ברישומי מערכת"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "ניהול חיבורים"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "הגדרה מחדש של מנשק הרשת"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "ניהול קבוצת המיחשוב"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "ניהול חבילות תוכנה מותקנות בקבוצת מחשבים"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr "עידכון המערכת שלך"
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"עיון ברשימת עדכונים זמינים ויישום תיקונים או שדרוגים לחבילות תוכנה מותקנות"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "סגנון תפריט"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "הגדרת סגנון התפריט"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr "יבוא מסמכים והגדרות מוינדוז"
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "ניטור חיבורים"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "ניטור חיבורי רשת"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "הגדרת התקן הצבעה (עכבר, לוח מגע)"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr "בקרת הורים"
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "מרכז הרשת"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, c-format
+msgid "Manage different network profiles"
+msgstr "ניהול מתארי רשת שונים"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "הפעלה וניהול של תבניות רשת"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr "גישה לכוננים וספריות משותפות של NFS"
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "הגדרת נקודות עיגון NFS"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr "שיתוף כוננים וספריות בעזרת NFS"
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "ניהול שיתופי NFS"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "סטטיסטיקת חבילות"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "הצגת סטטיסטיקות אודות השימוש בחבילות תוכנה מותקנות"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr "שיתוף מחיצות הכונן שלך"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "הגדר שיתוף בשביל מחיצות הכונן הקשיח שלך"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "הגדרת המדפס(ו)ת, תורי ההדפסה, ..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "משימות מתוזמנות מראש"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr "תזמון תוכנות להפעלה באופן מחזורי או בזמנים קבועים"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "שרת מתווך"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "הגדרת שרת מתווך לקבצים וגלישה באינטרנט"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "שליטה מרחוק (Linux/Unix, וינדוז)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "שליטה מרחוק במחשב אחר (לינוקס/יוניקס, חלונות)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "הסרת חיבור"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "מחיקת מנשק רשת"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "חיבור אלחוטי"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr "גישה לכוננים וספריות משותפים של וינדוז (סמבה)"
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr "תצורת שיתופי כוננים וספריות של וינדוז (סמבה)"
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr "שיתוף כוננים וספריות עם מערכות וינדוז (סמבה)"
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "ניהול תצורה של סמבה"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "הגדרת סורק"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, fuzzy, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "כינון עדין של הרשאות האבטחה של המערכת"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, fuzzy, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr "הגדרת רמת האבטחה של המערכת ותזמון בדיקות האבטחה המחזוריות"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr "ניהול שירותי המערכת על ידי התרתם או הפסקתם"
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr "הגדרת מקורות להתקנה ועדכון"
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr "בחירת המקור ממנו חבילות תוכנה יורדו "
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "הגדרת ,תוכנת שיתוף בקבוצות עבודה"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "הגדרת UPS לניטור אנרגיה"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr "ניהול משתמשים במערכת"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "הוספת, הסרת או שינוי המשתמשים המוגדרים במערכת"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr "וירטואליזציה"
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr "ניהול מכונות וירטואליות"
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "הגדרת חיבורי VPN לאבטחת הגישה לרשת"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr "גישה לכוננים וספריות משותפות של WebDAV"
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "הגדרת נקודות עיגון WebDAV"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "מרכז הגדרות תפריט"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "תפריט מערכת"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "הגדרות..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "תפריטי משתמש"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"נא לבחור איזה תפריט ברצונך להגדיר"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "הגדרות הדפסה"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "נא ללחוץ כאן בכדי להגדיר את מערכת ההדפסה"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "סיום"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "התחברות אוטומטית"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "תאריך ושעה"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "חיבור חדש"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "תקליטון התקנה אוטומטית"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "טעינת המערכת"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "משימות מתוזמנות מראש"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "מנהל ההפעלה"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "תקליטון אתחול"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "גופנים"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "הרשאות"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "רמות ובדיקות"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "כרטיסי טלוויזיה"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "שיתוף מחיצות"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "כוננים קשיחים"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "רישומי פעולות (Logs)"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "תפריטים"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "נקודות עיגון"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "נקודות עיגון NFS"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "מדפסות"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "הגדרת שרת מתווך"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "התקנים שליפים"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "הסרת חיבור"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "נקודות עיגון סמבה"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "סורקים"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "הגדרות מערכת"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "משתמשים וקבוצות"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "נקודות עיגון WebDAV"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "שרת גרפי"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "צג"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "הפרדת מסך"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "מרכז הבקרה של מנדריבה לינוקס"
+
+#~ msgid "Set up security level and audit"
+#~ msgstr "הגדרת רמת האבטחה והביקורות"
+
+#~ msgid "Tune permissions on system"
+#~ msgstr "כינון ההרשאות על המערכת"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "ברוך בואך למרכז הבקרה של מנדריבה לינוקס"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "יצירת תקליטון התקנה אוטומטית"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "יצירת תקליטון אתחול בלתי־תלוי"
+
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr "העלאת תצורת המערכת לקבלת מידע על שדרוגים"
+
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr "העלאת תצורת המערכת לקבלת מידע על עדכוני אבטחה ושדרוגים שימושיים"
+
+#~ msgid "Floppy drive"
+#~ msgstr "כונן תקליטונים"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "הגדרת עיגון כונן התקליטונים שלך"

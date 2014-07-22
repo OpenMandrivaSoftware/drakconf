@@ -1,0 +1,2161 @@
+# translation of drakconf-tg.po to Tajik
+# DrakConf messages translation to (tg).
+# Copyright (C) 2000,2003,2004, 2005 Free Software Foundation, Inc.
+# Copyright (c) 2000 Mandriva
+# 2004, infoDev, a World Bank organization
+# 2004, Khujand Computer Technologies, Inc.
+# 2004, KCT1, NGO
+# 2005, Youth Opportunities, NGO
+# Roger Kovacs <rkovacs@khujand.org>, 2001,2003.
+# Dilshod Marupov <kct_tj@khujand.org>, 2003,2004.
+# Victor Ibragimov <youth_opportunities@tajikngo.org>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf-tg\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2005-09-17 15:21+0500\n"
+"Last-Translator: Victor Ibragimov <youth_opportunities@tajikngo.org>\n"
+"Language-Team: Tajik\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Бастаҳо"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"бозсозӣ ва поккунии умумии бастаҳо, бозиҳо, даргоҳи sparc, хондани асбобҳои "
+"Mandriva"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "шиносоӣ cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "шиносоӣ бо figlet, Distriblint (тафтиши rpm дар тақсимот)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, навсозии abiword, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"nc бо часбаҳои debian нав карда шудааст, баъзе бастаҳои perl ислоҳ карда "
+"шудаанд, дастнависи оғози dnotify, urpmc, hddtemp, wipe, ва ғайра..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"\"чуқур ва ҳаматарафа\" кор аз балои ҳаста (бисёр часбҳои нав пеш аз "
+"дохилшавӣ ба ҳастаи расмӣ)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "кор аз болои ҳаста (часбаҳои пайваста ба савту видео)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "мувофиқатоӣ ба яке аз бастаҳо, kfiresaver, xwine. ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (барориши ибтидоӣ), ки ба Samba 2.2.x ҳамҷоя мавҷуд аст, Samba-2.2."
+"x, таъминоти барномавии GIS (алаф, хидматрасони хирита), маҷмӯаи_мавзӯъҳои "
+"ба нишоннамо, иловаҳои мухталифи_хидматрасонӣ"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms ва plugins gnome-"
+"python, мизи коррии rox"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"замимаҳои савтӣ/видео/MIDI, замимаҳои илмӣ, чӣ тавр оиди офаридани савт/"
+"видео, bluetooth, pyqt ва ба он вобаста"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "Фармони ATI/gatos/DRM, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng ва дигар корҳо оиди ҳаста"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr ""
+"бештари бастаҳо, ки ба web асос ёфтаанд ва бисёр бастаҳои ба бехатарӣ вобаста"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "тавтиши тақсимоти slbd, вобастагиҳо ҳангоми коркард"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "дастнависи rpmsync, рӯнависии MIDI foolproof, танзими нозуки libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "бисёр апплетҳои иловагии gnome ва модулҳои python"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"sk-i18n, тақсимкунии якчанд бастаҳо, openldap testing and integration, bind-"
+"sdb-ldap, чанд соли истифодабарии cooker ва инкори хатогӣ ва ғайра..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "some ruby stuff, php-pear packages, various other stuff."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "moin wiki clone, beep-media-player, im-ja ва дигар бастаҳо"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "маърӯза оиди хатогӣ, ёрӣ ба воситаи бастаи thunderbird,..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"санҷиш ва маърӯза оиди хатогӣ, Dovecot, bibletime, sword, ёрӣ бо pure-ftpd, "
+"spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"http пуштибонии прокси дар коргузор, пуштибонии ҳастаи 2.6 дар sndconfig, "
+"пуштибонии samba3 дар LinNeighborhood, ислоҳи хатогиҳо ва мукаммалсозиҳо дар "
+"urpmi, bootsplash ва drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors барои ҳастаи 2.6, санҷиш, баъзе бастаҳои тақсимот."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine ва баъзе дигар бастаҳои тақсимот."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Санадҳо"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "wrote/edited parts of gi/docs/HACKING file"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Тарҷумонҳо"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Norwegian Bokmal (nb) тарҷумон ва татбиқгар, кори i18n"
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "\"як шахс\" гурӯҳи mdk sk-i18n"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Тарҷумон ва татбиқгари Финнӣ"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Тарҷумон ва татбиқгари олмонӣ"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Тарҷумони даниягӣ (ва инчунин Bokmal:-)"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Norwegian Nynorsk (nn) тарҷумон ва татбиқгар"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Тарҷумони эстонӣ"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Тарҷумони италиёвӣ"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Тарҷумони босниявӣ"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Озмунгарон"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "санҷиш ва маърӯза оиди хатогӣ, ҷамъсозии гардонандаи eagle-usb"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "санҷиш ва маърӯза оиди хатогӣ"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "санҷиш, маърӯза оиди хатогӣ, Nvidia кӯшиши баста"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "санҷиш, маърӯза оиди хатогӣ"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, санҷиш, маърӯза оиди хатогӣ"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"Ва бисёр бетта-озмунгарони беном ва номаълум, маърӯзачиён оиди ғалат, ки "
+"имконияти бовари ҳосил кардан ба он, ки ҳама чиз дуруст кор мекунад, доданд."
+
+#: ../control-center:90
+#, fuzzy, c-format
+msgid "OpenMandriva Lx"
+msgstr "Mandriva Online"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "Маркази Идоракунии %s"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Корандозӣ... Лутфан, интизор шавед"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Идоракунии Нармафзор"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, fuzzy, c-format
+msgid "Others"
+msgstr "Озмунгарон"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Устодони хидматрасон"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Муштараккунӣ"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "Танзими FTP"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "Танзимоти хидматгори FTP"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Танзими Samba"
+
+#: ../control-center:190
+#, fuzzy, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Устози Samba барои ба танзимдарории хидматгоратон, ки ҳамчун файл ва "
+"хидматгори чоп барои истгоҳҳои корӣ баромад мекунад, ки бо системҳои ғайри "
+"Linux кор мекунад ёрӣ медиҳад"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Идораи муштараки Samba"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr "Идоракунӣ, танзимоти муштараки махсус, эҷоди мутрараки корвандӣ/умумӣ"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Танзими web хидматрасон"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Танзимоти хидматрасони вэб"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Танзими хидматрасони коргузорӣ"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Танзимоти хидматрасон барои сабт крдани Мандрива Линкус аз шабака"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Хизматҳои шабака"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "Танзими DHCP"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "танзимоти хидматрасони DHCP"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "Танзими DNS"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "Танзимоти хидматрасони DNS (номи шабака)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Танзими прокси"
+
+#: ../control-center:222
+#, fuzzy, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Танзими web хидматрасон"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Танзими вақт"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+"Устози Вақт барои гузоштани вақти хидматгоратон, ки бо хидматгори вақтии "
+"беруна ҳангомашудааст"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "Танзимоти модули OpenSSH"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Аслшиносӣ"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "Танзими NIS ва Autofs"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "Танзимоти хизматҳои NIS ва Autofs"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "Танзими LDAP"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "Танзимоти феҳристи хизиатҳои LDAP"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Гурӯҳӣ"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Танзими ахборот"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Танзими хидматрасони гурӯҳии ахборӣ"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Танзимоти рурӯҳӣ"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Танзими хидматрасони гурӯҳӣ"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "Танзими пост"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Танзимоти хидматрасониҳои почта"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Мудирифти Ғайрихудмухтор"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Мудирияти маҳаллӣ"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Танзимоти компютери дохилӣ бо интерфейси шабака"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr ""
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Мудирияти дурдаст"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Сахтафзор"
+
+#: ../control-center:326
+#, fuzzy, c-format
+msgid "Manage your hardware"
+msgstr "Идораи муштаракҳои NFS"
+
+#: ../control-center:333
+#, fuzzy, c-format
+msgid "Configure graphics"
+msgstr "Танзими пост"
+
+#: ../control-center:340
+#, fuzzy, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Танзими дидабони худ"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Шабака ва Интернет"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, fuzzy, c-format
+msgid "Manage your network devices"
+msgstr "Хизматҳои шабака"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr ""
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Систем"
+
+#: ../control-center:403
+#, fuzzy, c-format
+msgid "Manage system services"
+msgstr "Фаъол ё ғайри фаъол созии хизматҳои система"
+
+#: ../control-center:412
+#, fuzzy, c-format
+msgid "Localization"
+msgstr "Мудирияти маҳаллӣ"
+
+#: ../control-center:419
+#, fuzzy, c-format
+msgid "Administration tools"
+msgstr "Мудирифти Ғайрихудмухтор"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, fuzzy, c-format
+msgid "Network Sharing"
+msgstr "Хизматҳои шабака"
+
+#: ../control-center:439
+#, fuzzy, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Танзимоти рурӯҳӣ"
+
+#: ../control-center:446
+#, fuzzy, c-format
+msgid "Configure NFS shares"
+msgstr "Идораи муштаракҳои NFS"
+
+#: ../control-center:453
+#, fuzzy, c-format
+msgid "Configure WebDAV shares"
+msgstr "Танзими web хидматрасон"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, fuzzy, c-format
+msgid "Local disks"
+msgstr "Истифодабарии муштараки диски маҳаллӣ"
+
+#: ../control-center:490
+#, fuzzy, c-format
+msgid "CD-ROM (%s)"
+msgstr "DVD-ROM"
+
+#: ../control-center:491
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Ба куҷо CD-ROM гардонро васлкарданро гузоред"
+
+#: ../control-center:493
+#, fuzzy, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM"
+
+#: ../control-center:494
+#, fuzzy, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Ба куҷо DVD-ROM гардонро васлкарданро гузоред"
+
+#: ../control-center:496
+#, fuzzy, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "CD/DVD Сӯзанда"
+
+#: ../control-center:497
+#, fuzzy, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Ба куҷо CD/DVD сӯзандаро васлкарданро гузоред"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "Гардонандаи ZIP"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Ба куҷо ZIP гардонро васлкарданро гузоред"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Бехатарӣ"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Пурборкунӣ"
+
+#: ../control-center:533
+#, fuzzy, c-format
+msgid "Configure boot steps"
+msgstr "Танзими вақт"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr ""
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Мавзӯъҳои иловагӣ"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Интихобҳо"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/Намоиши _Номҳои дохилӣ"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/_Усули Ҷоришуда"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Усули мумайиз дар _устозҳо"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Файл"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_Баромадан"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Баромадан"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Мавзӯъҳо"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Ин амалиёт Маркази Идораро бозшурӯъ мекунад.\n"
+"Тамоми тағироти тасдиқ нашуда гум мешавад."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Мавзӯъҳои зиёдтар"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Ёрӣ"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Ёрӣ"
+
+#: ../control-center:668
+#, fuzzy, c-format
+msgid "/_Release notes"
+msgstr "/_Нобуд кардан"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr ""
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr ""
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_Маърӯзаи Ғалат"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/_Дар бораи..."
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Бекор кардан"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "Маркази Идоракунии %s %s [дар %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Хатогӣ"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Иҷроиши барномаи номаълуми '%s' ғайри имкон аст"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr "Тағирёбиҳои дар модули равона иҷрошуда нигоҳ дошта намешаванд."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "fork намешавад: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "шохаронӣ ва иҷрои \"%s\" намешавад аз баски ин иҷрошаванда нест"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Ин барнома ғайриоддӣ хуруҷ шуд"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Огоҳӣ"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Пӯшидан"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Мавзӯъҳои зиёдтар"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Гирифтани мавзӯъҳои нав"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Мавзӯъҳои иловагӣ"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Мавзӯъҳои иловагӣ гиред, дар www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Дар бораи - Маркази Идоракунии %s"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Муаллифҳо: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(ривояти perl)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Ороиш: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Роҷер Ковакс"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "<rkovacs@khujand.org>"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Тарҷумон: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, fuzzy, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "Маркази Идоракунии %s"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Ҳуқуқи муаллифӣ (C) %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Муаллифҳо"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "Ҳамкорони OpenMandriva Lx"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Намоиш"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Забонак"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Муш"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Корвандон ва гурӯҳҳо"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Хидматҳо"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Фейервол"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Боркунанда"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Худроҳандозӣ"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Истифодаи муштараки пайвастшавӣ ба Интернет"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr ""
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Бахшҳо"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Маркази Идора"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Асбоберо, ки истифода бурдан мехоҳед, интихоб намоед"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, fuzzy, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "Танзими хидматрасони гурӯҳии ахборӣ"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr "Усули аслшиносӣ интихоб кунед (локалӣ, NIS, LDAP, Windows Домэйн, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, fuzzy, c-format
+msgid "Set up autologin to automatically log in"
+msgstr ""
+"Худпурборкунӣ фаъол созед, ва истифодакунандае ки Шумо мехоҳед бо "
+"худпурборкунӣ дохил шавад интихоб кунед"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+"Худпурборкунӣ фаъол созед, ва истифодакунандае ки Шумо мехоҳед бо "
+"худпурборкунӣ дохил шавад интихоб кунед"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Нусхаҳои захирашавӣ"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "Василаи эҳтиётии система ва файлҳои истифодакунанда танзим кунед"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:108
+#, fuzzy, c-format
+msgid "Set up boot system"
+msgstr "Намоиши пурборкунии система"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Намоиши пурборкунии система"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, fuzzy, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Мавзӯъйи графикии система дар вақти пурборкунӣ интихоб кунед"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Мавзӯъйи графикии система дар вақти пурборкунӣ интихоб кунед"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Муштарак кардани паивастҳои шабакаи интернет бо дигар компютерҳо"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Танзими интерфейси шабакаи нав (LAN, ISDN, ADSL, ...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Дастёбӣ ба Интернет"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Танзимотҳои гуногун барои шабакаи интернет"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, fuzzy, c-format
+msgid "Open a console as administrator"
+msgstr "Нозиргоҳ кушоед"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, fuzzy, c-format
+msgid "Manage date and time"
+msgstr "Сана ва вақт"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, fuzzy, c-format
+msgid "Set up display manager"
+msgstr "Мудири намоиш"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr "Интихоби идораи намоиш, барои фаъолсозии интихоби корвандони боршавӣ"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Танзими хидматрасони факс"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr "Роҳбарӣ, иловакунӣ ё хориҷкунии ҳуруфҳо. Вориди ҳуруфҳои Windows(TM)"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Хидматгори графикӣ танзим кунед"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, fuzzy, c-format
+msgid "Manage disk partitions"
+msgstr "Идоракунии пайвастшавиҳо"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Ивази ҳаҷми қисмҳои диски сахт."
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, fuzzy, c-format
+msgid "Browse and configure hardware"
+msgstr "Намоиш ва танзимоти сахтафзор"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, fuzzy, c-format
+msgid "Sound Configuration"
+msgstr "Танзимдарории Пурборкунӣ"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Идоракунии пайвастшавиҳо"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, fuzzy, c-format
+msgid "Install & Remove Software"
+msgstr "Коргузории нармафзор"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, fuzzy, c-format
+msgid "Install, uninstall software"
+msgstr "Нармафзори сатбшуда"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Танзимоти нақшаи забонак"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Танзими хидматрасони гурӯҳӣ"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Интихоби забон, кишвар ва минтақа барои система"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Намоиш ва ҷустуҷӯи номҳои дохилии система"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Идоракунии пайвастшавиҳо"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Бозтанзимоти интерфейси шабака"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Идоракунӣ бо гурӯҳи компютерҳо"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Идораи қуттиҳои нармафзори сабтшуда дар компютерҳои гурӯҳӣ"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:359
+#, fuzzy, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"Mandriva Update барои истифодаи тамоми устувориҳо ё афзоишҳо ба қуттиҳои "
+"коргузошта шуда ёрӣ медиҳад"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Тарзи Меню"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Батанзимдарории услуби меню"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Дидабонӣ аз болои пайвастшавиҳо"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Назорати пайвастшавиҳои шабака"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:418
+#, fuzzy, c-format
+msgid "Network Center"
+msgstr "Шабака ва Интернет"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, fuzzy, c-format
+msgid "Manage different network profiles"
+msgstr "Хизматҳои шабака"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "Танзими нуқтаҳои васлшавии NFS"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "Идораи муштаракҳои NFS"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Вазъияти қуттиҳо"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Намоиши статистикаи истифодаи қуттиҳои нармафзори сабтшуда"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, fuzzy, c-format
+msgid "Share your hard disk partitions"
+msgstr " Таксимоти бахшбандии диски сахтро барпо намо"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr " Таксимоти бахшбандии диски сахтро барпо намо"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Тонзимоти чапгар, сафбандии корҳои чопгар, ..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Супоришҳои банақшагирифта"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Прокси"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Идоракунии Дурдаст (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Идоракунии компютери дурдаст (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Пайвастшавиро хориҷ кунед"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Нест кардани интерфейси шабака"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Пайвастшавии бе ноқил"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Идоракунии танзимотҳои Samba"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Танзимоти Сканер"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, fuzzy, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Интихоби забон, кишвар ва минтақа барои система"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "Танзимоти рурӯҳӣ"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "Танзимоти назорати барқи UPS"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, fuzzy, c-format
+msgid "Manage users on system"
+msgstr "Илова, хориҷ ё ивази корвандони система"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Илова, хориҷ ё ивази корвандони система"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, fuzzy, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Дидабонӣ аз болои пайвастшавиҳо"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "Танзимоти нуқтаҳои насбшавии WebDAV"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Маркази Танзимдарории Меню"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Менюи Системӣ"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Танзимдарорӣ..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Менюи корванд"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Менюи хостатонро интихоб кунед барои танзимдарорӣ"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Чопкунии Танзимдарорӣ"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Барои ба танзим даровардани системи чопкунӣ ба инҷо пахш кунед"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Шуд"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Худворидшавӣ"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Сана ва вақт"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Пайвастшавии нав"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Диски Нармо-Худ-Роҳандозӣ"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Пурборкунии система"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Рӯйхатгирии Барномаҳо"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Мудири намоиш"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Диски нарми боршаванда"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Ҳуруфҳо"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Рухсатҳо"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Сатр ва тафтишҳо"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "ТВ Кортҳо"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Пайвасткунӣ"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Сахтафзор"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Номҳои дохилӣ"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Менюҳо"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Нуқтаи Васлкунӣ"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "Нуқтаҳои васлшавии NFS"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Чопгарон"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Танзимдарории Пурборкунӣ"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Дастгоҳҳои хориҷшаванда"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Пайвастшавиро хориҷ кунед"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Нуқтаҳои насбкунии Samba"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Сканерҳо"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Гузоришҳои Системӣ"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Корвандон ва Гурӯҳҳо"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "Нуқтаҳои насбшавии WebDAV"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Хидматрасони графикӣ"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Дидабон"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Ҳалнокии Экран"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Батанзимдарории Компютери Шумо"
+
+#, fuzzy
+#~ msgid "Tune permissions on system"
+#~ msgstr "Илова, хориҷ ё ивази корвандони система"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Марҳамат ба Маркази Идоракунии %s"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Сохтани Дискетаи Нармо-Худ-Роҳандозӣ"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Эҷоди Дискетаи боршавии худмухтор"
+
+#, fuzzy
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ "Ин ёрдамчӣ ба шумо барои бор кардани танзимдарории худ\n"
+#~ "(қуттиҳо, танзимдарории сахтафзор) ба манбаи маълумоти\n"
+#~ "марказонидашуда\n"
+#~ "барои шуморо хабардор доштан оид ба навигариҳои бехатарӣ\n"
+#~ "ва афзоишҳои фоиданок ёрӣ хоҳад расонд.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "Ин ёрдамчӣ ба шумо барои бор кардани танзимдарории худ\n"
+#~ "(қуттиҳо, танзимдарории сахтафзор) ба манбаи маълумоти\n"
+#~ "марказонидашуда\n"
+#~ "барои шуморо хабардор доштан оид ба навигариҳои бехатарӣ\n"
+#~ "ва афзоишҳои фоиданок ёрӣ хоҳад расонд.\n"
+
+#~ msgid "Floppy drive"
+#~ msgstr "Гардонандаи диски нарм"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Ба куҷо флоппӣ гардонро васлкарданро гузоред"
+
+#, fuzzy
+#~ msgid "<control>U"
+#~ msgstr "<control>Q"
+
+#~ msgid "Account:"
+#~ msgstr "Қуттии хатнависӣ:"
+
+#~ msgid "Password:"
+#~ msgstr "Гузарвожа:"
+
+#~ msgid "Hostname:"
+#~ msgstr "Номи соҳиб:"
+
+#~ msgid "Please wait"
+#~ msgstr "Лутфан интизор шавед"
+
+#, fuzzy
+#~ msgid "Manage software"
+#~ msgstr "Идораи муштаракҳои NFS"
+
+#, fuzzy
+#~ msgid "Use NFS shares"
+#~ msgstr "Идораи муштаракҳои NFS"
+
+#~ msgid "Manage Samba configuration"
+#~ msgstr "Идоракунии танзимотҳои Samba"
+
+#, fuzzy
+#~ msgid "Use WebDAV shares"
+#~ msgstr "Танзими web хидматрасон"
+
+#~ msgid "CD-ROM"
+#~ msgstr "CD-ROM"
+
+#~ msgid "Boot theme"
+#~ msgstr "Мавзӯъи боршаванда"
+
+#~ msgid "Console"
+#~ msgstr "Нозиргоҳ"
+
+#~ msgid "Adjust the date and the time"
+#~ msgstr "Танзимоти вақт ва таърих"
+
+#~ msgid "Fax"
+#~ msgstr "Факс"
+
+#~ msgid "Software Media Manager"
+#~ msgstr "Мудири Сарчашмаҳои Нармафзор"
+
+#, fuzzy
+#~ msgid "Invictus Firewall"
+#~ msgstr "Фейервол"
+
+#~ msgid "Language"
+#~ msgstr "Забон"
+
+#~ msgid "Country / Region"
+#~ msgstr "Мамлакат/ Минтақа"
+
+#~ msgid "Updates"
+#~ msgstr "Нав кардан"
+
+#, fuzzy
+#~ msgid "Control and configure network connections"
+#~ msgstr "Назорати пайвастшавиҳои шабака"
+
+#, fuzzy
+#~ msgid "Network Profiles"
+#~ msgstr "Хизматҳои шабака"
+
+#~ msgid "Local disk sharing"
+#~ msgstr "Истифодабарии муштараки диски маҳаллӣ"
+
+#~ msgid "Level and checks"
+#~ msgstr "Сатр ва тафтишҳо"
+
+#~ msgid "Enable or disable the system services"
+#~ msgstr "Фаъол ё ғайри фаъол созии хизматҳои система"
+
+#~ msgid "Media Manager"
+#~ msgstr "Мудири Расона"
+
+#~ msgid "UPS"
+#~ msgstr "UPS"
+
+#, fuzzy
+#~ msgid "VPN configuration"
+#~ msgstr "Танзимдарории CUPS"
+
+#, fuzzy
+#~ msgid "Configure Software management"
+#~ msgstr "Идоракунии Нармафзор"
+
+#~ msgid "Install"
+#~ msgstr "Коргузорӣ"
+
+#~ msgid "Look at installable software and install software packages"
+#~ msgstr "Ҷустуҷӯи қуттиҳои нармафзор барои сабткунӣ"
+
+#~ msgid "Remove"
+#~ msgstr "Хориҷкунӣ"
+
+#~ msgid "Look at installed software and uninstall software packages"
+#~ msgstr "Намоиши қуттиҳои нармафзори сатбтшуда ва нармафзори нобудшуда"
+
+#~ msgid "Screen resolution"
+#~ msgstr "Ҳалнокии экран"
+
+#~ msgid "Change the screen resolution"
+#~ msgstr "Ҳалнокии экран"
+
+#~ msgid "TV card"
+#~ msgstr "ТВ корт"
+
+#~ msgid "Set up TV card"
+#~ msgstr "Танзимоти корти ТВ"
+
+#~ msgid "/_Expert mode"
+#~ msgstr "/_Усули мутахассисӣ"
+
+#~ msgid "Set Samba mount points"
+#~ msgstr "Танзими нуқтаҳои насбкунии Samba"
+
+#~ msgid "Samba printing configuration"
+#~ msgstr "Танзимоти чопгарон дар шабақаи Samba"
+
+#~ msgid "Enable or disable printers in your Samba server configuration"
+#~ msgstr ""
+#~ "Фаъол ё ғайри фаъол созии чопгарон дар танзимотҳои шабакаи Samba-и шумо"
+
+#~ msgid "(original C version)"
+#~ msgstr "(ривояти оригиналии C)"
+
+#~ msgid "(design)"
+#~ msgstr "(зебосозӣ)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Select the application menu layout and change which programs are shown on "
+#~ "the menu"
+#~ msgstr ""
+#~ "MenuDrake барои ивази барномаҳои дар меню нишон додашуда ёрӣ медиҳад"
+
+#~ msgid ""
+#~ "We are about to switch from the \"%s\" profile to the \"%s\" profile.\n"
+#~ "\n"
+#~ "Are you sure you want to do the switch?"
+#~ msgstr ""
+#~ "Ҳоло мо аз тахассуси \"%s\" ба тахассуси \"%s\" гузориш карда истодаем.\n"
+#~ "\n"
+#~ "Дар ҳақиқат ин гузоришро иҷро кардан мехоҳед?"
+
+#~ msgid "/_Profiles"
+#~ msgstr "/_Тахассусҳо"
+
+#~ msgid "/_New"
+#~ msgstr "/_Нав"
+
+#~ msgid "New profile..."
+#~ msgstr "Тахассуси нав..."
+
+#~ msgid ""
+#~ "Name of the profile to create (the new profile is created as a copy of "
+#~ "the current one):"
+#~ msgstr ""
+#~ "Номи тахассуси офаридашаванда (тахассуси нав ҳамчун нусхаи тахассуси ҷорӣ "
+#~ "офарида мешавад):"
+
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#~ msgid "The \"%s\" profile already exists!"
+#~ msgstr "Тахассуси \"%s\" аллакай мавҷуд аст!"
+
+#~ msgid "Delete profile"
+#~ msgstr "Тахассусро нобуд кунед"
+
+#~ msgid "Profile to delete:"
+#~ msgstr "Тахассус барои нобудкунӣ"
+
+#~ msgid "You can not delete the current profile"
+#~ msgstr "Шумо тахассуси ҷориро нобуд карда наметавонед"

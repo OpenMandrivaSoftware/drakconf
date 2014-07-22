@@ -1,0 +1,2236 @@
+# translation of drakconf-nl.po to Nederlands
+# DrakConf Configuration
+# Copyright (C) 2003, 2004 Free Software Foundation, Inc.
+# Tom Laermans <tom.laermans@powersource.cx>, 2001.
+# Reinout van Schouwen <reinouts@gnome.org>, 2002-2009
+# Peter Bosch <peter.bosch@hccnet.nl>, 2002.
+# Jeroen ten Berge <j.ten.berge@twinbit.nl>, 2002.
+# Hendrik-Jan Heins <hjh@passys.nl>, 2003.
+# Rob Teng <mandrake.tips@free.fr>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakconf-nl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"PO-Revision-Date: 2009-02-22 22:18+0100\n"
+"Last-Translator: Reinout van Schouwen <reinouts@gnome.org>\n"
+"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../contributors.pl:11
+#, c-format
+msgid "Packagers"
+msgstr "Pakketmakers"
+
+#: ../contributors.pl:12 ../contributors.pl:40
+#, c-format
+msgid "Per Oyvind Karlsen"
+msgstr "Per Øyvind Karlsen"
+
+#: ../contributors.pl:12
+#, c-format
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"grote schoonmaak en herbouw van pakketten, spellen, proeflezen van Mandriva-"
+"hulpprogramma's, portering naar sparc architectuur"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
+
+#: ../contributors.pl:13
+#, c-format
+msgid "cowsay introduction"
+msgstr "introductie van cowsay"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
+
+#: ../contributors.pl:14
+#, c-format
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "introductie van figlet, Distriblint (nagaan van rpm in de distro)"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
+
+#: ../contributors.pl:15
+#, c-format
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, herziene abiword, mono"
+
+#: ../contributors.pl:16
+#, c-format
+msgid "Ben Reser"
+msgstr "Ben Reser"
+
+#: ../contributors.pl:16
+#, c-format
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"nc herzien met debian patches, sommige perl pakketten gerepareerd, dnotify "
+"opstartscript, urpmc, hddtemp, wipe, etc..."
+
+#: ../contributors.pl:17 ../contributors.pl:42
+#, c-format
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
+
+#: ../contributors.pl:17
+#, c-format
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"\"diep en breed\" kernelwerk (veel nieuwe patches voor integratie in "
+"officiële kernel)"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
+
+#: ../contributors.pl:18
+#, c-format
+msgid "kernel work (audio- and video-related patches)"
+msgstr "kernel-werk (audio- en video-gerelateerde patches)"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
+
+#: ../contributors.pl:19
+#, c-format
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "patches voor enkele pakketten, kfiresaver, xwine. ppc kernel-benh."
+
+#: ../contributors.pl:20
+#, c-format
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
+
+#: ../contributors.pl:20
+#, c-format
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (prerelease) die naast Samba 2.2.x kan werken, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes-verzameling, diverse serverkant- "
+"bijdragen"
+
+#: ../contributors.pl:21
+#, c-format
+msgid "Goetz Waschk"
+msgstr "Götz Waschk"
+
+#: ../contributors.pl:21
+#, c-format
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms en plugins, gnome-"
+"python, rox werkomgeving"
+
+#: ../contributors.pl:22
+#, c-format
+msgid "Austin Acton"
+msgstr "Austin Acton"
+
+#: ../contributors.pl:22
+#, c-format
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"audio/video/MIDI apps, wetenschappelijke apps, audio/video produktie "
+"howto's, bluetooth, pyqt & dergelijke"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
+
+#: ../contributors.pl:23
+#, c-format
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM-zaken, opengroupware.org"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
+
+#: ../contributors.pl:24
+#, c-format
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng en ander kernel-werk"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
+
+#: ../contributors.pl:25
+#, c-format
+msgid "most web-based packages and many security-related packages"
+msgstr "meeste web-gebaseerde pakketten en vele veiligheidspakketten"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan van der Eijk"
+
+#: ../contributors.pl:26
+#, c-format
+msgid "slbd distro checking, devel dependancies"
+msgstr "slbd distro controle, devel afhankelijkheden"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "David Walser"
+msgstr "David Walser"
+
+#: ../contributors.pl:27
+#, c-format
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr ""
+"rpmsync script, kinderlijk eenvoudige MIDI-afspeelfunctie, aangescherpte "
+"libao"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "vele toegevoegde gnome applets en python modules"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"teamleider van sk-i18n, bijdrage van verscheidene pakketten, testen van "
+"openldap en integatie met bind-sdb-ldap, een aantal jaren gebruik van cooker "
+"en jagen op bugs, etc..."
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "ruby-gerelateerde zaken, php-pear pakketten, diverse overige zaken."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "moin wiki-kloon, beep-mediaspeler, im-ja en enkele andere pakketten"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "foutrapporten, hulp met thunderbird-pakket,..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"tests en foutrapportages, Dovecot, bibletime, sword, hulp bij pure-ftpd, "
+"spamassassin, maildrop, clamav."
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"http proxy ondersteuning in installatie, kernel 2.6-ondersteuning in "
+"sndconfig, samba3-ondersteuning in LinNeighborhood, reparaties en "
+"verbeteringen aan urpmi, bootsplash en drakxtools"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "lm_sensors voor kernel 2.6, tests, enkele contrib-pakketten."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine en enkele andere contrib-pakketten."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "schreef/bewerkte delen van het bestand gi/docs/HACKING"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Vertalers "
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Noorse Bokmaal (nb) vertaler en coördinator, i18n-werk."
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "\"éénmans\" mdk sk-i18n-team."
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Finse vertaler en coördinator"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Nederlandse vertaler en coördinator"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Deense vertaler (en ook wat Bokmaal:-)"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Noorse Nynorsk (nn) vertaler en coördinator"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Estse vertaler"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "Italiaanse vertaler"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Bosnische vertaler"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Testers"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "tests en foutrapportages, integratie van eagle-usb stuurprogramma"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "test en foutrapportages"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "tests. foutrapport, uitproberen Nvidia-pakket"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "test, foutrapporten"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, tests, foutrapportages"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"En vele ongenoemde en onbekende bèta-testers en foutrapporteurs die hebben "
+"geholpen om te zorgen dat het allemaal goed werkt."
+
+#: ../control-center:90
+#, c-format
+msgid "OpenMandriva Lx"
+msgstr "OpenMandriva Lx"
+
+#: ../control-center:100 ../control-center:105
+#, c-format
+msgid "%s Control Center"
+msgstr "%s Configuratiecentrum"
+
+#: ../control-center:106 ../control-center:1058
+#, c-format
+msgid "Loading... Please wait"
+msgstr "Bezig met laden… even geduld"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
+#, c-format
+msgid "Software Management"
+msgstr "Softwarebeheer"
+
+#: ../control-center:167 ../control-center:355 ../control-center:390
+#: ../control-center:548
+#, c-format
+msgid "Others"
+msgstr "Overige"
+
+#: ../control-center:177
+#, c-format
+msgid "Server wizards"
+msgstr "Server-wizards"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:180 ../control-center:183
+#, c-format
+msgid "Sharing"
+msgstr "Bronnen delen"
+
+#: ../control-center:186
+#, c-format
+msgid "Configure FTP"
+msgstr "FTP configureren"
+
+#: ../control-center:187
+#, c-format
+msgid "Set up an FTP server"
+msgstr "FTP-server instellen"
+
+#: ../control-center:189
+#, c-format
+msgid "Configure Samba"
+msgstr "Samba configureren"
+
+#: ../control-center:190
+#, c-format
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Een bestands- en afdrukserver instellen voor werkstations die Linux- zowel "
+"als non-Linuxsystemen draaien"
+
+#: ../control-center:192
+#, c-format
+msgid "Manage Samba share"
+msgstr "Gedeelde Samba-mappen beheren"
+
+#: ../control-center:193
+#, c-format
+msgid "Manage, create special share, create public/user share"
+msgstr "Speciale- of publieke gedeelde mappen beheren en aanmaken"
+
+#: ../control-center:195
+#, c-format
+msgid "Configure web server"
+msgstr "Webserver configureren"
+
+#: ../control-center:196
+#, c-format
+msgid "Set up a web server"
+msgstr "Webserver instellen"
+
+#: ../control-center:198
+#, c-format
+msgid "Configure installation server"
+msgstr "Installatieserver configureren"
+
+#: ../control-center:199
+#, c-format
+msgid "Set up server for network installations of %s"
+msgstr "Server instellen voor netwerkinstallaties van %s"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:209 ../control-center:212
+#, c-format
+msgid "Network Services"
+msgstr "Netwerkdiensten"
+
+#: ../control-center:215
+#, c-format
+msgid "Configure DHCP"
+msgstr "DHCP configureren"
+
+#: ../control-center:216
+#, c-format
+msgid "Set up a DHCP server"
+msgstr "DHCP-server instellen"
+
+#: ../control-center:218
+#, c-format
+msgid "Configure DNS"
+msgstr "DNS configureren"
+
+#: ../control-center:219
+#, c-format
+msgid "Set up a DNS server (network name resolution)"
+msgstr "DNS-server instellen (namen opzoeken in het netwerk)"
+
+#: ../control-center:221
+#, c-format
+msgid "Configure proxy"
+msgstr "Proxy configureren"
+
+#: ../control-center:222
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Bufferende web-proxyserver configureren"
+
+#: ../control-center:224
+#, c-format
+msgid "Configure time"
+msgstr "Tijd configureren"
+
+#: ../control-center:225
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr "Tijd van de server laten synchroniseren met externe tijdsserver"
+
+#: ../control-center:227 ../control-center:228
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "Configuratie van OpenSSH-voorziening"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Aanmeldingscontrole"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "NIS en Autofs configureren"
+
+#: ../control-center:247
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "NIS en Autofs-diensten configureren"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure LDAP"
+msgstr "LDAP configureren"
+
+#: ../control-center:250
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "LDAP-gidsdiensten configureren"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:261 ../control-center:264
+#, c-format
+msgid "Groupware"
+msgstr "Groupware"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure news"
+msgstr "Nieuws configureren"
+
+#: ../control-center:268
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Nieuwsgroepserver configureren"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure groupware"
+msgstr "Groupware configureren"
+
+#: ../control-center:271
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Groupware-server configureren"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure mail"
+msgstr "E-mail configureren"
+
+#: ../control-center:274
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "Internet-maildiensten configureren"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:286 ../control-center:289
+#, c-format
+msgid "Online Administration"
+msgstr "Online beheer"
+
+#: ../control-center:305
+#, c-format
+msgid "Local administration"
+msgstr "Lokaal beheer"
+
+#: ../control-center:306
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "De lokale computer configureren via een webinterface"
+
+#: ../control-center:306
+#, c-format
+msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgstr ""
+"U lijkt webmin niet geïnstalleerd te hebben. Lokale configuratie "
+"uitgeschakeld"
+
+#: ../control-center:308
+#, c-format
+msgid "Remote administration"
+msgstr "Beheer op afstand"
+
+#: ../control-center:309
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr ""
+"Klik hier indien u een computer op afstand wilt configureren via een "
+"webinterface"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:323
+#, c-format
+msgid "Hardware"
+msgstr "Apparatuur"
+
+#: ../control-center:326
+#, c-format
+msgid "Manage your hardware"
+msgstr "Uw apparatuur beheren"
+
+#: ../control-center:333
+#, c-format
+msgid "Configure graphics"
+msgstr "Grafische instellingen"
+
+#: ../control-center:340
+#, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Configureren van uw muis en toetsenbord"
+
+#: ../control-center:347
+#, c-format
+msgid "Configure printing and scanning"
+msgstr "Configureren van afdrukken en scannen"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:365 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Netwerk & Internet"
+
+#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#, c-format
+msgid "Manage your network devices"
+msgstr "Netwerkapparaten beheren"
+
+#: ../control-center:381
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr "Persoonlijke netwerkinstellingen en -beveiliging"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:400
+#, c-format
+msgid "System"
+msgstr "Systeem"
+
+#: ../control-center:403
+#, c-format
+msgid "Manage system services"
+msgstr "Systeemdiensten beheren"
+
+#: ../control-center:412
+#, c-format
+msgid "Localization"
+msgstr "Regionaal"
+
+#: ../control-center:419
+#, c-format
+msgid "Administration tools"
+msgstr "Beheerprogramma's"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:436
+#, c-format
+msgid "Network Sharing"
+msgstr "Gedeeld netwerk"
+
+#: ../control-center:439
+#, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Gedeelde Windows®-bronnen configureren"
+
+#: ../control-center:446
+#, c-format
+msgid "Configure NFS shares"
+msgstr "Gedeelde NFS-bronnen beheren"
+
+#: ../control-center:453
+#, c-format
+msgid "Configure WebDAV shares"
+msgstr "Gedeelde WebDAV-bronnen configureren"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:463 ../control-center:466
+#, c-format
+msgid "Local disks"
+msgstr "Lokale schijven"
+
+#: ../control-center:490
+#, c-format
+msgid "CD-ROM (%s)"
+msgstr "Cd-rom (%s)"
+
+#: ../control-center:491
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "Koppelpunt van uw ‘%s’ cd-romstation instellen"
+
+#: ../control-center:493
+#, c-format
+msgid "DVD-ROM (%s)"
+msgstr "Dvd-rom (%s)"
+
+#: ../control-center:494
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "Koppelpunt van uw ‘%s’ dvd-romstation instellen"
+
+#: ../control-center:496
+#, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "Cd/dvd-brander (%s)"
+
+#: ../control-center:497
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "Koppelpunt van uw ‘%s’ cd/dvd-brander instellen"
+
+#: ../control-center:499
+#, c-format
+msgid "ZIP drive"
+msgstr "ZIP-station"
+
+#: ../control-center:500
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "Koppelpunt van uw ZIP-station instellen"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:512 ../control-center:515
+#, c-format
+msgid "Security"
+msgstr "Veiligheid"
+
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:530
+#, c-format
+msgid "Boot"
+msgstr "Opstarten"
+
+#: ../control-center:533
+#, c-format
+msgid "Configure boot steps"
+msgstr "Opstartstappen configureren"
+
+#: ../control-center:542
+#, c-format
+msgid "Boot look'n feel"
+msgstr "Opstart-uiterlijk"
+
+#: ../control-center:559
+#, c-format
+msgid "Additional wizards"
+msgstr "Aanvullende wizards"
+
+#: ../control-center:614 ../control-center:615 ../control-center:616
+#: ../control-center:628
+#, c-format
+msgid "/_Options"
+msgstr "/_Opties"
+
+#: ../control-center:614
+#, c-format
+msgid "/Display _Logs"
+msgstr "/_Logboek weergeven"
+
+#: ../control-center:615
+#, c-format
+msgid "/_Embedded Mode"
+msgstr "/_Ingebedde modus"
+
+#: ../control-center:616
+#, c-format
+msgid "/Expert mode in _wizards"
+msgstr "/Expert-modus in _wizards"
+
+#: ../control-center:626 ../control-center:627
+#, c-format
+msgid "/_File"
+msgstr "/_Bestand"
+
+#: ../control-center:627
+#, c-format
+msgid "/_Quit"
+msgstr "/_Afsluiten"
+
+#: ../control-center:627
+#, c-format
+msgid "<control>Q"
+msgstr "<control>Q"
+
+#: ../control-center:627
+#, c-format
+msgid "Quit"
+msgstr "Afsluiten"
+
+#: ../control-center:648 ../control-center:651 ../control-center:664
+#, c-format
+msgid "/_Themes"
+msgstr "/_Thema's"
+
+#: ../control-center:654
+#, c-format
+msgid ""
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
+msgstr ""
+"Dit zal het configuratiecentrum opnieuw starten.\n"
+"Alle wijzigen die niet zijn opgeslagen gaan verloren."
+
+#: ../control-center:664
+#, c-format
+msgid "/_More themes"
+msgstr "/_Meer thema's"
+
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:674
+#, c-format
+msgid "/_Help"
+msgstr "/_Hulp"
+
+#: ../control-center:667 ../control-center:668 ../control-center:669
+#: ../control-center:670
+#, c-format
+msgid "Help"
+msgstr "Hulp"
+
+#: ../control-center:668
+#, c-format
+msgid "/_Release notes"
+msgstr "/_Uitgave-opmerkingen"
+
+#: ../control-center:669
+#, c-format
+msgid "/What's _New?"
+msgstr "/Wat is _nieuw?"
+
+#: ../control-center:670
+#, c-format
+msgid "/_Errata"
+msgstr "/_Errata"
+
+#: ../control-center:671
+#, c-format
+msgid "/_Report Bug"
+msgstr "/Fout _rapporteren"
+
+#: ../control-center:674
+#, c-format
+msgid "/_About..."
+msgstr "/In_fo…"
+
+#: ../control-center:730
+#, c-format
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ../control-center:750
+#, c-format
+msgid "%s Control Center %s [on %s]"
+msgstr "%s Configuratiecentrum %s [op %s]"
+
+#: ../control-center:1037 ../control-center:1102
+#, c-format
+msgid "Error"
+msgstr "Fout"
+
+#: ../control-center:1037
+#, c-format
+msgid ""
+"There's a bug in translations of your language (%s)\n"
+"\n"
+"Please report that bug."
+msgstr ""
+"Er zit een probleem in de vertaling voor uw taal (%s)\n"
+"\n"
+"Meldt u dit probleem alstublieft."
+
+#: ../control-center:1102
+#, c-format
+msgid "Impossible to run unknown '%s' program"
+msgstr "Onmogelijk om onbekend programma '%s' te starten"
+
+#: ../control-center:1121
+#, c-format
+msgid "The modifications done in the current module won't be saved."
+msgstr ""
+"De wijzigingen aangebracht in de huidige module zullen niet opgeslagen "
+"worden."
+
+#: ../control-center:1208
+#, c-format
+msgid "cannot fork: %s"
+msgstr "kan geen nieuw proces beginnen: %s"
+
+#: ../control-center:1231
+#, c-format
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "kan geen nieuw proces \"%s\" beginnen want het is niet uitvoerbaar"
+
+#: ../control-center:1370
+#, c-format
+msgid "This program has exited abnormally"
+msgstr "Dit programma is abnormaal afgesloten"
+
+#: ../control-center:1379
+#, c-format
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: ../control-center:1389 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Sluiten"
+
+#: ../control-center:1396
+#, c-format
+msgid "More themes"
+msgstr "Meer thema's"
+
+#: ../control-center:1398
+#, c-format
+msgid "Getting new themes"
+msgstr "Bezig met ophalen van nieuwe thema's"
+
+#: ../control-center:1399
+#, c-format
+msgid "Additional themes"
+msgstr "Aanvullende thema's"
+
+#: ../control-center:1401
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "Haal extra thema's van www.damz.net"
+
+#: ../control-center:1409
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Info - %s Configuratiecentrum"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Auteurs: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(perl-versie)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Grafisch werk: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Hélène Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1470
+#, c-format
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+"Tom Laermans, Peter Bosch, Jeroen ten Berge, Reinout van Schouwen, Hendrik-"
+"Jan Heins, Rob Teng"
+
+#: ../control-center:1472
+#, c-format
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "vertaling@vrijschrift.org"
+
+#: ../control-center:1474
+#, c-format
+msgid "Translator: "
+msgstr "Vertaler: "
+
+#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
+#: ../control-center:1483
+#, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "%s %s (%s) Configuratiecentrum"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1488
+#, c-format
+msgid "Copyright (C) %s OpenMandriva Association"
+msgstr "Copyright © %s OpenMandriva Association"
+
+#: ../control-center:1494
+#, c-format
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../control-center:1495
+#, c-format
+msgid "OpenMandriva Lx Contributors"
+msgstr "Personen die hebben bijgedragen aan OpenMandriva Lx"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Beeldscherm"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Toetsenbord"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Muis"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Gebruikers en groepen"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Diensten"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Firewall"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Opstartprogramma"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Auto-installatie"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "Internetverbinding delen"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "3D-bureaubladeffecten"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Partities"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Configuratiecentrum"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Kies welk werktuig u wenst te gebruiken"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "3D-bureaubladeffecten configureren"
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+"Selecteer de controlemethode voor (lokaal, NIS, LDAP, Windows-domein, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "Automatische aanmelding instellen"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr ""
+"Auto-aanmelden inschakelen en de gebruiker selecteren om automatisch aan te "
+"melden"
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Reservekopieën"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "Reservekopieën van het systeem en van gebruikersgegevens configureren"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr "Snapshots"
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr "Opstartsysteem instellen"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Instellen hoe het systeem opstart"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Instellen van grafisch thema bij opstarten"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Het grafische thema van het systeem tijdens opstarten selecteren"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "Internetverbinding delen met andere lokale computers"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Nieuwe netwerkinterface instellen (LAN, ISDN, ADSL, ...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "Internettoegang"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Diverse internetinstellingen aanpassen"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, c-format
+msgid "Open a console as administrator"
+msgstr "Terminalvenster openen als beheerder"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, c-format
+msgid "Manage date and time"
+msgstr "Datum- en tijdsinstellingen"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, c-format
+msgid "Set up display manager"
+msgstr "Displaybeheer instellen"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr ""
+"Het displaybeheer-programma kiezen dat een gebruiker in staat stelt zichzelf "
+"aan te melden"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Een faxserver configureren"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr "Uw persoonlijke firewall instellen"
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr ""
+"Een persoonlijke firewall instellen teneinde de computer en het netwerk te "
+"beschermen"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr ""
+"Lettertypen beheren, toevoegen en verwijderen. Windows(TM)-lettertypen "
+"importeren"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Grafische server instellen"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, c-format
+msgid "Manage disk partitions"
+msgstr "Schijfpartities beheren"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr ""
+"Partities op de harde schijf aanmaken, verwijderen en van grootte veranderen"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr "De apparatuur inspecteren en configureren"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, c-format
+msgid "Sound Configuration"
+msgstr "Audioconfiguratie"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Hosts-definities"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Hosts-definities beheren"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, c-format
+msgid "Install & Remove Software"
+msgstr "Software installeren & verwijderen"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr "Software installeren of verwijderen"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr "Geavanceerde instellingen voor netwerkinterfaces en firewall"
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr "Netwerkinterface-terugval en firewallreplicatie instellen"
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Toetsenbordindeling instellen"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Groupware-server configureren"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr "Taalinstellingen voor uw systeem beheren"
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "De taal en het land of de regio van het systeem selecteren"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Uw systeemlogboeken bekijken en doorzoeken"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Verbindingen beheren"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Een netwerkinterface herconfigureren"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Computer groep beheren"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Geïnstalleerde softwarepakketten beheren op een groep van computers"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mandriva tools"
+msgstr "Aanmeldingscontrole voor Mandriva-hulpprogramma's configureren"
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mandriva configuration "
+"tools "
+msgstr ""
+"Voor individuele Mandriva-configuratieprogramma's benodigde "
+"aanmeldingscontrole definiëren"
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr "Uw systeem bijwerken"
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"De beschikbare herzieningen bekijken en reparaties of opwaarderingen voor "
+"geïnstalleerde pakketten aanbrengen"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Menustijl"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Configuratie van menustijl"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr "Windows™-documenten en -instellingen importeren"
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Verbindingen volgen"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Netwerkverbindingen volgen"
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "Het aanwijsapparaat (muis, touchpad) instellen"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr "Controle voor ouders"
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "Netwerkcentrum"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, c-format
+msgid "Manage different network profiles"
+msgstr "Netwerkprofielen beheren"
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Netwerkprofielen activeren en beheren"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr "Toegang tot gedeelde NFS-stations en -mappen"
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "NFS-koppelpunten instellen"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr "Stations en mappen delen over NFS"
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "NFS-gedeelde mappen beheren"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Pakketstatistieken"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr ""
+"Statistieken tonen over het gebruik van geïnstalleerde softwarepakketten"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr "Uw schijfpartities delen"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Stel delen van uw schijfpartities in"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Printer(s), afdruktaakwachtrijen e.d. instellen"
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Ingeroosterde taken"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr ""
+"Programma's inroosteren om periodiek of op bepaalde momenten uitgevoerd te "
+"worden"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Proxy"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr ""
+"Een proxyserver instellen voor het doorbladeren van bestanden en het Web"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Bediening op afstand (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Bediening op afstand van een andere computer (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Verbinding verwijderen"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Een netwerkinterface verwijderen"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Draadloze verbinding"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr "Toegang tot gedeelde Windows (SMB)-stations en -mappen"
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr "Gedeelde Windows (Samba)-stations en -mappen configureren"
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr "Stations en mappen delen met Windows (SMB)-systemen"
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "De configuratie van Samba afregelen"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Scanner instellen"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Beveiliging, rechten en audit van het systeem afregelen"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr ""
+"Het systeembeveiligingsniveau, de periodieke beveiligingsaudit en rechten "
+"instellen"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr "Systeemdiensten in- of uitschakelen"
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr "Mediabronnen voor installatie en herzieningen configureren"
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr "Selecteren waarvandaan softwarepakketten worden gedownload "
+
+#: ../lib/MDV/Control_Center.pm:603
+#, fuzzy, c-format
+msgid "Configure updates frequency"
+msgstr "Groupware configureren"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr ""
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr ""
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "UPS for energie-observatie instellen"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr "Gebruikers op het systeem beheren"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Gebruikers op het systeem toevoegen, verwijderen of wijzigen"
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr "Virtualisatie"
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr "Beheer van virtuele machines"
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "VPN-verbindingen configureren om netwerktoegang te beveiligen"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr "Toegang tot gedeelde stations en mappen over WebDAV"
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "WebDAV koppelpunten instellen"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Menu-configuratiecentrum"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Systeemmenu"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Configureren…"
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Gebruikersmenu"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
+"\n"
+"\n"
+"Choose which menu you want to configure"
+msgstr ""
+"\n"
+"\n"
+"Kies welk menu u wenst te configureren"
+
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
+#, c-format
+msgid "Printing configuration"
+msgstr "Printerconfiguratie"
+
+#: ../print_launcher.pl:30
+#, c-format
+msgid "Click here to configure the printing system"
+msgstr "Klik hier om het printsysteem te configureren"
+
+#: ../print_launcher.pl:37
+#, c-format
+msgid "Done"
+msgstr "Klaar"
+
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Auto-aanmelden"
+
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Datum en tijd"
+
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Nieuwe verbinding"
+
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Auto-installatiediskette"
+
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Opstartlaadfunctie"
+
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Ingeroosterde taken"
+
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Displaybeheer"
+
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Opstartdiskette"
+
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Lettertypen"
+
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "Rechten"
+
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Niveaus en controles"
+
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "TV-kaarten"
+
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Delen van partities"
+
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Harde schijven"
+
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Logboeken"
+
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Menu's"
+
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Koppelpunten"
+
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "NFS-koppelpunten"
+
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Printers"
+
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Proxyconfiguratie"
+
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Verwisselbare apparaten"
+
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Verbinding verwijderen"
+
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Samba-koppelpunten"
+
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Scanners"
+
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Systeeminstellingen"
+
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Gebruikers en groepen"
+
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "WebDAV-koppelpunten"
+
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Grafische server"
+
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Monitor"
+
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Schermresolutie"
+
+#: ../drakconf.desktop.in.h:1
+msgid "Configure Your Computer"
+msgstr "Uw computer configureren"
+
+#~ msgid "Set up security level and audit"
+#~ msgstr "Systeembeveiligingsniveau en audit instellen"
+
+#~ msgid "Tune permissions on system"
+#~ msgstr "Permissies op systeem afregelen"
+
+#~ msgid "Welcome to the %s Control Center"
+#~ msgstr "Welkom bij het %s Configuratiecentrum"
+
+#~ msgid "Generate an Auto Install floppy"
+#~ msgstr "Auto-installatiediskette genereren"
+
+#~ msgid "Generate a standalone boot floppy"
+#~ msgstr "Zelfstandige opstartdiskette genereren"
+
+#~ msgid "Upload your configuration to get information on upgrades"
+#~ msgstr ""
+#~ "Uw configuratie opsturen om informatie te krijgen over nieuwe versies"
+
+#~ msgid ""
+#~ "Upload your configuration in order to keep you informed about security "
+#~ "and useful upgrades"
+#~ msgstr ""
+#~ "Uw configuratie opsturen om u op de hoogte te houden over "
+#~ "beveiligingsherzieningen en nuttige opwaarderingen"
+
+#~ msgid "Floppy drive"
+#~ msgstr "Diskettestation"
+
+#~ msgid "Set where your floppy drive is mounted"
+#~ msgstr "Koppelpunt van uw diskettestation instellen"
+
+#~ msgid "/_Upload the hardware list"
+#~ msgstr "/Apparatuurlijst _versturen"
+
+#~ msgid "<control>U"
+#~ msgstr "<control>U"
+
+#~ msgid "Upload the hardware list"
+#~ msgstr "Apparatuurlijst versturen"
+
+#~ msgid "Account:"
+#~ msgstr "Account:"
+
+#~ msgid "Password:"
+#~ msgstr "Wachtwoord:"
+
+#~ msgid "Hostname:"
+#~ msgstr "Hostnaam:"
+
+#~ msgid "Please wait"
+#~ msgstr "Even geduld"
+
+#~ msgid "Uploading in progress"
+#~ msgstr "Uploaden is bezig"
+
+#~ msgid "Manage software"
+#~ msgstr "Software beheren"
+
+#~ msgid "Use NFS shares"
+#~ msgstr "NFS-gedeelde mappen gebruiken"
+
+#~ msgid "Share your data through NFS"
+#~ msgstr "Uw gegevens delen via NFS"
+
+#~ msgid "Manage Samba configuration"
+#~ msgstr "Samba-configuratie beheren"
+
+#~ msgid "Use WebDAV shares"
+#~ msgstr "Gedeelde WebDAV-bronnen gebruiken"
+
+#~ msgid "CD-ROM"
+#~ msgstr "Cd-rom"
+
+#~ msgid "Boot theme"
+#~ msgstr "Opstartthema's"
+
+#~ msgid "Console"
+#~ msgstr "Console"
+
+#~ msgid "Adjust the date and the time"
+#~ msgstr "Datum en tijd aanpassen"
+
+#~ msgid "Fax"
+#~ msgstr "Fax"
+
+#~ msgid "Software Media Manager"
+#~ msgstr "Software Mediabeheer"
+
+#~ msgid "Invictus Firewall"
+#~ msgstr "Invictus Firewall"
+
+#~ msgid "Language"
+#~ msgstr "Taal"
+
+#~ msgid "Country / Region"
+#~ msgstr "Land / regio"
+
+#~ msgid "Updates"
+#~ msgstr "Herzieningen"
+
+#~ msgid "Control and configure network connections"
+#~ msgstr "Netwerkverbindingen beheren en configureren"
+
+#~ msgid "Network Profiles"
+#~ msgstr "Netwerkprofielen"
+
+#~ msgid "Local disk sharing"
+#~ msgstr "Lokaal delen van schijven"
+
+#~ msgid "Access Windows shares"
+#~ msgstr "Toegang tot gedeelde Windows-bronnen"
+
+#~ msgid "Level and checks"
+#~ msgstr "Niveau en controles"
+
+#~ msgid "Enable or disable the system services"
+#~ msgstr "Systeemdiensten in- of uitschakelen"
+
+#~ msgid "Media Manager"
+#~ msgstr "Mediabeheer"
+
+#~ msgid "UPS"
+#~ msgstr "UPS"
+
+#~ msgid "VPN configuration"
+#~ msgstr "VPN-configuratie"
+
+#~ msgid "Configure Software management"
+#~ msgstr "Softwarebeheer configureren"
+
+#~ msgid "Install"
+#~ msgstr "Installatie"
+
+#~ msgid "Look at installable software and install software packages"
+#~ msgstr "Installeerbare software bekijken en softwarepakketten installeren"
+
+#~ msgid "Remove"
+#~ msgstr "Verwijderen"
+
+#~ msgid "Look at installed software and uninstall software packages"
+#~ msgstr "Geïnstalleerde software bekijken en softwarepakketten deïnstalleren"
+
+#~ msgid "Screen resolution"
+#~ msgstr "Beeldschermresolutie"
+
+#~ msgid "Change the screen resolution"
+#~ msgstr "Beeldschermresolutie wijzigen"
+
+#~ msgid "TV card"
+#~ msgstr "TV-kaart"
+
+#~ msgid "Set up TV card"
+#~ msgstr "TV-kaart instellen"
+
+#~ msgid "/_Expert mode"
+#~ msgstr "/_Expert-modus"
+
+#~ msgid "Set Samba mount points"
+#~ msgstr "Samba-koppelpunten instellen"
+
+#~ msgid "Samba printing configuration"
+#~ msgstr "Samba-printerconfiguratie"
+
+#~ msgid "Enable or disable printers in your Samba server configuration"
+#~ msgstr "Printers in- of uitschakelen in uw Samba serverconfiguratie"
+
+#~ msgid "(original C version)"
+#~ msgstr "(oorspronkelijke C-versie)"
+
+#~ msgid "(design)"
+#~ msgstr "(ontwerp)"
+
+#~ msgid ""
+#~ "Select the application menu layout and change which programs are shown on "
+#~ "the menu"
+#~ msgstr ""
+#~ "De indeling van het toepassingen-menu selecteren en aanpassen welke "
+#~ "programma's in het menu worden getoond"
+
+#~ msgid ""
+#~ "We are about to switch from the \"%s\" profile to the \"%s\" profile.\n"
+#~ "\n"
+#~ "Are you sure you want to do the switch?"
+#~ msgstr ""
+#~ "Klaar om over te schakelen van het \"%s\"-profiel naar het \"%s\"-"
+#~ "profiel.\n"
+#~ "\n"
+#~ "Wilt u echt over schakelen?"
+
+#~ msgid "/_Profiles"
+#~ msgstr "/_Profielen"
+
+#~ msgid "/_New"
+#~ msgstr "/_Nieuw"
+
+#~ msgid "New profile..."
+#~ msgstr "Nieuw profiel..."
+
+#~ msgid ""
+#~ "Name of the profile to create (the new profile is created as a copy of "
+#~ "the current one):"
+#~ msgstr ""
+#~ "Naam van het aan te maken profiel (het nieuwe profiel wordt als kopie van "
+#~ "het huidige aangemaakt):"
+
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#~ msgid "The \"%s\" profile already exists!"
+#~ msgstr "Het profiel \"%s\" bestaat al!"
+
+#~ msgid "Delete profile"
+#~ msgstr "Profiel wissen"
+
+#~ msgid "Profile to delete:"
+#~ msgstr "Te wissen profiel:"
+
+#~ msgid "You can not delete the current profile"
+#~ msgstr "U kunt het huidige profiel niet wissen"
+
+#~ msgid "Auto Install Floppy"
+#~ msgstr "Auto-installatiediskette"
+
+#~ msgid "Boot Floppy"
+#~ msgstr "Opstartdiskette"
+
+#~ msgid "CD/DVD"
+#~ msgstr "CD/DVD"
+
+#~ msgid "Configure PXE"
+#~ msgstr "PXE configureren"
+
+#~ msgid "DVD"
+#~ msgstr "DVD"
+
+#~ msgid "Date & Time"
+#~ msgstr "Datum & Tijd"
+
+#~ msgid "Display Manager"
+#~ msgstr "Displaybeheer"
+
+#~ msgid "Floppy"
+#~ msgstr "Diskette"
+
+#~ msgid "Internet Access"
+#~ msgstr "Internettoegang"
+
+#~ msgid "Internet Connection Sharing"
+#~ msgstr "Internetverbinding delen"
+
+#~ msgid "Manager Connection"
+#~ msgstr "Verbindingen beheren"
+
+#~ msgid "%s Control Center %s\n"
+#~ msgstr "%s Configuratiecentrum %s\n"
+
+#~ msgid "Monitor Connection"
+#~ msgstr "Verbindingen volgen"
+
+#~ msgid "New Connection"
+#~ msgstr "Nieuwe verbinding"
+
+#~ msgid "Previous"
+#~ msgstr "Vorige"
+
+#~ msgid "Zip"
+#~ msgstr "Zip"
+
+#~ msgid "mono introduction, updated abiword"
+#~ msgstr "introductie van mono, abiword bijgewerkt"
+
+#~ msgid "multimedia kernel"
+#~ msgstr "multimedia kernel"
