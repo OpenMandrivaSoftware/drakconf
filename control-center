@@ -64,7 +64,6 @@ $h{HEIGTH} ||= $default_height;
 $h{WIDTH}  ||= $default_width;
 
 my %option_values;
-$option_values{show_log} = text2bool($h{LOGS});
 my $theme = $h{THEME};
 my $program;
 my ($i, $geometry, $save_html);
@@ -610,7 +609,6 @@ my @themes = grep { -d "$themes_dir/$_" } all($themes_dir);
 
 #-PO Translators, please keep all "/" charaters !!!
 my %options = (
-    'show_log' => [ N("/_Options"), N("/Display _Logs") ],
     'embedded_mode' => [ N("/_Options"), N("/_Embedded Mode") ],
     'wiz_expert' => [ N("/_Options"), N("/Expert mode in _wizards") ],
 );
@@ -625,17 +623,6 @@ my @menu_items = (
                   [ N("/_File"), undef, undef, undef, '<Branch>' ],
                   [ N("/_File") . N("/_Quit"), N("<control>Q"), \&quit_global, undef, '<Item>', N("Quit") ],
                   [ N("/_Options"), undef, undef, undef, '<Branch>' ],
-                  [ join('', @{$options{show_log}}), undef,
-                    sub  {
-                        $option_values{show_log} = $check_boxes{show_log}->get_active;
-                        if ($option_values{show_log}) {
-                            start_logdrake();
-                        } else {
-                            kill_logdrake();
-                        }
-                    },
-                    undef, '<CheckItem>'
-                  ],
 
                   if_(0 && $isWiz,
                       [ join('', @{$options{wiz_expert}}), undef,
@@ -653,7 +640,6 @@ my @menu_items = (
                                 !$pending_app || splash_warning(N("This action will restart the control center.\nAny change not applied will be lost."), 1) and do {
                                     # embedded app must be killed
                                     kill_children();
-                                    kill_logdrake();
                                     child_just_exited();
                                     exec "$0 --theme $name";
                                 };
@@ -688,10 +674,6 @@ my ($menu, $factory) = create_factory_menu($window_global, @menu_items);
 
 # to retrieve a path, one must prevent "accelerators completion":
 sub get_path { join('', map { my $i = $_; $i =~ s/_//g; $i } @_) }
-
-%check_boxes = map {
-    $_ => $factory->get_widget("<main>" . get_path(@{$options{$_}}));
-} ('show_log', if_(0 && $isWiz, "wiz_expert"));
 
 my @buttons;
 my $offset = 15;
@@ -1286,17 +1268,7 @@ sub run_tool {
         $tool_pids{$label} = fork_($exec);
         $gurpmi_pid = $tool_pids{$label} if $will_run_gurpmi;
     }
-    start_logdrake();
     $box->window->set_cursor($wait_cursor) if $box;
-}
-
-sub start_logdrake() {
-    # (re)start logdrake if needed
-    if ($option_values{show_log} && !$pid_exp) {
-        my $exec_log = "logdrake --explain=drakxtools";
-        $pid_exp = fork_($exec_log, []);
-    }
-
 }
 
 sub kill_them_all {
@@ -1309,9 +1281,6 @@ sub kill_children() {
     kill_them_all(@pid_launched);
 }
 
-sub kill_logdrake() {
-    kill_them_all($pid_exp) if $pid_exp;
-}
 
 sub quit_global() {
     if (@pid_launched) {
@@ -1319,10 +1288,8 @@ sub quit_global() {
         return 1; # tell gtk+ not to quit
     }
     &kill_children();
-    &kill_logdrake();
     my ($x, $y) = $window_global->get_size;
     setVarsInSh($conffile, {
-        LOGS          => bool2text($option_values{show_log}),
         EXPERT_WIZARD => bool2text($option_values{expert_wizard}),
         HEIGTH => $y,
         WIDTH => $x,
@@ -1504,7 +1471,6 @@ sub about_mdk_cc() {
 
 sub set_page {
     my ($index) = @_;
-    start_logdrake();
     set_page_raw($index);
     hide_buttons();
 }
