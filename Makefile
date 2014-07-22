@@ -43,6 +43,8 @@ install: all
 	install -m 644 mcc.conf $(SYSCONFDIR)
 	install -m 644 progs.conf $(mcc_dir)/
 
+dist:
+	git archive --prefix=$(NAME)-$(VERSION)/ HEAD | xz -cv -T0 > $(NAME)-$(VERSION).tar.xz;
 dis: clean
 	rm -rf $(NAME)-$(VERSION) ../$(NAME)-$(VERSION).tar*
 	svn export -q -rBASE . $(NAME)-$(VERSION)
