@@ -34,7 +34,7 @@ our @EXPORT = qw(
                     $version
             );
 
-out ($version) = `head -1 /README |cut -d " " -f3`;
+our ($version) = `head -1 /README |cut -d " " -f3`;
 $version =~ s/\s+$//;
 
 
