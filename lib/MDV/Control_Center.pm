@@ -34,7 +34,8 @@ our @EXPORT = qw(
                     $version
             );
 
-our ($version) = cat_("/etc/distro-release") =~ /\b(\d+\.\d+)/;
+out ($version) = `head -1 /README |cut -d " " -f3`;
+$version =~ s/\s+$//;
 
 
 #-------------------------------------------------------------

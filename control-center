@@ -622,6 +622,8 @@ my $mdk_rel = common::mandrake_release();
 my ($steps, $view);
 
 my $release = mandrake_release_info();
+# overide release to the one in /README
+$release->{version} = $version;
 
 my @menu_items = (
                   [ N("/_File"), undef, undef, undef, '<Branch>' ],
