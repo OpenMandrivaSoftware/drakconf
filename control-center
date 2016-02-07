@@ -37,7 +37,7 @@ POSIX::sigprocmask(SIG_BLOCK, POSIX::SigSet->new(SIGCHLD));
 # i18n: IMPORTANT: to get correct namespace (drakconf instead of libDrakX)
 BEGIN { unshift @::textdomains, 'drakconf' }
 use mygtk3 qw(gtknew);
-use ugtk2 qw(:create :dialogs :helpers :wrappers);
+use ugtk3 qw(:create :dialogs :helpers :wrappers);
 use Gtk3::WebKit;
 
 use MDV::Control_Center;
