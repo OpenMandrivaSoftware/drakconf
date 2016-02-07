@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-02-07 01:47+0000\n"
+"POT-Creation-Date: 2016-02-07 02:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 msgid "Packagers"
 msgstr ""
 
-#: ../contributors.pl:12 ../contributors.pl:40
+#: ../contributors.pl:12 ../contributors.pl:41
 #, c-format
 msgid "Per Oyvind Karlsen"
 msgstr ""
@@ -74,7 +74,7 @@ msgid ""
 "script, urpmc, hddtemp, wipe, etc..."
 msgstr ""
 
-#: ../contributors.pl:17 ../contributors.pl:42
+#: ../contributors.pl:17 ../contributors.pl:43
 #, c-format
 msgid "Thomas Backlund"
 msgstr ""
@@ -203,7 +203,7 @@ msgstr ""
 msgid "many extra gnome applets and python modules"
 msgstr ""
 
-#: ../contributors.pl:29 ../contributors.pl:41
+#: ../contributors.pl:29 ../contributors.pl:42
 #, c-format
 msgid "Tibor Pittich"
 msgstr ""
@@ -312,204 +312,214 @@ msgstr ""
 
 #: ../contributors.pl:40
 #, c-format
-msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgid "Maik Wagner"
+msgstr ""
+
+#: ../contributors.pl:40
+#, c-format
+msgid "German translator and coordinator"
 msgstr ""
 
 #: ../contributors.pl:41
 #, c-format
-msgid "\"one-man\" mdk sk-i18n team"
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
 msgstr ""
 
 #: ../contributors.pl:42
 #, c-format
-msgid "Finnish translator and coordinator"
+msgid "\"one-man\" mdk sk-i18n team"
 msgstr ""
 
 #: ../contributors.pl:43
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr ""
+
+#: ../contributors.pl:44
 #, c-format
 msgid "Reinout Van Schouwen"
 msgstr ""
 
-#: ../contributors.pl:43
+#: ../contributors.pl:44
 #, c-format
 msgid "Dutch translator and coordinator"
 msgstr ""
 
-#: ../contributors.pl:44
+#: ../contributors.pl:45
 #, c-format
 msgid "Keld Simonsen"
 msgstr ""
 
-#: ../contributors.pl:44
+#: ../contributors.pl:45
 #, c-format
 msgid "Danish translator (and some Bokmal too:-)"
 msgstr ""
 
-#: ../contributors.pl:45
+#: ../contributors.pl:46
 #, c-format
 msgid "Karl Ove Hufthammer"
 msgstr ""
 
-#: ../contributors.pl:45
+#: ../contributors.pl:46
 #, c-format
 msgid "Norwegian Nynorsk (nn) translator and coordinator"
 msgstr ""
 
-#: ../contributors.pl:46
+#: ../contributors.pl:47
 #, c-format
 msgid "Marek Laane"
 msgstr ""
 
-#: ../contributors.pl:46
+#: ../contributors.pl:47
 #, c-format
 msgid "Estonian translator"
 msgstr ""
 
-#: ../contributors.pl:47
+#: ../contributors.pl:48
 #, c-format
 msgid "Andrea Celli"
 msgstr ""
 
-#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#: ../contributors.pl:48 ../contributors.pl:49 ../contributors.pl:50
 #, c-format
 msgid "Italian Translator"
 msgstr ""
 
-#: ../contributors.pl:48 ../contributors.pl:64
+#: ../contributors.pl:49 ../contributors.pl:65
 #, c-format
 msgid "Simone Riccio"
 msgstr ""
 
-#: ../contributors.pl:49 ../contributors.pl:65
+#: ../contributors.pl:50 ../contributors.pl:66
 #, c-format
 msgid "Daniele Pighin"
 msgstr ""
 
-#: ../contributors.pl:50 ../contributors.pl:68
+#: ../contributors.pl:51 ../contributors.pl:69
 #, c-format
 msgid "Vedran Ljubovic"
 msgstr ""
 
-#: ../contributors.pl:50
+#: ../contributors.pl:51
 #, c-format
 msgid "Bosnian translator"
 msgstr ""
 
-#: ../contributors.pl:51
+#: ../contributors.pl:52
 #, c-format
 msgid "Testers"
 msgstr ""
 
-#: ../contributors.pl:52
+#: ../contributors.pl:53
 #, c-format
 msgid "Benoit Audouard"
 msgstr ""
 
-#: ../contributors.pl:52
+#: ../contributors.pl:53
 #, c-format
 msgid "testing and bug reporting, integration of eagle-usb driver"
 msgstr ""
 
-#: ../contributors.pl:53
+#: ../contributors.pl:54
 #, c-format
 msgid "Bernhard Gruen"
 msgstr ""
 
-#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
-#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
-#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
-#: ../contributors.pl:62
+#: ../contributors.pl:54 ../contributors.pl:55 ../contributors.pl:56
+#: ../contributors.pl:57 ../contributors.pl:58 ../contributors.pl:59
+#: ../contributors.pl:60 ../contributors.pl:61 ../contributors.pl:62
+#: ../contributors.pl:63
 #, c-format
 msgid "testing and bug reporting"
 msgstr ""
 
-#: ../contributors.pl:54
+#: ../contributors.pl:55
 #, c-format
 msgid "Jure Repinc"
 msgstr ""
 
-#: ../contributors.pl:55
+#: ../contributors.pl:56
 #, c-format
 msgid "Felix Miata"
 msgstr ""
 
-#: ../contributors.pl:56
+#: ../contributors.pl:57
 #, c-format
 msgid "Tim Sawchuck"
 msgstr ""
 
-#: ../contributors.pl:57
+#: ../contributors.pl:58
 #, c-format
 msgid "Eric Fernandez"
 msgstr ""
 
-#: ../contributors.pl:58
+#: ../contributors.pl:59
 #, c-format
 msgid "Ricky Ng-Adam"
 msgstr ""
 
-#: ../contributors.pl:59
+#: ../contributors.pl:60
 #, c-format
 msgid "Pierre Jarillon"
 msgstr ""
 
-#: ../contributors.pl:60
+#: ../contributors.pl:61
 #, c-format
 msgid "Michael Brower"
 msgstr ""
 
-#: ../contributors.pl:61
+#: ../contributors.pl:62
 #, c-format
 msgid "Frederik Himpe"
 msgstr ""
 
-#: ../contributors.pl:62
+#: ../contributors.pl:63
 #, c-format
 msgid "Jason Komar"
 msgstr ""
 
-#: ../contributors.pl:63
+#: ../contributors.pl:64
 #, c-format
 msgid "Raphael Gertz"
 msgstr ""
 
-#: ../contributors.pl:63
+#: ../contributors.pl:64
 #, c-format
 msgid "testing, bug report, Nvidia package try"
 msgstr ""
 
-#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
-#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#: ../contributors.pl:65 ../contributors.pl:66 ../contributors.pl:67
+#: ../contributors.pl:68 ../contributors.pl:69 ../contributors.pl:70
 #, c-format
 msgid "testing, bug reporting"
 msgstr ""
 
-#: ../contributors.pl:66
+#: ../contributors.pl:67
 #, c-format
 msgid "Fabrice FACORAT"
 msgstr ""
 
-#: ../contributors.pl:67
+#: ../contributors.pl:68
 #, c-format
 msgid "Mihai Dobrescu"
 msgstr ""
 
-#: ../contributors.pl:69
+#: ../contributors.pl:70
 #, c-format
 msgid "Mary V. Jones-Giampalo"
 msgstr ""
 
-#: ../contributors.pl:70
+#: ../contributors.pl:71
 #, c-format
 msgid "Vincent Meyer"
 msgstr ""
 
-#: ../contributors.pl:70
+#: ../contributors.pl:71
 #, c-format
 msgid "MD, testing, bug reporting"
 msgstr ""
 
-#: ../contributors.pl:71
+#: ../contributors.pl:72
 #, c-format
 msgid ""
 "And many unnamed and unknown beta testers and bug reporters that helped make "

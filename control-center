@@ -653,7 +653,7 @@ my $ui = gtknew('UIManager', actions => [
 		    [ 'Report Bug', undef, N("_Report Bug"), undef, undef, sub {
                         run_program::raw({ detach => 1, as_user => 1 }, 'drakbug', '--report', (split(/\s/, $pending_app))[0] || 'drakconf');
                       } ],
-		    [ 'About', undef, N("_About..."), '', undef, \&about_mga_cc ],
+		    [ 'About', undef, N("_About..."), '', undef, \&about_cc ],
 		],
 		toggle_actions => [
 		    [ 'Show_Logs', undef, N("Display _Logs"), undef, undef, 		      sub  {
@@ -1401,7 +1401,7 @@ sub more_themes() {
     $window_about->show_all;
 }
 
-sub about_mdk_cc() {
+sub about_cc() {
     my $window_about = new_dialog(N("About - %s Control Center", $branding));
 
     my $tree_model = Gtk3::TreeStore->new("Glib::String", "Glib::String", "Glib::String");
