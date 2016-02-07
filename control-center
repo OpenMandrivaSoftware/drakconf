@@ -1160,7 +1160,7 @@ sub create_hidden_socket {
     my ($icon, $label) = @_;
     my $banner;
     gtkpack_($emb_box,
-             0, $banner = gtkpack__(Gtk3::VBox->new(0, 0), Gtk2::Banner->new($icon, $label),
+             0, $banner = gtkpack__(Gtk3::VBox->new(0, 0), Gtk3::Banner->new($icon, $label),
                                     Gtk3::HSeparator->new,
                                    ),
              1, gtksignal_connect($emb_socket = Gtk3::Socket->new, 'plug-removed' => sub {
@@ -1408,7 +1408,7 @@ sub about_cc() {
     my $credits = Gtk3::TextView->new;
     my $list = Gtk3::TreeView->new_with_model($tree_model);
     $list->set_can_focus(0);
-    each_index {  $list->append_column(Gtk3::TreeViewColumn->new_with_attributes("", Gtk2::CellRendererText->new, 'text' => $::i)) } 0..1;
+    each_index {  $list->append_column(Gtk3::TreeViewColumn->new_with_attributes("", Gtk3::CellRendererText->new, 'text' => $::i)) } 0..1;
     $list->set_headers_visible(0);
 
     foreach my $row ([ N("Authors: "), '' ],
