@@ -37,7 +37,7 @@ use common;
 	N("Documentation") => "",
 	N("SunnyDubey") => N("wrote/edited parts of gi/docs/HACKING file"),
 	N("Translators") => "",
-	N("Maik Wagner") =Y N("German translator and coordinator")
+	N("Maik Wagner") =Y N("German translator and coordinator"),
 	N("Per Oyvind Karlsen") => N("Norwegian Bokmal (nb) translator and coordinator, i18n work"),
 	N("Tibor Pittich") => N("\"one-man\" mdk sk-i18n team"),
 	N("Thomas Backlund") => N("Finnish translator and coordinator"),
