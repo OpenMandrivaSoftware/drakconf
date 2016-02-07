@@ -1,6 +1,6 @@
-VERSION = 12.19.8
+VERSION = 13.0
 NAME = drakconf
-SUBDIRS = po pixmaps #data
+SUBDIRS = po polkit pixmaps #data
 localedir = $(DESTDIR)/usr/share/locale
 mcc_dir = $(DESTDIR)/usr/share/mcc
 SYSCONFDIR = $(DESTDIR)/etc/sysconfig
@@ -24,15 +24,15 @@ clean:
 
 install: all
 	$(MAKE) -C po $@
-	install -d $(DESTDIR)/usr/{bin/,share/icons}
-	install -d $(DESTDIR)/usr/sbin
+	$(MAKE) -C polkit $@
+	install -d $(DESTDIR)/usr/{bin,sbin,libexec,share/icons}
 	install -d $(mcc_dir)/themes/default/
-	install -m644 control-center.rc $(mcc_dir)/themes/default/gtkrc
-	install -m755 $(NAME) $(DESTDIR)/usr/sbin/$(NAME).real
+	install -m644 control-center.css $(mcc_dir)/themes/default/mcc.css
+	install -m755 $(NAME) $(DESTDIR)/usr/libexec/
 	install -m755 wrapper $(DESTDIR)/usr/bin/$(NAME)
 	install -m755 menus_launcher.pl $(DESTDIR)/usr/sbin/
 	install -m755 print_launcher.pl $(DESTDIR)/usr/sbin/
-	install -m755 drakxconf $(DESTDIR)/usr/sbin/
+	install -m755 drakxconf $(DESTDIR)/usr/libexec/
 	install -m755 drakconsole $(DESTDIR)/usr/sbin/
 	install -m755 mdkwebadmin.pl $(DESTDIR)/usr/bin/
 	for d in $(SUBDIRS); do ( cd $$d ; make $@ ) ; done
