@@ -21,15 +21,21 @@ use lib qw(/usr/lib/libDrakX);
 
 use common;
 use standalone;     #- warning, standalone must be loaded very first, for 'explanations'
-use ugtk2 qw(:create :wrappers);
-use Gnome2::Vte;
+use ugtk3 qw(:create :wrappers);
+use Gtk3;
+use Glib::Object::Introspection;
 
-my $w = ugtk2->new(N("DrakConsole"));
+Glib::Object::Introspection->setup (
+    basename => 'Vte',
+    version => '2.91',
+    package => 'Gtk3::Vte');
 
-$w->{rwindow}->add(gtkpack_(Gtk2::VBox->new(0, 0),
-                            1, my $vte = gtksignal_connect(Gnome2::Vte::Terminal->new, 'child-exited' => sub { ugtk2->exit }),
-                            0, gtkpack__(create_hbox('end'), gtksignal_connect(Gtk2::Button->new(N("Close")),
-                                                                               clicked => sub { ugtk2->exit })
+my $w = ugtk3->new(N("DrakConsole"));
+
+$w->{rwindow}->add(gtkpack_(Gtk3::VBox->new(0, 0),
+                            1, my $vte = gtksignal_connect(Gtk3::Vte::Terminal->new, 'child-exited' => sub { ugtk3->exit }),
+                            0, gtkpack__(create_hbox('end'), gtksignal_connect(Gtk3::Button->new(N("Close")),
+                                                                               clicked => sub { ugtk3->exit })
                                          )
                           ),
                   );
@@ -37,6 +43,6 @@ $w->{rwindow}->show_all;
 
 $vte->grab_focus();
 #$ENV{PS1} = qq(Type "exit"\n);
-$vte->fork_command($ENV{SHELL}, [ $ENV{SHELL} ], [ map { "$_=$ENV{$_}" } keys %ENV ], $ENV{PWD}, 0, 0, 0);
-
+$vte->fork_command_full('default', undef, [ $ENV{SHELL} ], undef, 'default', undef);
+ 
 $w->main;

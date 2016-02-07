@@ -38,7 +38,7 @@ POSIX::sigprocmask(SIG_BLOCK, POSIX::SigSet->new(SIGCHLD));
 BEGIN { unshift @::textdomains, 'drakconf' }
 use mygtk2 qw(gtknew);
 use ugtk2 qw(:create :dialogs :helpers :wrappers);
-use Gtk2::WebKit;
+use Gtk3::WebKit;
 
 use MDV::Control_Center;
 
@@ -47,7 +47,7 @@ my (%tool_pids, %tool_feedback, $gurpmi_pid);
 
 my ($conffile, $class_install) = ('/etc/mcc.conf', '/etc/sysconfig/system');
 
-my ($rootwin_width, $rootwin_height) = gtkroot()->get_size;
+my ($rootwin_width, $rootwin_height) = mygtk3::root_window_size;
 my $default_width  = $rootwin_width  <= 800 ? 720 : 800;
 my $default_height = $rootwin_height <= 480 ? 420 : $rootwin_height <= 600 ? 523 : 600;
 
@@ -88,7 +88,7 @@ add_icon_path("$themes_dir/default") if $theme ne 'default'; # fall back if them
 
 mygtk2::import_style_ressources();
 my $rc = find { -r $_ } ("$themes_dir/$theme/gtkrc", if_($theme ne 'default', "$themes_dir/default/gtkrc"));
-Gtk2::Rc->parse($rc) if -r $rc;
+Gtk3::Rc->parse($rc) if -r $rc;
 
 my $branding = N("OpenMandriva Lx");
 my $product_id = common::parse_LDAP_namespace_structure(cat_('/etc/product.id'));
@@ -98,13 +98,13 @@ $branding = translate($product_id->{distribution});
 
 #-------------------------------------------------------------
 # Splash window:   please wait ...
-my $window_splash = Gtk2::Window->new('popup');
+my $window_splash = Gtk3::Window->new('popup');
 $window_splash->signal_connect(delete_event => \&quit_global);
 $window_splash->set_title(N("%s Control Center", $branding));
 $window_splash->set_position('center_always');
 $window_splash->add(gtknew('Fixed', widget_name => 'Steps',
                                   children => [
-                                          [ gtknew('Image_using_pixbuf', file => 'splash_screen'), 0, 0 ],
+                                          [ gtknew('Image', file => 'splash_screen'), 0, 0 ],
                                           [ gtknew('Label', text => N("%s Control Center", $branding)), 21, 60 ],
                                           [ gtknew('Label', text => N("Loading... Please wait")), 21, 175 ],
                                          ]),
@@ -592,7 +592,7 @@ my ($timeout, %check_boxes, $emb_socket);
 
 # set default size:
 
-my $window_global = gtkset_size_request(Gtk2::Window->new('toplevel'), $min_width, $min_height);
+my $window_global = gtkset_size_request(Gtk3::Window->new('toplevel'), $min_width, $min_height);
 $::main_window = $window_global;
 
 if ($geometry) {
@@ -691,16 +691,16 @@ $view->signal_connect('load-finished' => sub {
     load_program() if $program;
 });
 # so that it exists when building steps:
-my $banner_notebook = Gtk2::Notebook->new;
+my $banner_notebook = Gtk3::Notebook->new;
 build_list();
 
 gtkadd($window_global,
-       gtkpack_(Gtk2::VBox->new(0, 0),
+       gtkpack_(Gtk3::VBox->new(0, 0),
                 0, $menu,
                 #0, $banner_notebook,
-                0, Gtk2::HSeparator->new,
-                # 0, gtkset_size_request(Gtk2::VBox->new(10, 10), -1, 2),
-                1, gtkpack_(Gtk2::HBox->new(0, 0),
+                0, Gtk3::HSeparator->new,
+                # 0, gtkset_size_request(Gtk3::VBox->new(10, 10), -1, 2),
+                1, gtkpack_(Gtk3::HBox->new(0, 0),
                             1, $steps = gtknew('MDV_Notebook', parent_window => $window_global, children => [ #Layout Fixed
                                 # 145 is the vertical offset in order to be below the actual logo:
                                 [ gtknew('VBox', widget_name => 'Steps', spacing => 0, width => (192 - $offset),
@@ -712,14 +712,14 @@ gtkadd($window_global,
                                              } @buttons ]), 0, 100 ],
                             ], right_child => gtknew('ScrolledWindow', child => gtkset_border_width($view, 5),
                                                      no_shadow => 1, h_policy => 'never')),
-                            1, gtkpack(my $emb_box = Gtk2::VBox->new(0, 0),
-                                       my $wait_darea = gtkset_size_request(Gtk2::DrawingArea->new, -1, -1),
+                            1, gtkpack(my $emb_box = Gtk3::VBox->new(0, 0),
+                                       my $wait_darea = gtkset_size_request(Gtk3::DrawingArea->new, -1, -1),
                                       ),
                            ),
-                0, Gtk2::HSeparator->new,
-                0, my $buttons = gtkadd(gtkset_layout(Gtk2::HButtonBox->new, 'start'),
+                0, Gtk3::HSeparator->new,
+                0, my $buttons = gtkadd(gtkset_layout(Gtk3::HButtonBox->new, 'start'),
                                         map { gtkset_border_width($_, 3) }
-                                        gtksignal_connect(my $cancel = Gtk2::Button->new(N("Cancel")), 
+                                        gtksignal_connect(my $cancel = Gtk3::Button->new(N("Cancel")), 
                                                           clicked => sub { 
                                                               stop_wait_area();
                                                               kill_children(); 
@@ -733,8 +733,8 @@ $view->set_size_request(-1, -1);
 
 $window_global->signal_connect(delete_event => \&quit_global);
 
-my $accel = Gtk2::AccelGroup->new;
-$accel->connect(Gtk2::Gdk->keyval_from_name('F1'), [], ['visible'], \&run_help);
+my $accel = Gtk3::AccelGroup->new;
+$accel->connect(Gtk3::Gdk::keyval_from_name('F1'), [], ['visible'], \&run_help);
 $window_global->add_accel_group($accel);
 
 my (undef, $nodename) = POSIX::uname();
@@ -749,11 +749,11 @@ foreach my $notebook ($banner_notebook) {
 
 # banner :
 
-#add2notebook($banner_notebook, "", Gtk2::Banner->new("/usr/share/icons/large/drakconf.png", 
+#add2notebook($banner_notebook, "", Gtk3::Banner->new("/usr/share/icons/large/drakconf.png", 
 #                                                     N("Welcome to the %s Control Center", $branding)));
 
 
-my ($_hand_cursor, $wait_cursor) = map { Gtk2::Gdk::Cursor->new($_) } qw(hand2 watch);
+my ($_hand_cursor, $wait_cursor) = map { Gtk3::Gdk::Cursor->new($_) } qw(hand2 watch);
 
 my $left_locked = 0;
 
@@ -824,7 +824,7 @@ sub build_widget_element {
                  $icon, $programs{$label}{description}, $programs{$label});
     };
     # FIX ME: DO THIS AGAIN:
-    $tool_feedback{$label} = sub {}; #sub { $event_box->window && $event_box->window->set_cursor($hand_cursor) };
+    $tool_feedback{$label} = sub {}; #sub { $event_box->get_window && $event_box->get_window->set_cursor($hand_cursor) };
     my $real_icon = $icon ? '<IMG SRC="' . mygtk2::_find_imgfile($icon) . '">' : '';
     my @widgets = (
         qq(<TD class="img">$real_icon</TD>),
@@ -968,13 +968,13 @@ foreach (@tree) {
                           clicked => sub {
                                 $current_string_idx = $my_index;
                                 load_view();
-                                $steps->move_selection($_[0]->child);
+                                $steps->move_selection($_[0]->get_child);
                                 $banner_notebook->set_current_page($my_index);
                                 $help_on_context = $help;
                             },
                 );
 
-    #add2notebook($banner_notebook, "", Gtk2::Banner->new($icon, $text_orig));
+    #add2notebook($banner_notebook, "", Gtk3::Banner->new($icon, $text_orig));
 }
 }
 
@@ -1041,9 +1041,9 @@ sub stop_wait_area() {
     undef %run_pixbufs;
 }
 
-$wait_darea->signal_connect(expose_event => sub {
+$wait_darea->signal_connect(draw => sub {
     my ($w) = @_;
-    return if !$wait_darea->realized;
+    return if !$wait_darea->get_realized;
     return unless $run_pixbuf; # some people got an expose event before we start an embedded tool
     return unless $wait_darea->{size};
     $wait_darea->{layout} ||= $wait_darea->create_pango_layout(N("Loading... Please wait"));
@@ -1052,16 +1052,16 @@ $wait_darea->signal_connect(expose_event => sub {
         $wait_darea->{first_expose} = 1;
         my $size = $wait_darea->{size};
         my ($d_width, $d_height) = ($size->width, $size->height);
-        ($w->{pix_width}, $w->{pix_height}) = ($pixbuf->get_width, $pixbuf->get_height);
+        ($w->{pix_width}, $w->{pix_height}) = ($pixbuf->get_allocated_width, $pixbuf->get_allocated_height);
         my ($txt_width, $txt_height) = $wait_darea->{layout}->get_pixel_size;
         $w->{pix_yy} = ($d_width  - $w->{pix_width})/2;
         $w->{pix_xx} = ($d_height - $w->{pix_height} - $txt_height)/2;
         $w->{text_yy} = $w->{pix_yy} + ($w->{pix_width} - $txt_width)/2;
         $w->{text_xx} = $w->{pix_xx} + $w->{pix_height} + 5;
     }
-    $pixbuf->render_to_drawable($w->window, $w->style->fg_gc('normal'), 0, 0, $w->{pix_yy}, $w->{pix_xx}, $w->{pix_width}, $w->{pix_height}, 'normal', 0, 0);
+    $pixbuf->render_to_drawable($w->get_window, $w->get_style->fg_gc('normal'), 0, 0, $w->{pix_yy}, $w->{pix_xx}, $w->{pix_width}, $w->{pix_height}, 'normal', 0, 0);
     my $style = $wait_darea->{style} ||= $wait_darea->get_style;
-    $wait_darea->window->draw_layout($style->text_gc('normal'), $w->{text_yy}, $w->{text_xx}, $w->{layout});
+    $wait_darea->get_window->draw_layout($style->text_gc('normal'), $w->{text_yy}, $w->{text_xx}, $w->{layout});
     $run_counter += $run_counter_add;
     $run_counter_add = -$run_counter_add if $run_counter < 100 || 255-$run_counter_add < $run_counter;
 });
@@ -1094,7 +1094,7 @@ sub load_program() {
     }
 }
 
-Gtk2->main;
+Gtk3->main;
 
 
 sub group_by {
@@ -1145,10 +1145,10 @@ sub create_hidden_socket {
     my ($icon, $label) = @_;
     my $banner;
     gtkpack_($emb_box,
-             0, $banner = gtkpack__(Gtk2::VBox->new(0, 0), Gtk2::Banner->new($icon, $label),
-                                    Gtk2::HSeparator->new,
+             0, $banner = gtkpack__(Gtk3::VBox->new(0, 0), Gtk2::Banner->new($icon, $label),
+                                    Gtk3::HSeparator->new,
                                    ),
-             1, gtksignal_connect($emb_socket = Gtk2::Socket->new, 'plug-removed' => sub {
+             1, gtksignal_connect($emb_socket = Gtk3::Socket->new, 'plug-removed' => sub {
                                       $menu->show if $application_driven_menu;
                                       $banner->destroy;
                                       child_just_exited();
@@ -1168,9 +1168,9 @@ sub create_hidden_socket {
                                     $buttons->hide;
                                     return if !$emb_socket;
                                     $emb_socket->show;
-                                    $emb_socket->can_focus(1);
+                                    $emb_socket->set_can_focus(1);
                                     $emb_socket->grab_focus;
-                                    #$emb_socket->window->XSetInputFocus; #only need by console (no more embedded until we've vte/zvt binding)
+                                    #$emb_socket->get_window->XSetInputFocus; #only need by console (no more embedded until we've vte/zvt binding)
                                 });
     $emb_box->set_focus_child($emb_socket);
     $emb_socket->hide;
@@ -1249,7 +1249,7 @@ sub run_tool {
             undef $wait_darea->{first_expose};
             $wait_darea->{not_yet_complete} = 1;
             $timeout = Glib::Timeout->add(35, sub { 
-                                              $wait_darea->{size} ||= $wait_darea->allocation;
+                                              $wait_darea->{size} ||= $wait_darea->get_allocation;
                                               my $style = $wait_darea->{style} ||= $wait_darea->get_style;
                                               my $bg    = $wait_darea->{bg}    ||= $style->bg('normal');
                                               my $base  = $wait_darea->{base}  ||= $style->base('normal');
@@ -1259,12 +1259,12 @@ sub run_tool {
                                                             [ $color->green, $bg->green ],
                                                             [ $color->blue,  $bg->blue ]);
                                               if ($wait_darea->{not_yet_complete} && any { $_->[0] != $_->[1] } @colors) {
-                                                  $wait_darea->window->set_background($color);
+                                                  $wait_darea->get_window->set_background($color);
                                                   $wait_darea->{color} = gtkcolor(map { $_->[0] - min(300, $_->[0] - $_->[1]) } @colors);
                                                   $wait_darea->queue_draw;
                                               } elsif ($wait_darea->{not_yet_complete}) {
                                                   # set exact color
-                                                  $wait_darea->window->set_background($bg);
+                                                  $wait_darea->get_window->set_background($bg);
                                                   $wait_darea->queue_draw;
                                                   $wait_darea->{not_yet_complete} = 0;
                                               } else {
@@ -1283,7 +1283,7 @@ sub run_tool {
         $tool_pids{$label} = fork_($exec);
         $gurpmi_pid = $tool_pids{$label} if $will_run_gurpmi;
     }
-    $box->window->set_cursor($wait_cursor) if $box;
+    $box->get_window->set_cursor($wait_cursor) if $box;
 }
 
 sub kill_them_all {
@@ -1311,7 +1311,7 @@ sub quit_global() {
         THEME         => $theme,
     });
     gtkset_mousecursor_normal();
-    Gtk2::exit(0);
+    Gtk3::exit(0);
     standalone::exit(0);
 }
 
@@ -1362,12 +1362,12 @@ sub splash_warning {
 
 sub new_dialog {
     my ($title, $o_no_button) = @_;
-    my $dialog = gtkset_border_width(Gtk2::Dialog->new, 10);
+    my $dialog = gtkset_border_width(Gtk3::Dialog->new, 10);
     $dialog->set_transient_for($window_global);
     $dialog->set_position('center-on-parent');
     $dialog->set_title($title);
-    $dialog->action_area->pack_start(gtkadd(Gtk2::HButtonBox->new,
-                                            gtksignal_connect(Gtk2::Button->new(N("Close")), clicked => sub { $dialog->destroy })
+    $dialog->action_area->pack_start(gtkadd(Gtk3::HButtonBox->new,
+                                            gtksignal_connect(Gtk3::Button->new(N("Close")), clicked => sub { $dialog->destroy })
                                             ),
                                      0,0,0) unless $o_no_button;
     gtkset_modal($dialog, 1);
@@ -1376,9 +1376,9 @@ sub new_dialog {
 sub more_themes() {
     my $window_about = new_dialog(N("More themes"));
     gtkpack_($window_about->vbox,
-             0, Gtk2::Label->new(N("Getting new themes")),
-             0, gtkadd(gtkset_shadow_type(gtkset_border_width(Gtk2::Frame->new(N("Additional themes")), 10), 'etched_out'),
-                       gtkpack(Gtk2::HBox->new(0, 5),
+             0, Gtk3::Label->new(N("Getting new themes")),
+             0, gtkadd(gtkset_shadow_type(gtkset_border_width(Gtk3::Frame->new(N("Additional themes")), 10), 'etched_out'),
+                       gtkpack(Gtk3::HBox->new(0, 5),
                                N("Get additional themes on www.damz.net"),
                                )
                        )
@@ -1389,11 +1389,11 @@ sub more_themes() {
 sub about_mdk_cc() {
     my $window_about = new_dialog(N("About - %s Control Center", $branding));
 
-    my $tree_model = Gtk2::TreeStore->new("Glib::String", "Glib::String", "Glib::String");
-    my $credits = Gtk2::TextView->new;
-    my $list = Gtk2::TreeView->new_with_model($tree_model);
-    $list->can_focus(0);
-    each_index {  $list->append_column(Gtk2::TreeViewColumn->new_with_attributes(undef, Gtk2::CellRendererText->new, 'text' => $::i)) } 0..1;
+    my $tree_model = Gtk3::TreeStore->new("Glib::String", "Glib::String", "Glib::String");
+    my $credits = Gtk3::TextView->new;
+    my $list = Gtk3::TreeView->new_with_model($tree_model);
+    $list->set_can_focus(0);
+    each_index {  $list->append_column(Gtk3::TreeViewColumn->new_with_attributes("", Gtk2::CellRendererText->new, 'text' => $::i)) } 0..1;
     $list->set_headers_visible(0);
 
     foreach my $row ([ N("Authors: "), '' ],
@@ -1417,7 +1417,7 @@ sub about_mdk_cc() {
 
     my ($previous_type, $not_first_title, $not_first_block);
     my $locale = lang::read;
-    require Gtk2::Pango;
+    require Gtk3::Pango;
     foreach my $line (grep { $_ ne "\n" && !/^#/ } cat_(top(glob("/usr/share/doc/distro-release-*/CREDITS"), glob("/usr/share/doc/distro-release-*/CREDITS.$locale->{lang}")))) {
         $line =~ s/ Limited Edition 2005 \|//;
         if (my ($type, $comment, $contributor) = split(/\|/, $line, 3)) {
@@ -1426,7 +1426,7 @@ sub about_mdk_cc() {
             chomp($contributor);
             if ($previous_type ne $type) {
                 gtktext_append($credits, [ [ join('', if_($not_first_title, "\n"), translate(common::to_utf8($type)), "\n"),
-                                             { 'weight' => Gtk2::Pango->PANGO_WEIGHT_BOLD, scale => Gtk2::Pango->scale_large } ] ]);
+                                             { 'weight' => Gtk3::Pango->PANGO_WEIGHT_BOLD, scale => Gtk2::Pango->scale_large } ] ]);
                 $previous_type = $type;
                 $not_first_title = 1;
             }
@@ -1458,18 +1458,18 @@ sub about_mdk_cc() {
     $list->get_selection->set_mode('none');
 
     gtkpack_($window_about->vbox,
-             (0, Gtk2::Banner->new('/usr/share/icons/large/drakconf.png',
+             (0, Gtk3::Banner->new('/usr/share/icons/large/drakconf.png',
                                    #-PO: Here, first %s will be replaced by 'Mandriva Linux'
                                    #-PO: second %s will be replaced by the version (eg: "Mandriva Linux 2007.1 (Discovery) Control Center")
                                                        N("%s %s (%s) Control Center",
                                                          $branding, @$release{qw(version product)}))),
-             0, Gtk2::Label->new(""),
-             0, Gtk2::Label->new(
+             0, Gtk3::Label->new(""),
+             0, Gtk3::Label->new(
                  #-PO: here %s is eg: "1999-2008"
                  N("Copyright (C) %s Mandriva SA", '1999-2008') . "\n"),
-             0, Gtk2::HSeparator->new,
-             0, Gtk2::Label->new(""),
-             1, my $n = Gtk2::Notebook->new,
+             0, Gtk3::HSeparator->new,
+             0, Gtk3::Label->new(""),
+             1, my $n = Gtk3::Notebook->new,
              );
 
     add2notebook($n, N("Authors"), $list);
@@ -1498,7 +1498,7 @@ sub hide_buttons() {
 
 sub create_packtable2 {
     my ($options, @l) = @_;
-    my $w = Gtk2::Table->new(0, 0, 1);
+    my $w = Gtk3::Table->new(0, 0, 1);
     add2hash_($options, { xpadding => 5, ypadding => 0 });
     each_index {
 	my ($i, $l) = ($::i, $_);
@@ -1528,7 +1528,7 @@ sub render_shiner {
 
 sub scale {
     my ($pixbuf, $gain) = @_;
-    my ($width, $height) = ($pixbuf->get_height, $pixbuf->get_width);
+    my ($width, $height) = ($pixbuf->get_allocated_height, $pixbuf->get_allocated_width);
     $pixbuf->scale_simple($height+$gain, $width+$gain, 'hyper');
 }
 

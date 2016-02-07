@@ -10,7 +10,7 @@ use interactive;
 use standalone;
 
 sub gtkcan_default {
-    $_[0]->can_default($_->[1]);
+    $_[0]->get_can_default($_->[1]);
     $_[0];
 }
 
