@@ -36,7 +36,7 @@ POSIX::sigprocmask(SIG_BLOCK, POSIX::SigSet->new(SIGCHLD));
 
 # i18n: IMPORTANT: to get correct namespace (drakconf instead of libDrakX)
 BEGIN { unshift @::textdomains, 'drakconf' }
-use mygtk2 qw(gtknew);
+use mygtk3 qw(gtknew);
 use ugtk2 qw(:create :dialogs :helpers :wrappers);
 use Gtk3::WebKit;
 
@@ -86,10 +86,12 @@ foreach (@ARGV) {
 add_icon_path("$themes_dir/$theme/");
 add_icon_path("$themes_dir/default") if $theme ne 'default'; # fall back if theme miss some icons
 
-mygtk2::import_style_ressources();
-my $rc = find { -r $_ } ("$themes_dir/$theme/gtkrc", if_($theme ne 'default', "$themes_dir/default/gtkrc"));
-Gtk3::Rc->parse($rc) if -r $rc;
-
+mygtk3::import_style_ressources();
+my $css = find { -r $_ } ("$themes_dir/$theme/mcc.css", if_($theme ne 'default', "$themes_dir/default/mcc.css"));
+my $pl = Gtk3::CssProvider->new;
+$pl->load_from_path($css);
+Gtk3::StyleContext::add_provider_for_screen(Gtk3::Gdk::Screen::get_default(), $pl, Gtk3::STYLE_PROVIDER_PRIORITY_APPLICATION);
+ 
 my $branding = N("OpenMandriva Lx");
 my $product_id = common::parse_LDAP_namespace_structure(cat_('/etc/product.id'));
 # allow OEM branding:
@@ -582,8 +584,8 @@ if (scalar glob_("$more_wizard_dir/*.conf")) {
 # let build the GUI
 
 
-my $align = mygtk2::text_direction_rtl() ? "right" : "left";
-my $align2 = mygtk2::text_direction_rtl() ? "right" : "left";
+my $align = mygtk3::text_direction_rtl() ? "right" : "left";
+my $align2 = mygtk3::text_direction_rtl() ? "right" : "left";
 
 
 # main window :
@@ -703,7 +705,7 @@ gtkadd($window_global,
                 1, gtkpack_(Gtk3::HBox->new(0, 0),
                             1, $steps = gtknew('MDV_Notebook', parent_window => $window_global, children => [ #Layout Fixed
                                 # 145 is the vertical offset in order to be below the actual logo:
-                                [ gtknew('VBox', widget_name => 'Steps', spacing => 0, width => (192 - $offset),
+				[ gtknew('VBox', spacing => 0, width => (192 - $offset),
                                          children_tight => [ map {
                                              gtknew('HBox', spacing => 0, children => [
                                                  1, $_,
@@ -825,7 +827,7 @@ sub build_widget_element {
     };
     # FIX ME: DO THIS AGAIN:
     $tool_feedback{$label} = sub {}; #sub { $event_box->get_window && $event_box->get_window->set_cursor($hand_cursor) };
-    my $real_icon = $icon ? '<IMG SRC="' . mygtk2::_find_imgfile($icon) . '">' : '';
+    my $real_icon = $icon ? '<IMG SRC="' . mygtk3::_find_imgfile($icon) . '">' : '';
     my @widgets = (
         qq(<TD class="img">$real_icon</TD>),
         qq(<TD style="text-align: $align"><DIV>)
@@ -860,8 +862,8 @@ foreach (@tree) {
 
 
     my $my_index = $index++;
-    my $square_icon_uri = mygtk2::_find_imgfile('cadre-ic');
-    my $back_img = mygtk2::_find_imgfile('right-white-background_right_part_768.png');
+    my $square_icon_uri = mygtk3::_find_imgfile('cadre-ic');
+    my $back_img = mygtk3::_find_imgfile('right-white-background_right_part_768.png');
     my $string = join("\n", qq(<HTML>
 <HEAD>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -914,7 +916,7 @@ foreach (@tree) {
      margin-right: 10px;
  }
 ),
- if_(mygtk2::text_direction_rtl(), "  a { direction: rtl; unicode-bidi: embed }"), qq(
+ if_(mygtk3::text_direction_rtl(), "  a { direction: rtl; unicode-bidi: embed }"), qq(
  a:link    {color:black; text-decoration:none }
  a:visited {color:black; text-decoration:none }
  a:hover   {color:blue }
@@ -932,14 +934,14 @@ foreach (@tree) {
     my $section;
     foreach my $subtree (@subtrees) {
         $string .= $section++ ? "<hr NOSHADE>\n" : '<div ID="top_margin"></div>';
-        my $title = mygtk2::asteriskize($subtree->{title});
+        my $title = mygtk3::asteriskize($subtree->{title});
         $string .= qq(
 <div ID="title">$title</div>
 <TABLE BORDER=0 WIDTH="100%" ID="block">
 );
         if (@{$subtree->{list}} % 2) {
             my @widgets = (pop @{$subtree->{list}}, "");
-            @widgets = reverse @widgets if mygtk2::text_direction_rtl();
+            @widgets = reverse @widgets if mygtk3::text_direction_rtl();
             push @{$subtree->{list}}, @widgets;
         }
     $string .= join("\n",
@@ -963,7 +965,7 @@ foreach (@tree) {
     }
 
     $strings[$my_index] = $string;
-    push @buttons, gtknew('Button', relief => 'none', child =>
+    push @buttons, gtknew('Button', relief => 'none', widget_name => 'StepsLabel', child =>
                             gtknew('Label_Right', text_markup => qq(<small>$text</small>), ellipsize => 'end'),
                           clicked => sub {
                                 $current_string_idx = $my_index;
@@ -1022,7 +1024,7 @@ foreach my $label (difference2([ keys %programs ], [ keys %tool_callbacks ])) {
 foreach (keys %check_boxes) {
     my $widget = $check_boxes{$_};
     if (defined $widget) {
-        $widget->set_active($option_values{$_});
+        $widget->activate($option_values{$_});
     } else {
         print STDERR qq(BUG with LANGUAGE "$ENV{LANGUAGE}" for "$_"\n);
         err_dialog(N("Error"), N("There's a bug in translations of your language (%s)
@@ -1047,7 +1049,7 @@ $wait_darea->signal_connect(draw => sub {
     return unless $run_pixbuf; # some people got an expose event before we start an embedded tool
     return unless $wait_darea->{size};
     $wait_darea->{layout} ||= $wait_darea->create_pango_layout(N("Loading... Please wait"));
-    my $pixbuf = $run_pixbufs{$run_counter} ||= mygtk2::_pixbuf_render_alpha($run_pixbuf, $run_counter);
+    my $pixbuf = $run_pixbufs{$run_counter} ||= mygtk3::_pixbuf_render_alpha($run_pixbuf, $run_counter);
     if (!$wait_darea->{first_expose}) {
         $wait_darea->{first_expose} = 1;
         my $size = $wait_darea->{size};
@@ -1249,6 +1251,7 @@ sub run_tool {
             undef $wait_darea->{first_expose};
             $wait_darea->{not_yet_complete} = 1;
             $timeout = Glib::Timeout->add(35, sub { 
+                                              return;
                                               $wait_darea->{size} ||= $wait_darea->get_allocation;
                                               my $style = $wait_darea->{style} ||= $wait_darea->get_style;
                                               my $bg    = $wait_darea->{bg}    ||= $style->bg('normal');
@@ -1311,7 +1314,6 @@ sub quit_global() {
         THEME         => $theme,
     });
     gtkset_mousecursor_normal();
-    Gtk3::exit(0);
     standalone::exit(0);
 }
 
@@ -1366,7 +1368,7 @@ sub new_dialog {
     $dialog->set_transient_for($window_global);
     $dialog->set_position('center-on-parent');
     $dialog->set_title($title);
-    $dialog->action_area->pack_start(gtkadd(Gtk3::HButtonBox->new,
+    $dialog->get_action_area->pack_start(gtkadd(Gtk3::HButtonBox->new,
                                             gtksignal_connect(Gtk3::Button->new(N("Close")), clicked => sub { $dialog->destroy })
                                             ),
                                      0,0,0) unless $o_no_button;
@@ -1375,7 +1377,7 @@ sub new_dialog {
 
 sub more_themes() {
     my $window_about = new_dialog(N("More themes"));
-    gtkpack_($window_about->vbox,
+    gtkpack_($window_about->get_child,
              0, Gtk3::Label->new(N("Getting new themes")),
              0, gtkadd(gtkset_shadow_type(gtkset_border_width(Gtk3::Frame->new(N("Additional themes")), 10), 'etched_out'),
                        gtkpack(Gtk3::HBox->new(0, 5),
@@ -1426,7 +1428,7 @@ sub about_mdk_cc() {
             chomp($contributor);
             if ($previous_type ne $type) {
                 gtktext_append($credits, [ [ join('', if_($not_first_title, "\n"), translate(common::to_utf8($type)), "\n"),
-                                             { 'weight' => Gtk3::Pango->PANGO_WEIGHT_BOLD, scale => Gtk2::Pango->scale_large } ] ]);
+                                             { 'weight' => 800, scale => '1.2' } ] ]);
                 $previous_type = $type;
                 $not_first_title = 1;
             }
@@ -1521,7 +1523,7 @@ sub create_packtable2 {
 
 sub render_shiner {
     my ($pixbuf, $shine_value) = @_;
-    my $new_pixbuf = (mygtk2::_new_alpha_pixbuf($pixbuf))[2];
+    my $new_pixbuf = (mygtk3::_new_alpha_pixbuf($pixbuf))[2];
     $pixbuf->saturate_and_pixelate($new_pixbuf, $shine_value, 0);
     $new_pixbuf;
 }

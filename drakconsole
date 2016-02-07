@@ -43,6 +43,6 @@ $w->{rwindow}->show_all;
 
 $vte->grab_focus();
 #$ENV{PS1} = qq(Type "exit"\n);
-$vte->fork_command_full('default', undef, [ $ENV{SHELL} ], undef, 'default', undef);
+$vte->spawn_sync('default', undef, [ $ENV{SHELL} ], undef, 'default', undef);
  
 $w->main;

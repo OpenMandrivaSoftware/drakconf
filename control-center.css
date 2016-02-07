@@ -1,4 +1,5 @@
-#  gtkrc -- gtkrc for MCC themes
+/*
+#  CSS for MCC themes
 #
 #  Copyright (C) 2000, 2001 Eazel, Inc.
 #
@@ -19,17 +20,22 @@
 #  $Id: control-center.rc 246590 2008-09-24 23:53:24Z tv $
 #
 #  Authors: Thierry Vignaud <tvignaud@mandrakesoft.com>
+*/
 
-
+/*
 # Default style for mcc specific widgets (mainly main_window and
 # scrolled windows per mcc category
+*/
 
-style "focus"
-{
-  GtkWidget::interior_focus=0
-  GtkWidget::focus-line-width=0
+GtkTextView, focus * {
+    -GtkTreeView-interior-focus: 0;
+    -GtkTreeView-focus-line-width: 0;
+ }
+
+#StepsLabel {
+    color: #FFFFFF
 }
 
-class "GtkTextView"   style "focus"
-widget "*focus*"      style "focus"
-
+#StepsLabel:hover {
+    color: #000000;
+}
