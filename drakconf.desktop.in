@@ -1,7 +1,7 @@
 [Desktop Entry]
 _Name=Configure Your Computer
 _Comment=Configure Your Computer
-Exec=/usr/sbin/drakconf
+Exec=/usr/bin/drakconf
 Icon=drakconf
 Terminal=false
 Type=Application

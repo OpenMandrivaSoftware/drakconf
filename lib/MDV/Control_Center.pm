@@ -28,7 +28,6 @@ use common;
 use Exporter;
 our @ISA = qw(Exporter);
 our @EXPORT = qw(
-                    $bindir $sbindir $xbindir
                     $mcc_dir $themes_dir
                     %programs
                     $version
@@ -39,7 +38,6 @@ our ($version) = cat_("/etc/distro-release") =~ /\b(\d+\.\d+)/;
 
 #-------------------------------------------------------------
 # paths
-our ($bindir, $sbindir, $xbindir)  = ("/usr/bin", "/usr/sbin", "/usr/X11R6/bin");
 our $mcc_dir = "/usr/share/mcc";
 our $themes_dir = "$mcc_dir/themes/";
 
@@ -51,7 +49,7 @@ our %programs =
 
    "Authentication" =>
    {
-    binary => "$sbindir/drakauth",
+    binary => "drakauth",
     embedded => 1,
     description =>
     #-PO: this message is already translated in drakx domain from which MCC will searchs it:
@@ -63,7 +61,7 @@ our %programs =
 
    "Backups" =>
    {
-    binary => "$sbindir/drakbackup",
+    binary => "drakbackup",
     embedded => 1,
     description => N("Backups"),
     long_description => N("Configure backups of the system and of the users' data"),
@@ -74,7 +72,7 @@ our %programs =
 
    "Snapshots" =>
    {
-    binary => "$sbindir/draksnapshot-config",
+    binary => "draksnapshot-config",
     embedded => 1,
     description => N("Snapshots"),
     long_description => '',
@@ -94,7 +92,7 @@ our %programs =
 
    "Boot Theme" =>
    {
-    binary => "$sbindir/drakboot --splash",
+    binary => "drakboot --splash",
     embedded => 1,
     description => N("Set up boot graphical theme of system"),
     long_description => N("Select the graphical theme of the system while booting"),
@@ -104,7 +102,7 @@ our %programs =
 
    "Connection Sharing" =>
    {
-    binary => "$sbindir/drakgw",
+    binary => "drakgw",
     embedded => 1,
     description => N("Share the Internet connection with other local machines"),
     long_description => N("Share the Internet connection with other local machines"),
@@ -114,7 +112,7 @@ our %programs =
 
    "Add Connection" =>
    {
-    binary => "$sbindir/drakconnect --wizard",
+    binary => "drakconnect --wizard",
     embedded => 1,
     description => N("Set up a new network interface (LAN, ISDN, ADSL, ...)"),
     long_description => N("Set up a new network interface (LAN, ISDN, ADSL, ...)"),
@@ -124,7 +122,7 @@ our %programs =
 
    "Configure Internet" =>
    {
-    binary => "$sbindir/drakconnect --internet",
+    binary => "drakconnect --internet",
     embedded => 1,
     description => N("Internet access"),
     long_description => N("Alter miscellaneous internet settings"),
@@ -134,7 +132,7 @@ our %programs =
 
    "Console" =>
    {
-    binary => "$sbindir/drakconsole",
+    binary => "drakconsole",
     embedded => 1,
     description => N("Open a console as administrator"),
     long_description => N("Open a console as administrator"),
@@ -145,7 +143,7 @@ our %programs =
 
    "Date & Time" =>
    {
-    binary => "$sbindir/clock.pl",
+    binary => "clock.pl",
     embedded => 1,
     description => N("Manage date and time"),
     long_description => N("Manage date and time"),
@@ -155,7 +153,7 @@ our %programs =
 
    "Display Manager chooser" =>
    {
-    binary => "$sbindir/drakedm",
+    binary => "drakedm",
     embedded => 1,
     description => N("Set up display manager"),
     long_description => N("Choose the display manager that enables to select which user to log in"),
@@ -165,7 +163,7 @@ our %programs =
 
    "Fax" =>
    {
-    binary => "$sbindir/drakfax_server",
+    binary => "drakfax_server",
     embedded => 1,
     description => N("Configure a fax server"),
     long_description => N("Configure a fax server"),
@@ -185,7 +183,7 @@ our %programs =
 
    "Fonts" =>
    {
-    binary => "$sbindir/drakfont",
+    binary => "drakfont",
     embedded => 1,
     description => N("Manage, add and remove fonts. Import Windows(TM) fonts"),
     long_description => N("Manage, add and remove fonts. Import Windows(TM) fonts"),
@@ -195,7 +193,7 @@ our %programs =
 
    "Graphical server configuration" =>
    {
-    binary => "$sbindir/XFdrake",
+    binary => "XFdrake",
     embedded => 1,
     description => N("Set up the graphical server"),
     long_description => N("Set up the graphical server"),
@@ -205,7 +203,7 @@ our %programs =
 
    "Hard Drives" =>
    {
-    binary => "$sbindir/diskdrake --hd",
+    binary => "diskdrake --hd",
     embedded => 1,
     description => N("Manage disk partitions"),
     long_description => N("Create, delete and resize hard disk partitions"),
@@ -215,7 +213,7 @@ our %programs =
 
    "Hardware List" =>
    {
-    binary => "$sbindir/harddrake2",
+    binary => "harddrake2",
     embedded => 1,
     description => N("Browse and configure hardware"),
     long_description => N("Browse and configure hardware"),
@@ -226,7 +224,7 @@ our %programs =
 
    "Sound" =>
    {
-    binary => "$sbindir/draksound",
+    binary => "draksound",
     embedded => 1,
     description => N("Sound Configuration"),
     long_description => N("Sound Configuration"),
@@ -236,7 +234,7 @@ our %programs =
 
    "Hosts" =>
    {
-    binary => "$sbindir/drakhosts",
+    binary => "drakhosts",
     embedded => 1,
     description => N("Hosts definitions"),
     long_description => N("Manage hosts definitions"),
@@ -246,7 +244,7 @@ our %programs =
 
    "Install Software" =>
    {
-    binary => "$sbindir/rpmdrake",
+    binary => "rpmdrake",
     embedded => 1,
     description => N("Install & Remove Software"),
     long_description => N("Install, uninstall software"),
@@ -257,7 +255,7 @@ our %programs =
 
    "Invictus Firewall" =>
    {
-    binary => "$sbindir/drakinvictus",
+    binary => "drakinvictus",
     embedded => 1,
     description => N("Advanced setup for network interfaces and firewall"),
     long_description => N("Set up network interfaces failover and firewall replication"),
@@ -267,7 +265,7 @@ our %programs =
 
    "Keyboard" =>
    {
-    binary => "$sbindir/keyboarddrake",
+    binary => "keyboarddrake",
     embedded => 1,
     description => N("Set up the keyboard layout"),
     long_description => N("Set up the keyboard layout"),
@@ -277,7 +275,7 @@ our %programs =
 
    "Kolab" =>
    {
-    binary => "$sbindir/kolab",
+    binary => "kolab",
     embedded => 1,
     description => N("Kolab"),
     long_description => N("Set up a groupware server"),
@@ -306,7 +304,7 @@ our %programs =
 
    "Manage Connection" =>
    {
-    binary => "$sbindir/drakconnect --skip-wizard",
+    binary => "drakconnect --skip-wizard",
     embedded => 1,
     description => N("Manage connections"),
     long_description => N("Reconfigure a network interface"),
@@ -316,7 +314,7 @@ our %programs =
 
    "Manage park" =>
    {
-    binary => "$sbindir/park-rpmdrake",
+    binary => "park-rpmdrake",
     embedded => 1,
     description => N("Manage computer group"),
     long_description => N("Manage installed software packages on a group of computers"),
@@ -325,7 +323,7 @@ our %programs =
 
    "OpenMandriva Tools Authentication" =>
    {
-    binary => "$sbindir/draksec",
+    binary => "draksec",
     embedded => 1,
     description => N("Configure authentication for OpenMandriva tools"),
     long_description => N("Define authentication required to access individual OpenMandriva configuration tools "),
@@ -334,7 +332,7 @@ our %programs =
 
    "OpenMandriva Update" =>
    {
-    binary => "$sbindir/MandrivaUpdate",
+    binary => "MandrivaUpdate",
     embedded => 1,
     description => N("Update your system"),
     long_description => N("Look at available updates and apply any fixes or upgrades to installed packages"),
@@ -355,7 +353,7 @@ our %programs =
 
    "Migration" =>
    {
-    binary => "$sbindir/transfugdrake",
+    binary => "transfugdrake",
     embedded => 1,
     description => N("Import Windows(TM) documents and settings"),
     long_description => N("Import Windows(TM) documents and settings"),
@@ -365,7 +363,7 @@ our %programs =
 
    "Monitor Connection" =>
    {
-    binary => "$sbindir/net_monitor",
+    binary => "net_monitor",
     embedded => 1,
     description => N("Monitor connections"),
     long_description => N("Monitor the network connections"),
@@ -375,7 +373,7 @@ our %programs =
 
    "Mouse" =>
    {
-    binary => "$sbindir/mousedrake",
+    binary => "mousedrake",
     embedded => 1,
     description => N("Set up the pointer device (mouse, touchpad)"),
     long_description => N("Set up the pointer device (mouse, touchpad)"),
@@ -384,7 +382,7 @@ our %programs =
 
 
    "Parental Controls" => {
-    binary => "$sbindir/drakguard",
+    binary => "drakguard",
     embedded => 1,
     description => N("Parental Controls"),
     long_description => N("Parental Controls"),
@@ -394,7 +392,7 @@ our %programs =
 
    "Network Center" =>
    {
-    binary => "$sbindir/draknetcenter",
+    binary => "draknetcenter",
     embedded => 1,
     description => N("Network Center"),
     long_description => N("Manage your network devices"),
@@ -404,7 +402,7 @@ our %programs =
 
    "Network Profiles" =>
    {
-    binary => "$sbindir/draknetprofile",
+    binary => "draknetprofile",
     embedded => 1,
     description => N("Manage different network profiles"),
     long_description => N("Activate and manage network profiles"),
@@ -414,7 +412,7 @@ our %programs =
 
    "NFS mount points" =>
    {
-    binary => "$sbindir/diskdrake --nfs",
+    binary => "diskdrake --nfs",
     embedded => 1,
     description => N("Access NFS shared drives and directories"),
     long_description => N("Set NFS mount points"),
@@ -424,7 +422,7 @@ our %programs =
 
    "NFS exports" =>
    {
-    binary => "$sbindir/draknfs",
+    binary => "draknfs",
     embedded => 1,
     description => N("Share drives and directories using NFS"),
     long_description => N("Manage NFS shares"),
@@ -435,7 +433,7 @@ our %programs =
 
    "Package stats" =>
    {
-    binary => "$sbindir/drakstats",
+    binary => "drakstats",
     embedded => 1,
     description => N("Package Stats"),
     long_description => N("Show statistics about usage of installed software packages"),
@@ -445,7 +443,7 @@ our %programs =
 
    "Partition Sharing" =>
    {
-    binary => "$sbindir/diskdrake --fileshare",
+    binary => "diskdrake --fileshare",
     embedded => 1,
     description => N("Share your hard disk partitions"),
     long_description => N("Set up sharing of your hard disk partitions"),
@@ -455,7 +453,7 @@ our %programs =
 
    "Printer" =>
    {
-    binary => "$sbindir/system-config-printer",
+    binary => "system-config-printer",
     embedded => -1,
     description => N("Set up the printer(s), the print job queues, ..."),
     icon => 'printer-mcc-mdk',
@@ -477,7 +475,7 @@ our %programs =
 
    "Proxy Configuration" =>
    {
-    binary => "$sbindir/drakproxy",
+    binary => "drakproxy",
     embedded => 1,
     description => N("Proxy"),
     long_description => N("Set up a proxy server for files and web browsing"),
@@ -496,7 +494,7 @@ our %programs =
 
    "Remove Interface" =>
    {
-    binary => "$sbindir/drakconnect --del",
+    binary => "drakconnect --del",
     embedded => 1,
     description => N("Remove a connection"),
     long_description => N("Delete a network interface"),
@@ -507,7 +505,7 @@ our %programs =
    #- currently unused
    "Roaming" =>
    {
-    binary => "$sbindir/drakroam",
+    binary => "drakroam",
     embedded => 1,
     description => N("Wireless connection"),
     long_description => N("Wireless connection"),
@@ -517,7 +515,7 @@ our %programs =
 
    "Access Windows shares" =>
    {
-    binary => "$sbindir/diskdrake --smb",
+    binary => "diskdrake --smb",
     embedded => 1,
     description => N("Access Windows (SMB) shared drives and directories"),
     long_description => N("Configuration of Windows (Samba) shared drives and directories"),
@@ -527,7 +525,7 @@ our %programs =
 
    "Samba configuration" =>
    {
-    binary => "$sbindir/draksambashare",
+    binary => "draksambashare",
     embedded => 1,
     description => N("Share drives and directories with Windows (SMB) systems"),
     long_description => N("Manage configuration of Samba"),
@@ -537,7 +535,7 @@ our %programs =
 
    "Scanner" =>
    {
-    binary => "$sbindir/scannerdrake",
+    binary => "scannerdrake",
     embedded => 1,
     description => N("Set up scanner"),
     long_description => N("Set up scanner"),
@@ -547,7 +545,7 @@ our %programs =
 
    "Security Level" =>
    {
-    binary => "$sbindir/msecgui",
+    binary => "msecgui",
     embedded => 1,
     description => N("Configure system security, permissions and audit"),
     long_description => N("Set the system security level, periodic security audit and permissions"),
@@ -558,7 +556,7 @@ our %programs =
 
    "Services" =>
    {
-    binary => "$sbindir/drakxservices",
+    binary => "drakxservices",
     embedded => 1,
     description => N("Manage system services by enabling or disabling them"),
     long_description => N("Manage system services by enabling or disabling them"),
@@ -568,7 +566,7 @@ our %programs =
 
    "Software Media Manager" =>
    {
-    binary => "$sbindir/edit-urpm-sources.pl",
+    binary => "edit-urpm-sources.pl",
     embedded => 1,
     description => N("Configure media sources for install and update"),
     long_description => N("Select from where software packages are downloaded "),
@@ -579,7 +577,7 @@ our %programs =
 
    "Updates Configuration" =>
    {
-    binary => "$sbindir/mdkapplet-config",
+    binary => "mdkapplet-config",
     embedded => 1,
     description => N("Configure updates frequency"),
     icon => 'rpmdrake-mdk',
@@ -588,7 +586,7 @@ our %programs =
 
    "Extended Maintenance" =>
    {
-    binary => "$sbindir/mdkapplet-add-media-helper --product=extended $version",
+    binary => "mdkapplet-add-media-helper --product=extended $version",
     embedded => 1,
     description => N("Access to extended maintenance"),
     icon => 'extended_maintenance',
@@ -597,7 +595,7 @@ our %programs =
 
    "Tomoyo Policy" =>
    {
-    binary => "$sbindir/tomoyo-gui",
+    binary => "tomoyo-gui",
     embedded => 1,
     description => N("Configure TOMOYO Linux policy"),
     long_description => N("View and configure TOMOYO Linux security policy"),
@@ -608,7 +606,7 @@ our %programs =
 
    "UPS" =>
    {
-    binary => "$sbindir/drakups --wizard",
+    binary => "drakups --wizard",
     embedded => 1,
     description =>
       #-PO: UPS==Uninterruptible power supply
@@ -623,7 +621,7 @@ our %programs =
    "Users" =>
    {
     # too big
-    binary => "$sbindir/userdrake",
+    binary => "userdrake",
     embedded => 1,
     description => N("Manage users on system"),
     long_description => N("Add, remove or change users of the system"),
@@ -634,7 +632,7 @@ our %programs =
 
    "Virtualization" =>
    {
-    binary => "$sbindir/drakvirt",
+    binary => "drakvirt",
     embedded => 1,
     description => N("Virtualization"),
     long_description => N("Virtual machines management"),
@@ -644,7 +642,7 @@ our %programs =
 
    "VPN" =>
    {
-    binary => "$sbindir/drakvpn",
+    binary => "drakvpn",
     embedded => 1,
     description => N("Configure VPN connection to secure network access"),
     long_description => N("Configure VPN connection to secure network access"),
@@ -654,7 +652,7 @@ our %programs =
 
    "WebDAV mount points" =>
    {
-    binary => "$sbindir/diskdrake --dav",
+    binary => "diskdrake --dav",
     embedded => 1,
     description => N("Access WebDAV shared drives and directories"),
     long_description => N("Set WebDAV mount points"),

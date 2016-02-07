@@ -120,7 +120,7 @@ gtkflush();
 my $more_wizard_dir = "/etc/wizard.d/";
 
 my $isWiz = -e "/usr/sbin/drakwizard";
-my $isRpmDrake = -e "/usr/sbin/rpmdrake";
+my $isRpmDrake = -e "/usr/bin/rpmdrake";
 my $isParkRpmDrake = -e "/usr/sbin/park-rpmdrake";
 my $isWebAdmin = -e "/usr/bin/mdkwebadmin";
 my $isRfbDrake = -e "/usr/bin/rfbdrake";
@@ -138,7 +138,7 @@ sub wizard_format {
         my ($id, $wizard, $icon, $description, $long_description, $file) = @$_;
         $programs{$id} =
           {
-           binary => "$sbindir/drakwizard $wizard",
+           binary => "drakwizard $wizard",
            embedded => 1,
            description => $description,
            long_description => $long_description,
@@ -298,7 +298,7 @@ my @tree = (
                                 my ($id, $icon, $op, $description, $long_description) = @$_;
                                 $programs{$id} =
                                   {
-                                      binary => "$bindir/mdkwebadmin.pl $op",
+                                      binary => "mdkwebadmin.pl $op",
                                       embedded => -1, # too big
                                       description => $description,
                                       long_description => $long_description,
@@ -353,7 +353,7 @@ my @tree = (
                 list => [
                     "Printer",
                     "Scanner",
-                    if_(-x "$bindir/drakfax", "Fax"),
+                    if_(-x real_bin_path("drakfax"), "Fax"),
                 ]
             },
             {
@@ -374,7 +374,7 @@ my @tree = (
                 list => [
                     "Network Center",
                     "Add Connection",
-                    if_(!-x "$sbindir/draknetcenter",
+                    if_(!-x real_bin_path("draknetcenter"),
                         "Configure Internet",
                         "Manage Connection",
                         "Monitor Connection",
@@ -427,7 +427,7 @@ my @tree = (
                     if_($ENV{LANGUAGE} !~ /^zh/, "Console"),
                     "Users",
                     "Migration",     
-                    if_(-x "$xbindir/drakcronat", "Programs scheduling"),
+                    if_(-x real_bin_path("drakcronat"), "Programs scheduling"),
                     "Backups",
                     'Snapshots',
                     "Virtualization",
@@ -478,7 +478,7 @@ my @tree = (
                             my $full_name = $text . ($::i ? $::i + 1 : '');
                             $programs{$full_name} =
                               {
-                                  binary => "$sbindir/diskdrake --removable=$_->{device}",
+                                  binary => "diskdrake --removable=$_->{device}",
                                   embedded => 1,
                                   description => $text,
                                   long_description => sprintf(translate($long_text), $_->{info}),
@@ -569,7 +569,7 @@ if (scalar glob_("$more_wizard_dir/*.conf")) {
         next unless -f $file;
         my %tmp = getVarsFromSh($file);
         $programs{$tmp{NAME}} = {
-            binary => "$sbindir/drakwizard " . lc($file),
+            binary => "drakwizard " . lc($file),
             embedded => 1,
             description => $tmp{DESCRIPTION},
             icon => $tmp{ICON} || 'wizard-mdk',
@@ -1217,7 +1217,11 @@ sub fork_ {
 
 sub real_bin_path {
     my ($prog) = @_;
-    first(split /\s+/, $prog);
+    $prog = first(split /\s+/, $prog);
+    return $prog if $prog =~ /\//;
+    return "/usr/bin/$prog" if -x "/usr/bin/$prog";
+    return "/usr/sbin/$prog";
+
 }
 
 sub run_tool {
@@ -1236,7 +1240,7 @@ sub run_tool {
         if ($tool->{packages2install}) {
             # gurpmi doesn't support being embedded yet:
             $gtkplug = -1;
-            $exec = join(' ', "$bindir/gurpmi", split(/\s/, $tool->{packages2install}));
+            $exec = join(' ', "/usr/bin/gurpmi", split(/\s/, $tool->{packages2install}));
             $will_run_gurpmi = 1;
         } else {
             splash_warning(N("cannot fork and exec \"%s\" since it is not executable", $exec));
