@@ -6,12 +6,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"POT-Creation-Date: 2016-02-07 01:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
@@ -29,7 +29,7 @@ msgstr ""
 #, c-format
 msgid ""
 "massive packages rebuilding and cleaning, games, sparc port, proofreading of "
-"OpenMandriva tools"
+"Mandriva tools"
 msgstr ""
 
 #: ../contributors.pl:13
@@ -516,511 +516,492 @@ msgid ""
 "sure it all worked right."
 msgstr ""
 
-#: ../control-center:90
+#: ../control-center:95
 #, c-format
 msgid "OpenMandriva Lx"
 msgstr ""
 
-#: ../control-center:100 ../control-center:105
+#: ../control-center:105 ../control-center:110
 #, c-format
 msgid "%s Control Center"
 msgstr ""
 
-#: ../control-center:106 ../control-center:1058
+#: ../control-center:111 ../control-center:1064
 #, c-format
 msgid "Loading... Please wait"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:151 ../control-center:155
+#: ../control-center:156 ../control-center:160
 #, c-format
 msgid "Software Management"
 msgstr ""
 
-#: ../control-center:167 ../control-center:355 ../control-center:390
-#: ../control-center:548
+#: ../control-center:172 ../control-center:360 ../control-center:395
+#: ../control-center:552
 #, c-format
 msgid "Others"
 msgstr ""
 
-#: ../control-center:177
+#: ../control-center:182
 #, c-format
 msgid "Server wizards"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:180 ../control-center:183
+#: ../control-center:185 ../control-center:188
 #, c-format
 msgid "Sharing"
 msgstr ""
 
-#: ../control-center:186
+#: ../control-center:191
 #, c-format
 msgid "Configure FTP"
 msgstr ""
 
-#: ../control-center:187
+#: ../control-center:192
 #, c-format
 msgid "Set up an FTP server"
 msgstr ""
 
-#: ../control-center:189
+#: ../control-center:194
 #, c-format
 msgid "Configure Samba"
 msgstr ""
 
-#: ../control-center:190
+#: ../control-center:195
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
 msgstr ""
 
-#: ../control-center:192
+#: ../control-center:197
 #, c-format
 msgid "Manage Samba share"
 msgstr ""
 
-#: ../control-center:193
+#: ../control-center:198
 #, c-format
 msgid "Manage, create special share, create public/user share"
 msgstr ""
 
-#: ../control-center:195
+#: ../control-center:200
 #, c-format
 msgid "Configure web server"
 msgstr ""
 
-#: ../control-center:196
+#: ../control-center:201
 #, c-format
 msgid "Set up a web server"
 msgstr ""
 
-#: ../control-center:198
+#: ../control-center:203
 #, c-format
 msgid "Configure installation server"
 msgstr ""
 
-#: ../control-center:199
+#: ../control-center:204
 #, c-format
 msgid "Set up server for network installations of %s"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:209 ../control-center:212
+#: ../control-center:214 ../control-center:217
 #, c-format
 msgid "Network Services"
 msgstr ""
 
-#: ../control-center:215
+#: ../control-center:220
 #, c-format
 msgid "Configure DHCP"
 msgstr ""
 
-#: ../control-center:216
+#: ../control-center:221
 #, c-format
 msgid "Set up a DHCP server"
 msgstr ""
 
-#: ../control-center:218
+#: ../control-center:223
 #, c-format
 msgid "Configure DNS"
 msgstr ""
 
-#: ../control-center:219
+#: ../control-center:224
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
 msgstr ""
 
-#: ../control-center:221
+#: ../control-center:226
 #, c-format
 msgid "Configure proxy"
 msgstr ""
 
-#: ../control-center:222
+#: ../control-center:227
 #, c-format
 msgid "Configure a web caching proxy server"
 msgstr ""
 
-#: ../control-center:224
+#: ../control-center:229
 #, c-format
 msgid "Configure time"
 msgstr ""
 
-#: ../control-center:225
+#: ../control-center:230
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
 msgstr ""
 
-#: ../control-center:227 ../control-center:228
+#: ../control-center:232 ../control-center:233
 #, c-format
 msgid "OpenSSH daemon configuration"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #. -PO: this message is already translated in drakx domain from which MCC will searchs it:
-#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#: ../control-center:244 ../control-center:247 ../lib/MDV/Control_Center.pm:58
 #, c-format
 msgid "Authentication"
 msgstr ""
 
-#: ../control-center:246
+#: ../control-center:251
 #, c-format
 msgid "Configure NIS and Autofs"
 msgstr ""
 
-#: ../control-center:247
+#: ../control-center:252
 #, c-format
 msgid "Configure the NIS and Autofs services"
 msgstr ""
 
-#: ../control-center:249
+#: ../control-center:254
 #, c-format
 msgid "Configure LDAP"
 msgstr ""
 
-#: ../control-center:250
+#: ../control-center:255
 #, c-format
 msgid "Configure the LDAP directory services"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:261 ../control-center:264
+#: ../control-center:266 ../control-center:269
 #, c-format
 msgid "Groupware"
 msgstr ""
 
-#: ../control-center:267
+#: ../control-center:272
 #, c-format
 msgid "Configure news"
 msgstr ""
 
-#: ../control-center:268
+#: ../control-center:273
 #, c-format
 msgid "Configure a newsgroup server"
 msgstr ""
 
-#: ../control-center:270
+#: ../control-center:275
 #, c-format
 msgid "Configure groupware"
 msgstr ""
 
-#: ../control-center:271
+#: ../control-center:276
 #, c-format
 msgid "Configure a groupware server"
 msgstr ""
 
-#: ../control-center:273
+#: ../control-center:278
 #, c-format
 msgid "Configure mail"
 msgstr ""
 
-#: ../control-center:274
+#: ../control-center:279
 #, c-format
 msgid "Configure the Internet Mail services"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:286 ../control-center:289
+#: ../control-center:291 ../control-center:294
 #, c-format
 msgid "Online Administration"
 msgstr ""
 
-#: ../control-center:305
+#: ../control-center:310
 #, c-format
 msgid "Local administration"
 msgstr ""
 
-#: ../control-center:306
+#: ../control-center:311
 #, c-format
 msgid "Configure the local machine via web interface"
 msgstr ""
 
-#: ../control-center:306
+#: ../control-center:311
 #, c-format
 msgid "You don't seem to have webmin intalled. Local config is disabled"
 msgstr ""
 
-#: ../control-center:308
+#: ../control-center:313
 #, c-format
 msgid "Remote administration"
 msgstr ""
 
-#: ../control-center:309
+#: ../control-center:314
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:323
+#: ../control-center:328
 #, c-format
 msgid "Hardware"
 msgstr ""
 
-#: ../control-center:326
+#: ../control-center:331
 #, c-format
 msgid "Manage your hardware"
 msgstr ""
 
-#: ../control-center:333
+#: ../control-center:338
 #, c-format
 msgid "Configure graphics"
 msgstr ""
 
-#: ../control-center:340
+#: ../control-center:345
 #, c-format
 msgid "Configure mouse and keyboard"
 msgstr ""
 
-#: ../control-center:347
+#: ../control-center:352
 #, c-format
 msgid "Configure printing and scanning"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:365 ../drakxconf:31
+#: ../control-center:370 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr ""
 
-#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#: ../control-center:373 ../lib/MDV/Control_Center.pm:400
 #, c-format
 msgid "Manage your network devices"
 msgstr ""
 
-#: ../control-center:381
+#: ../control-center:386
 #, c-format
 msgid "Personalize and Secure your network"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:400
+#: ../control-center:405
 #, c-format
 msgid "System"
 msgstr ""
 
-#: ../control-center:403
+#: ../control-center:408
 #, c-format
 msgid "Manage system services"
 msgstr ""
 
-#: ../control-center:412
+#: ../control-center:417
 #, c-format
 msgid "Localization"
 msgstr ""
 
-#: ../control-center:419
+#: ../control-center:424
 #, c-format
 msgid "Administration tools"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:436
+#: ../control-center:441
 #, c-format
 msgid "Network Sharing"
 msgstr ""
 
-#: ../control-center:439
+#: ../control-center:444
 #, c-format
 msgid "Configure Windows(R) shares"
 msgstr ""
 
-#: ../control-center:446
+#: ../control-center:451
 #, c-format
 msgid "Configure NFS shares"
 msgstr ""
 
-#: ../control-center:453
+#: ../control-center:458
 #, c-format
 msgid "Configure WebDAV shares"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:463 ../control-center:466
+#: ../control-center:468 ../control-center:471
 #, c-format
 msgid "Local disks"
 msgstr ""
 
-#: ../control-center:490
+#: ../control-center:495
 #, c-format
 msgid "CD-ROM (%s)"
 msgstr ""
 
-#: ../control-center:491
+#: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
 msgstr ""
 
-#: ../control-center:493
+#: ../control-center:498
 #, c-format
 msgid "DVD-ROM (%s)"
 msgstr ""
 
-#: ../control-center:494
+#: ../control-center:499
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
 msgstr ""
 
-#: ../control-center:496
+#: ../control-center:501
 #, c-format
 msgid "CD/DVD burner (%s)"
 msgstr ""
 
-#: ../control-center:497
+#: ../control-center:502
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
 msgstr ""
 
-#: ../control-center:499
+#: ../control-center:504
 #, c-format
 msgid "ZIP drive"
 msgstr ""
 
-#: ../control-center:500
+#: ../control-center:505
 #, c-format
 msgid "Set where your ZIP drive is mounted"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:512 ../control-center:515
+#: ../control-center:517 ../control-center:520
 #, c-format
 msgid "Security"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:530
+#: ../control-center:535
 #, c-format
 msgid "Boot"
 msgstr ""
 
-#: ../control-center:533
+#: ../control-center:538
 #, c-format
 msgid "Configure boot steps"
 msgstr ""
 
-#: ../control-center:542
+#: ../control-center:546
 #, c-format
 msgid "Boot look'n feel"
 msgstr ""
 
-#: ../control-center:559
+#: ../control-center:563
 #, c-format
 msgid "Additional wizards"
 msgstr ""
 
-#: ../control-center:614 ../control-center:615 ../control-center:616
-#: ../control-center:628
+#: ../control-center:618 ../control-center:619
 #, c-format
 msgid "/_Options"
 msgstr ""
 
-#: ../control-center:614
-#, c-format
-msgid "/Display _Logs"
-msgstr ""
-
-#: ../control-center:615
+#: ../control-center:618
 #, c-format
 msgid "/_Embedded Mode"
 msgstr ""
 
-#: ../control-center:616
+#: ../control-center:619
 #, c-format
 msgid "/Expert mode in _wizards"
 msgstr ""
 
-#: ../control-center:626 ../control-center:627
+#: ../control-center:641
 #, c-format
-msgid "/_File"
+msgid "_File"
 msgstr ""
 
-#: ../control-center:627
+#: ../control-center:642
 #, c-format
-msgid "/_Quit"
+msgid "_Quit"
 msgstr ""
 
-#: ../control-center:627
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:645
 #, c-format
 msgid "<control>Q"
 msgstr ""
 
-#: ../control-center:627
+#: ../control-center:647 ../control-center:659
 #, c-format
-msgid "Quit"
+msgid "Display _Logs"
 msgstr ""
 
-#: ../control-center:648 ../control-center:651 ../control-center:664
+#: ../control-center:649
 #, c-format
-msgid "/_Themes"
+msgid "_Help"
 msgstr ""
 
-#: ../control-center:654
+#: ../control-center:649
 #, c-format
-msgid ""
-"This action will restart the control center.\n"
-"Any change not applied will be lost."
+msgid "<control>H"
 msgstr ""
 
-#: ../control-center:664
+#: ../control-center:650
 #, c-format
-msgid "/_More themes"
+msgid "_Release notes"
 msgstr ""
 
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669 ../control-center:670 ../control-center:671
-#: ../control-center:674
+#: ../control-center:651
 #, c-format
-msgid "/_Help"
+msgid "What's _New?"
 msgstr ""
 
-#: ../control-center:667 ../control-center:668 ../control-center:669
-#: ../control-center:670
+#: ../control-center:652
 #, c-format
-msgid "Help"
+msgid "_Errata"
 msgstr ""
 
-#: ../control-center:668
+#: ../control-center:653
 #, c-format
-msgid "/_Release notes"
+msgid "_Report Bug"
+msgstr ""
+
+#: ../control-center:656
+#, c-format
+msgid "_About..."
 msgstr ""
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "Expert mode in _wizards"
 msgstr ""
 
-#: ../control-center:670
-#, c-format
-msgid "/_Errata"
-msgstr ""
-
-#: ../control-center:671
-#, c-format
-msgid "/_Report Bug"
-msgstr ""
-
-#: ../control-center:674
-#, c-format
-msgid "/_About..."
-msgstr ""
-
-#: ../control-center:730
+#: ../control-center:736
 #, c-format
 msgid "Cancel"
 msgstr ""
 
-#: ../control-center:750
+#: ../control-center:756
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr ""
 
-#: ../control-center:1037 ../control-center:1102
+#: ../control-center:1043 ../control-center:1107
 #, c-format
 msgid "Error"
 msgstr ""
 
-#: ../control-center:1037
+#: ../control-center:1043
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1028,135 +1009,135 @@ msgid ""
 "Please report that bug."
 msgstr ""
 
-#: ../control-center:1102
+#: ../control-center:1107
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr ""
 
-#: ../control-center:1121
+#: ../control-center:1126
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr ""
 
-#: ../control-center:1208
+#: ../control-center:1213
 #, c-format
 msgid "cannot fork: %s"
 msgstr ""
 
-#: ../control-center:1231
+#: ../control-center:1242
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr ""
 
-#: ../control-center:1370
+#: ../control-center:1366
 #, c-format
 msgid "This program has exited abnormally"
 msgstr ""
 
-#: ../control-center:1379
+#: ../control-center:1375
 #, c-format
 msgid "Warning"
 msgstr ""
 
-#: ../control-center:1389 ../drakconsole:31
+#: ../control-center:1385 ../drakconsole:37
 #, c-format
 msgid "Close"
 msgstr ""
 
-#: ../control-center:1396
+#: ../control-center:1392
 #, c-format
 msgid "More themes"
 msgstr ""
 
-#: ../control-center:1398
+#: ../control-center:1394
 #, c-format
 msgid "Getting new themes"
 msgstr ""
 
-#: ../control-center:1399
+#: ../control-center:1395
 #, c-format
 msgid "Additional themes"
 msgstr ""
 
-#: ../control-center:1401
+#: ../control-center:1397
 #, c-format
 msgid "Get additional themes on www.damz.net"
 msgstr ""
 
-#: ../control-center:1409
+#: ../control-center:1405
 #, c-format
 msgid "About - %s Control Center"
 msgstr ""
 
-#: ../control-center:1418
+#: ../control-center:1414
 #, c-format
 msgid "Authors: "
 msgstr ""
 
-#: ../control-center:1422
+#: ../control-center:1418
 #, c-format
 msgid "(perl version)"
 msgstr ""
 
-#: ../control-center:1427
+#: ../control-center:1423
 #, c-format
 msgid "Artwork: "
 msgstr ""
 
-#: ../control-center:1432
+#: ../control-center:1428
 #, c-format
 msgid "Helene Durosini"
 msgstr ""
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1455
+#: ../control-center:1451
 #, c-format
 msgid "- %s: %s\n"
 msgstr ""
 
-#: ../control-center:1470
+#: ../control-center:1466
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr ""
 
-#: ../control-center:1472
+#: ../control-center:1468
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr ""
 
-#: ../control-center:1474
+#: ../control-center:1470
 #, c-format
 msgid "Translator: "
 msgstr ""
 
-#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
-#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
-#: ../control-center:1483
+#. -PO: Here, first %s will be replaced by 'Mandriva Linux'
+#. -PO: second %s will be replaced by the version (eg: "Mandriva Linux 2007.1 (Discovery) Control Center")
+#: ../control-center:1479
 #, c-format
 msgid "%s %s (%s) Control Center"
 msgstr ""
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1488
+#: ../control-center:1484
 #, c-format
-msgid "Copyright (C) %s OpenMandriva Association"
+msgid "Copyright (C) %s Mandriva SA"
 msgstr ""
 
-#: ../control-center:1494
+#: ../control-center:1490
 #, c-format
 msgid "Authors"
 msgstr ""
 
-#: ../control-center:1495
+#: ../control-center:1491
 #, c-format
-msgid "OpenMandriva Lx Contributors"
+msgid "OpenMandriva Linux Contributors"
 msgstr ""
 
-#: ../drakconsole:27
+#: ../drakconsole:33
 #, c-format
 msgid "DrakConsole"
 msgstr ""
@@ -1208,518 +1189,498 @@ msgstr ""
 
 #: ../drakxconf:38
 #, c-format
-msgid "3D Desktop effects"
-msgstr ""
-
-#: ../drakxconf:39
-#, c-format
 msgid "Partitions"
 msgstr ""
 
-#: ../drakxconf:42
+#: ../drakxconf:41
 #, c-format
 msgid "Control Center"
 msgstr ""
 
-#: ../drakxconf:42
+#: ../drakxconf:41
 #, c-format
 msgid "Choose the tool you want to use"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
-#, c-format
-msgid "Configure 3D Desktop effects"
-msgstr ""
-
-#: ../lib/MDV/Control_Center.pm:68
+#: ../lib/MDV/Control_Center.pm:59
 #, c-format
 msgid ""
 "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:77
-#, c-format
-msgid "Set up autologin to automatically log in"
-msgstr ""
-
-#: ../lib/MDV/Control_Center.pm:78
-#, c-format
-msgid "Enable autologin and select the user to automatically log in"
-msgstr ""
-
-#: ../lib/MDV/Control_Center.pm:87
+#: ../lib/MDV/Control_Center.pm:68
 #, c-format
 msgid "Backups"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:88
+#: ../lib/MDV/Control_Center.pm:69
 #, c-format
 msgid "Configure backups of the system and of the users' data"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:98
+#: ../lib/MDV/Control_Center.pm:79
 #, c-format
 msgid "Snapshots"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:108
+#: ../lib/MDV/Control_Center.pm:89
 #, c-format
 msgid "Set up boot system"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:109
+#: ../lib/MDV/Control_Center.pm:90
 #, c-format
 msgid "Set up how the system boots"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:118
+#: ../lib/MDV/Control_Center.pm:99
 #, c-format
 msgid "Set up boot graphical theme of system"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:119
+#: ../lib/MDV/Control_Center.pm:100
 #, c-format
 msgid "Select the graphical theme of the system while booting"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#: ../lib/MDV/Control_Center.pm:109 ../lib/MDV/Control_Center.pm:110
 #, c-format
 msgid "Share the Internet connection with other local machines"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#: ../lib/MDV/Control_Center.pm:119 ../lib/MDV/Control_Center.pm:120
 #, c-format
 msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:148
+#: ../lib/MDV/Control_Center.pm:129
 #, c-format
 msgid "Internet access"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:149
+#: ../lib/MDV/Control_Center.pm:130
 #, c-format
 msgid "Alter miscellaneous internet settings"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#: ../lib/MDV/Control_Center.pm:139 ../lib/MDV/Control_Center.pm:140
 #, c-format
 msgid "Open a console as administrator"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#: ../lib/MDV/Control_Center.pm:150 ../lib/MDV/Control_Center.pm:151
 #, c-format
 msgid "Manage date and time"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:179
+#: ../lib/MDV/Control_Center.pm:160
 #, c-format
 msgid "Set up display manager"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:180
+#: ../lib/MDV/Control_Center.pm:161
 #, c-format
 msgid "Choose the display manager that enables to select which user to log in"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#: ../lib/MDV/Control_Center.pm:170 ../lib/MDV/Control_Center.pm:171
 #, c-format
 msgid "Configure a fax server"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:199
+#: ../lib/MDV/Control_Center.pm:180
 #, c-format
 msgid "Set up your personal firewall"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:200
+#: ../lib/MDV/Control_Center.pm:181
 #, c-format
 msgid ""
 "Set up a personal firewall in order to protect the computer and the network"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#: ../lib/MDV/Control_Center.pm:190 ../lib/MDV/Control_Center.pm:191
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#: ../lib/MDV/Control_Center.pm:200 ../lib/MDV/Control_Center.pm:201
 #, c-format
 msgid "Set up the graphical server"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:229
+#: ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage disk partitions"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:230
+#: ../lib/MDV/Control_Center.pm:211
 #, c-format
 msgid "Create, delete and resize hard disk partitions"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#: ../lib/MDV/Control_Center.pm:220 ../lib/MDV/Control_Center.pm:221
 #, c-format
 msgid "Browse and configure hardware"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#: ../lib/MDV/Control_Center.pm:231 ../lib/MDV/Control_Center.pm:232
 #, c-format
 msgid "Sound Configuration"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:260
+#: ../lib/MDV/Control_Center.pm:241
 #, c-format
 msgid "Hosts definitions"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:261
+#: ../lib/MDV/Control_Center.pm:242
 #, c-format
 msgid "Manage hosts definitions"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:270
+#: ../lib/MDV/Control_Center.pm:251
 #, c-format
 msgid "Install & Remove Software"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:271
+#: ../lib/MDV/Control_Center.pm:252
 #, c-format
 msgid "Install, uninstall software"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:281
+#: ../lib/MDV/Control_Center.pm:262
 #, c-format
 msgid "Advanced setup for network interfaces and firewall"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:282
+#: ../lib/MDV/Control_Center.pm:263
 #, c-format
 msgid "Set up network interfaces failover and firewall replication"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#: ../lib/MDV/Control_Center.pm:272 ../lib/MDV/Control_Center.pm:273
 #, c-format
 msgid "Set up the keyboard layout"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:301
+#: ../lib/MDV/Control_Center.pm:282
 #, c-format
 msgid "Kolab"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:302
+#: ../lib/MDV/Control_Center.pm:283
 #, c-format
 msgid "Set up a groupware server"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:311
+#: ../lib/MDV/Control_Center.pm:292
 #, c-format
 msgid "Manage localization for your system"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:312
+#: ../lib/MDV/Control_Center.pm:293
 #, c-format
 msgid "Select the language and the country or region of the system"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#: ../lib/MDV/Control_Center.pm:301 ../lib/MDV/Control_Center.pm:302
 #, c-format
 msgid "View and search system logs"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:330
+#: ../lib/MDV/Control_Center.pm:311
 #, c-format
 msgid "Manage connections"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:331
+#: ../lib/MDV/Control_Center.pm:312
 #, c-format
 msgid "Reconfigure a network interface"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:340
+#: ../lib/MDV/Control_Center.pm:321
 #, c-format
 msgid "Manage computer group"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:341
+#: ../lib/MDV/Control_Center.pm:322
 #, c-format
 msgid "Manage installed software packages on a group of computers"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:349
+#: ../lib/MDV/Control_Center.pm:330
 #, c-format
 msgid "Configure authentication for OpenMandriva tools"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:350
+#: ../lib/MDV/Control_Center.pm:331
 #, c-format
 msgid ""
-"Define authentication required to access individual OpenMandriva configuration "
-"tools "
+"Define authentication required to access individual OpenMandriva "
+"configuration tools "
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:358
+#: ../lib/MDV/Control_Center.pm:339
 #, c-format
 msgid "Update your system"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:359
+#: ../lib/MDV/Control_Center.pm:340
 #, c-format
 msgid ""
 "Look at available updates and apply any fixes or upgrades to installed "
 "packages"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:369
+#: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid "Menu Style"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:370
+#: ../lib/MDV/Control_Center.pm:351
 #, c-format
 msgid "Menu Style Configuration"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#: ../lib/MDV/Control_Center.pm:360 ../lib/MDV/Control_Center.pm:361
 #, c-format
 msgid "Import Windows(TM) documents and settings"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:389
+#: ../lib/MDV/Control_Center.pm:370
 #, c-format
 msgid "Monitor connections"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:390
+#: ../lib/MDV/Control_Center.pm:371
 #, c-format
 msgid "Monitor the network connections"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#: ../lib/MDV/Control_Center.pm:380 ../lib/MDV/Control_Center.pm:381
 #, c-format
 msgid "Set up the pointer device (mouse, touchpad)"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#: ../lib/MDV/Control_Center.pm:389 ../lib/MDV/Control_Center.pm:390
 #, c-format
 msgid "Parental Controls"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:418
+#: ../lib/MDV/Control_Center.pm:399
 #, c-format
 msgid "Network Center"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:428
+#: ../lib/MDV/Control_Center.pm:409
 #, c-format
 msgid "Manage different network profiles"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:429
+#: ../lib/MDV/Control_Center.pm:410
 #, c-format
 msgid "Activate and manage network profiles"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:438
+#: ../lib/MDV/Control_Center.pm:419
 #, c-format
 msgid "Access NFS shared drives and directories"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:439
+#: ../lib/MDV/Control_Center.pm:420
 #, c-format
 msgid "Set NFS mount points"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:448
+#: ../lib/MDV/Control_Center.pm:429
 #, c-format
 msgid "Share drives and directories using NFS"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:449
+#: ../lib/MDV/Control_Center.pm:430
 #, c-format
 msgid "Manage NFS shares"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:459
+#: ../lib/MDV/Control_Center.pm:440
 #, c-format
 msgid "Package Stats"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:460
+#: ../lib/MDV/Control_Center.pm:441
 #, c-format
 msgid "Show statistics about usage of installed software packages"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:469
+#: ../lib/MDV/Control_Center.pm:450
 #, c-format
 msgid "Share your hard disk partitions"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:470
+#: ../lib/MDV/Control_Center.pm:451
 #, c-format
 msgid "Set up sharing of your hard disk partitions"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#: ../lib/MDV/Control_Center.pm:460 ../lib/MDV/Control_Center.pm:462
 #, c-format
 msgid "Set up the printer(s), the print job queues, ..."
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:491
+#: ../lib/MDV/Control_Center.pm:472
 #, c-format
 msgid "Scheduled tasks"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:492
+#: ../lib/MDV/Control_Center.pm:473
 #, c-format
 msgid "Schedule programs to run periodically or at given times"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:501
+#: ../lib/MDV/Control_Center.pm:482
 #, c-format
 msgid "Proxy"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:502
+#: ../lib/MDV/Control_Center.pm:483
 #, c-format
 msgid "Set up a proxy server for files and web browsing"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:510
+#: ../lib/MDV/Control_Center.pm:491
 #, c-format
 msgid "Remote Control (Linux/Unix, Windows)"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:511
+#: ../lib/MDV/Control_Center.pm:492
 #, c-format
 msgid "Remote Control of another machine (Linux/Unix, Windows)"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:520
+#: ../lib/MDV/Control_Center.pm:501
 #, c-format
 msgid "Remove a connection"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:521
+#: ../lib/MDV/Control_Center.pm:502
 #, c-format
 msgid "Delete a network interface"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#: ../lib/MDV/Control_Center.pm:512 ../lib/MDV/Control_Center.pm:513
 #, c-format
 msgid "Wireless connection"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:541
+#: ../lib/MDV/Control_Center.pm:522
 #, c-format
 msgid "Access Windows (SMB) shared drives and directories"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:542
+#: ../lib/MDV/Control_Center.pm:523
 #, c-format
 msgid "Configuration of Windows (Samba) shared drives and directories"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:551
+#: ../lib/MDV/Control_Center.pm:532
 #, c-format
 msgid "Share drives and directories with Windows (SMB) systems"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:552
+#: ../lib/MDV/Control_Center.pm:533
 #, c-format
 msgid "Manage configuration of Samba"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#: ../lib/MDV/Control_Center.pm:542 ../lib/MDV/Control_Center.pm:543
 #, c-format
 msgid "Set up scanner"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:571
+#: ../lib/MDV/Control_Center.pm:552
 #, c-format
 msgid "Configure system security, permissions and audit"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:572
+#: ../lib/MDV/Control_Center.pm:553
 #, c-format
 msgid "Set the system security level, periodic security audit and permissions"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#: ../lib/MDV/Control_Center.pm:563 ../lib/MDV/Control_Center.pm:564
 #, c-format
 msgid "Manage system services by enabling or disabling them"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:592
+#: ../lib/MDV/Control_Center.pm:573
 #, c-format
 msgid "Configure media sources for install and update"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:593
+#: ../lib/MDV/Control_Center.pm:574
 #, c-format
 msgid "Select from where software packages are downloaded "
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:603
+#: ../lib/MDV/Control_Center.pm:584
 #, c-format
 msgid "Configure updates frequency"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:612
+#: ../lib/MDV/Control_Center.pm:593
 #, c-format
 msgid "Access to extended maintenance"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:621
+#: ../lib/MDV/Control_Center.pm:602
 #, c-format
 msgid "Configure TOMOYO Linux policy"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:622
+#: ../lib/MDV/Control_Center.pm:603
 #, c-format
 msgid "View and configure TOMOYO Linux security policy"
 msgstr ""
 
 #. -PO: here power means electrical power
 #. -PO: UPS==Uninterruptible power supply
-#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#: ../lib/MDV/Control_Center.pm:615 ../lib/MDV/Control_Center.pm:618
 #, c-format
 msgid "Set up a UPS for power monitoring"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:647
+#: ../lib/MDV/Control_Center.pm:628
 #, c-format
 msgid "Manage users on system"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:648
+#: ../lib/MDV/Control_Center.pm:629
 #, c-format
 msgid "Add, remove or change users of the system"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:658
+#: ../lib/MDV/Control_Center.pm:639
 #, c-format
 msgid "Virtualization"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:659
+#: ../lib/MDV/Control_Center.pm:640
 #, c-format
 msgid "Virtual machines management"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#: ../lib/MDV/Control_Center.pm:649 ../lib/MDV/Control_Center.pm:650
 #, c-format
 msgid "Configure VPN connection to secure network access"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:678
+#: ../lib/MDV/Control_Center.pm:659
 #, c-format
 msgid "Access WebDAV shared drives and directories"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:679
+#: ../lib/MDV/Control_Center.pm:660
 #, c-format
 msgid "Set WebDAV mount points"
 msgstr ""

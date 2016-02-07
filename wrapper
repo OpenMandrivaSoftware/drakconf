@@ -27,12 +27,8 @@
 use lib qw(/usr/lib/libDrakX);
 use common;
 
-if (!check_for_xserver()) {
-    exec ("/usr/sbin/drakxconf @ARGV; reset");
+if (check_for_xserver()) {
+    system("/usr/bin/pkexec", "/usr/libexec/drakconf", @ARGV);
 } else {
-    unless (my $pid = fork) {
-     print "cannot fork\n" unless defined $pid;
-     exec ("/usr/sbin/drakconf.real", @ARGV);
-    }
-
+    system("/usr/bin/pkexec", "/usr/libexec/drakxconf", @ARGV);
 }
