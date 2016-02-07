@@ -625,46 +625,6 @@ my ($steps, $view);
 
 my $release = distro_release_info();
 
-my @menu_items = (
-                  [ N("/_File"), undef, undef, undef, '<Branch>' ],
-                  [ N("/_File") . N("/_Quit"), N("<control>Q"), \&quit_global, undef, '<Item>', N("Quit") ],
-                  [ N("/_Options"), undef, undef, undef, '<Branch>' ],
-
-                  if_(0 && $isWiz,
-                      [ join('', @{$options{wiz_expert}}), undef,
-                        sub { $option_values{expert_wizard} = $check_boxes{wiz_expert}->get_active },
-                        undef, '<CheckItem>',
-                      ],
-                     ),
-                  if_(@themes > 1,
-                      [ N("/_Themes"), undef, undef, undef, '<Branch>' ],
-                      (map {
-                          my $name = $_;
-                          [ N("/_Themes") . "/" .  ($name eq $theme ? " O  " : "      ") . "_$_", undef,
-                            sub {
-                                return if $theme eq $name;
-                                !$pending_app || splash_warning(N("This action will restart the control center.\nAny change not applied will be lost."), 1) and do {
-                                    # embedded app must be killed
-                                    kill_children();
-                                    child_just_exited();
-                                    exec "$0 --theme $name";
-                                };
-                            }, undef, '<CheckItem>'
-                          ];
-		      } @themes),
-                      [ N("/_Themes") . N("/_More themes"), undef, \&more_themes, undef, '<Item>' ]
-                     ),
-                  [ N("/_Help"), undef, undef, undef, '<Branch>' ],
-                  [ N("/_Help") . N("/_Help"), undef, \&run_help, undef, '<Item>', N("Help") ],
-                  [ N("/_Help") . N("/_Release notes"), undef,  sub { run_browser('Release_Notes') }, undef, '<Item>', N("Help") ],
-                  [ N("/_Help") . N("/What's _New?"), undef,  sub { run_browser("New") }, undef, '<Item>', N("Help") ],
-                  [ N("/_Help") . N("/_Errata"), undef,  sub { run_browser('Release_Notes#Errata') }, undef, '<Item>', N("Help") ],
-                  [ N("/_Help") . N("/_Report Bug"), undef, sub {
-                        run_program::raw({ detach => 1, as_user => 1 }, 'drakbug', '--report', (split(/\s/, $pending_app))[0] || 'drakconf');
-                      }, undef, '<Item>' ],
-                  [ N("/_Help") . N("/_About..."), undef, \&about_mdk_cc, undef, '<Item>' ]
-                 );
-
 
 sub run_help() {
     run_program::raw({ detach => 1, as_user => 1 }, 'drakhelp', '--id', $help_on_context);
@@ -676,11 +636,63 @@ sub run_browser {
     run_program::raw({ detach => 1, as_user => 1 }, '/usr/bin/www-browser', $url);
 }
 
-my ($menu, $factory) = create_factory_menu($window_global, @menu_items);
+my $ui = gtknew('UIManager', actions => [
+		    # [name, stock_id, value, label, accelerator, tooltip, callback]
+		    [ 'FileMenu',        undef, N("_File") ],
+		    [ 'Quit', undef, N("_Quit"),
+		      #-PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+		      #-PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+		      N("<control>Q"), undef, \&quit_global ],
+		    [ 'OptionsMenu',        undef, '_Options' ],
+		    [ 'show_log', undef, N("Display _Logs") ],
+		    [ 'HelpMenu',        undef, '_Help' ],
+		    [ 'Help', undef, N("_Help"), N("<control>H"), undef, \&run_help ],
+		    [ 'Release_notes', undef, N("_Release notes"), undef, undef,  sub { run_browser('Release_Notes') } ],
+		    [ 'What s New', undef, N("What's _New?"), undef, undef,  sub { run_browser("New") } ],
+		    [ 'Errata', undef, N("_Errata"), undef, undef,  sub { run_browser('Release_Notes#Errata') } ],
+		    [ 'Report Bug', undef, N("_Report Bug"), undef, undef, sub {
+                        run_program::raw({ detach => 1, as_user => 1 }, 'drakbug', '--report', (split(/\s/, $pending_app))[0] || 'drakconf');
+                      } ],
+		    [ 'About', undef, N("_About..."), '', undef, \&about_mga_cc ],
+		],
+		toggle_actions => [
+		    [ 'Show_Logs', undef, N("Display _Logs"), undef, undef, 		      sub  {
+			  $option_values{show_log} = $check_boxes{show_log}->get_active;
+			  if ($option_values{show_log}) {
+			      start_logdrake();
+			  } else {
+			      kill_logdrake();
+		  }
+		      } ], 
 
-# to retrieve a path, one must prevent "accelerators completion":
-sub get_path { join('', map { my $i = $_; $i =~ s/_//g; $i } @_) }
-
+                  if_(0 && $isWiz,
+                      [ 'Expert_Wizard', undef, N("Expert mode in _wizards"), undef, undef,
+                        sub { $option_values{expert_wizard} = $check_boxes{wiz_expert}->get_active },
+                      ],
+                     ),
+ 
+		],
+		string =>
+		qq(<ui>
+  <menubar name='MenuBar'>
+    <menu action='FileMenu'>
+      <menuitem action='Quit'/>
+    </menu>
+    <menu action='OptionsMenu'>
+      <menuitem action='show_log'/>
+    </menu>
+    <menu action='HelpMenu'>
+      <menuitem action='Help'/>
+      <menuitem action='Release_notes'/>
+      <menuitem action='What s New'/>
+      <menuitem action='Errata'/>
+      <menuitem action='Report Bug'/>
+      <menuitem action='About'/>
+    </menu>
+  </menubar>
+</ui>));
+my $menu = $ui->get_widget('/MenuBar');
+ 
 my @buttons;
 my $offset = 15;
 
@@ -734,6 +746,7 @@ gtkadd($window_global,
 $view->set_size_request(-1, -1);
 
 $window_global->signal_connect(delete_event => \&quit_global);
+$window_global->add_accel_group($ui->get_accel_group);
 
 my $accel = Gtk3::AccelGroup->new;
 $accel->connect(Gtk3::Gdk::keyval_from_name('F1'), [], ['visible'], \&run_help);
