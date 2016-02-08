@@ -82,7 +82,7 @@ our %programs =
 
    "Boot Config" =>
    {
-    binary => "$bindir/kcmshell4 grub2",
+    binary => "kcmshell4 grub2",
     embedded => -1,
     description => N("Set up boot system"),
     long_description => N("Set up how the system boots"),
@@ -173,7 +173,7 @@ our %programs =
 
    "Firewall" =>
    {
-    binary => "$bindir/firewall-config",
+    binary => "firewall-config",
     embedded => -1,
     description => N("Set up your personal firewall"),
     long_description => N("Set up a personal firewall in order to protect the computer and the network"),
@@ -284,7 +284,7 @@ our %programs =
 
    "Localization" =>
    {
-    binary => "$bindir/localedrake",
+    binary => "localedrake",
     embedded => 1,
     icon => 'localedrake',
     description => N("Manage localization for your system"),
@@ -294,7 +294,7 @@ our %programs =
 
    "Logs" =>
    {
-    binary => "$bindir/false",
+    binary => "false",
     embedded => 1,
     description => N("View and search system logs"),
     long_description => N("View and search system logs"),
@@ -332,7 +332,7 @@ our %programs =
 
    "OpenMandriva Update" =>
    {
-    binary => "MandrivaUpdate",
+    binary => "OnlineUpdate",
     embedded => 1,
     description => N("Update your system"),
     long_description => N("Look at available updates and apply any fixes or upgrades to installed packages"),
@@ -343,7 +343,7 @@ our %programs =
 
    "Menus" =>
    {
-    binary => "$bindir/drakmenustyle",
+    binary => "drakmenustyle",
     embedded => 1,
     description => N("Menu Style"),
     long_description => N("Menu Style Configuration"),
@@ -465,7 +465,7 @@ our %programs =
 
    "Programs scheduling" =>
    {
-    binary => "$xbindir/drakcronat",
+    binary => "drakcronat",
     embedded => 1,
     description => N("Scheduled tasks"),
     long_description => N("Schedule programs to run periodically or at given times"),
@@ -484,7 +484,7 @@ our %programs =
 
    "Remote Control" =>
    {
-    binary => "$bindir/rfbdrake",
+    binary => "rfbdrake",
     embedded => 1,
     description => N("Remote Control (Linux/Unix, Windows)"),
     long_description => N("Remote Control of another machine (Linux/Unix, Windows)"),

@@ -337,7 +337,6 @@ my @tree = (
             {
                 title => N("Configure graphics"),
                 list => [
-                    "3D",
                     "Graphical server configuration",
                 ]
             },
