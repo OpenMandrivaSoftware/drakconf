@@ -1435,7 +1435,6 @@ sub about_cc() {
 
     my ($previous_type, $not_first_title, $not_first_block);
     my $locale = lang::read;
-    require Gtk3::Pango;
     foreach my $line (grep { $_ ne "\n" && !/^#/ } cat_(top(glob("/usr/share/doc/distro-release-*/CREDITS"), glob("/usr/share/doc/distro-release-*/CREDITS.$locale->{lang}")))) {
         $line =~ s/ Limited Edition 2005 \|//;
         if (my ($type, $comment, $contributor) = split(/\|/, $line, 3)) {
