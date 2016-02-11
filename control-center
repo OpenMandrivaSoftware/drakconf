@@ -537,7 +537,8 @@ my @tree = (
                 title => N("Configure boot steps"),
                 list => [
                     #if_(detect_devices::floppies, "Boot Disk"), # kernel is too big
-                    "Boot Config",
+# (tpg) hide bootloader config as it does not work
+#                    "Boot Config",
                     "Display Manager chooser",
                 ]
             },

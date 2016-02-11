@@ -79,15 +79,15 @@ our %programs =
     icon => 'snapshots',
    },
 
-
-   "Boot Config" =>
-   {
-    binary => "kcmshell4 grub2",
-    embedded => -1,
-    description => N("Set up boot system"),
-    long_description => N("Set up how the system boots"),
-    icon => 'drakboot-mdk',
-   },
+# (tpg) hide it as it does not work like expected
+#   "Boot Config" =>
+#   {
+#    binary => "drakboot --boot",
+#    embedded => -1,
+#    description => N("Set up boot system"),
+#    long_description => N("Set up how the system boots"),
+#    icon => 'drakboot-mdk',
+#   },
 
 
    "Boot Theme" =>
