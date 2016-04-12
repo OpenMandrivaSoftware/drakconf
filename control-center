@@ -1475,7 +1475,7 @@ sub about_cc() {
     }
     $list->get_selection->set_mode('none');
 
-    gtkpack_($window_about->vbox,
+    gtkpack_($window_about->get_child,
              (0, Gtk3::Banner->new('/usr/share/icons/large/drakconf.png',
                                    #-PO: Here, first %s will be replaced by 'Mandriva Linux'
                                    #-PO: second %s will be replaced by the version (eg: "Mandriva Linux 2007.1 (Discovery) Control Center")
