@@ -938,33 +938,33 @@ msgstr "Aðrir ráðgjafar"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Valkostir"
+msgid "_Options"
+msgstr "_Valkostir"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Birta _Annála"
+msgid "Display _Logs"
+msgstr "Birta _Annála"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Innvafinn hamur"
+msgid "_Embedded Mode"
+msgstr "_Innvafinn hamur"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Sérfræðingshamur í _ráðgjöfum"
+msgid "Expert mode in _wizards"
+msgstr "Sérfræðingshamur í _ráðgjöfum"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Skrá"
+msgid "_File"
+msgstr "_Skrá"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Hætta"
+msgid "_Quit"
+msgstr "_Hætta"
 
 #: ../control-center:627
 #, c-format
@@ -978,8 +978,8 @@ msgstr "Hætta"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Þemu"
+msgid "_Themes"
+msgstr "_Þemu"
 
 #: ../control-center:654
 #, c-format
@@ -992,15 +992,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Fleiri þemu"
+msgid "_More themes"
+msgstr "_Fleiri þemu"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Hjálp"
+msgid "_Help"
+msgstr "_Hjálp"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1010,28 +1010,28 @@ msgstr "Hjálp"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Athugasemdir uppfærslu"
+msgid "_Release notes"
+msgstr "_Athugasemdir uppfærslu"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Hvað er _Nýtt?"
+msgid "What's _New?"
+msgstr "Hvað er _Nýtt?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Leiðréttingar"
+msgid "_Errata"
+msgstr "_Leiðréttingar"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Senda villutilkynningu"
+msgid "_Report Bug"
+msgstr "_Senda villutilkynningu"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Um..."
+msgid "_About..."
+msgstr "_Um..."
 
 #: ../control-center:730
 #, c-format

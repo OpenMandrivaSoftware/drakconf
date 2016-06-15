@@ -915,33 +915,33 @@ msgstr "Dodatne teme"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Odrednice"
+msgid "_Options"
+msgstr "_Odrednice"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Prikaži _Zapise"
+msgid "Display _Logs"
+msgstr "Prikaži _Zapise"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Ugradbeni Mod"
+msgid "_Embedded Mode"
+msgstr "_Ugradbeni Mod"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Stručni mod u _čarobnjacima"
+msgid "Expert mode in _wizards"
+msgstr "Stručni mod u _čarobnjacima"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Datoteka"
+msgid "_File"
+msgstr "_Datoteka"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Završi"
+msgid "_Quit"
+msgstr "_Završi"
 
 #: ../control-center:627
 #, c-format
@@ -955,8 +955,8 @@ msgstr "Izlaz"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Teme"
+msgid "_Themes"
+msgstr "_Teme"
 
 #: ../control-center:654
 #, c-format
@@ -969,15 +969,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Dodatne teme"
+msgid "_More themes"
+msgstr "_Dodatne teme"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Pomoć"
+msgid "_Help"
+msgstr "_Pomoć"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -987,28 +987,28 @@ msgstr "Pomoć"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/Ukloni"
+msgid "_Release notes"
+msgstr "Ukloni"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Prijavite Grešku"
+msgid "_Report Bug"
+msgstr "_Prijavite Grešku"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_O programu..."
+msgid "_About..."
+msgstr "_O programu..."
 
 #: ../control-center:730
 #, c-format
@@ -1325,7 +1325,7 @@ msgstr "Datum i vrijeme"
 #: ../lib/MDV/Control_Center.pm:179
 #, fuzzy, c-format
 msgid "Set up display manager"
-msgstr "/Prikaži Zapise"
+msgstr "Prikaži Zapise"
 
 #: ../lib/MDV/Control_Center.pm:180
 #, c-format
@@ -1809,7 +1809,7 @@ msgstr "Planiranje programa"
 #: ../data/drakdm.desktop.in.h:1
 #, fuzzy
 msgid "Display manager"
-msgstr "/Prikaži Zapise"
+msgstr "Prikaži Zapise"
 
 #: ../data/drakfloppy.desktop.in.h:1
 msgid "Boot floppy"
@@ -2047,8 +2047,8 @@ msgstr "Podešavanje..."
 #~ msgid "Set up TV card"
 #~ msgstr "TV kartica"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Ekspertni mod"
+#~ msgid "_Expert mode"
+#~ msgstr "_Ekspertni mod"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2065,11 +2065,11 @@ msgstr "Podešavanje..."
 #~ msgstr "(dizajn)  "
 
 #, fuzzy
-#~ msgid "/_Profiles"
-#~ msgstr "/_Datoteka"
+#~ msgid "_Profiles"
+#~ msgstr "_Datoteka"
 
-#~ msgid "/_New"
-#~ msgstr "/_Nova"
+#~ msgid "_New"
+#~ msgstr "_Nova"
 
 #~ msgid "New profile..."
 #~ msgstr "Novi profil..."

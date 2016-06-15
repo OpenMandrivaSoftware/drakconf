@@ -921,17 +921,17 @@ msgstr ""
 
 #: ../control-center:618 ../control-center:619
 #, c-format
-msgid "/_Options"
+msgid "_Options"
 msgstr ""
 
 #: ../control-center:618
 #, c-format
-msgid "/_Embedded Mode"
+msgid "_Embedded Mode"
 msgstr ""
 
 #: ../control-center:619
 #, c-format
-msgid "/Expert mode in _wizards"
+msgid "Expert mode in _wizards"
 msgstr ""
 
 #: ../control-center:641

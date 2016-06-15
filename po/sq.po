@@ -918,33 +918,33 @@ msgstr "Tema shtesë"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opcionet"
+msgid "_Options"
+msgstr "_Opcionet"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Shfaqi _Të përditëshmet"
+msgid "Display _Logs"
+msgstr "Shfaqi _Të përditëshmet"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Embedded Modë"
+msgid "_Embedded Mode"
+msgstr "_Embedded Modë"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Modë Ekspert në _asistent"
+msgid "Expert mode in _wizards"
+msgstr "Modë Ekspert në _asistent"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Skedare"
+msgid "_File"
+msgstr "_Skedare"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Dil"
+msgid "_Quit"
+msgstr "_Dil"
 
 #: ../control-center:627
 #, c-format
@@ -958,8 +958,8 @@ msgstr "Dil"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Temat"
+msgid "_Themes"
+msgstr "_Temat"
 
 #: ../control-center:654
 #, c-format
@@ -972,15 +972,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Më shumë Tema"
+msgid "_More themes"
+msgstr "_Më shumë Tema"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Ndihmë"
+msgid "_Help"
+msgstr "_Ndihmë"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -990,28 +990,28 @@ msgstr "Ndihmë"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Zhduke"
+msgid "_Release notes"
+msgstr "_Zhduke"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Raport Defekt"
+msgid "_Report Bug"
+msgstr "_Raport Defekt"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Në lidhje me..."
+msgid "_About..."
+msgstr "_Në lidhje me..."
 
 #: ../control-center:730
 #, c-format
@@ -2084,8 +2084,8 @@ msgstr "Konfiguroje..."
 #~ msgid "Set up TV card"
 #~ msgstr "Kartelë TV"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Modë ekspert"
+#~ msgid "_Expert mode"
+#~ msgstr "_Modë ekspert"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2109,12 +2109,12 @@ msgstr "Konfiguroje..."
 #~ "MenuDrake ju jep një dorë për të ndryshuar programet që tregohen në meny"
 
 #, fuzzy
-#~ msgid "/_Profiles"
-#~ msgstr "/_Skedare"
+#~ msgid "_Profiles"
+#~ msgstr "_Skedare"
 
 #, fuzzy
-#~ msgid "/_New"
-#~ msgstr "/File/_I Ri"
+#~ msgid "_New"
+#~ msgstr "File/_I Ri"
 
 #~ msgid "Ok"
 #~ msgstr "Ok"

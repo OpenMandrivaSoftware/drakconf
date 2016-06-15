@@ -919,33 +919,33 @@ msgstr "Qoʻshimcha yordamchilar"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Moslamalar"
+msgid "_Options"
+msgstr "_Moslamalar"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/_Loglarni koʻrsatish"
+msgid "Display _Logs"
+msgstr "_Loglarni koʻrsatish"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
+msgid "_Embedded Mode"
 msgstr ""
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Yordamchilarda _ekspert usuli"
+msgid "Expert mode in _wizards"
+msgstr "Yordamchilarda _ekspert usuli"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fayl"
+msgid "_File"
+msgstr "_Fayl"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/Chi_qish"
+msgid "_Quit"
+msgstr "Chi_qish"
 
 #: ../control-center:627
 #, c-format
@@ -959,8 +959,8 @@ msgstr "Chiqish"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Mavzular"
+msgid "_Themes"
+msgstr "_Mavzular"
 
 #: ../control-center:654
 #, c-format
@@ -973,15 +973,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Koʻproq mavzular"
+msgid "_More themes"
+msgstr "_Koʻproq mavzular"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Yordam"
+msgid "_Help"
+msgstr "_Yordam"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -991,28 +991,28 @@ msgstr "Yordam"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
+msgid "_Release notes"
 msgstr ""
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Xatoliklar"
+msgid "_Errata"
+msgstr "_Xatoliklar"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Xato haqida xabar qilish"
+msgid "_Report Bug"
+msgstr "_Xato haqida xabar qilish"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Dastur haqida..."
+msgid "_About..."
+msgstr "_Dastur haqida..."
 
 #: ../control-center:730
 #, c-format

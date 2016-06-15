@@ -916,33 +916,33 @@ msgstr "Əlavə örtüklər"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Seçimlər"
+msgid "_Options"
+msgstr "_Seçimlər"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Qeydləri _Göstər"
+msgid "Display _Logs"
+msgstr "Qeydləri _Göstər"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Hopdurulmuş Mod"
+msgid "_Embedded Mode"
+msgstr "_Hopdurulmuş Mod"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Sehirbazlarda _mütəxəssis modu"
+msgid "Expert mode in _wizards"
+msgstr "Sehirbazlarda _mütəxəssis modu"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fayl"
+msgid "_File"
+msgstr "_Fayl"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/Çı_x"
+msgid "_Quit"
+msgstr "Çı_x"
 
 #: ../control-center:627
 #, c-format
@@ -956,8 +956,8 @@ msgstr "Çıx"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/Ö_rtüklər"
+msgid "_Themes"
+msgstr "Ö_rtüklər"
 
 #: ../control-center:654
 #, c-format
@@ -970,15 +970,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Daha çox örtük"
+msgid "_More themes"
+msgstr "_Daha çox örtük"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Yardım"
+msgid "_Help"
+msgstr "_Yardım"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -988,28 +988,28 @@ msgstr "Yardım"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Sil"
+msgid "_Release notes"
+msgstr "_Sil"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Xəta Raportu Göndər"
+msgid "_Report Bug"
+msgstr "_Xəta Raportu Göndər"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Haqqında..."
+msgid "_About..."
+msgstr "_Haqqında..."
 
 #: ../control-center:730
 #, c-format
@@ -2045,8 +2045,8 @@ msgstr "Groupware qurğuları"
 #~ msgid "Set up TV card"
 #~ msgstr "TV kartı"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Mütəxəssis modu"
+#~ msgid "_Expert mode"
+#~ msgstr "_Mütəxəssis modu"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2071,11 +2071,11 @@ msgstr "Groupware qurğuları"
 #~ "\n"
 #~ "Bunu həqiqətən də etmək istəyirsiniz?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profillər"
+#~ msgid "_Profiles"
+#~ msgstr "_Profillər"
 
-#~ msgid "/_New"
-#~ msgstr "/_Yeni"
+#~ msgid "_New"
+#~ msgstr "_Yeni"
 
 #~ msgid "New profile..."
 #~ msgstr "Yeni profil..."

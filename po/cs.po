@@ -949,33 +949,33 @@ msgstr "Další průvodci"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Volby"
+msgid "_Options"
+msgstr "_Volby"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Zobrazit _logy"
+msgid "Display _Logs"
+msgstr "Zobrazit _logy"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Zapouzdřený režim"
+msgid "_Embedded Mode"
+msgstr "_Zapouzdřený režim"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Expertní režim v _průvodcích"
+msgid "Expert mode in _wizards"
+msgstr "Expertní režim v _průvodcích"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Soubor"
+msgid "_File"
+msgstr "_Soubor"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Konec"
+msgid "_Quit"
+msgstr "_Konec"
 
 #: ../control-center:627
 #, c-format
@@ -989,8 +989,8 @@ msgstr "Konec"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Témata vzhledu"
+msgid "_Themes"
+msgstr "_Témata vzhledu"
 
 #: ../control-center:654
 #, c-format
@@ -1003,15 +1003,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Další témata vzhledu"
+msgid "_More themes"
+msgstr "_Další témata vzhledu"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Nápověda"
+msgid "_Help"
+msgstr "_Nápověda"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1021,28 +1021,28 @@ msgstr "Nápověda"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Poznámky k vydání"
+msgid "_Release notes"
+msgstr "_Poznámky k vydání"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Co je _nového?"
+msgid "What's _New?"
+msgstr "Co je _nového?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/S_eznam známých chyb"
+msgid "_Errata"
+msgstr "S_eznam známých chyb"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/Nah_lásit chybu"
+msgid "_Report Bug"
+msgstr "Nah_lásit chybu"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/O _aplikaci..."
+msgid "_About..."
+msgstr "O _aplikaci..."
 
 #: ../control-center:730
 #, c-format

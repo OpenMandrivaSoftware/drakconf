@@ -985,33 +985,33 @@ msgstr "Asistenți suplimentari"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opțiuni"
+msgid "_Options"
+msgstr "_Opțiuni"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Afișează _jurnale"
+msgid "Display _Logs"
+msgstr "Afișează _jurnale"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Mod încapsulat"
+msgid "_Embedded Mode"
+msgstr "_Mod încapsulat"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Mod expert în _asistenți"
+msgid "Expert mode in _wizards"
+msgstr "Mod expert în _asistenți"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fișier"
+msgid "_File"
+msgstr "_Fișier"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Terminare"
+msgid "_Quit"
+msgstr "_Terminare"
 
 #: ../control-center:627
 #, c-format
@@ -1025,8 +1025,8 @@ msgstr "Terminare"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Teme"
+msgid "_Themes"
+msgstr "_Teme"
 
 #: ../control-center:654
 #, c-format
@@ -1039,15 +1039,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Mai multe teme"
+msgid "_More themes"
+msgstr "_Mai multe teme"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Ajutor"
+msgid "_Help"
+msgstr "_Ajutor"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1057,28 +1057,28 @@ msgstr "Ajutor"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Nota ediției"
+msgid "_Release notes"
+msgstr "_Nota ediției"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Ce este _nou?"
+msgid "What's _New?"
+msgstr "Ce este _nou?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Erată"
+msgid "_Errata"
+msgstr "_Erată"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Raportare eroare"
+msgid "_Report Bug"
+msgstr "_Raportare eroare"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Despre..."
+msgid "_About..."
+msgstr "_Despre..."
 
 #: ../control-center:730
 #, c-format

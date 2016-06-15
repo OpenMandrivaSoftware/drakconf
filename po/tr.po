@@ -943,33 +943,33 @@ msgstr "Ek Sihirbazlar"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Seçenekler"
+msgid "_Options"
+msgstr "_Seçenekler"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/_Kayıtları Göster"
+msgid "Display _Logs"
+msgstr "_Kayıtları Göster"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Gömülü Kip"
+msgid "_Embedded Mode"
+msgstr "_Gömülü Kip"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Si_hirbaz içinde Uzman kipi"
+msgid "Expert mode in _wizards"
+msgstr "Si_hirbaz içinde Uzman kipi"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Dosya"
+msgid "_File"
+msgstr "_Dosya"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/Çı_k"
+msgid "_Quit"
+msgstr "Çı_k"
 
 #: ../control-center:627
 #, c-format
@@ -983,8 +983,8 @@ msgstr "Çık"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Temalar"
+msgid "_Themes"
+msgstr "_Temalar"
 
 #: ../control-center:654
 #, c-format
@@ -997,15 +997,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Daha çok tema"
+msgid "_More themes"
+msgstr "_Daha çok tema"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Yardım"
+msgid "_Help"
+msgstr "_Yardım"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1015,28 +1015,28 @@ msgstr "Yardım"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/Sü_rüm notları"
+msgid "_Release notes"
+msgstr "Sü_rüm notları"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/ Ne _Yeni?"
+msgid "What's _New?"
+msgstr " Ne _Yeni?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Errata"
+msgid "_Errata"
+msgstr "_Errata"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Hata raporla"
+msgid "_Report Bug"
+msgstr "_Hata raporla"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/Hakkın_da..."
+msgid "_About..."
+msgstr "Hakkın_da..."
 
 #: ../control-center:730
 #, c-format

@@ -919,33 +919,33 @@ msgstr "Addisionele temas"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opsies"
+msgid "_Options"
+msgstr "_Opsies"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Vertoon _Staaflêers"
+msgid "Display _Logs"
+msgstr "Vertoon _Staaflêers"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Verskansde Modus"
+msgid "_Embedded Mode"
+msgstr "_Verskansde Modus"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Kenner modus met _wysgeer gebruik"
+msgid "Expert mode in _wizards"
+msgstr "Kenner modus met _wysgeer gebruik"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Lêer"
+msgid "_File"
+msgstr "_Lêer"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Verlaat"
+msgid "_Quit"
+msgstr "_Verlaat"
 
 #: ../control-center:627
 #, c-format
@@ -959,8 +959,8 @@ msgstr "Verlaat"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Temas"
+msgid "_Themes"
+msgstr "_Temas"
 
 #: ../control-center:654
 #, c-format
@@ -973,15 +973,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Addisionele temas"
+msgid "_More themes"
+msgstr "_Addisionele temas"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Hulp"
+msgid "_Help"
+msgstr "_Hulp"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -991,28 +991,28 @@ msgstr "Hulp"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Skrap"
+msgid "_Release notes"
+msgstr "_Skrap"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Meld 'n Fout"
+msgid "_Report Bug"
+msgstr "_Meld 'n Fout"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Aangaande..."
+msgid "_About..."
+msgstr "_Aangaande..."
 
 #: ../control-center:730
 #, c-format
@@ -2070,8 +2070,8 @@ msgstr "Besig met die opstelling....."
 #~ msgid "Set up TV card"
 #~ msgstr "TV-kaart"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Kundige modus"
+#~ msgid "_Expert mode"
+#~ msgstr "_Kundige modus"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2094,8 +2094,8 @@ msgstr "Besig met die opstelling....."
 #~ msgstr "MenuDrake help om programe op die keuselys te spesifiseer"
 
 #, fuzzy
-#~ msgid "/_Profiles"
-#~ msgstr "/_Lêer"
+#~ msgid "_Profiles"
+#~ msgstr "_Lêer"
 
 #~ msgid "Ok"
 #~ msgstr "OK"

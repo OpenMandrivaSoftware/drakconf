@@ -942,33 +942,33 @@ msgstr "Допълнителни помощници"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Настройки"
+msgid "_Options"
+msgstr "_Настройки"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Показване на _дневниците"
+msgid "Display _Logs"
+msgstr "Показване на _дневниците"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Вграден режим"
+msgid "_Embedded Mode"
+msgstr "_Вграден режим"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Експертен режим при помощниците"
+msgid "Expert mode in _wizards"
+msgstr "Експертен режим при помощниците"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Файл"
+msgid "_File"
+msgstr "_Файл"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Изход"
+msgid "_Quit"
+msgstr "_Изход"
 
 #: ../control-center:627
 #, c-format
@@ -982,8 +982,8 @@ msgstr "Изход"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Теми"
+msgid "_Themes"
+msgstr "_Теми"
 
 #: ../control-center:654
 #, c-format
@@ -996,15 +996,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Още теми"
+msgid "_More themes"
+msgstr "_Още теми"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Помощ"
+msgid "_Help"
+msgstr "_Помощ"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1014,28 +1014,28 @@ msgstr "Помощ"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Бележки за текущата версия"
+msgid "_Release notes"
+msgstr "_Бележки за текущата версия"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/_Какво e новото в текущата версия"
+msgid "What's _New?"
+msgstr "_Какво e новото в текущата версия"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/О_ткрити грешки (Errata)"
+msgid "_Errata"
+msgstr "О_ткрити грешки (Errata)"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Информирай за бъг"
+msgid "_Report Bug"
+msgstr "_Информирай за бъг"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Относно..."
+msgid "_About..."
+msgstr "_Относно..."
 
 #: ../control-center:730
 #, c-format
@@ -2131,8 +2131,8 @@ msgstr "Конфигуриране нa компютър"
 #~ msgstr "Конфигуриране на скенер"
 
 #, fuzzy
-#~ msgid "/_Expert mode"
-#~ msgstr "/Експертен режим при помощниците"
+#~ msgid "_Expert mode"
+#~ msgstr "Експертен режим при помощниците"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2164,11 +2164,11 @@ msgstr "Конфигуриране нa компютър"
 #~ "Сигурен ли сте ?"
 
 #, fuzzy
-#~ msgid "/_Profiles"
-#~ msgstr "/_Файл"
+#~ msgid "_Profiles"
+#~ msgstr "_Файл"
 
-#~ msgid "/_New"
-#~ msgstr "/_Нов"
+#~ msgid "_New"
+#~ msgstr "_Нов"
 
 #~ msgid "New profile..."
 #~ msgstr "Нов профил..."
@@ -2197,49 +2197,49 @@ msgstr "Конфигуриране нa компютър"
 #~ msgstr "-*-helvetica-medium-r-normal-*-20-*-100-100-p-*-iso8859-1,*-r-*"
 
 #, fuzzy
-#~ msgid "/Display Logs"
-#~ msgstr "/Показване на _дневниците"
+#~ msgid "Display Logs"
+#~ msgstr "Показване на _дневниците"
 
 #, fuzzy
-#~ msgid "/File"
-#~ msgstr "/_Файл"
+#~ msgid "File"
+#~ msgstr "_Файл"
 
 #, fuzzy
-#~ msgid "/File/-"
-#~ msgstr "/_Файл"
+#~ msgid "File/-"
+#~ msgstr "_Файл"
 
-#~ msgid "/File/Save _As"
-#~ msgstr "/Файл/Запази _като"
+#~ msgid "File/Save _As"
+#~ msgstr "Файл/Запази _като"
 
-#~ msgid "/File/_Open"
-#~ msgstr "/Файл/_Отвори"
-
-#, fuzzy
-#~ msgid "/File/_Quit"
-#~ msgstr "/_Изход"
-
-#~ msgid "/File/_Save"
-#~ msgstr "/Файл/_Запази"
+#~ msgid "File/_Open"
+#~ msgstr "Файл/_Отвори"
 
 #, fuzzy
-#~ msgid "/Help/-"
-#~ msgstr "/_Помощ"
+#~ msgid "File/_Quit"
+#~ msgstr "_Изход"
+
+#~ msgid "File/_Save"
+#~ msgstr "Файл/_Запази"
 
 #, fuzzy
-#~ msgid "/Help/_About..."
-#~ msgstr "/_Относно..."
+#~ msgid "Help/-"
+#~ msgstr "_Помощ"
 
 #, fuzzy
-#~ msgid "/Options"
-#~ msgstr "/_Настройки"
+#~ msgid "Help/_About..."
+#~ msgstr "_Относно..."
 
 #, fuzzy
-#~ msgid "/Options/Test"
-#~ msgstr "/_Настройки"
+#~ msgid "Options"
+#~ msgstr "_Настройки"
 
 #, fuzzy
-#~ msgid "/Themes"
-#~ msgstr "/_Теми"
+#~ msgid "Options/Test"
+#~ msgstr "_Настройки"
+
+#, fuzzy
+#~ msgid "Themes"
+#~ msgstr "_Теми"
 
 #, fuzzy
 #~ msgid "<control>N"

@@ -643,9 +643,9 @@ my $ui = gtknew('UIManager', actions => [
 		      #-PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
 		      #-PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
 		      N("<control>Q"), undef, \&quit_global ],
-		    [ 'OptionsMenu',        undef, '_Options' ],
+		    [ 'OptionsMenu',        undef, N("_Options") ],
 		    [ 'show_log', undef, N("Display _Logs") ],
-		    [ 'HelpMenu',        undef, '_Help' ],
+		    [ 'HelpMenu',        undef, N("_Help") ],
 		    [ 'Help', undef, N("_Help"), N("<control>H"), undef, \&run_help ],
 		    [ 'Release_notes', undef, N("_Release notes"), undef, undef,  sub { run_browser('Release_Notes') } ],
 		    [ 'What s New', undef, N("What's _New?"), undef, undef,  sub { run_browser("New") } ],

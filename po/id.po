@@ -946,33 +946,33 @@ msgstr "Wizard tambahan"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opsi"
+msgid "_Options"
+msgstr "_Opsi"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Tampilkan _Log"
+msgid "Display _Logs"
+msgstr "Tampilkan _Log"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Mode _Embedded"
+msgid "_Embedded Mode"
+msgstr "Mode _Embedded"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Mode ahli pada _wizard"
+msgid "Expert mode in _wizards"
+msgstr "Mode ahli pada _wizard"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_File"
+msgid "_File"
+msgstr "_File"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Keluar"
+msgid "_Quit"
+msgstr "_Keluar"
 
 #: ../control-center:627
 #, c-format
@@ -982,12 +982,12 @@ msgstr "<control>Q"
 #: ../control-center:627
 #, c-format
 msgid "Quit"
-msgstr "/_Keluar"
+msgstr "_Keluar"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Tema"
+msgid "_Themes"
+msgstr "_Tema"
 
 #: ../control-center:654
 #, c-format
@@ -1000,15 +1000,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/Tema _lain"
+msgid "_More themes"
+msgstr "Tema _lain"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Bantuan"
+msgid "_Help"
+msgstr "_Bantuan"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1018,28 +1018,28 @@ msgstr "Bantuan"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Catatan rilis"
+msgid "_Release notes"
+msgstr "_Catatan rilis"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Kesalahan"
+msgid "_Errata"
+msgstr "_Kesalahan"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Laporkan Bug"
+msgid "_Report Bug"
+msgstr "_Laporkan Bug"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Keterangan"
+msgid "_About..."
+msgstr "_Keterangan"
 
 #: ../control-center:730
 #, c-format
@@ -1968,8 +1968,8 @@ msgstr "Konfigurasikan Komputer Anda"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Tentukan tempat mount drive floppy"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Upload daftar perangkat keras"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Upload daftar perangkat keras"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>U"
@@ -2091,8 +2091,8 @@ msgstr "Konfigurasikan Komputer Anda"
 #~ msgid "Set up TV card"
 #~ msgstr "Setting kartu TV"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Mode ahli"
+#~ msgid "_Expert mode"
+#~ msgstr "_Mode ahli"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Tentukan titik mount Samba"
@@ -2125,11 +2125,11 @@ msgstr "Konfigurasikan Komputer Anda"
 #~ "\n"
 #~ "Apakah Anda yakin akan melakukan pergantian?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profil"
+#~ msgid "_Profiles"
+#~ msgstr "_Profil"
 
-#~ msgid "/_New"
-#~ msgstr "/_Baru"
+#~ msgid "_New"
+#~ msgstr "_Baru"
 
 #~ msgid "New profile..."
 #~ msgstr "Profil baru..."

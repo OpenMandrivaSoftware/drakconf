@@ -934,33 +934,33 @@ msgstr "Đồ thuật bổ sung"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/Tùy _chọn"
+msgid "_Options"
+msgstr "Tùy _chọn"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Hiển thị _Bản ghi (Log)"
+msgid "Display _Logs"
+msgstr "Hiển thị _Bản ghi (Log)"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Chế độ _Nhúng"
+msgid "_Embedded Mode"
+msgstr "Chế độ _Nhúng"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Chế độ chuyên gia trong _đồ thuật"
+msgid "Expert mode in _wizards"
+msgstr "Chế độ chuyên gia trong _đồ thuật"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Tệp"
+msgid "_File"
+msgstr "_Tệp"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/T_hoát"
+msgid "_Quit"
+msgstr "T_hoát"
 
 #: ../control-center:627
 #, c-format
@@ -974,8 +974,8 @@ msgstr "Thoát"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/Th_emes"
+msgid "_Themes"
+msgstr "Th_emes"
 
 #: ../control-center:654
 #, c-format
@@ -988,15 +988,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/Thê_m theme"
+msgid "_More themes"
+msgstr "Thê_m theme"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/Trợ _giúp"
+msgid "_Help"
+msgstr "Trợ _giúp"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1006,28 +1006,28 @@ msgstr "Trợ giúp"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Xóa"
+msgid "_Release notes"
+msgstr "_Xóa"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/Báo _Cáo Lỗi"
+msgid "_Report Bug"
+msgstr "Báo _Cáo Lỗi"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/Giới t_hiệu..."
+msgid "_About..."
+msgstr "Giới t_hiệu..."
 
 #: ../control-center:730
 #, c-format
@@ -1965,8 +1965,8 @@ msgstr "Cấu hình máy tính"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Lập điểm gắn kết ổ đĩa mềm"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Tải lên danh sách phần cứng"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Tải lên danh sách phần cứng"
 
 #, fuzzy
 #~ msgid "<control>U"
@@ -2089,8 +2089,8 @@ msgstr "Cấu hình máy tính"
 #~ msgid "Set up TV card"
 #~ msgstr "Thiết lập TV card"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/Chế độ _Chuyên Gia"
+#~ msgid "_Expert mode"
+#~ msgstr "Chế độ _Chuyên Gia"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Lập điểm gắn kết Samba"
@@ -2121,11 +2121,11 @@ msgstr "Cấu hình máy tính"
 #~ "\n"
 #~ "Bạn có chắc chắn muốn chuyển không?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Lý lịch"
+#~ msgid "_Profiles"
+#~ msgstr "_Lý lịch"
 
-#~ msgid "/_New"
-#~ msgstr "/Mớ_i"
+#~ msgid "_New"
+#~ msgstr "Mớ_i"
 
 #~ msgid "New profile..."
 #~ msgstr "Lý lịch mới..."

@@ -959,33 +959,33 @@ msgstr "Zusätzliche Assistenten"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Einstellungen"
+msgid "_Options"
+msgstr "_Einstellungen"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/_Protokolle anzeigen"
+msgid "Display _Logs"
+msgstr "_Protokolle anzeigen"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Eingebetteter Modus"
+msgid "_Embedded Mode"
+msgstr "_Eingebetteter Modus"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/_Assistenten im Expertenmodus starten"
+msgid "Expert mode in _wizards"
+msgstr "_Assistenten im Expertenmodus starten"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Datei"
+msgid "_File"
+msgstr "_Datei"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Beenden"
+msgid "_Quit"
+msgstr "_Beenden"
 
 #: ../control-center:627
 #, c-format
@@ -999,8 +999,8 @@ msgstr "Beenden"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Designs"
+msgid "_Themes"
+msgstr "_Designs"
 
 #: ../control-center:654
 #, c-format
@@ -1013,15 +1013,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Mehr Designs"
+msgid "_More themes"
+msgstr "_Mehr Designs"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Hilfe"
+msgid "_Help"
+msgstr "_Hilfe"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1031,28 +1031,28 @@ msgstr "Hilfe"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Release Informationen"
+msgid "_Release notes"
+msgstr "_Release Informationen"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Was ist _neu?"
+msgid "What's _New?"
+msgstr "Was ist _neu?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Errata"
+msgid "_Errata"
+msgstr "_Errata"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Fehler melden"
+msgid "_Report Bug"
+msgstr "_Fehler melden"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Über ..."
+msgid "_About..."
+msgstr "_Über ..."
 
 #: ../control-center:730
 #, c-format

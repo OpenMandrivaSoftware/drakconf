@@ -945,33 +945,33 @@ msgstr "Asistentes adicionales"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opciones"
+msgid "_Options"
+msgstr "_Opciones"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Amsoar _Logs"
+msgid "Display _Logs"
+msgstr "Amsoar _Logs"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Mou _Embebíu"
+msgid "_Embedded Mode"
+msgstr "Mou _Embebíu"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Mou e_spertu nos asistentes"
+msgid "Expert mode in _wizards"
+msgstr "Mou e_spertu nos asistentes"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Ficheru"
+msgid "_File"
+msgstr "_Ficheru"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Colar"
+msgid "_Quit"
+msgstr "_Colar"
 
 #: ../control-center:627
 #, c-format
@@ -985,8 +985,8 @@ msgstr "Colar"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Temes"
+msgid "_Themes"
+msgstr "_Temes"
 
 #: ../control-center:654
 #, c-format
@@ -999,15 +999,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Más temes"
+msgid "_More themes"
+msgstr "_Más temes"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Aida"
+msgid "_Help"
+msgstr "_Aida"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1017,28 +1017,28 @@ msgstr "Aida"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Notes de versión"
+msgid "_Release notes"
+msgstr "_Notes de versión"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/¿Qué hai de _Nuevo?"
+msgid "What's _New?"
+msgstr "¿Qué hai de _Nuevo?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Errata"
+msgid "_Errata"
+msgstr "_Errata"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Informar d'un fallu"
+msgid "_Report Bug"
+msgstr "_Informar d'un fallu"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Tocante a..."
+msgid "_About..."
+msgstr "_Tocante a..."
 
 #: ../control-center:730
 #, c-format
@@ -1980,8 +1980,8 @@ msgstr "Configurar l'ordenador"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Configurar donde se monta su disquetera"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Subir la lista de hardware"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Subir la lista de hardware"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>U"

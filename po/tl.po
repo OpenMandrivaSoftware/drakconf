@@ -937,33 +937,33 @@ msgstr "Mga karagdagang theme"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/Mga _Option"
+msgid "_Options"
+msgstr "Mga _Option"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Ipakita ang mga _Log"
+msgid "Display _Logs"
+msgstr "Ipakita ang mga _Log"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Embedded na Mode"
+msgid "_Embedded Mode"
+msgstr "_Embedded na Mode"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Bihasang mode sa mga _wizard"
+msgid "Expert mode in _wizards"
+msgstr "Bihasang mode sa mga _wizard"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_File"
+msgid "_File"
+msgstr "_File"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Quit"
+msgid "_Quit"
+msgstr "_Quit"
 
 #: ../control-center:627
 #, c-format
@@ -977,8 +977,8 @@ msgstr "Quit"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/Mga _Tema"
+msgid "_Themes"
+msgstr "Mga _Tema"
 
 #: ../control-center:654
 #, c-format
@@ -991,15 +991,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Marami pang theme"
+msgid "_More themes"
+msgstr "_Marami pang theme"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Tulong"
+msgid "_Help"
+msgstr "_Tulong"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1009,28 +1009,28 @@ msgstr "Tulong"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Tanggalin"
+msgid "_Release notes"
+msgstr "_Tanggalin"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/Mag-ulat ng _Bug"
+msgid "_Report Bug"
+msgstr "Mag-ulat ng _Bug"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/Tung_kol sa..."
+msgid "_About..."
+msgstr "Tung_kol sa..."
 
 #: ../control-center:730
 #, c-format
@@ -2059,8 +2059,8 @@ msgstr "I-configure ang groupware"
 #~ msgid "Set up TV card"
 #~ msgstr "TV card"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/Bi_hasang mode"
+#~ msgid "_Expert mode"
+#~ msgstr "Bi_hasang mode"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2086,11 +2086,11 @@ msgstr "I-configure ang groupware"
 #~ "\n"
 #~ "Sigurado ka bang gusto mong gawin ang paglipat?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/Mga _Profile"
+#~ msgid "_Profiles"
+#~ msgstr "Mga _Profile"
 
-#~ msgid "/_New"
-#~ msgstr "/_Bago"
+#~ msgid "_New"
+#~ msgstr "_Bago"
 
 #~ msgid "New profile..."
 #~ msgstr "Bagong profile..."

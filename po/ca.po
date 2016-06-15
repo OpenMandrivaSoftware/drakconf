@@ -946,33 +946,33 @@ msgstr "Auxiliars addicionals"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opcions"
+msgid "_Options"
+msgstr "_Opcions"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Visua_litza els registres"
+msgid "Display _Logs"
+msgstr "Visua_litza els registres"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Mod_e incrustat"
+msgid "_Embedded Mode"
+msgstr "Mod_e incrustat"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Mode expert en els _assistents"
+msgid "Expert mode in _wizards"
+msgstr "Mode expert en els _assistents"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fitxer"
+msgid "_File"
+msgstr "_Fitxer"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Surt"
+msgid "_Quit"
+msgstr "_Surt"
 
 #: ../control-center:627
 #, c-format
@@ -986,8 +986,8 @@ msgstr "Surt"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Temes"
+msgid "_Themes"
+msgstr "_Temes"
 
 #: ../control-center:654
 #, c-format
@@ -1000,15 +1000,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Més temes"
+msgid "_More themes"
+msgstr "_Més temes"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Ajuda"
+msgid "_Help"
+msgstr "_Ajuda"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1018,28 +1018,28 @@ msgstr "Ajuda"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Elimina"
+msgid "_Release notes"
+msgstr "_Elimina"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Informeu d'un error"
+msgid "_Report Bug"
+msgstr "_Informeu d'un error"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Quant a..."
+msgid "_About..."
+msgstr "_Quant a..."
 
 #: ../control-center:730
 #, c-format
@@ -2101,8 +2101,8 @@ msgstr "Configurar el teu ordinador"
 #~ msgid "Set up TV card"
 #~ msgstr "Configura la targeta de TV"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/Mode _expert"
+#~ msgid "_Expert mode"
+#~ msgstr "Mode _expert"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Estableix els punts de muntatge Samba"
@@ -2135,11 +2135,11 @@ msgstr "Configurar el teu ordinador"
 #~ "\n"
 #~ "Esteu segur de que voleu fer el canvi?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Perfils"
+#~ msgid "_Profiles"
+#~ msgstr "_Perfils"
 
-#~ msgid "/_New"
-#~ msgstr "/_Nou"
+#~ msgid "_New"
+#~ msgstr "_Nou"
 
 #~ msgid "New profile..."
 #~ msgstr "Nou perfil..."

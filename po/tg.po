@@ -948,33 +948,33 @@ msgstr "Мавзӯъҳои иловагӣ"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Интихобҳо"
+msgid "_Options"
+msgstr "_Интихобҳо"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Намоиши _Номҳои дохилӣ"
+msgid "Display _Logs"
+msgstr "Намоиши _Номҳои дохилӣ"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Усули Ҷоришуда"
+msgid "_Embedded Mode"
+msgstr "_Усули Ҷоришуда"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Усули мумайиз дар _устозҳо"
+msgid "Expert mode in _wizards"
+msgstr "Усули мумайиз дар _устозҳо"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Файл"
+msgid "_File"
+msgstr "_Файл"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Баромадан"
+msgid "_Quit"
+msgstr "_Баромадан"
 
 #: ../control-center:627
 #, c-format
@@ -988,8 +988,8 @@ msgstr "Баромадан"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Мавзӯъҳо"
+msgid "_Themes"
+msgstr "_Мавзӯъҳо"
 
 #: ../control-center:654
 #, c-format
@@ -1002,15 +1002,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Мавзӯъҳои зиёдтар"
+msgid "_More themes"
+msgstr "_Мавзӯъҳои зиёдтар"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Ёрӣ"
+msgid "_Help"
+msgstr "_Ёрӣ"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1020,28 +1020,28 @@ msgstr "Ёрӣ"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Нобуд кардан"
+msgid "_Release notes"
+msgstr "_Нобуд кардан"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Маърӯзаи Ғалат"
+msgid "_Report Bug"
+msgstr "_Маърӯзаи Ғалат"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Дар бораи..."
+msgid "_About..."
+msgstr "_Дар бораи..."
 
 #: ../control-center:730
 #, c-format
@@ -2094,8 +2094,8 @@ msgstr "Батанзимдарории Компютери Шумо"
 #~ msgid "Set up TV card"
 #~ msgstr "Танзимоти корти ТВ"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Усули мутахассисӣ"
+#~ msgid "_Expert mode"
+#~ msgstr "_Усули мутахассисӣ"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Танзими нуқтаҳои насбкунии Samba"
@@ -2129,11 +2129,11 @@ msgstr "Батанзимдарории Компютери Шумо"
 #~ "\n"
 #~ "Дар ҳақиқат ин гузоришро иҷро кардан мехоҳед?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Тахассусҳо"
+#~ msgid "_Profiles"
+#~ msgstr "_Тахассусҳо"
 
-#~ msgid "/_New"
-#~ msgstr "/_Нав"
+#~ msgid "_New"
+#~ msgstr "_Нав"
 
 #~ msgid "New profile..."
 #~ msgstr "Тахассуси нав..."

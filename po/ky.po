@@ -923,34 +923,34 @@ msgstr "Кошумча усталар"
 #: ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Опциялар"
+msgid "_Options"
+msgstr "_Опциялар"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/_Логдорду көрсөтүү"
+msgid "Display _Logs"
+msgstr "_Логдорду көрсөтүү"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Embedded Режими"
+msgid "_Embedded Mode"
+msgstr "_Embedded Режими"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/_Усталарда эксперт режими"
+msgid "Expert mode in _wizards"
+msgstr "_Усталарда эксперт режими"
 
 #: ../control-center:626
 #: ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Файл"
+msgid "_File"
+msgstr "_Файл"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Чыгуу"
+msgid "_Quit"
+msgstr "_Чыгуу"
 
 #: ../control-center:627
 #, c-format
@@ -966,8 +966,8 @@ msgstr "Чыгуу"
 #: ../control-center:651
 #: ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Темалар"
+msgid "_Themes"
+msgstr "_Темалар"
 
 #: ../control-center:654
 #, c-format
@@ -980,8 +980,8 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Кошумча темалар"
+msgid "_More themes"
+msgstr "_Кошумча темалар"
 
 #: ../control-center:666
 #: ../control-center:667
@@ -991,8 +991,8 @@ msgstr "/_Кошумча темалар"
 #: ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Жардам"
+msgid "_Help"
+msgstr "_Жардам"
 
 #: ../control-center:667
 #: ../control-center:668
@@ -1004,28 +1004,28 @@ msgstr "Жардам"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Релиз эскертүүлөрү"
+msgid "_Release notes"
+msgstr "_Релиз эскертүүлөрү"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Эмне_жаңылык?"
+msgid "What's _New?"
+msgstr "Эмне_жаңылык?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Каталар"
+msgid "_Errata"
+msgstr "_Каталар"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Баг жөнүндө отчет"
+msgid "_Report Bug"
+msgstr "_Баг жөнүндө отчет"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Программа жөнүндө..."
+msgid "_About..."
+msgstr "_Программа жөнүндө..."
 
 #: ../control-center:730
 #, c-format
@@ -1970,8 +1970,8 @@ msgstr "Компьютерди ырастоо"
 #~ msgstr "Флоппи түзүлүшү"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Флоппи түзүлүшүнүн кайсы жерге туташылгандыгын көрсөтүү"
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Түзүлүштөр тизмесин чыгарып салуу"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Түзүлүштөр тизмесин чыгарып салуу"
 
 #, fuzzy
 #~ msgid "<control>U"
@@ -2066,8 +2066,8 @@ msgstr "Компьютерди ырастоо"
 #~ msgstr "TV карта"
 #~ msgid "Set up TV card"
 #~ msgstr "TV картаны ырастоо"
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Эксперт режими"
+#~ msgid "_Expert mode"
+#~ msgstr "_Эксперт режими"
 #~ msgid "Set Samba mount points"
 #~ msgstr "Samba туташуу чекиттерин орнотуу"
 
@@ -2091,10 +2091,10 @@ msgstr "Компьютерди ырастоо"
 #~ "Биз азыр \"%s\" профилинен \"%s\" профилине өтөбүз.\n"
 #~ "\n"
 #~ "Бул өтүүгө сиз макулсузбу?"
-#~ msgid "/_Profiles"
-#~ msgstr "/_Профилдер"
-#~ msgid "/_New"
-#~ msgstr "/_Жаңы"
+#~ msgid "_Profiles"
+#~ msgstr "_Профилдер"
+#~ msgid "_New"
+#~ msgstr "_Жаңы"
 #~ msgid "New profile..."
 #~ msgstr "Жаңы профиль..."
 #~ msgid ""

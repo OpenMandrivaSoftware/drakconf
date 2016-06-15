@@ -942,33 +942,33 @@ msgstr "Aldonaj sorĉiloj"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opcioj"
+msgid "_Options"
+msgstr "_Opcioj"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Montru _Log-dosierojn"
+msgid "Display _Logs"
+msgstr "Montru _Log-dosierojn"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Entenata moduso"
+msgid "_Embedded Mode"
+msgstr "_Entenata moduso"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Spertula moduso en _sorĉiloj"
+msgid "Expert mode in _wizards"
+msgstr "Spertula moduso en _sorĉiloj"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Dosiero"
+msgid "_File"
+msgstr "_Dosiero"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Forlasi"
+msgid "_Quit"
+msgstr "_Forlasi"
 
 #: ../control-center:627
 #, c-format
@@ -982,8 +982,8 @@ msgstr "Forlasi"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Etosoj"
+msgid "_Themes"
+msgstr "_Etosoj"
 
 #: ../control-center:654
 #, c-format
@@ -996,15 +996,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Pli da etosoj"
+msgid "_More themes"
+msgstr "_Pli da etosoj"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Helpo"
+msgid "_Help"
+msgstr "_Helpo"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1014,28 +1014,28 @@ msgstr "Helpo"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Eldon-notoj"
+msgid "_Release notes"
+msgstr "_Eldon-notoj"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Erartabelo"
+msgid "_Errata"
+msgstr "_Erartabelo"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Raporti cimon"
+msgid "_Report Bug"
+msgstr "_Raporti cimon"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Pri..."
+msgid "_About..."
+msgstr "_Pri..."
 
 #: ../control-center:730
 #, c-format
@@ -1985,8 +1985,8 @@ msgstr "Konfiguru grup-programon"
 #~ msgid "Use WebDAV shares"
 #~ msgstr "Uzu kundividon WebDAV"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Alŝuti la liston de aparataro"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Alŝuti la liston de aparataro"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>U"

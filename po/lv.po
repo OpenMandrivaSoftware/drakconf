@@ -915,33 +915,33 @@ msgstr "Papildus tēmas"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opcijas"
+msgid "_Options"
+msgstr "_Opcijas"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Rādīt Ž_urnālus"
+msgid "Display _Logs"
+msgstr "Rādīt Ž_urnālus"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Iekļautais režīms"
+msgid "_Embedded Mode"
+msgstr "_Iekļautais režīms"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
+msgid "Expert mode in _wizards"
 msgstr ""
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fails"
+msgid "_File"
+msgstr "_Fails"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Iziet"
+msgid "_Quit"
+msgstr "_Iziet"
 
 #: ../control-center:627
 #, c-format
@@ -955,8 +955,8 @@ msgstr "Iziet"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Tēmas"
+msgid "_Themes"
+msgstr "_Tēmas"
 
 #: ../control-center:654
 #, c-format
@@ -969,15 +969,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Papildus tēmas"
+msgid "_More themes"
+msgstr "_Papildus tēmas"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Palīdzība"
+msgid "_Help"
+msgstr "_Palīdzība"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -987,28 +987,28 @@ msgstr "Palīdzība"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Dzēst"
+msgid "_Release notes"
+msgstr "_Dzēst"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Ziņot kļūdu"
+msgid "_Report Bug"
+msgstr "_Ziņot kļūdu"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Par..."
+msgid "_About..."
+msgstr "_Par..."
 
 #: ../control-center:730
 #, c-format
@@ -1323,7 +1323,7 @@ msgstr "Datums & laiks"
 #: ../lib/MDV/Control_Center.pm:179
 #, fuzzy, c-format
 msgid "Set up display manager"
-msgstr "/Rādīt Žurnālus"
+msgstr "Rādīt Žurnālus"
 
 #: ../lib/MDV/Control_Center.pm:180
 #, c-format
@@ -1809,7 +1809,7 @@ msgstr "Programmu izpildes plānošna"
 #: ../data/drakdm.desktop.in.h:1
 #, fuzzy
 msgid "Display manager"
-msgstr "/Rādīt Žurnālus"
+msgstr "Rādīt Žurnālus"
 
 #: ../data/drakfloppy.desktop.in.h:1
 msgid "Boot floppy"
@@ -2047,8 +2047,8 @@ msgstr "Konfigurēt..."
 #~ msgid "Set up TV card"
 #~ msgstr "TV kartes"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Eksperta režīms"
+#~ msgid "_Expert mode"
+#~ msgstr "_Eksperta režīms"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2058,11 +2058,11 @@ msgstr "Konfigurēt..."
 #~ msgid "Samba printing configuration"
 #~ msgstr "Drukas konfigurācija"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profīli"
+#~ msgid "_Profiles"
+#~ msgstr "_Profīli"
 
-#~ msgid "/_New"
-#~ msgstr "/_Jauns"
+#~ msgid "_New"
+#~ msgstr "_Jauns"
 
 #~ msgid "Ok"
 #~ msgstr "Labi"

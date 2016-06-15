@@ -935,33 +935,33 @@ msgstr "額外的精靈"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/選項 (_O)"
+msgid "_Options"
+msgstr "選項 (_O)"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/顯示紀錄檔 (_L)"
+msgid "Display _Logs"
+msgstr "顯示紀錄檔 (_L)"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/嵌入模式 (_E)"
+msgid "_Embedded Mode"
+msgstr "嵌入模式 (_E)"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/專家模式精靈 (_W)"
+msgid "Expert mode in _wizards"
+msgstr "專家模式精靈 (_W)"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/檔案 (_F)"
+msgid "_File"
+msgstr "檔案 (_F)"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/離開 (_Q)"
+msgid "_Quit"
+msgstr "離開 (_Q)"
 
 #: ../control-center:627
 #, c-format
@@ -975,8 +975,8 @@ msgstr "離開"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/佈景主題 (_T)"
+msgid "_Themes"
+msgstr "佈景主題 (_T)"
 
 #: ../control-center:654
 #, c-format
@@ -989,15 +989,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/更多佈景主題 (_T)"
+msgid "_More themes"
+msgstr "更多佈景主題 (_T)"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/說明 (_H)"
+msgid "_Help"
+msgstr "說明 (_H)"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1007,28 +1007,28 @@ msgstr "說明"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/發行紀錄 (_R)"
+msgid "_Release notes"
+msgstr "發行紀錄 (_R)"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/最新消息 (_N)"
+msgid "What's _New?"
+msgstr "最新消息 (_N)"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/勘誤 (_E)"
+msgid "_Errata"
+msgstr "勘誤 (_E)"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/臭蟲報告 (_R)"
+msgid "_Report Bug"
+msgstr "臭蟲報告 (_R)"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/關於 (_A)..."
+msgid "_About..."
+msgstr "關於 (_A)..."
 
 #: ../control-center:730
 #, c-format

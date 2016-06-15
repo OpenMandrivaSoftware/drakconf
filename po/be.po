@@ -907,33 +907,33 @@ msgstr ""
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Налады"
+msgid "_Options"
+msgstr "_Налады"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
+msgid "Display _Logs"
 msgstr ""
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
+msgid "_Embedded Mode"
 msgstr ""
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
+msgid "Expert mode in _wizards"
 msgstr ""
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Файл"
+msgid "_File"
+msgstr "_Файл"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Выхад"
+msgid "_Quit"
+msgstr "_Выхад"
 
 #: ../control-center:627
 #, c-format
@@ -947,7 +947,7 @@ msgstr "Выхад"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
+msgid "_Themes"
 msgstr ""
 
 #: ../control-center:654
@@ -959,15 +959,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
+msgid "_More themes"
 msgstr ""
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Дапамога"
+msgid "_Help"
+msgstr "_Дапамога"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -977,28 +977,28 @@ msgstr "Дапамога"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Выдаліць"
+msgid "_Release notes"
+msgstr "_Выдаліць"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Паведаміць пра памылку"
+msgid "_Report Bug"
+msgstr "_Паведаміць пра памылку"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Пра..."
+msgid "_About..."
+msgstr "_Пра..."
 
 #: ../control-center:730
 #, c-format

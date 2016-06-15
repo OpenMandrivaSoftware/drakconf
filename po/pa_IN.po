@@ -931,33 +931,33 @@ msgstr "ਵਾਧੂ ਸਰੂਪ"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/ਚੋਣ"
+msgid "_Options"
+msgstr "ਚੋਣ"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/ਲਾਗ ਵਿਖਾਓ"
+msgid "Display _Logs"
+msgstr "ਲਾਗ ਵਿਖਾਓ"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/ਸ਼ਾਮਿਲ ਵਿਧੀ"
+msgid "_Embedded Mode"
+msgstr "ਸ਼ਾਮਿਲ ਵਿਧੀ"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/ਤਖਤੀ ਵਿੱਚ ਮਾਹਿਰ ਵਿਧੀ"
+msgid "Expert mode in _wizards"
+msgstr "ਤਖਤੀ ਵਿੱਚ ਮਾਹਿਰ ਵਿਧੀ"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/ਫਾਇਲ"
+msgid "_File"
+msgstr "ਫਾਇਲ"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/ਬਾਹਰ"
+msgid "_Quit"
+msgstr "ਬਾਹਰ"
 
 #: ../control-center:627
 #, c-format
@@ -971,8 +971,8 @@ msgstr "ਬਾਹਰ"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/ਸਰੂਪ"
+msgid "_Themes"
+msgstr "ਸਰੂਪ"
 
 #: ../control-center:654
 #, c-format
@@ -985,15 +985,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/ਹੋਰ ਸਰੂਪ"
+msgid "_More themes"
+msgstr "ਹੋਰ ਸਰੂਪ"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/ਸਹਾਇਤਾ"
+msgid "_Help"
+msgstr "ਸਹਾਇਤਾ"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1003,33 +1003,33 @@ msgstr "ਸਹਾਇਤਾ"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/ਹਟਾਓ"
+msgid "_Release notes"
+msgstr "ਹਟਾਓ"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/ਰਿਪੋਰਟ ਬੱਗ"
+msgid "_Report Bug"
+msgstr "ਰਿਪੋਰਟ ਬੱਗ"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/ਬਾਰੇ..."
+msgid "_About..."
+msgstr "ਬਾਰੇ..."
 
 #: ../control-center:730
 #, c-format
 msgid "Cancel"
-msgstr "/ਰੱਦ ਕਰੋ"
+msgstr "ਰੱਦ ਕਰੋ"
 
 #: ../control-center:750
 #, c-format
@@ -2068,8 +2068,8 @@ msgstr "ਗਰੁੱਪਵੇਅਰ ਸੰਰਚਿਤ ਕਰੋ"
 #~ msgid "Set up TV card"
 #~ msgstr "TV ਕਾਰਡ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/ਮਾਹਿਰ ਵਿਧੀ(_E)"
+#~ msgid "_Expert mode"
+#~ msgstr "ਮਾਹਿਰ ਵਿਧੀ(_E)"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "ਸਾਂਬਾ ਮਾਊਂਟ ਪੁਆਂਇਟ ਨਿਰਧਾਰਿਤ ਕਰੋ"
@@ -2098,11 +2098,11 @@ msgstr "ਗਰੁੱਪਵੇਅਰ ਸੰਰਚਿਤ ਕਰੋ"
 #~ "\n"
 #~ "ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/ਪਰੋਫਾਈਲ"
+#~ msgid "_Profiles"
+#~ msgstr "ਪਰੋਫਾਈਲ"
 
-#~ msgid "/_New"
-#~ msgstr "/ਨਵਾਂ"
+#~ msgid "_New"
+#~ msgstr "ਨਵਾਂ"
 
 #~ msgid "New profile..."
 #~ msgstr "ਨਵਾਂ ਪਰੋਫਾਈਲ..."

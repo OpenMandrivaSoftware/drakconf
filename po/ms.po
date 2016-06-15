@@ -911,33 +911,33 @@ msgstr "Wizard tambahan"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Pilihan"
+msgid "_Options"
+msgstr "_Pilihan"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Paparan _Log"
+msgid "Display _Logs"
+msgstr "Paparan _Log"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Mod Cangkok"
+msgid "_Embedded Mode"
+msgstr "_Mod Cangkok"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Mod pakar dalam _wizard"
+msgid "Expert mode in _wizards"
+msgstr "Mod pakar dalam _wizard"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fail"
+msgid "_File"
+msgstr "_Fail"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Keluar"
+msgid "_Quit"
+msgstr "_Keluar"
 
 #: ../control-center:627
 #, c-format
@@ -951,8 +951,8 @@ msgstr "Keluar"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Tema"
+msgid "_Themes"
+msgstr "_Tema"
 
 #: ../control-center:654
 #, c-format
@@ -965,15 +965,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Lagi tema"
+msgid "_More themes"
+msgstr "_Lagi tema"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Bantuan"
+msgid "_Help"
+msgstr "_Bantuan"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -983,28 +983,28 @@ msgstr "Bantuan"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/Nota kelua_ran"
+msgid "_Release notes"
+msgstr "Nota kelua_ran"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Apa Ya_ng Baru?"
+msgid "What's _New?"
+msgstr "Apa Ya_ng Baru?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Lapor Pepijat"
+msgid "_Report Bug"
+msgstr "_Lapor Pepijat"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Keterangan"
+msgid "_About..."
+msgstr "_Keterangan"
 
 #: ../control-center:730
 #, c-format

@@ -943,33 +943,33 @@ msgstr "Dodatni čarobnjaci"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opcije"
+msgid "_Options"
+msgstr "_Opcije"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Prikaži dnevnik _akcija"
+msgid "Display _Logs"
+msgstr "Prikaži dnevnik _akcija"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Otvaraj _stavke unutar prozora"
+msgid "_Embedded Mode"
+msgstr "Otvaraj _stavke unutar prozora"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Čarobnjaci za e_ksperte"
+msgid "Expert mode in _wizards"
+msgstr "Čarobnjaci za e_ksperte"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Datoteka"
+msgid "_File"
+msgstr "_Datoteka"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Izlaz"
+msgid "_Quit"
+msgstr "_Izlaz"
 
 #: ../control-center:627
 #, c-format
@@ -983,8 +983,8 @@ msgstr "Izlaz"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Teme"
+msgid "_Themes"
+msgstr "_Teme"
 
 #: ../control-center:654
 #, c-format
@@ -997,15 +997,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Više tema"
+msgid "_More themes"
+msgstr "_Više tema"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Pomoć"
+msgid "_Help"
+msgstr "_Pomoć"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1015,28 +1015,28 @@ msgstr "Pomoć"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
+msgid "_Release notes"
 msgstr ""
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/Prijavi _grešku"
+msgid "_Report Bug"
+msgstr "Prijavi _grešku"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/O p_rogramu..."
+msgid "_About..."
+msgstr "O p_rogramu..."
 
 #: ../control-center:730
 #, c-format
@@ -1974,8 +1974,8 @@ msgstr "Podesite vaš računar"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Podesite mjesto montiranja vašeg disketnog uređaja"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/Pošalji spisak _hardvera"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "Pošalji spisak _hardvera"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>U"
@@ -2096,8 +2096,8 @@ msgstr "Podesite vaš računar"
 #~ msgid "Set up TV card"
 #~ msgstr "Podesite TV karticu"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Ekspertni mod"
+#~ msgid "_Expert mode"
+#~ msgstr "_Ekspertni mod"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Podesite Samba tačke montiranja"

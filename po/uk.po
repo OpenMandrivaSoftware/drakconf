@@ -956,33 +956,33 @@ msgstr "Додаткові Помічники"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/Параметри"
+msgid "_Options"
+msgstr "Параметри"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/_L Показати системний журнал"
+msgid "Display _Logs"
+msgstr "_L Показати системний журнал"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_E Вмонтований режим"
+msgid "_Embedded Mode"
+msgstr "_E Вмонтований режим"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/_w Режим експерта у Помічниках"
+msgid "Expert mode in _wizards"
+msgstr "_w Режим експерта у Помічниках"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_F Файл"
+msgid "_File"
+msgstr "_F Файл"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Q Вийти"
+msgid "_Quit"
+msgstr "_Q Вийти"
 
 #: ../control-center:627
 #, c-format
@@ -996,8 +996,8 @@ msgstr "Вийти"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_T Теми"
+msgid "_Themes"
+msgstr "_T Теми"
 
 #: ../control-center:654
 #, c-format
@@ -1010,15 +1010,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_T Додаткові теми"
+msgid "_More themes"
+msgstr "_T Додаткові теми"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_H Довідка"
+msgid "_Help"
+msgstr "_H Довідка"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1028,28 +1028,28 @@ msgstr "Довідка"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Нотатки випуску"
+msgid "_Release notes"
+msgstr "_Нотатки випуску"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Що нового?"
+msgid "What's _New?"
+msgstr "Що нового?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_База помилок"
+msgid "_Errata"
+msgstr "_База помилок"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_R Звіт про помилку"
+msgid "_Report Bug"
+msgstr "_R Звіт про помилку"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_A Про програму..."
+msgid "_About..."
+msgstr "_A Про програму..."
 
 #: ../control-center:730
 #, c-format

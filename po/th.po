@@ -917,33 +917,33 @@ msgstr "ธีมเพิ่มเติม"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/อ็อปชั่น"
+msgid "_Options"
+msgstr "อ็อปชั่น"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/แสดงล็อก"
+msgid "Display _Logs"
+msgstr "แสดงล็อก"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/โหมดฝัง"
+msgid "_Embedded Mode"
+msgstr "โหมดฝัง"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/โหมดผู้เชี่ยวชาญในวิซาร์ด"
+msgid "Expert mode in _wizards"
+msgstr "โหมดผู้เชี่ยวชาญในวิซาร์ด"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/ไฟล์"
+msgid "_File"
+msgstr "ไฟล์"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/เลิก"
+msgid "_Quit"
+msgstr "เลิก"
 
 #: ../control-center:627
 #, c-format
@@ -957,8 +957,8 @@ msgstr "ออก"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/ธีม"
+msgid "_Themes"
+msgstr "ธีม"
 
 #: ../control-center:654
 #, c-format
@@ -971,15 +971,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/ธีมอื่น"
+msgid "_More themes"
+msgstr "ธีมอื่น"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/ช่วยเหลือ"
+msgid "_Help"
+msgstr "ช่วยเหลือ"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -989,28 +989,28 @@ msgstr "ช่วยเหลือ"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_ลบ"
+msgid "_Release notes"
+msgstr "_ลบ"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/แจ้งบั๊ก"
+msgid "_Report Bug"
+msgstr "แจ้งบั๊ก"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/เกี่ยวกับ..."
+msgid "_About..."
+msgstr "เกี่ยวกับ..."
 
 #: ../control-center:730
 #, c-format
@@ -2042,8 +2042,8 @@ msgstr "ปรับแต่งเครื่องคอมพิวเตอ
 #~ msgid "Set up TV card"
 #~ msgstr "การ์ด TV"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/โหมดผู้เชี่ยวชาญ"
+#~ msgid "_Expert mode"
+#~ msgstr "โหมดผู้เชี่ยวชาญ"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2065,29 +2065,29 @@ msgstr "ปรับแต่งเครื่องคอมพิวเตอ
 #~ "the menu"
 #~ msgstr " MenuDrake ช่วยคุณเปลี่ยนแปลงเมนูที่ใช้แสดงโปรแกรม"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/โพรไฟล์ "
+#~ msgid "_Profiles"
+#~ msgstr "โพรไฟล์ "
 
-#~ msgid "/_New"
-#~ msgstr "/_ใหม่"
+#~ msgid "_New"
+#~ msgstr "_ใหม่"
 
 #~ msgid "Ok"
 #~ msgstr "ตกลง"
 
-#~ msgid "/Display Logs"
-#~ msgstr "/ล็อกสำหรับการแสดงผลบนหน้าจอ"
+#~ msgid "Display Logs"
+#~ msgstr "ล็อกสำหรับการแสดงผลบนหน้าจอ"
 
-#~ msgid "/Embedded Mode"
-#~ msgstr "/โหมดฝัง"
+#~ msgid "Embedded Mode"
+#~ msgstr "โหมดฝัง"
 
-#~ msgid "/File"
-#~ msgstr "/ไฟล์"
+#~ msgid "File"
+#~ msgstr "ไฟล์"
 
-#~ msgid "/Options"
-#~ msgstr "/Options"
+#~ msgid "Options"
+#~ msgstr "Options"
 
-#~ msgid "/Themes"
-#~ msgstr "/ธีม"
+#~ msgid "Themes"
+#~ msgstr "ธีม"
 
 #~ msgid "DVD"
 #~ msgstr "ดีวีดี"

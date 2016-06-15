@@ -941,33 +941,33 @@ msgstr "追加のウィザード"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/オプション(_O)"
+msgid "_Options"
+msgstr "オプション(_O)"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/ログを表示(_L)"
+msgid "Display _Logs"
+msgstr "ログを表示(_L)"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/枠内で表示(_E)"
+msgid "_Embedded Mode"
+msgstr "枠内で表示(_E)"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/ウィザードのエキスパートモード(_W)"
+msgid "Expert mode in _wizards"
+msgstr "ウィザードのエキスパートモード(_W)"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/ファイル(_F)"
+msgid "_File"
+msgstr "ファイル(_F)"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/終了(_Q)"
+msgid "_Quit"
+msgstr "終了(_Q)"
 
 #: ../control-center:627
 #, c-format
@@ -981,8 +981,8 @@ msgstr "終了"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/テーマ(_T)"
+msgid "_Themes"
+msgstr "テーマ(_T)"
 
 #: ../control-center:654
 #, c-format
@@ -995,15 +995,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/その他のテーマ(_M)"
+msgid "_More themes"
+msgstr "その他のテーマ(_M)"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/ヘルプ(_H)"
+msgid "_Help"
+msgstr "ヘルプ(_H)"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1013,28 +1013,28 @@ msgstr "ヘルプ"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/リリースノート(_R)"
+msgid "_Release notes"
+msgstr "リリースノート(_R)"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/変更点(_N)"
+msgid "What's _New?"
+msgstr "変更点(_N)"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Errata"
+msgid "_Errata"
+msgstr "_Errata"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/バグを報告(_R)"
+msgid "_Report Bug"
+msgstr "バグを報告(_R)"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/情報(_A)"
+msgid "_About..."
+msgstr "情報(_A)"
 
 #: ../control-center:730
 #, c-format

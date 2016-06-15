@@ -937,33 +937,33 @@ msgstr "अतिरिक्त विज़ार्ड्स"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/विकल्प (_O)"
+msgid "_Options"
+msgstr "विकल्प (_O)"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/रोज़नामचा दर्शन ( _L)"
+msgid "Display _Logs"
+msgstr "रोज़नामचा दर्शन ( _L)"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/अंतःस्थापित विधि (_E)"
+msgid "_Embedded Mode"
+msgstr "अंतःस्थापित विधि (_E)"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/जादूगरी में निपुण विधि (_w)"
+msgid "Expert mode in _wizards"
+msgstr "जादूगरी में निपुण विधि (_w)"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/संचिका (_F)"
+msgid "_File"
+msgstr "संचिका (_F)"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/निकास (_Q)"
+msgid "_Quit"
+msgstr "निकास (_Q)"
 
 #: ../control-center:627
 #, c-format
@@ -977,8 +977,8 @@ msgstr "निकास"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/प्रकरण (_T)"
+msgid "_Themes"
+msgstr "प्रकरण (_T)"
 
 #: ../control-center:654
 #, c-format
@@ -991,15 +991,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/और प्रकरण (_M)"
+msgid "_More themes"
+msgstr "और प्रकरण (_M)"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/सहायता (_H)"
+msgid "_Help"
+msgstr "सहायता (_H)"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1009,28 +1009,28 @@ msgstr "सहायता"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/हटाना (_D)"
+msgid "_Release notes"
+msgstr "हटाना (_D)"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/दोष के बारे में बतायें (_R)"
+msgid "_Report Bug"
+msgstr "दोष के बारे में बतायें (_R)"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/के बारे में(_A)..."
+msgid "_About..."
+msgstr "के बारे में(_A)..."
 
 #: ../control-center:730
 #, c-format
@@ -2090,8 +2090,8 @@ msgstr "ग्रुपवेयर संरचना"
 #~ msgid "Set up TV card"
 #~ msgstr "टीवी कार्ड की स्थापना"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/विशेषज्ञ विधा (_E)"
+#~ msgid "_Expert mode"
+#~ msgstr "विशेषज्ञ विधा (_E)"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "सॉम्बा आरोह बिन्दुओं की स्थापना"
@@ -2122,11 +2122,11 @@ msgstr "ग्रुपवेयर संरचना"
 #~ "\n"
 #~ "क्या आप वास्तव में बदलाव को करना चाहते है ? "
 
-#~ msgid "/_Profiles"
-#~ msgstr "/प्रोफ़ाइलें(_P)"
+#~ msgid "_Profiles"
+#~ msgstr "प्रोफ़ाइलें(_P)"
 
-#~ msgid "/_New"
-#~ msgstr "/नया (_N)"
+#~ msgid "_New"
+#~ msgstr "नया (_N)"
 
 #~ msgid "New profile..."
 #~ msgstr "नयी प्रोफ़ाइल..."

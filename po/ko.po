@@ -913,33 +913,33 @@ msgstr "추가 테마"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/옵션(_O)"
+msgid "_Options"
+msgstr "옵션(_O)"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/디스플레이 로그(_L)"
+msgid "Display _Logs"
+msgstr "디스플레이 로그(_L)"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/임베디드 모드(_E)"
+msgid "_Embedded Mode"
+msgstr "임베디드 모드(_E)"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
+msgid "Expert mode in _wizards"
 msgstr ""
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/파일(_F)"
+msgid "_File"
+msgstr "파일(_F)"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/종료(_Q)"
+msgid "_Quit"
+msgstr "종료(_Q)"
 
 #: ../control-center:627
 #, c-format
@@ -953,8 +953,8 @@ msgstr "종료"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/테마(_T)"
+msgid "_Themes"
+msgstr "테마(_T)"
 
 #: ../control-center:654
 #, c-format
@@ -967,15 +967,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/추가 테마(_M)"
+msgid "_More themes"
+msgstr "추가 테마(_M)"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/도움말(_H)"
+msgid "_Help"
+msgstr "도움말(_H)"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -985,28 +985,28 @@ msgstr "도움말"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/삭제(_D)"
+msgid "_Release notes"
+msgstr "삭제(_D)"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/버그 보고(_R)"
+msgid "_Report Bug"
+msgstr "버그 보고(_R)"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/이 프로그램은(_A)..."
+msgid "_About..."
+msgstr "이 프로그램은(_A)..."
 
 #: ../control-center:730
 #, c-format
@@ -1321,7 +1321,7 @@ msgstr "날짜와 시간"
 #: ../lib/MDV/Control_Center.pm:179
 #, fuzzy, c-format
 msgid "Set up display manager"
-msgstr "/디스플레이 로그(L)"
+msgstr "디스플레이 로그(L)"
 
 #: ../lib/MDV/Control_Center.pm:180
 #, c-format
@@ -1808,7 +1808,7 @@ msgstr "프로그램 일정"
 #: ../data/drakdm.desktop.in.h:1
 #, fuzzy
 msgid "Display manager"
-msgstr "/디스플레이 로그(L)"
+msgstr "디스플레이 로그(L)"
 
 #: ../data/drakfloppy.desktop.in.h:1
 msgid "Boot floppy"
@@ -2045,8 +2045,8 @@ msgstr "설정..."
 #~ msgid "Set up TV card"
 #~ msgstr "TV 카드"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/전문가 모드 (_E)"
+#~ msgid "_Expert mode"
+#~ msgstr "전문가 모드 (_E)"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2056,11 +2056,11 @@ msgstr "설정..."
 #~ msgid "Samba printing configuration"
 #~ msgstr "인쇄 설정"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/프로파일(_P)"
+#~ msgid "_Profiles"
+#~ msgstr "프로파일(_P)"
 
-#~ msgid "/_New"
-#~ msgstr "/새로 만들기(_N)"
+#~ msgid "_New"
+#~ msgstr "새로 만들기(_N)"
 
 #~ msgid "Ok"
 #~ msgstr "확인"

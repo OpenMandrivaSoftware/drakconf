@@ -940,33 +940,33 @@ msgstr "Atrus wizard"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Sceras"
+msgid "_Options"
+msgstr "_Sceras"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Amosta _Logs"
+msgid "Display _Logs"
+msgstr "Amosta _Logs"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Embedded Mode"
+msgid "_Embedded Mode"
+msgstr "_Embedded Mode"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Expert mode in _wizards"
+msgid "Expert mode in _wizards"
+msgstr "Expert mode in _wizards"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_File"
+msgid "_File"
+msgstr "_File"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Bessi"
+msgid "_Quit"
+msgstr "_Bessi"
 
 #: ../control-center:627
 #, c-format
@@ -980,8 +980,8 @@ msgstr "Bessi"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Temas"
+msgid "_Themes"
+msgstr "_Temas"
 
 #: ../control-center:654
 #, c-format
@@ -994,15 +994,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Atrus temas"
+msgid "_More themes"
+msgstr "_Atrus temas"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Ajudu"
+msgid "_Help"
+msgstr "_Ajudu"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1012,28 +1012,28 @@ msgstr "Ajudu"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Burra"
+msgid "_Release notes"
+msgstr "_Burra"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Arrelata is fartas"
+msgid "_Report Bug"
+msgstr "_Arrelata is fartas"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Apitzus de..."
+msgid "_About..."
+msgstr "_Apitzus de..."
 
 #: ../control-center:730
 #, c-format
@@ -2086,8 +2086,8 @@ msgstr "Assètia sa computadora"
 #~ msgstr "Assètia sa skeda TV"
 
 #, fuzzy
-#~ msgid "/_Expert mode"
-#~ msgstr "/Expert mode in _wizards"
+#~ msgid "_Expert mode"
+#~ msgstr "Expert mode in _wizards"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Assètia is puntus de càrrigu Samba"
@@ -2119,11 +2119,11 @@ msgstr "Assètia sa computadora"
 #~ "\n"
 #~ "Ses siguru ki bolis fai su càmbiu?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profilus"
+#~ msgid "_Profiles"
+#~ msgstr "_Profilus"
 
-#~ msgid "/_New"
-#~ msgstr "/_Nou"
+#~ msgid "_New"
+#~ msgstr "_Nou"
 
 #~ msgid "New profile..."
 #~ msgstr "Profilu nou..."

@@ -950,33 +950,33 @@ msgstr "დამატებითი დეკორაციები"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_თვისებები"
+msgid "_Options"
+msgstr "_თვისებები"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/აჩვენე _აღრიცხვები"
+msgid "Display _Logs"
+msgstr "აჩვენე _აღრიცხვები"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/ჩ_ართული რეჟიმი (Embedded Mode)"
+msgid "_Embedded Mode"
+msgstr "ჩ_ართული რეჟიმი (Embedded Mode)"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/საექსპერტო რეჟიმის _ჯადოქრები"
+msgid "Expert mode in _wizards"
+msgstr "საექსპერტო რეჟიმის _ჯადოქრები"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_ფაილი"
+msgid "_File"
+msgstr "_ფაილი"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_დამთავრება"
+msgid "_Quit"
+msgstr "_დამთავრება"
 
 #: ../control-center:627
 #, c-format
@@ -990,8 +990,8 @@ msgstr "დამთავრება"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_დეკორაციები"
+msgid "_Themes"
+msgstr "_დეკორაციები"
 
 #: ../control-center:654
 #, c-format
@@ -1004,15 +1004,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_დანარჩენი დეკორაციები"
+msgid "_More themes"
+msgstr "_დანარჩენი დეკორაციები"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_დახმარება"
+msgid "_Help"
+msgstr "_დახმარება"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1022,28 +1022,28 @@ msgstr "დახმარება"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_წაშლა"
+msgid "_Release notes"
+msgstr "_წაშლა"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_ხარვეზის შეტყობინება"
+msgid "_Report Bug"
+msgstr "_ხარვეზის შეტყობინება"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_შესახებ..."
+msgid "_About..."
+msgstr "_შესახებ..."
 
 #: ../control-center:730
 #, c-format
@@ -2067,8 +2067,8 @@ msgstr "groupware-ის კონფიგურირება"
 #~ msgstr "TV პლატის დაყენება"
 
 #, fuzzy
-#~ msgid "/_Expert mode"
-#~ msgstr "/საექსპერტო რეჟიმის _ჯადოქრები"
+#~ msgid "_Expert mode"
+#~ msgstr "საექსპერტო რეჟიმის _ჯადოქრები"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Samba-ს ჩაბმის ჭდეების დაყენება"
@@ -2092,11 +2092,11 @@ msgstr "groupware-ის კონფიგურირება"
 #~ "\n"
 #~ "დარწმუნებული ბრძანდებით?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_პროფილები"
+#~ msgid "_Profiles"
+#~ msgstr "_პროფილები"
 
-#~ msgid "/_New"
-#~ msgstr "/_ახალი"
+#~ msgid "_New"
+#~ msgstr "_ახალი"
 
 #~ msgid "New profile..."
 #~ msgstr "ახალი პროფილი..."

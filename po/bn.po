@@ -947,33 +947,33 @@ msgstr "অতিরিক্ত উইজার্ড সমুহ"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_অপশন"
+msgid "_Options"
+msgstr "_অপশন"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/ল_গ প্রদর্শন করো"
+msgid "Display _Logs"
+msgstr "ল_গ প্রদর্শন করো"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_এমবেডেড মোড"
+msgid "_Embedded Mode"
+msgstr "_এমবেডেড মোড"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/অভিজ্ঞ মোডে উই_জার্ড"
+msgid "Expert mode in _wizards"
+msgstr "অভিজ্ঞ মোডে উই_জার্ড"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/ফাই_ল"
+msgid "_File"
+msgstr "ফাই_ল"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/প্রস্থা_ন"
+msgid "_Quit"
+msgstr "প্রস্থা_ন"
 
 #: ../control-center:627
 #, c-format
@@ -987,8 +987,8 @@ msgstr "প্রস্থান"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/থীম(_থ)"
+msgid "_Themes"
+msgstr "থীম(_থ)"
 
 #: ../control-center:654
 #, c-format
@@ -1001,15 +1001,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/অতিরিক্ত থীম (_ত)"
+msgid "_More themes"
+msgstr "অতিরিক্ত থীম (_ত)"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_সহায়িকা"
+msgid "_Help"
+msgstr "_সহায়িকা"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1019,28 +1019,28 @@ msgstr "সহায়িকা"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/মুছে ফেলো (_ম)"
+msgid "_Release notes"
+msgstr "মুছে ফেলো (_ম)"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_বাগ সম্বন্ধে রিপোর্ট করুন"
+msgid "_Report Bug"
+msgstr "_বাগ সম্বন্ধে রিপোর্ট করুন"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_পরিচিতি..."
+msgid "_About..."
+msgstr "_পরিচিতি..."
 
 #: ../control-center:730
 #, c-format
@@ -1988,8 +1988,8 @@ msgstr "কম্পিউটারকে কনফিগার করুন"
 
 # সাম:
 # not sure about /_Upload 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/হার্ডওয়্যার তালিকা _আপলোড করো"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "হার্ডওয়্যার তালিকা _আপলোড করো"
 
 #, fuzzy
 #~ msgid "<control>U"
@@ -2113,8 +2113,8 @@ msgstr "কম্পিউটারকে কনফিগার করুন"
 #~ msgid "Set up TV card"
 #~ msgstr "টিভি কার্ড সেট আপ করুন"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/দক্ষ মুড (_দ)"
+#~ msgid "_Expert mode"
+#~ msgstr "দক্ষ মুড (_দ)"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "সাম্বা মাউন্ট পয়েন্ট সেট করুন"
@@ -2146,11 +2146,11 @@ msgstr "কম্পিউটারকে কনফিগার করুন"
 #~ "\n"
 #~ "আপনি কি বদল করতে ইচ্ছুক?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/প্রোফাই_ল"
+#~ msgid "_Profiles"
+#~ msgstr "প্রোফাই_ল"
 
-#~ msgid "/_New"
-#~ msgstr "/_নতুন"
+#~ msgid "_New"
+#~ msgstr "_নতুন"
 
 #~ msgid "New profile..."
 #~ msgstr "নতুন প্রোফাইল..."

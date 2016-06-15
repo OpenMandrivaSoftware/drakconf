@@ -950,33 +950,33 @@ msgstr "További varázslók"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Beállítások"
+msgid "_Options"
+msgstr "_Beállítások"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Naplók _megjelenítése"
+msgid "Display _Logs"
+msgstr "Naplók _megjelenítése"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Beá_gyazott üzemmód"
+msgid "_Embedded Mode"
+msgstr "Beá_gyazott üzemmód"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Sz_akértői üzemmód a varázslókban"
+msgid "Expert mode in _wizards"
+msgstr "Sz_akértői üzemmód a varázslókban"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fájl"
+msgid "_File"
+msgstr "_Fájl"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Kilépés"
+msgid "_Quit"
+msgstr "_Kilépés"
 
 #: ../control-center:627
 #, c-format
@@ -990,8 +990,8 @@ msgstr "Kilépés"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Témák"
+msgid "_Themes"
+msgstr "_Témák"
 
 #: ../control-center:654
 #, c-format
@@ -1004,15 +1004,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/To_vábbi témák"
+msgid "_More themes"
+msgstr "To_vábbi témák"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Segítség"
+msgid "_Help"
+msgstr "_Segítség"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1022,28 +1022,28 @@ msgstr "Segítség"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/K_iadási megjegyzések"
+msgid "_Release notes"
+msgstr "K_iadási megjegyzések"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Újdo_nságok?"
+msgid "What's _New?"
+msgstr "Újdo_nságok?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/Hiba_jegyzék"
+msgid "_Errata"
+msgstr "Hiba_jegyzék"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Hibabejelentés"
+msgid "_Report Bug"
+msgstr "_Hibabejelentés"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Névjegy..."
+msgid "_About..."
+msgstr "_Névjegy..."
 
 #: ../control-center:730
 #, c-format
@@ -1987,8 +1987,8 @@ msgstr "A számítógép beállítása"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Floppy-meghajtó csatolási helyének beállítása"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Hardverlista feltöltése"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Hardverlista feltöltése"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>U"

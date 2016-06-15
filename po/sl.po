@@ -956,33 +956,33 @@ msgstr "Dodatni čarovniki"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Možnosti"
+msgid "_Options"
+msgstr "_Možnosti"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Prikaži _dnevnike"
+msgid "Display _Logs"
+msgstr "Prikaži _dnevnike"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Vgrajeni način"
+msgid "_Embedded Mode"
+msgstr "_Vgrajeni način"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Napredni način v _čarovnikih"
+msgid "Expert mode in _wizards"
+msgstr "Napredni način v _čarovnikih"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Datoteka"
+msgid "_File"
+msgstr "_Datoteka"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Končaj"
+msgid "_Quit"
+msgstr "_Končaj"
 
 #: ../control-center:627
 #, c-format
@@ -996,8 +996,8 @@ msgstr "Končaj"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Teme"
+msgid "_Themes"
+msgstr "_Teme"
 
 #: ../control-center:654
 #, c-format
@@ -1010,15 +1010,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Več tem"
+msgid "_More themes"
+msgstr "_Več tem"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Pomoč"
+msgid "_Help"
+msgstr "_Pomoč"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1028,28 +1028,28 @@ msgstr "Pomoč"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Opombe ob izdaji"
+msgid "_Release notes"
+msgstr "_Opombe ob izdaji"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Kaj je _novega?"
+msgid "What's _New?"
+msgstr "Kaj je _novega?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Seznam napak"
+msgid "_Errata"
+msgstr "_Seznam napak"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Poročajte o napaki"
+msgid "_Report Bug"
+msgstr "_Poročajte o napaki"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_O ..."
+msgid "_About..."
+msgstr "_O ..."
 
 #: ../control-center:730
 #, c-format

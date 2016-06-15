@@ -934,33 +934,33 @@ msgstr "Temis adizionâi"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opzions"
+msgid "_Options"
+msgstr "_Opzions"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Mostre i _log"
+msgid "Display _Logs"
+msgstr "Mostre i _log"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Maniere _embedded"
+msgid "_Embedded Mode"
+msgstr "Maniere _embedded"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Maniere espert tai _assistents"
+msgid "Expert mode in _wizards"
+msgstr "Maniere espert tai _assistents"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_File"
+msgid "_File"
+msgstr "_File"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Jessî"
+msgid "_Quit"
+msgstr "_Jessî"
 
 #: ../control-center:627
 #, c-format
@@ -974,8 +974,8 @@ msgstr "Jessî"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Temis"
+msgid "_Themes"
+msgstr "_Temis"
 
 #: ../control-center:654
 #, c-format
@@ -988,15 +988,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Plui temis"
+msgid "_More themes"
+msgstr "_Plui temis"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Jutori"
+msgid "_Help"
+msgstr "_Jutori"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1006,28 +1006,28 @@ msgstr "Jutori"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Scancele"
+msgid "_Release notes"
+msgstr "_Scancele"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Segnale un Bug"
+msgid "_Report Bug"
+msgstr "_Segnale un Bug"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Informazions su..."
+msgid "_About..."
+msgstr "_Informazions su..."
 
 #: ../control-center:730
 #, c-format
@@ -2058,8 +2058,8 @@ msgstr "Configure groupware"
 #~ msgstr "Schede TV"
 
 #, fuzzy
-#~ msgid "/_Expert mode"
-#~ msgstr "/Maniere espert tai _assistents"
+#~ msgid "_Expert mode"
+#~ msgstr "Maniere espert tai _assistents"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2083,11 +2083,11 @@ msgstr "Configure groupware"
 #~ "O stin par passâ dal profîl \"%s\" al profîl \"%s\".\n"
 #~ "Setu sigûr di ve voe di falu?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profîi"
+#~ msgid "_Profiles"
+#~ msgstr "_Profîi"
 
-#~ msgid "/_New"
-#~ msgstr "/_Gnûf"
+#~ msgid "_New"
+#~ msgstr "_Gnûf"
 
 #~ msgid "New profile..."
 #~ msgstr "Gnûf profîl..."

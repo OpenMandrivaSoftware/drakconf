@@ -958,33 +958,33 @@ msgstr "Asistentes adicionais"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opcións"
+msgid "_Options"
+msgstr "_Opcións"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Amosar os _Logs"
+msgid "Display _Logs"
+msgstr "Amosar os _Logs"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Modo _Embebido"
+msgid "_Embedded Mode"
+msgstr "Modo _Embebido"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/_Modo experto nos asistentes"
+msgid "Expert mode in _wizards"
+msgstr "_Modo experto nos asistentes"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Ficheiro"
+msgid "_File"
+msgstr "_Ficheiro"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Saír"
+msgid "_Quit"
+msgstr "_Saír"
 
 #: ../control-center:627
 #, c-format
@@ -998,8 +998,8 @@ msgstr "Saír"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Temas"
+msgid "_Themes"
+msgstr "_Temas"
 
 #: ../control-center:654
 #, c-format
@@ -1012,15 +1012,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Máis temas"
+msgid "_More themes"
+msgstr "_Máis temas"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/A_xuda"
+msgid "_Help"
+msgstr "A_xuda"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1030,28 +1030,28 @@ msgstr "Axuda"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/Notas de _publicación"
+msgid "_Release notes"
+msgstr "Notas de _publicación"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Que hai de _novo?"
+msgid "What's _New?"
+msgstr "Que hai de _novo?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Erratas"
+msgid "_Errata"
+msgstr "_Erratas"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Comunicar Erro"
+msgid "_Report Bug"
+msgstr "_Comunicar Erro"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Acerca de..."
+msgid "_About..."
+msgstr "_Acerca de..."
 
 #: ../control-center:730
 #, c-format
@@ -1992,8 +1992,8 @@ msgstr "Configure o seu Ordenador"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Configure onde se monta a súa disqueteira"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Subir a lista de hardware"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Subir a lista de hardware"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>U"
@@ -2111,8 +2111,8 @@ msgstr "Configure o seu Ordenador"
 #~ msgid "Set up TV card"
 #~ msgstr "Configurar unha tarxeta de TV"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/Modo e_xperto"
+#~ msgid "_Expert mode"
+#~ msgstr "Modo e_xperto"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Configurar os puntos de montaxe Samba"

@@ -950,33 +950,33 @@ msgstr "Flere veivisere"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Valg"
+msgid "_Options"
+msgstr "_Valg"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Vis _logger"
+msgid "Display _Logs"
+msgstr "Vis _logger"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Innebygd modus"
+msgid "_Embedded Mode"
+msgstr "_Innebygd modus"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Ekspertmodus i _veivisere"
+msgid "Expert mode in _wizards"
+msgstr "Ekspertmodus i _veivisere"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fil"
+msgid "_File"
+msgstr "_Fil"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Avslutt"
+msgid "_Quit"
+msgstr "_Avslutt"
 
 #: ../control-center:627
 #, c-format
@@ -990,8 +990,8 @@ msgstr "Avslutt"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Temaer"
+msgid "_Themes"
+msgstr "_Temaer"
 
 #: ../control-center:654
 #, c-format
@@ -1004,15 +1004,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Flere temaer"
+msgid "_More themes"
+msgstr "_Flere temaer"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Hjelp"
+msgid "_Help"
+msgstr "_Hjelp"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1022,28 +1022,28 @@ msgstr "Hjelp"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Utgivelsesnotater"
+msgid "_Release notes"
+msgstr "_Utgivelsesnotater"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Hva er nytt?"
+msgid "What's _New?"
+msgstr "Hva er nytt?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Hurtigfiksliste"
+msgid "_Errata"
+msgstr "_Hurtigfiksliste"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Rapporter feil"
+msgid "_Report Bug"
+msgstr "_Rapporter feil"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Om …"
+msgid "_About..."
+msgstr "_Om …"
 
 #: ../control-center:730
 #, c-format

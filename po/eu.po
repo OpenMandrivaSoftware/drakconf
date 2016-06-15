@@ -947,33 +947,33 @@ msgstr "Morroi osagarriak"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Aukerak"
+msgid "_Options"
+msgstr "_Aukerak"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/_Erregistroak Bistaratu"
+msgid "Display _Logs"
+msgstr "_Erregistroak Bistaratu"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Modu kapsulatua"
+msgid "_Embedded Mode"
+msgstr "_Modu kapsulatua"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Aditu-modua _morroietan"
+msgid "Expert mode in _wizards"
+msgstr "Aditu-modua _morroietan"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fitxategia"
+msgid "_File"
+msgstr "_Fitxategia"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Irten"
+msgid "_Quit"
+msgstr "_Irten"
 
 #: ../control-center:627
 #, c-format
@@ -987,8 +987,8 @@ msgstr "Irten"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Gaiak"
+msgid "_Themes"
+msgstr "_Gaiak"
 
 #: ../control-center:654
 #, c-format
@@ -1001,15 +1001,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Gai gehiago"
+msgid "_More themes"
+msgstr "_Gai gehiago"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Laguntza"
+msgid "_Help"
+msgstr "_Laguntza"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1019,28 +1019,28 @@ msgstr "Laguntza"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Bertsio oharrak"
+msgid "_Release notes"
+msgstr "_Bertsio oharrak"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/_Zer Berri?"
+msgid "What's _New?"
+msgstr "_Zer Berri?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Akatsak"
+msgid "_Errata"
+msgstr "_Akatsak"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/Akats _Txostena"
+msgid "_Report Bug"
+msgstr "Akats _Txostena"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Honi buruz..."
+msgid "_About..."
+msgstr "_Honi buruz..."
 
 #: ../control-center:730
 #, c-format

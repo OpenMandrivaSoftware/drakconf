@@ -912,33 +912,33 @@ msgstr "Skoazelleroù ouzhpenn"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Dibarzhoù"
+msgid "_Options"
+msgstr "_Dibarzhoù"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Diskouez ar c'herzlevr"
+msgid "Display _Logs"
+msgstr "Diskouez ar c'herzlevr"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Mod _enframmet"
+msgid "_Embedded Mode"
+msgstr "Mod _enframmet"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Mod mailh evit ar _skoazhellerien"
+msgid "Expert mode in _wizards"
+msgstr "Mod mailh evit ar _skoazhellerien"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Restr"
+msgid "_File"
+msgstr "_Restr"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Kuitaat"
+msgid "_Quit"
+msgstr "_Kuitaat"
 
 #: ../control-center:627
 #, c-format
@@ -952,8 +952,8 @@ msgstr "Kuitaat"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Giz"
+msgid "_Themes"
+msgstr "_Giz"
 
 #: ../control-center:654
 #, c-format
@@ -964,15 +964,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/Gizioù _muioc'h"
+msgid "_More themes"
+msgstr "Gizioù _muioc'h"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Skoazell"
+msgid "_Help"
+msgstr "_Skoazell"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -982,28 +982,28 @@ msgstr "Skoazell"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Lemel"
+msgid "_Release notes"
+msgstr "_Lemel"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Petra zo _nevez ?"
+msgid "What's _New?"
+msgstr "Petra zo _nevez ?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Errata"
+msgid "_Errata"
+msgstr "_Errata"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Reiñ da c'houzout ur gudenn"
+msgid "_Report Bug"
+msgstr "_Reiñ da c'houzout ur gudenn"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_A-brepoz..."
+msgid "_About..."
+msgstr "_A-brepoz..."
 
 #: ../control-center:730
 #, c-format
@@ -1918,8 +1918,8 @@ msgstr "Kefluniañ hoc'h urzhiataer"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Lakaat pelec'h e vez marchañ ho vladennig"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Ezkargañ roll ar perientel"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Ezkargañ roll ar perientel"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>E"
@@ -2047,8 +2047,8 @@ msgstr "Kefluniañ hoc'h urzhiataer"
 #~ msgid "Set up TV card"
 #~ msgstr "Kefluniañ ar gartenn pellwel"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/Mod _mailh"
+#~ msgid "_Expert mode"
+#~ msgstr "Mod _mailh"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Lakaat ar poentoù marc'hañ SaMBa"
@@ -2071,11 +2071,11 @@ msgstr "Kefluniañ hoc'h urzhiataer"
 #~ "\n"
 #~ "Ha fellout a ra deoc'h rasklañ ha kenderc'hel ?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profiloù"
+#~ msgid "_Profiles"
+#~ msgstr "_Profiloù"
 
-#~ msgid "/_New"
-#~ msgstr "/_Nevez"
+#~ msgid "_New"
+#~ msgstr "_Nevez"
 
 #~ msgid "New profile..."
 #~ msgstr "Profil nevez..."
@@ -2101,14 +2101,14 @@ msgstr "Kefluniañ hoc'h urzhiataer"
 #~ msgid "You can not delete the current profile"
 #~ msgstr "N' hoc'h eus ket lemel ar profil red"
 
-#~ msgid "/File/Save _As"
-#~ msgstr "/Restr/Meuziad Lañsañ"
+#~ msgid "File/Save _As"
+#~ msgstr "Restr/Meuziad Lañsañ"
 
-#~ msgid "/Help/_About..."
-#~ msgstr "/Skoazell/_A-brepoz"
+#~ msgid "Help/_About..."
+#~ msgstr "Skoazell/_A-brepoz"
 
-#~ msgid "/Options"
-#~ msgstr "/Dibarzhoù"
+#~ msgid "Options"
+#~ msgstr "Dibarzhoù"
 
 #~ msgid "Auto Install Floppy"
 #~ msgstr "Bladennig staliañ emgefreek"

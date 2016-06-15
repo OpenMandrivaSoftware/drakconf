@@ -939,33 +939,33 @@ msgstr "Ďalší sprievodcovia"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Nastavenia"
+msgid "_Options"
+msgstr "_Nastavenia"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Zobraziť _Logy"
+msgid "Display _Logs"
+msgstr "Zobraziť _Logy"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Embedded Mód"
+msgid "_Embedded Mode"
+msgstr "_Embedded Mód"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Expert mód v _sprievodcoch"
+msgid "Expert mode in _wizards"
+msgstr "Expert mód v _sprievodcoch"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Súbor"
+msgid "_File"
+msgstr "_Súbor"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Koniec"
+msgid "_Quit"
+msgstr "_Koniec"
 
 #: ../control-center:627
 #, c-format
@@ -979,8 +979,8 @@ msgstr "Koniec"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Témy"
+msgid "_Themes"
+msgstr "_Témy"
 
 #: ../control-center:654
 #, c-format
@@ -993,15 +993,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Ďalšie témy"
+msgid "_More themes"
+msgstr "_Ďalšie témy"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Pomoc"
+msgid "_Help"
+msgstr "_Pomoc"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1011,28 +1011,28 @@ msgstr "Pomoc"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/O_dstrániť"
+msgid "_Release notes"
+msgstr "O_dstrániť"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Ohlásiť chybu"
+msgid "_Report Bug"
+msgstr "_Ohlásiť chybu"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_O aplikácii..."
+msgid "_About..."
+msgstr "_O aplikácii..."
 
 #: ../control-center:730
 #, c-format
@@ -1967,8 +1967,8 @@ msgstr "Nastaviť váš počítač"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Nastavte kam sa má pripojiť vaša disketová jednotka"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Odoslať zoznam hardvéru"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Odoslať zoznam hardvéru"
 
 #, fuzzy
 #~ msgid "<control>U"
@@ -2090,8 +2090,8 @@ msgstr "Nastaviť váš počítač"
 #~ msgid "Set up TV card"
 #~ msgstr "TV karta"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Expertný mód"
+#~ msgid "_Expert mode"
+#~ msgstr "_Expertný mód"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Body pripojenia pre Sambu"
@@ -2122,11 +2122,11 @@ msgstr "Nastaviť váš počítač"
 #~ "\n"
 #~ "Naozaj si želáte takéto prepnutie?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profily"
+#~ msgid "_Profiles"
+#~ msgstr "_Profily"
 
-#~ msgid "/_New"
-#~ msgstr "/_Nový"
+#~ msgid "_New"
+#~ msgstr "_Nový"
 
 #~ msgid "New profile..."
 #~ msgstr "Nový profil..."

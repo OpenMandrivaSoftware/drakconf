@@ -954,33 +954,33 @@ msgstr "Дополнительные мастера"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Опции"
+msgid "_Options"
+msgstr "_Опции"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Показать _логи"
+msgid "Display _Logs"
+msgstr "Показать _логи"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Встроенный режим"
+msgid "_Embedded Mode"
+msgstr "_Встроенный режим"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Режим эксперта в _мастерах"
+msgid "Expert mode in _wizards"
+msgstr "Режим эксперта в _мастерах"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Файл"
+msgid "_File"
+msgstr "_Файл"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Выход"
+msgid "_Quit"
+msgstr "_Выход"
 
 #: ../control-center:627
 #, c-format
@@ -994,8 +994,8 @@ msgstr "Выйти"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Темы"
+msgid "_Themes"
+msgstr "_Темы"
 
 #: ../control-center:654
 #, c-format
@@ -1008,15 +1008,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Дополнительные темы"
+msgid "_More themes"
+msgstr "_Дополнительные темы"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Справка"
+msgid "_Help"
+msgstr "_Справка"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1026,28 +1026,28 @@ msgstr "Справка"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Замечания по выпуску"
+msgid "_Release notes"
+msgstr "_Замечания по выпуску"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Что _нового?"
+msgid "What's _New?"
+msgstr "Что _нового?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Ошибки"
+msgid "_Errata"
+msgstr "_Ошибки"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Отчет об ошибке"
+msgid "_Report Bug"
+msgstr "_Отчет об ошибке"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_О программе..."
+msgid "_About..."
+msgstr "_О программе..."
 
 #: ../control-center:730
 #, c-format

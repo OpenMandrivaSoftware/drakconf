@@ -927,33 +927,33 @@ msgstr "Themên zêde"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Bijartin"
+msgid "_Options"
+msgstr "_Bijartin"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Display _Logs"
+msgid "Display _Logs"
+msgstr "Display _Logs"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Moda ajotin"
+msgid "_Embedded Mode"
+msgstr "_Moda ajotin"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Arîkarîya bi tecrube _di wizartê de"
+msgid "Expert mode in _wizards"
+msgstr "Arîkarîya bi tecrube _di wizartê de"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_File"
+msgid "_File"
+msgstr "_File"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Derket"
+msgid "_Quit"
+msgstr "_Derket"
 
 #: ../control-center:627
 #, c-format
@@ -967,8 +967,8 @@ msgstr "Derket"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Them"
+msgid "_Themes"
+msgstr "_Them"
 
 #: ../control-center:654
 #, c-format
@@ -981,15 +981,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Mijarên zêde"
+msgid "_More themes"
+msgstr "_Mijarên zêde"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Alîkarî"
+msgid "_Help"
+msgstr "_Alîkarî"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -999,28 +999,28 @@ msgstr "Alîkarî"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Pakijkirin"
+msgid "_Release notes"
+msgstr "_Pakijkirin"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Rapor kirina çewtîyan"
+msgid "_Report Bug"
+msgstr "_Rapor kirina çewtîyan"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Derheq..."
+msgid "_About..."
+msgstr "_Derheq..."
 
 #: ../control-center:730
 #, c-format
@@ -2054,8 +2054,8 @@ msgstr "Pêkanîna seat"
 #~ msgstr "Karta TV"
 
 #, fuzzy
-#~ msgid "/_Expert mode"
-#~ msgstr "/Arîkarîya bi tecrube _di wizartê de"
+#~ msgid "_Expert mode"
+#~ msgstr "Arîkarîya bi tecrube _di wizartê de"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2080,11 +2080,11 @@ msgstr "Pêkanîna seat"
 #~ "\n"
 #~ "Hûn dixwazîn cihê xwe werçerexînî?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profîl"
+#~ msgid "_Profiles"
+#~ msgstr "_Profîl"
 
-#~ msgid "/_New"
-#~ msgstr "/_Nû"
+#~ msgid "_New"
+#~ msgstr "_Nû"
 
 #~ msgid "New profile..."
 #~ msgstr "Profîla nû..."

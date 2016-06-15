@@ -936,33 +936,33 @@ msgstr "Dodatne teme"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opcije"
+msgid "_Options"
+msgstr "_Opcije"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Prikaži _Logove"
+msgid "Display _Logs"
+msgstr "Prikaži _Logove"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Embedded Mod"
+msgid "_Embedded Mode"
+msgstr "_Embedded Mod"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Ekspert mod u _čarobnjacima"
+msgid "Expert mode in _wizards"
+msgstr "Ekspert mod u _čarobnjacima"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fajl"
+msgid "_File"
+msgstr "_Fajl"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Kraj"
+msgid "_Quit"
+msgstr "_Kraj"
 
 #: ../control-center:627
 #, c-format
@@ -976,8 +976,8 @@ msgstr "Završi"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Teme"
+msgid "_Themes"
+msgstr "_Teme"
 
 #: ../control-center:654
 #, c-format
@@ -990,15 +990,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Još tema"
+msgid "_More themes"
+msgstr "_Još tema"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Pomoć"
+msgid "_Help"
+msgstr "_Pomoć"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1008,28 +1008,28 @@ msgstr "Pomoć"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Obriši"
+msgid "_Release notes"
+msgstr "_Obriši"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/Prijavite _grešku"
+msgid "_Report Bug"
+msgstr "Prijavite _grešku"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_O..."
+msgid "_About..."
+msgstr "_O..."
 
 #: ../control-center:730
 #, c-format
@@ -2071,8 +2071,8 @@ msgstr "Podesi veb"
 #~ msgid "Set up TV card"
 #~ msgstr "TV kartica"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Ekspert mod"
+#~ msgid "_Expert mode"
+#~ msgstr "_Ekspert mod"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2104,11 +2104,11 @@ msgstr "Podesi veb"
 #~ "\n"
 #~ "Da li ste sigurni da želite da izvršite zamenu?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profili"
+#~ msgid "_Profiles"
+#~ msgstr "_Profili"
 
-#~ msgid "/_New"
-#~ msgstr "/_Novi"
+#~ msgid "_New"
+#~ msgstr "_Novi"
 
 #~ msgid "New profile..."
 #~ msgstr "Novi profil..."
@@ -2135,23 +2135,23 @@ msgstr "Podesi veb"
 #~ msgid "You can not delete the current profile"
 #~ msgstr "Vi ne možete da izbrišete trenutno aktivni profil"
 
-#~ msgid "/Display Logs"
-#~ msgstr "/Prikaži Logove"
+#~ msgid "Display Logs"
+#~ msgstr "Prikaži Logove"
 
-#~ msgid "/Embedded Mode"
-#~ msgstr "/Embedded Mod"
+#~ msgid "Embedded Mode"
+#~ msgstr "Embedded Mod"
 
-#~ msgid "/Expert mode in wizards"
-#~ msgstr "/Ekspert mod u čarobnjacima"
+#~ msgid "Expert mode in wizards"
+#~ msgstr "Ekspert mod u čarobnjacima"
 
-#~ msgid "/File"
-#~ msgstr "/Fajl"
+#~ msgid "File"
+#~ msgstr "Fajl"
 
-#~ msgid "/Options"
-#~ msgstr "/Opcije"
+#~ msgid "Options"
+#~ msgstr "Opcije"
 
-#~ msgid "/Themes"
-#~ msgstr "/Teme"
+#~ msgid "Themes"
+#~ msgstr "Teme"
 
 #~ msgid "Add a DNS client"
 #~ msgstr "Dodaj DNS klijenta"

@@ -940,33 +940,33 @@ msgstr "طرح‌های اضافی"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_گزینه‌ها"
+msgid "_Options"
+msgstr "_گزینه‌ها"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/نمایش _ثبت‌ها"
+msgid "Display _Logs"
+msgstr "نمایش _ثبت‌ها"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_حالت دربستری"
+msgid "_Embedded Mode"
+msgstr "_حالت دربستری"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/حالت کارشناسی در _جادوگر"
+msgid "Expert mode in _wizards"
+msgstr "حالت کارشناسی در _جادوگر"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_پرونده"
+msgid "_File"
+msgstr "_پرونده"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_ترک"
+msgid "_Quit"
+msgstr "_ترک"
 
 #: ../control-center:627
 #, c-format
@@ -980,8 +980,8 @@ msgstr "ترک"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_طرح‌ها"
+msgid "_Themes"
+msgstr "_طرح‌ها"
 
 #: ../control-center:654
 #, c-format
@@ -994,15 +994,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_طرح‌های بیشتر"
+msgid "_More themes"
+msgstr "_طرح‌های بیشتر"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_راهنما"
+msgid "_Help"
+msgstr "_راهنما"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1012,28 +1012,28 @@ msgstr "راهنما"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_حذف"
+msgid "_Release notes"
+msgstr "_حذف"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_گزارش اشکال"
+msgid "_Report Bug"
+msgstr "_گزارش اشکال"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_درباره‌ی..."
+msgid "_About..."
+msgstr "_درباره‌ی..."
 
 #: ../control-center:730
 #, c-format
@@ -2085,8 +2085,8 @@ msgstr "پیکربندی رایانه خود"
 #~ msgid "Set up TV card"
 #~ msgstr "برپاسازی کارت تلویزیون"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_حالت کارشناسی"
+#~ msgid "_Expert mode"
+#~ msgstr "_حالت کارشناسی"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "تعیین نقاط سوارسازی سامبا"
@@ -2117,11 +2117,11 @@ msgstr "پیکربندی رایانه خود"
 #~ "\n"
 #~ "آیا مطمئن هستید که می‌خواهید این تعویض را انجام دهید؟"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_نمایه‌ها"
+#~ msgid "_Profiles"
+#~ msgstr "_نمایه‌ها"
 
-#~ msgid "/_New"
-#~ msgstr "/_جدید"
+#~ msgid "_New"
+#~ msgstr "_جدید"
 
 #~ msgid "New profile..."
 #~ msgstr "نمایه‌ی جدید..."

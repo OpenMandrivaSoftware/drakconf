@@ -945,33 +945,33 @@ msgstr "Додатни волшебници"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Опции"
+msgid "_Options"
+msgstr "_Опции"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Прикажи _логови"
+msgid "Display _Logs"
+msgstr "Прикажи _логови"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Вгнезден режим"
+msgid "_Embedded Mode"
+msgstr "_Вгнезден режим"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Експертен режим во в_олшебниците"
+msgid "Expert mode in _wizards"
+msgstr "Експертен режим во в_олшебниците"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Датотека"
+msgid "_File"
+msgstr "_Датотека"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Напушти"
+msgid "_Quit"
+msgstr "_Напушти"
 
 #: ../control-center:627
 #, c-format
@@ -985,8 +985,8 @@ msgstr "Напушти"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Теми"
+msgid "_Themes"
+msgstr "_Теми"
 
 #: ../control-center:654
 #, c-format
@@ -999,15 +999,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Додатни теми"
+msgid "_More themes"
+msgstr "_Додатни теми"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Помош"
+msgid "_Help"
+msgstr "_Помош"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1017,28 +1017,28 @@ msgstr "Помош"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
+msgid "_Release notes"
 msgstr ""
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Пријави грешка"
+msgid "_Report Bug"
+msgstr "_Пријави грешка"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_За..."
+msgid "_About..."
+msgstr "_За..."
 
 #: ../control-center:730
 #, c-format
@@ -1991,8 +1991,8 @@ msgstr "Конфигурирајте го компјутерот"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Поставете каде ќе се монтира вашата дискетна единица"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Прати ја листата на хардвер"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Прати ја листата на хардвер"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>U"
@@ -2116,8 +2116,8 @@ msgstr "Конфигурирајте го компјутерот"
 #~ msgid "Set up TV card"
 #~ msgstr "Поставете TV картичка"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Експертски режим"
+#~ msgid "_Expert mode"
+#~ msgstr "_Експертски режим"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Поставете Samba точки на монтирање"

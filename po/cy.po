@@ -935,33 +935,33 @@ msgstr "Dewiniaid ychwanegol"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Dewisiadau"
+msgid "_Options"
+msgstr "_Dewisiadau"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Dangos _Cofnodion"
+msgid "Display _Logs"
+msgstr "Dangos _Cofnodion"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Modd _Mewnosod"
+msgid "_Embedded Mode"
+msgstr "Modd _Mewnosod"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Modd arbenigwr mewn _dewin"
+msgid "Expert mode in _wizards"
+msgstr "Modd arbenigwr mewn _dewin"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Ffeil"
+msgid "_File"
+msgstr "_Ffeil"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Gadael"
+msgid "_Quit"
+msgstr "_Gadael"
 
 #: ../control-center:627
 #, c-format
@@ -975,8 +975,8 @@ msgstr "Gadael"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Themâu"
+msgid "_Themes"
+msgstr "_Themâu"
 
 #: ../control-center:654
 #, c-format
@@ -989,15 +989,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Rhagor o themâu"
+msgid "_More themes"
+msgstr "_Rhagor o themâu"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Cymorth"
+msgid "_Help"
+msgstr "_Cymorth"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1007,28 +1007,28 @@ msgstr "Cymorth"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Nodiadau ryddhau"
+msgid "_Release notes"
+msgstr "_Nodiadau ryddhau"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/What's _New?"
+msgid "What's _New?"
+msgstr "What's _New?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Errata"
+msgid "_Errata"
+msgstr "_Errata"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Adrodd ar Wallau"
+msgid "_Report Bug"
+msgstr "_Adrodd ar Wallau"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Ynghylch..."
+msgid "_About..."
+msgstr "_Ynghylch..."
 
 #: ../control-center:730
 #, c-format
@@ -1957,8 +1957,8 @@ msgstr "Ffurfweddu eich Cyfrifiadur"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Pennu lle mae eich disg meddal wedi ei osod"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Llwytho'r rhestr caledwedd"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Llwytho'r rhestr caledwedd"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>U"

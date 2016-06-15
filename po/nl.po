@@ -949,33 +949,33 @@ msgstr "Aanvullende wizards"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Opties"
+msgid "_Options"
+msgstr "_Opties"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/_Logboek weergeven"
+msgid "Display _Logs"
+msgstr "_Logboek weergeven"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Ingebedde modus"
+msgid "_Embedded Mode"
+msgstr "_Ingebedde modus"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Expert-modus in _wizards"
+msgid "Expert mode in _wizards"
+msgstr "Expert-modus in _wizards"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Bestand"
+msgid "_File"
+msgstr "_Bestand"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Afsluiten"
+msgid "_Quit"
+msgstr "_Afsluiten"
 
 #: ../control-center:627
 #, c-format
@@ -989,8 +989,8 @@ msgstr "Afsluiten"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Thema's"
+msgid "_Themes"
+msgstr "_Thema's"
 
 #: ../control-center:654
 #, c-format
@@ -1003,15 +1003,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Meer thema's"
+msgid "_More themes"
+msgstr "_Meer thema's"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Hulp"
+msgid "_Help"
+msgstr "_Hulp"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1021,28 +1021,28 @@ msgstr "Hulp"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Uitgave-opmerkingen"
+msgid "_Release notes"
+msgstr "_Uitgave-opmerkingen"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Wat is _nieuw?"
+msgid "What's _New?"
+msgstr "Wat is _nieuw?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Errata"
+msgid "_Errata"
+msgstr "_Errata"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/Fout _rapporteren"
+msgid "_Report Bug"
+msgstr "Fout _rapporteren"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/In_fo…"
+msgid "_About..."
+msgstr "In_fo…"
 
 #: ../control-center:730
 #, c-format
@@ -1992,8 +1992,8 @@ msgstr "Uw computer configureren"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Koppelpunt van uw diskettestation instellen"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/Apparatuurlijst _versturen"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "Apparatuurlijst _versturen"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>U"
@@ -2115,8 +2115,8 @@ msgstr "Uw computer configureren"
 #~ msgid "Set up TV card"
 #~ msgstr "TV-kaart instellen"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_Expert-modus"
+#~ msgid "_Expert mode"
+#~ msgstr "_Expert-modus"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Samba-koppelpunten instellen"
@@ -2150,11 +2150,11 @@ msgstr "Uw computer configureren"
 #~ "\n"
 #~ "Wilt u echt over schakelen?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profielen"
+#~ msgid "_Profiles"
+#~ msgstr "_Profielen"
 
-#~ msgid "/_New"
-#~ msgstr "/_Nieuw"
+#~ msgid "_New"
+#~ msgstr "_Nieuw"
 
 #~ msgid "New profile..."
 #~ msgstr "Nieuw profiel..."

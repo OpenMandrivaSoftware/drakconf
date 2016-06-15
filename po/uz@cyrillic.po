@@ -918,33 +918,33 @@ msgstr "Қўшимча ёрдамчилар"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Мосламалар"
+msgid "_Options"
+msgstr "_Мосламалар"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/_Логларни кўрсатиш"
+msgid "Display _Logs"
+msgstr "_Логларни кўрсатиш"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
+msgid "_Embedded Mode"
 msgstr ""
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Ёрдамчиларда _эксперт усули"
+msgid "Expert mode in _wizards"
+msgstr "Ёрдамчиларда _эксперт усули"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Файл"
+msgid "_File"
+msgstr "_Файл"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/Чи_қиш"
+msgid "_Quit"
+msgstr "Чи_қиш"
 
 #: ../control-center:627
 #, c-format
@@ -958,8 +958,8 @@ msgstr "Чиқиш"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Мавзулар"
+msgid "_Themes"
+msgstr "_Мавзулар"
 
 #: ../control-center:654
 #, c-format
@@ -972,15 +972,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Кўпроқ мавзулар"
+msgid "_More themes"
+msgstr "_Кўпроқ мавзулар"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Ёрдам"
+msgid "_Help"
+msgstr "_Ёрдам"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -990,28 +990,28 @@ msgstr "Ёрдам"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
+msgid "_Release notes"
 msgstr ""
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_Хатоликлар"
+msgid "_Errata"
+msgstr "_Хатоликлар"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Хато ҳақида хабар қилиш"
+msgid "_Report Bug"
+msgstr "_Хато ҳақида хабар қилиш"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Дастур ҳақида..."
+msgid "_About..."
+msgstr "_Дастур ҳақида..."
 
 #: ../control-center:730
 #, c-format

@@ -939,33 +939,33 @@ msgstr "אשפים נוספים"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_אפשרויות"
+msgid "_Options"
+msgstr "_אפשרויות"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/הצג יומן"
+msgid "Display _Logs"
+msgstr "הצג יומן"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_מצב משולב"
+msgid "_Embedded Mode"
+msgstr "_מצב משולב"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/מצב מומחה באשפים"
+msgid "Expert mode in _wizards"
+msgstr "מצב מומחה באשפים"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_קובץ"
+msgid "_File"
+msgstr "_קובץ"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_יציאה"
+msgid "_Quit"
+msgstr "_יציאה"
 
 #: ../control-center:627
 #, c-format
@@ -979,8 +979,8 @@ msgstr "יציאה"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_ערכות נושא"
+msgid "_Themes"
+msgstr "_ערכות נושא"
 
 #: ../control-center:654
 #, c-format
@@ -993,15 +993,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_עוד ערכות נושא"
+msgid "_More themes"
+msgstr "_עוד ערכות נושא"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_עזרה"
+msgid "_Help"
+msgstr "_עזרה"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1011,28 +1011,28 @@ msgstr "עזרה"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_הערות שחרור"
+msgid "_Release notes"
+msgstr "_הערות שחרור"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/מה _חדש?"
+msgid "What's _New?"
+msgstr "מה _חדש?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/_תיקוני כשלים"
+msgid "_Errata"
+msgstr "_תיקוני כשלים"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_דווח על בעיות"
+msgid "_Report Bug"
+msgstr "_דווח על בעיות"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_אודות ..."
+msgid "_About..."
+msgstr "_אודות ..."
 
 #: ../control-center:730
 #, c-format

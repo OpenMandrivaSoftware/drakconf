@@ -945,33 +945,33 @@ msgstr "Muut velhot"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Asetukset"
+msgid "_Options"
+msgstr "_Asetukset"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Näytä _lokit"
+msgid "Display _Logs"
+msgstr "Näytä _lokit"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Upot_ettu tila"
+msgid "_Embedded Mode"
+msgstr "Upot_ettu tila"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/_Velhojen asiantuntija-tila"
+msgid "Expert mode in _wizards"
+msgstr "_Velhojen asiantuntija-tila"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Tiedosto"
+msgid "_File"
+msgstr "_Tiedosto"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Lopeta"
+msgid "_Quit"
+msgstr "_Lopeta"
 
 #: ../control-center:627
 #, c-format
@@ -985,8 +985,8 @@ msgstr "Lopeta"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Teemat"
+msgid "_Themes"
+msgstr "_Teemat"
 
 #: ../control-center:654
 #, c-format
@@ -999,15 +999,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Lisää teemoja"
+msgid "_More themes"
+msgstr "_Lisää teemoja"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/O_hje"
+msgid "_Help"
+msgstr "O_hje"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1017,28 +1017,28 @@ msgstr "Ohje"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Julkaisutiedot"
+msgid "_Release notes"
+msgstr "_Julkaisutiedot"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/Mitä _uutta?"
+msgid "What's _New?"
+msgstr "Mitä _uutta?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/Tunnetut _ongelmat"
+msgid "_Errata"
+msgstr "Tunnetut _ongelmat"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Raportoi virheestä"
+msgid "_Report Bug"
+msgstr "_Raportoi virheestä"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Tietoja..."
+msgid "_About..."
+msgstr "_Tietoja..."
 
 #: ../control-center:730
 #, c-format

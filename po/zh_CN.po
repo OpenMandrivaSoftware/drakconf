@@ -926,33 +926,33 @@ msgstr "额外向导"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/选项(_O)"
+msgid "_Options"
+msgstr "选项(_O)"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/显示日志(_L)"
+msgid "Display _Logs"
+msgstr "显示日志(_L)"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/嵌入模式(_E)"
+msgid "_Embedded Mode"
+msgstr "嵌入模式(_E)"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/在向导中使用专家模式(_W)"
+msgid "Expert mode in _wizards"
+msgstr "在向导中使用专家模式(_W)"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/文件(_F)"
+msgid "_File"
+msgstr "文件(_F)"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/退出(_Q)"
+msgid "_Quit"
+msgstr "退出(_Q)"
 
 #: ../control-center:627
 #, c-format
@@ -966,8 +966,8 @@ msgstr "退出"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/主题(_T)"
+msgid "_Themes"
+msgstr "主题(_T)"
 
 #: ../control-center:654
 #, c-format
@@ -980,15 +980,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/更多主题(_M)"
+msgid "_More themes"
+msgstr "更多主题(_M)"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/帮助(_H)"
+msgid "_Help"
+msgstr "帮助(_H)"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -998,28 +998,28 @@ msgstr "帮助"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/版本注解(_R)"
+msgid "_Release notes"
+msgstr "版本注解(_R)"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/新增内容(_N)"
+msgid "What's _New?"
+msgstr "新增内容(_N)"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/勘误(_E)"
+msgid "_Errata"
+msgstr "勘误(_E)"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/故障报告(_R)"
+msgid "_Report Bug"
+msgstr "故障报告(_R)"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/关于(_A)..."
+msgid "_About..."
+msgstr "关于(_A)..."
 
 #: ../control-center:730
 #, c-format

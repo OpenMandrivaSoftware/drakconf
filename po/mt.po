@@ -937,33 +937,33 @@ msgstr "Temi oħra"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/Għa_żliet"
+msgid "_Options"
+msgstr "Għa_żliet"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Uri _logs"
+msgid "Display _Logs"
+msgstr "Uri _logs"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Modalità _integrata"
+msgid "_Embedded Mode"
+msgstr "Modalità _integrata"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Modalità _Esperta fis-sħaħar"
+msgid "Expert mode in _wizards"
+msgstr "Modalità _Esperta fis-sħaħar"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fajl"
+msgid "_File"
+msgstr "_Fajl"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Oħroġ"
+msgid "_Quit"
+msgstr "_Oħroġ"
 
 #: ../control-center:627
 #, c-format
@@ -977,8 +977,8 @@ msgstr "Oħroġ"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Temi"
+msgid "_Themes"
+msgstr "_Temi"
 
 #: ../control-center:654
 #, c-format
@@ -991,15 +991,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Iżjed Temi"
+msgid "_More themes"
+msgstr "_Iżjed Temi"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Għajnuna"
+msgid "_Help"
+msgstr "_Għajnuna"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1009,28 +1009,28 @@ msgstr "Għajnuna"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Ħassar"
+msgid "_Release notes"
+msgstr "_Ħassar"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/I_rrapporta bug"
+msgid "_Report Bug"
+msgstr "I_rrapporta bug"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Dwar..."
+msgid "_About..."
+msgstr "_Dwar..."
 
 #: ../control-center:730
 #, c-format
@@ -2059,8 +2059,8 @@ msgstr "Ikkonfigura groupware"
 #~ msgid "Set up TV card"
 #~ msgstr "Kard TV"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/Modalità _esperti"
+#~ msgid "_Expert mode"
+#~ msgstr "Modalità _esperti"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2085,11 +2085,11 @@ msgstr "Ikkonfigura groupware"
 #~ "\n"
 #~ "Żgur li trid taqleb?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profili"
+#~ msgid "_Profiles"
+#~ msgstr "_Profili"
 
-#~ msgid "/_New"
-#~ msgstr "/_Ġdid"
+#~ msgid "_New"
+#~ msgstr "_Ġdid"
 
 #~ msgid "New profile..."
 #~ msgstr "Profil ġdid..."

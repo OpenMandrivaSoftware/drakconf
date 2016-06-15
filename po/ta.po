@@ -929,33 +929,33 @@ msgstr "மேலும் சில உருகருக்கள்"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_விருப்பத்தேர்வு"
+msgid "_Options"
+msgstr "_விருப்பத்தேர்வு"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/பதிவுகளைக் காட்டு"
+msgid "Display _Logs"
+msgstr "பதிவுகளைக் காட்டு"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/உட்பொதிந்த முறைமை"
+msgid "_Embedded Mode"
+msgstr "உட்பொதிந்த முறைமை"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/மாயாவிகளில் வித்தகர் முறைமை"
+msgid "Expert mode in _wizards"
+msgstr "மாயாவிகளில் வித்தகர் முறைமை"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_கோப்பு"
+msgid "_File"
+msgstr "_கோப்பு"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_வெளிச்செல்"
+msgid "_Quit"
+msgstr "_வெளிச்செல்"
 
 #: ../control-center:627
 #, c-format
@@ -969,8 +969,8 @@ msgstr "வெளிச்செல்"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_உருகருக்கள்"
+msgid "_Themes"
+msgstr "_உருகருக்கள்"
 
 #: ../control-center:654
 #, c-format
@@ -983,15 +983,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_மேலும் சில உருகருக்கள்"
+msgid "_More themes"
+msgstr "_மேலும் சில உருகருக்கள்"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_உதவி"
+msgid "_Help"
+msgstr "_உதவி"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1001,28 +1001,28 @@ msgstr "உதவி"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_அழி"
+msgid "_Release notes"
+msgstr "_அழி"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_பிழைகளை அறிவிக்க"
+msgid "_Report Bug"
+msgstr "_பிழைகளை அறிவிக்க"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_பற்றி"
+msgid "_About..."
+msgstr "_பற்றி"
 
 #: ../control-center:730
 #, c-format
@@ -2061,8 +2061,8 @@ msgstr "குரூப்வேரை வடிவமை"
 #~ msgid "Set up TV card"
 #~ msgstr "டிவி அட்டைகள் "
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/_அறிஞர் முறைமை"
+#~ msgid "_Expert mode"
+#~ msgstr "_அறிஞர் முறைமை"
 
 #, fuzzy
 #~ msgid "Set Samba mount points"
@@ -2088,11 +2088,11 @@ msgstr "குரூப்வேரை வடிவமை"
 #~ "\n"
 #~ "கண்டிப்பாக அடையாளக்குறிப்பை மாற்ற விரும்புகிறீரா?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_அடையாளக்குறிப்புகள்"
+#~ msgid "_Profiles"
+#~ msgstr "_அடையாளக்குறிப்புகள்"
 
-#~ msgid "/_New"
-#~ msgstr "/_செய்தி"
+#~ msgid "_New"
+#~ msgstr "_செய்தி"
 
 #~ msgid "New profile..."
 #~ msgstr "புதிய அடையாளக்குறிப்பு..."

@@ -942,33 +942,33 @@ msgstr "Muud nõustajad"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/Val_ikud"
+msgid "_Options"
+msgstr "Val_ikud"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/_Logifailide näitamine"
+msgid "Display _Logs"
+msgstr "_Logifailide näitamine"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/_Põimitud vaade"
+msgid "_Embedded Mode"
+msgstr "_Põimitud vaade"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Ekspertrežiim _nõustajates"
+msgid "Expert mode in _wizards"
+msgstr "Ekspertrežiim _nõustajates"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fail"
+msgid "_File"
+msgstr "_Fail"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/_Välju"
+msgid "_Quit"
+msgstr "_Välju"
 
 #: ../control-center:627
 #, c-format
@@ -982,8 +982,8 @@ msgstr "Välju"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Teemad"
+msgid "_Themes"
+msgstr "_Teemad"
 
 #: ../control-center:654
 #, c-format
@@ -996,15 +996,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/Veel teemasi_d"
+msgid "_More themes"
+msgstr "Veel teemasi_d"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Abi"
+msgid "_Help"
+msgstr "_Abi"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1014,28 +1014,28 @@ msgstr "Abi"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/_Väljalasketeade"
+msgid "_Release notes"
+msgstr "_Väljalasketeade"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/_Mis on uut?"
+msgid "What's _New?"
+msgstr "_Mis on uut?"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/T_eadaolevad vead"
+msgid "_Errata"
+msgstr "T_eadaolevad vead"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Teatamine veast"
+msgid "_Report Bug"
+msgstr "_Teatamine veast"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/_Info..."
+msgid "_About..."
+msgstr "_Info..."
 
 #: ../control-center:730
 #, c-format
@@ -1969,8 +1969,8 @@ msgstr "Arvuti seadistamine"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Disketiseadme haakepunkti määramine"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Riistvara nimekirja üleslaadimine"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Riistvara nimekirja üleslaadimine"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>U"

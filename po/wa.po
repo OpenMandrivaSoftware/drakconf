@@ -949,33 +949,33 @@ msgstr "Macreas di rawete"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_Tchuzes"
+msgid "_Options"
+msgstr "_Tchuzes"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/Håynaedje des _djournås"
+msgid "Display _Logs"
+msgstr "Håynaedje des _djournås"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/Môde _ravalêyes"
+msgid "_Embedded Mode"
+msgstr "Môde _ravalêyes"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/Môde sipepieus po les _macreas"
+msgid "Expert mode in _wizards"
+msgstr "Môde sipepieus po les _macreas"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_Fitchî"
+msgid "_File"
+msgstr "_Fitchî"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/Moussî _foû"
+msgid "_Quit"
+msgstr "Moussî _foû"
 
 #: ../control-center:627
 #, c-format
@@ -989,8 +989,8 @@ msgstr "Cwiter"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_Tinmes"
+msgid "_Themes"
+msgstr "_Tinmes"
 
 #: ../control-center:654
 #, c-format
@@ -1003,15 +1003,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/_Co des ôtes tinmes"
+msgid "_More themes"
+msgstr "_Co des ôtes tinmes"
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/_Aidance"
+msgid "_Help"
+msgstr "_Aidance"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1021,28 +1021,28 @@ msgstr "Aidance"
 
 #: ../control-center:668
 #, fuzzy, c-format
-msgid "/_Release notes"
-msgstr "/_Disfacer"
+msgid "_Release notes"
+msgstr "_Disfacer"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
+msgid "What's _New?"
 msgstr ""
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
+msgid "_Errata"
 msgstr ""
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/_Rapoirter on bug"
+msgid "_Report Bug"
+msgstr "_Rapoirter on bug"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/Å_d fwait..."
+msgid "_About..."
+msgstr "Å_d fwait..."
 
 #: ../control-center:730
 #, c-format
@@ -2007,8 +2007,8 @@ msgstr "Apontyî vosse copiutrece"
 #~ msgid "Set where your floppy drive is mounted"
 #~ msgstr "Defini l'plaece wice monter vosse plakete"
 
-#~ msgid "/_Upload the hardware list"
-#~ msgstr "/_Evoyî l' djivêye di l' éndjolreye"
+#~ msgid "_Upload the hardware list"
+#~ msgstr "_Evoyî l' djivêye di l' éndjolreye"
 
 #~ msgid "<control>U"
 #~ msgstr "<control>Q"
@@ -2130,8 +2130,8 @@ msgstr "Apontyî vosse copiutrece"
 #~ msgid "Set up TV card"
 #~ msgstr "Apontyî l' cåte tévé"
 
-#~ msgid "/_Expert mode"
-#~ msgstr "/Môde _sipepieus"
+#~ msgid "_Expert mode"
+#~ msgstr "Môde _sipepieus"
 
 #~ msgid "Set Samba mount points"
 #~ msgstr "Apontyî les ponts di montaedje Samba"
@@ -2166,11 +2166,11 @@ msgstr "Apontyî vosse copiutrece"
 #~ "\n"
 #~ "Estoz vs seur ki vos vloz candjî?"
 
-#~ msgid "/_Profiles"
-#~ msgstr "/_Profils"
+#~ msgid "_Profiles"
+#~ msgstr "_Profils"
 
-#~ msgid "/_New"
-#~ msgstr "/_Novea"
+#~ msgid "_New"
+#~ msgstr "_Novea"
 
 #~ msgid "New profile..."
 #~ msgstr "Novea profil..."

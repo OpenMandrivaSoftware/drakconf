@@ -940,33 +940,33 @@ msgstr "مرشدون إضافيون"
 #: ../control-center:614 ../control-center:615 ../control-center:616
 #: ../control-center:628
 #, c-format
-msgid "/_Options"
-msgstr "/_خيارات"
+msgid "_Options"
+msgstr "_خيارات"
 
 #: ../control-center:614
 #, c-format
-msgid "/Display _Logs"
-msgstr "/اعر_ض السجلات"
+msgid "Display _Logs"
+msgstr "اعر_ض السجلات"
 
 #: ../control-center:615
 #, c-format
-msgid "/_Embedded Mode"
-msgstr "/ال_وضع المُضمَّن"
+msgid "_Embedded Mode"
+msgstr "ال_وضع المُضمَّن"
 
 #: ../control-center:616
 #, c-format
-msgid "/Expert mode in _wizards"
-msgstr "/الو_ضع الخبير في المرشدين"
+msgid "Expert mode in _wizards"
+msgstr "الو_ضع الخبير في المرشدين"
 
 #: ../control-center:626 ../control-center:627
 #, c-format
-msgid "/_File"
-msgstr "/_ملف"
+msgid "_File"
+msgstr "_ملف"
 
 #: ../control-center:627
 #, c-format
-msgid "/_Quit"
-msgstr "/خ_روج"
+msgid "_Quit"
+msgstr "خ_روج"
 
 #: ../control-center:627
 #, c-format
@@ -980,8 +980,8 @@ msgstr "اخرج"
 
 #: ../control-center:648 ../control-center:651 ../control-center:664
 #, c-format
-msgid "/_Themes"
-msgstr "/_سمات"
+msgid "_Themes"
+msgstr "_سمات"
 
 #: ../control-center:654
 #, c-format
@@ -994,15 +994,15 @@ msgstr ""
 
 #: ../control-center:664
 #, c-format
-msgid "/_More themes"
-msgstr "/سمات أ_كثر "
+msgid "_More themes"
+msgstr "سمات أ_كثر "
 
 #: ../control-center:666 ../control-center:667 ../control-center:668
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:674
 #, c-format
-msgid "/_Help"
-msgstr "/مسا_عدة"
+msgid "_Help"
+msgstr "مسا_عدة"
 
 #: ../control-center:667 ../control-center:668 ../control-center:669
 #: ../control-center:670
@@ -1012,28 +1012,28 @@ msgstr "مساعدة"
 
 #: ../control-center:668
 #, c-format
-msgid "/_Release notes"
-msgstr "/ملاح_ظات الإصدارة"
+msgid "_Release notes"
+msgstr "ملاح_ظات الإصدارة"
 
 #: ../control-center:669
 #, c-format
-msgid "/What's _New?"
-msgstr "/مال_جديد؟"
+msgid "What's _New?"
+msgstr "مال_جديد؟"
 
 #: ../control-center:670
 #, c-format
-msgid "/_Errata"
-msgstr "/ال_هفوات"
+msgid "_Errata"
+msgstr "ال_هفوات"
 
 #: ../control-center:671
 #, c-format
-msgid "/_Report Bug"
-msgstr "/أبل_غ عن علَّة"
+msgid "_Report Bug"
+msgstr "أبل_غ عن علَّة"
 
 #: ../control-center:674
 #, c-format
-msgid "/_About..."
-msgstr "/عَ_نْ..."
+msgid "_About..."
+msgstr "عَ_نْ..."
 
 #: ../control-center:730
 #, c-format
