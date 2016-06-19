@@ -14,10 +14,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zh_TW\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"POT-Creation-Date: 2016-06-19 16:13+0200\n"
 "PO-Revision-Date: 2008-03-08 00:19+0800\n"
 "Last-Translator:  You-Cheng Hsieh <yochenhsieh@gmail.com>\n"
 "Language-Team: Chinese Traditional <zh@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,7 +30,7 @@ msgstr ""
 msgid "Packagers"
 msgstr "打包者"
 
-#: ../contributors.pl:12 ../contributors.pl:40
+#: ../contributors.pl:12 ../contributors.pl:41
 #, c-format
 msgid "Per Oyvind Karlsen"
 msgstr "Per Oyvind Karlsen"
@@ -85,7 +86,7 @@ msgstr ""
 "採用 Debian 的修正來更新的 nc、修正某些 perl 套件、dnotify startup script、"
 "urpmc、hddtemp、wipe，等等..."
 
-#: ../contributors.pl:17 ../contributors.pl:42
+#: ../contributors.pl:17 ../contributors.pl:43
 #, c-format
 msgid "Thomas Backlund"
 msgstr "Thomas Backlund"
@@ -219,7 +220,7 @@ msgstr "Andi Payn"
 msgid "many extra gnome applets and python modules"
 msgstr "許多外加的 gnome 小應用程式與 python 模組"
 
-#: ../contributors.pl:29 ../contributors.pl:41
+#: ../contributors.pl:29 ../contributors.pl:42
 #, c-format
 msgid "Tibor Pittich"
 msgstr "Tibor Pittich"
@@ -335,717 +336,711 @@ msgstr "翻譯者"
 
 #: ../contributors.pl:40
 #, c-format
+msgid "Maik Wagner"
+msgstr ""
+
+#: ../contributors.pl:40
+#, fuzzy, c-format
+msgid "German translator and coordinator"
+msgstr "芬蘭文的翻譯者與協調者"
+
+#: ../contributors.pl:41
+#, c-format
 msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
 msgstr "挪威文 (巴克摩) 的翻譯者與協調者、i18n 團隊"
 
-#: ../contributors.pl:41
+#: ../contributors.pl:42
 #, c-format
 msgid "\"one-man\" mdk sk-i18n team"
 msgstr "\"one-man\" mdk sk-i18n 團隊"
 
-#: ../contributors.pl:42
+#: ../contributors.pl:43
 #, c-format
 msgid "Finnish translator and coordinator"
 msgstr "芬蘭文的翻譯者與協調者"
 
-#: ../contributors.pl:43
+#: ../contributors.pl:44
 #, c-format
 msgid "Reinout Van Schouwen"
 msgstr "Reinout Van Schouwen"
 
-#: ../contributors.pl:43
+#: ../contributors.pl:44
 #, c-format
 msgid "Dutch translator and coordinator"
 msgstr "荷蘭文的翻譯者與協調者"
 
-#: ../contributors.pl:44
+#: ../contributors.pl:45
 #, c-format
 msgid "Keld Simonsen"
 msgstr "Keld Simonsen"
 
-#: ../contributors.pl:44
+#: ../contributors.pl:45
 #, c-format
 msgid "Danish translator (and some Bokmal too:-)"
 msgstr "丹麥與的翻譯者 (也協助了一些巴克摩語:-)"
 
-#: ../contributors.pl:45
+#: ../contributors.pl:46
 #, c-format
 msgid "Karl Ove Hufthammer"
 msgstr "Karl Ove Hufthammer"
 
-#: ../contributors.pl:45
+#: ../contributors.pl:46
 #, c-format
 msgid "Norwegian Nynorsk (nn) translator and coordinator"
 msgstr "挪威文 (耐諾斯克) 的翻譯者與協調者"
 
-#: ../contributors.pl:46
+#: ../contributors.pl:47
 #, c-format
 msgid "Marek Laane"
 msgstr "Marek Laane"
 
-#: ../contributors.pl:46
+#: ../contributors.pl:47
 #, c-format
 msgid "Estonian translator"
 msgstr "愛沙尼亞語翻譯者"
 
-#: ../contributors.pl:47
+#: ../contributors.pl:48
 #, c-format
 msgid "Andrea Celli"
 msgstr "Andrea Celli"
 
-#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#: ../contributors.pl:48 ../contributors.pl:49 ../contributors.pl:50
 #, c-format
 msgid "Italian Translator"
 msgstr "義大利語翻譯者"
 
-#: ../contributors.pl:48 ../contributors.pl:64
+#: ../contributors.pl:49 ../contributors.pl:65
 #, c-format
 msgid "Simone Riccio"
 msgstr "Simone Riccio"
 
-#: ../contributors.pl:49 ../contributors.pl:65
+#: ../contributors.pl:50 ../contributors.pl:66
 #, c-format
 msgid "Daniele Pighin"
 msgstr "Daniele Pighin"
 
-#: ../contributors.pl:50 ../contributors.pl:68
+#: ../contributors.pl:51 ../contributors.pl:69
 #, c-format
 msgid "Vedran Ljubovic"
 msgstr "Vedran Ljubovic"
 
-#: ../contributors.pl:50
+#: ../contributors.pl:51
 #, c-format
 msgid "Bosnian translator"
 msgstr "波士尼亞文翻譯者"
 
-#: ../contributors.pl:51
+#: ../contributors.pl:52
 #, c-format
 msgid "Testers"
 msgstr "測試者"
 
-#: ../contributors.pl:52
+#: ../contributors.pl:53
 #, c-format
 msgid "Benoit Audouard"
 msgstr "Benoit Audouard"
 
-#: ../contributors.pl:52
+#: ../contributors.pl:53
 #, c-format
 msgid "testing and bug reporting, integration of eagle-usb driver"
 msgstr "測試及 BUG 回報、整合 eagle-usb 的驅動程式"
 
-#: ../contributors.pl:53
+#: ../contributors.pl:54
 #, c-format
 msgid "Bernhard Gruen"
 msgstr "Bernhard Gruen"
 
-#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
-#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
-#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
-#: ../contributors.pl:62
+#: ../contributors.pl:54 ../contributors.pl:55 ../contributors.pl:56
+#: ../contributors.pl:57 ../contributors.pl:58 ../contributors.pl:59
+#: ../contributors.pl:60 ../contributors.pl:61 ../contributors.pl:62
+#: ../contributors.pl:63
 #, c-format
 msgid "testing and bug reporting"
 msgstr "測試及 BUG 回報"
 
-#: ../contributors.pl:54
+#: ../contributors.pl:55
 #, c-format
 msgid "Jure Repinc"
 msgstr "Jure Repinc"
 
-#: ../contributors.pl:55
+#: ../contributors.pl:56
 #, c-format
 msgid "Felix Miata"
 msgstr "Felix Miata"
 
-#: ../contributors.pl:56
+#: ../contributors.pl:57
 #, c-format
 msgid "Tim Sawchuck"
 msgstr "Tim Sawchuck"
 
-#: ../contributors.pl:57
+#: ../contributors.pl:58
 #, c-format
 msgid "Eric Fernandez"
 msgstr "Eric Fernandez"
 
-#: ../contributors.pl:58
+#: ../contributors.pl:59
 #, c-format
 msgid "Ricky Ng-Adam"
 msgstr "Ricky Ng-Adam"
 
-#: ../contributors.pl:59
+#: ../contributors.pl:60
 #, c-format
 msgid "Pierre Jarillon"
 msgstr "Pierre Jarillon"
 
-#: ../contributors.pl:60
+#: ../contributors.pl:61
 #, c-format
 msgid "Michael Brower"
 msgstr "Michael Brower"
 
-#: ../contributors.pl:61
+#: ../contributors.pl:62
 #, c-format
 msgid "Frederik Himpe"
 msgstr "Frederik Himpe"
 
-#: ../contributors.pl:62
+#: ../contributors.pl:63
 #, c-format
 msgid "Jason Komar"
 msgstr "Jason Komar"
 
-#: ../contributors.pl:63
+#: ../contributors.pl:64
 #, c-format
 msgid "Raphael Gertz"
 msgstr "Raphael Gertz"
 
-#: ../contributors.pl:63
+#: ../contributors.pl:64
 #, c-format
 msgid "testing, bug report, Nvidia package try"
 msgstr "測試、BUG 回報、Nvidia 套件試用"
 
-#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
-#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#: ../contributors.pl:65 ../contributors.pl:66 ../contributors.pl:67
+#: ../contributors.pl:68 ../contributors.pl:69 ../contributors.pl:70
 #, c-format
 msgid "testing, bug reporting"
 msgstr "測試、BUG 回報"
 
-#: ../contributors.pl:66
+#: ../contributors.pl:67
 #, c-format
 msgid "Fabrice FACORAT"
 msgstr "Fabrice FACORAT"
 
-#: ../contributors.pl:67
+#: ../contributors.pl:68
 #, c-format
 msgid "Mihai Dobrescu"
 msgstr "Mihai Dobrescu"
 
-#: ../contributors.pl:69
+#: ../contributors.pl:70
 #, c-format
 msgid "Mary V. Jones-Giampalo"
 msgstr "Mary V. Jones-Giampalo"
 
-#: ../contributors.pl:70
+#: ../contributors.pl:71
 #, c-format
 msgid "Vincent Meyer"
 msgstr "Vincent Meyer"
 
-#: ../contributors.pl:70
+#: ../contributors.pl:71
 #, c-format
 msgid "MD, testing, bug reporting"
 msgstr "MD、測試、BUG 回報"
 
-#: ../contributors.pl:71
+#: ../contributors.pl:72
 #, c-format
 msgid ""
 "And many unnamed and unknown beta testers and bug reporters that helped make "
 "sure it all worked right."
 msgstr "與許多的無名與未知的 beta 測試者與臭蟲回報者，他們確認它能正常運作。"
 
-#: ../control-center:90
+#: ../control-center:95
 #, c-format
 msgid "OpenMandriva Lx"
 msgstr "OpenMandriva Lx"
 
-#: ../control-center:100 ../control-center:105
+#: ../control-center:105 ../control-center:110
 #, c-format
 msgid "%s Control Center"
 msgstr "%s 控制中心"
 
-#: ../control-center:106 ../control-center:1058
+#: ../control-center:111 ../control-center:1064
 #, c-format
 msgid "Loading... Please wait"
 msgstr "準備中... 請稍候..."
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:151 ../control-center:155
+#: ../control-center:156 ../control-center:160
 #, c-format
 msgid "Software Management"
 msgstr "軟體管理"
 
-#: ../control-center:167 ../control-center:355 ../control-center:390
-#: ../control-center:548
+#: ../control-center:172 ../control-center:359 ../control-center:394
+#: ../control-center:552
 #, c-format
 msgid "Others"
 msgstr "其他"
 
-#: ../control-center:177
+#: ../control-center:182
 #, c-format
 msgid "Server wizards"
 msgstr "伺服器精靈"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:180 ../control-center:183
+#: ../control-center:185 ../control-center:188
 #, c-format
 msgid "Sharing"
 msgstr "共享"
 
-#: ../control-center:186
+#: ../control-center:191
 #, c-format
 msgid "Configure FTP"
 msgstr "設定 FTP"
 
-#: ../control-center:187
+#: ../control-center:192
 #, c-format
 msgid "Set up an FTP server"
 msgstr "建立 FTP 伺服器"
 
-#: ../control-center:189
+#: ../control-center:194
 #, c-format
 msgid "Configure Samba"
 msgstr "設定 Samba"
 
-#: ../control-center:190
+#: ../control-center:195
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
 msgstr "設定檔案與列印伺服器供 Linux 與非 Linux 系統的工作站使用"
 
-#: ../control-center:192
+#: ../control-center:197
 #, c-format
 msgid "Manage Samba share"
 msgstr "管理 Samba 分享"
 
-#: ../control-center:193
+#: ../control-center:198
 #, c-format
 msgid "Manage, create special share, create public/user share"
 msgstr "管理、建立特定的分享，建立公共/使用者 (public/user) 的分享"
 
-#: ../control-center:195
+#: ../control-center:200
 #, c-format
 msgid "Configure web server"
 msgstr "設定 web 伺服器"
 
-#: ../control-center:196
+#: ../control-center:201
 #, c-format
 msgid "Set up a web server"
 msgstr "建立 web 伺服器"
 
-#: ../control-center:198
+#: ../control-center:203
 #, c-format
 msgid "Configure installation server"
 msgstr "設定安裝伺服器"
 
-#: ../control-center:199
+#: ../control-center:204
 #, c-format
 msgid "Set up server for network installations of %s"
 msgstr "建立 %s 網路安裝伺服器"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:209 ../control-center:212
+#: ../control-center:214 ../control-center:217
 #, c-format
 msgid "Network Services"
 msgstr "網路服務"
 
-#: ../control-center:215
+#: ../control-center:220
 #, c-format
 msgid "Configure DHCP"
 msgstr "設定 DHCP"
 
-#: ../control-center:216
+#: ../control-center:221
 #, c-format
 msgid "Set up a DHCP server"
 msgstr "建立 DHCP 伺服器 "
 
-#: ../control-center:218
+#: ../control-center:223
 #, c-format
 msgid "Configure DNS"
 msgstr "設定 DNS"
 
-#: ../control-center:219
+#: ../control-center:224
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
 msgstr "建立 DNS 伺服器 (網路名稱解析)"
 
-#: ../control-center:221
+#: ../control-center:226
 #, c-format
 msgid "Configure proxy"
 msgstr "設定 proxy"
 
-#: ../control-center:222
+#: ../control-center:227
 #, c-format
 msgid "Configure a web caching proxy server"
 msgstr "設定一個網頁快取 Proxy 伺服器"
 
-#: ../control-center:224
+#: ../control-center:229
 #, c-format
 msgid "Configure time"
 msgstr "設定時間"
 
-#: ../control-center:225
+#: ../control-center:230
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
 msgstr "設定您的伺服器與一個外部時間伺服器進行同步"
 
-#: ../control-center:227 ../control-center:228
+#: ../control-center:232 ../control-center:233
 #, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "OpenSSH 組態設定"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #. -PO: this message is already translated in drakx domain from which MCC will searchs it:
-#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#: ../control-center:244 ../control-center:247 ../lib/MDV/Control_Center.pm:56
 #, c-format
 msgid "Authentication"
 msgstr "認證方式"
 
-#: ../control-center:246
+#: ../control-center:251
 #, c-format
 msgid "Configure NIS and Autofs"
 msgstr "設定 NIS 與 Autofs"
 
-#: ../control-center:247
+#: ../control-center:252
 #, c-format
 msgid "Configure the NIS and Autofs services"
 msgstr "設定 NIS 與 Autofs 服務"
 
-#: ../control-center:249
+#: ../control-center:254
 #, c-format
 msgid "Configure LDAP"
 msgstr "設定 LDAP"
 
-#: ../control-center:250
+#: ../control-center:255
 #, c-format
 msgid "Configure the LDAP directory services"
 msgstr "設定 LDAP 目錄服務"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:261 ../control-center:264
+#: ../control-center:266 ../control-center:269
 #, c-format
 msgid "Groupware"
 msgstr "群組軟體"
 
-#: ../control-center:267
+#: ../control-center:272
 #, c-format
 msgid "Configure news"
 msgstr "設定 news"
 
-#: ../control-center:268
+#: ../control-center:273
 #, c-format
 msgid "Configure a newsgroup server"
 msgstr "設定新聞群組伺服器"
 
-#: ../control-center:270
+#: ../control-center:275
 #, c-format
 msgid "Configure groupware"
 msgstr "設定 groupware"
 
-#: ../control-center:271
+#: ../control-center:276
 #, c-format
 msgid "Configure a groupware server"
 msgstr "設定群組軟體伺服器"
 
-#: ../control-center:273
+#: ../control-center:278
 #, c-format
 msgid "Configure mail"
 msgstr "設定郵件"
 
-#: ../control-center:274
+#: ../control-center:279
 #, c-format
 msgid "Configure the Internet Mail services"
 msgstr "設定電子郵件服務"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:286 ../control-center:289
+#: ../control-center:291 ../control-center:294
 #, c-format
 msgid "Online Administration"
 msgstr "線上管理"
 
-#: ../control-center:305
+#: ../control-center:310
 #, c-format
 msgid "Local administration"
 msgstr "本地端管理"
 
-#: ../control-center:306
+#: ../control-center:311
 #, c-format
 msgid "Configure the local machine via web interface"
 msgstr "由網頁介面設定本地端機器"
 
-#: ../control-center:306
+#: ../control-center:311
 #, c-format
 msgid "You don't seem to have webmin intalled. Local config is disabled"
 msgstr "您似乎沒有安裝 webmin。本地端設定被停用"
 
-#: ../control-center:308
+#: ../control-center:313
 #, c-format
 msgid "Remote administration"
 msgstr "遠端管理"
 
-#: ../control-center:309
+#: ../control-center:314
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr "若您要透過網頁介面設定一遠端機器請點選這裡"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:323
+#: ../control-center:328
 #, c-format
 msgid "Hardware"
 msgstr "硬體"
 
-#: ../control-center:326
+#: ../control-center:331
 #, c-format
 msgid "Manage your hardware"
 msgstr "管理您的硬體"
 
-#: ../control-center:333
+#: ../control-center:338
 #, c-format
 msgid "Configure graphics"
 msgstr "設定顯示"
 
-#: ../control-center:340
+#: ../control-center:344
 #, c-format
 msgid "Configure mouse and keyboard"
 msgstr "設定滑鼠與鍵盤"
 
-#: ../control-center:347
+#: ../control-center:351
 #, c-format
 msgid "Configure printing and scanning"
 msgstr "設定印表機與掃描器"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:365 ../drakxconf:31
+#: ../control-center:369 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr "網路 & 網際網路"
 
-#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#: ../control-center:372 ../lib/MDV/Control_Center.pm:398
 #, c-format
 msgid "Manage your network devices"
 msgstr "管理您的網路裝置"
 
-#: ../control-center:381
+#: ../control-center:385
 #, c-format
 msgid "Personalize and Secure your network"
 msgstr "自訂並保全您的網路"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:400
+#: ../control-center:404
 #, c-format
 msgid "System"
 msgstr "系統"
 
-#: ../control-center:403
+#: ../control-center:407
 #, c-format
 msgid "Manage system services"
 msgstr "管理系統服務"
 
-#: ../control-center:412
+#: ../control-center:416
 #, c-format
 msgid "Localization"
 msgstr "地區及語言"
 
-#: ../control-center:419
+#: ../control-center:423
 #, c-format
 msgid "Administration tools"
 msgstr "管理工具"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:436
+#: ../control-center:440
 #, c-format
 msgid "Network Sharing"
 msgstr "網路分享"
 
-#: ../control-center:439
+#: ../control-center:443
 #, c-format
 msgid "Configure Windows(R) shares"
 msgstr "設定 Windows(R) 分享"
 
-#: ../control-center:446
+#: ../control-center:450
 #, c-format
 msgid "Configure NFS shares"
 msgstr "設定 NFS 分享"
 
-#: ../control-center:453
+#: ../control-center:457
 #, c-format
 msgid "Configure WebDAV shares"
 msgstr "設定 WebDAV 分享"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:463 ../control-center:466
+#: ../control-center:467 ../control-center:470
 #, c-format
 msgid "Local disks"
 msgstr "本地端磁碟"
 
-#: ../control-center:490
+#: ../control-center:494
 #, c-format
 msgid "CD-ROM (%s)"
 msgstr "CD-ROM (%s)"
 
-#: ../control-center:491
+#: ../control-center:495
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
 msgstr "設定您的「%s」 CD 光碟機掛載於何處"
 
-#: ../control-center:493
+#: ../control-center:497
 #, c-format
 msgid "DVD-ROM (%s)"
 msgstr "DVD-ROM(%s)"
 
-#: ../control-center:494
+#: ../control-center:498
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
 msgstr "設定您的 「%s」 DVD 光碟機掛載於何處"
 
-#: ../control-center:496
+#: ../control-center:500
 #, c-format
 msgid "CD/DVD burner (%s)"
 msgstr "CD/DVD 燒錄器 (%s)"
 
-#: ../control-center:497
+#: ../control-center:501
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
 msgstr "設定您的 「%s」 CD/DVD 燒錄器掛載於何處"
 
-#: ../control-center:499
+#: ../control-center:503
 #, c-format
 msgid "ZIP drive"
 msgstr "ZIP 磁碟機"
 
-#: ../control-center:500
+#: ../control-center:504
 #, c-format
 msgid "Set where your ZIP drive is mounted"
 msgstr "設定您的 ZIP 裝置掛載於何處"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:512 ../control-center:515
+#: ../control-center:516 ../control-center:519
 #, c-format
 msgid "Security"
 msgstr "安全性"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:530
+#: ../control-center:534
 #, c-format
 msgid "Boot"
 msgstr "開機"
 
-#: ../control-center:533
+#: ../control-center:537
 #, c-format
 msgid "Configure boot steps"
 msgstr "設定開機過程"
 
-#: ../control-center:542
+#: ../control-center:546
 #, c-format
 msgid "Boot look'n feel"
 msgstr "開機畫面"
 
-#: ../control-center:559
+#: ../control-center:563
 #, c-format
 msgid "Additional wizards"
 msgstr "額外的精靈"
 
-#: ../control-center:614 ../control-center:615 ../control-center:616
-#: ../control-center:628
-#, c-format
-msgid "_Options"
+#: ../control-center:618 ../control-center:619
+#, fuzzy, c-format
+msgid "/_Options"
 msgstr "選項 (_O)"
 
-#: ../control-center:614
-#, c-format
-msgid "Display _Logs"
-msgstr "顯示紀錄檔 (_L)"
-
-#: ../control-center:615
-#, c-format
-msgid "_Embedded Mode"
+#: ../control-center:618
+#, fuzzy, c-format
+msgid "/_Embedded Mode"
 msgstr "嵌入模式 (_E)"
 
-#: ../control-center:616
-#, c-format
-msgid "Expert mode in _wizards"
+#: ../control-center:619
+#, fuzzy, c-format
+msgid "/Expert mode in _wizards"
 msgstr "專家模式精靈 (_W)"
 
-#: ../control-center:626 ../control-center:627
+#: ../control-center:641
 #, c-format
 msgid "_File"
 msgstr "檔案 (_F)"
 
-#: ../control-center:627
+#: ../control-center:642
 #, c-format
 msgid "_Quit"
 msgstr "離開 (_Q)"
 
-#: ../control-center:627
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:645
 #, c-format
 msgid "<control>Q"
 msgstr "<control>Q"
 
-#: ../control-center:627
+#: ../control-center:646
 #, c-format
-msgid "Quit"
-msgstr "離開"
+msgid "_Options"
+msgstr "選項 (_O)"
 
-#: ../control-center:648 ../control-center:651 ../control-center:664
+#: ../control-center:647 ../control-center:659
 #, c-format
-msgid "_Themes"
-msgstr "佈景主題 (_T)"
+msgid "Display _Logs"
+msgstr "顯示紀錄檔 (_L)"
 
-#: ../control-center:654
-#, c-format
-msgid ""
-"This action will restart the control center.\n"
-"Any change not applied will be lost."
-msgstr ""
-"此動作將會重新啟動控制中心。\n"
-"任何尚未儲存的變更將會遺失。"
-
-#: ../control-center:664
-#, c-format
-msgid "_More themes"
-msgstr "更多佈景主題 (_T)"
-
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669 ../control-center:670 ../control-center:671
-#: ../control-center:674
+#: ../control-center:648 ../control-center:649
 #, c-format
 msgid "_Help"
 msgstr "說明 (_H)"
 
-#: ../control-center:667 ../control-center:668 ../control-center:669
-#: ../control-center:670
-#, c-format
-msgid "Help"
-msgstr "說明"
+#: ../control-center:649
+#, fuzzy, c-format
+msgid "<control>H"
+msgstr "<control>Q"
 
-#: ../control-center:668
+#: ../control-center:650
 #, c-format
 msgid "_Release notes"
 msgstr "發行紀錄 (_R)"
 
-#: ../control-center:669
+#: ../control-center:651
 #, c-format
 msgid "What's _New?"
 msgstr "最新消息 (_N)"
 
-#: ../control-center:670
+#: ../control-center:652
 #, c-format
 msgid "_Errata"
 msgstr "勘誤 (_E)"
 
-#: ../control-center:671
+#: ../control-center:653
 #, c-format
 msgid "_Report Bug"
 msgstr "臭蟲報告 (_R)"
 
-#: ../control-center:674
+#: ../control-center:656
 #, c-format
 msgid "_About..."
 msgstr "關於 (_A)..."
 
-#: ../control-center:730
+#: ../control-center:669
+#, c-format
+msgid "Expert mode in _wizards"
+msgstr "專家模式精靈 (_W)"
+
+#: ../control-center:736
 #, c-format
 msgid "Cancel"
 msgstr "取消"
 
-#: ../control-center:750
+#: ../control-center:756
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "%s 控制中心 %s [on %s]"
 
-#: ../control-center:1037 ../control-center:1102
+#: ../control-center:1043 ../control-center:1107
 #, c-format
 msgid "Error"
 msgstr "錯誤"
 
-#: ../control-center:1037
+#: ../control-center:1043
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1056,22 +1051,22 @@ msgstr ""
 "\n"
 "請回報此錯誤。"
 
-#: ../control-center:1102
+#: ../control-center:1107
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr "無法執行一個不明 '%s' 程式"
 
-#: ../control-center:1121
+#: ../control-center:1126
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr "於現在的模組中的變更不會被儲存。"
 
-#: ../control-center:1208
+#: ../control-center:1213
 #, c-format
 msgid "cannot fork: %s"
 msgstr "cannot fork: %s"
 
-#: ../control-center:1231
+#: ../control-center:1246
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr "cannot fork and exec \"%s\" 因為它不可執行"
@@ -1086,7 +1081,7 @@ msgstr "這程式已經不正常離開"
 msgid "Warning"
 msgstr "警告"
 
-#: ../control-center:1389 ../drakconsole:31
+#: ../control-center:1389 ../drakconsole:37
 #, c-format
 msgid "Close"
 msgstr "關閉"
@@ -1137,19 +1132,19 @@ msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1455
+#: ../control-center:1454
 #, c-format
 msgid "- %s: %s\n"
 msgstr "- %s：%s\n"
 
-#: ../control-center:1470
+#: ../control-center:1469
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "Shiva Huang, yujia, You-Cheng Hsieh"
 
-#: ../control-center:1472
+#: ../control-center:1471
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
@@ -1157,35 +1152,35 @@ msgid ""
 msgstr ""
 "<shivahuang@gmail.com>, <yujia.kang@gmail.com>, <yochenhsieh@xuite.net>"
 
-#: ../control-center:1474
+#: ../control-center:1473
 #, c-format
 msgid "Translator: "
 msgstr "翻譯者："
 
-#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
-#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
-#: ../control-center:1483
+#. -PO: Here, first %s will be replaced by 'Mandriva Linux'
+#. -PO: second %s will be replaced by the version (eg: "Mandriva Linux 2007.1 (Discovery) Control Center")
+#: ../control-center:1482
 #, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "%s %s (%s) 控制中心"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1488
-#, c-format
-msgid "Copyright (C) %s OpenMandriva Association"
+#: ../control-center:1487
+#, fuzzy, c-format
+msgid "Copyright (C) %s Mandriva SA"
 msgstr "版權所有 (C) %s OpenMandriva Association"
 
-#: ../control-center:1494
+#: ../control-center:1493
 #, c-format
 msgid "Authors"
 msgstr "作者"
 
-#: ../control-center:1495
-#, c-format
-msgid "OpenMandriva Lx Contributors"
+#: ../control-center:1494
+#, fuzzy, c-format
+msgid "OpenMandriva Linux Contributors"
 msgstr "OpenMandriva Lx 貢獻者"
 
-#: ../drakconsole:27
+#: ../drakconsole:33
 #, c-format
 msgid "DrakConsole"
 msgstr "DrakConsole"
@@ -1237,518 +1232,488 @@ msgstr "網際網路連線共享"
 
 #: ../drakxconf:38
 #, c-format
-msgid "3D Desktop effects"
-msgstr "3D 桌面效果"
-
-#: ../drakxconf:39
-#, c-format
 msgid "Partitions"
 msgstr "分割"
 
-#: ../drakxconf:42
+#: ../drakxconf:41
 #, c-format
 msgid "Control Center"
 msgstr "控制中心"
 
-#: ../drakxconf:42
+#: ../drakxconf:41
 #, c-format
 msgid "Choose the tool you want to use"
 msgstr "選取您想要使用的工具"
 
-#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
-#, c-format
-msgid "Configure 3D Desktop effects"
-msgstr "設定 3D 桌面效果"
-
-#: ../lib/MDV/Control_Center.pm:68
+#: ../lib/MDV/Control_Center.pm:57
 #, c-format
 msgid ""
 "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
 msgstr "選擇認證的模式 (本地端、NIS、LDAP、Windows Domain、...)"
 
-#: ../lib/MDV/Control_Center.pm:77
-#, c-format
-msgid "Set up autologin to automatically log in"
-msgstr "設定自動登入"
-
-#: ../lib/MDV/Control_Center.pm:78
-#, c-format
-msgid "Enable autologin and select the user to automatically log in"
-msgstr "啟動自動登入並選擇自動登入之使用者"
-
-#: ../lib/MDV/Control_Center.pm:87
+#: ../lib/MDV/Control_Center.pm:66
 #, c-format
 msgid "Backups"
 msgstr "備份"
 
-#: ../lib/MDV/Control_Center.pm:88
+#: ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Configure backups of the system and of the users' data"
 msgstr "設定系統及使用者資料之備份"
 
-#: ../lib/MDV/Control_Center.pm:98
+#: ../lib/MDV/Control_Center.pm:77
 #, c-format
 msgid "Snapshots"
 msgstr "快照"
 
-#: ../lib/MDV/Control_Center.pm:108
-#, c-format
-msgid "Set up boot system"
-msgstr "設定系統開機"
-
-#: ../lib/MDV/Control_Center.pm:109
-#, c-format
-msgid "Set up how the system boots"
-msgstr "設定您的系統如何啟動"
-
-#: ../lib/MDV/Control_Center.pm:118
+#: ../lib/MDV/Control_Center.pm:97
 #, c-format
 msgid "Set up boot graphical theme of system"
 msgstr "設定系統開機時的佈景主題"
 
-#: ../lib/MDV/Control_Center.pm:119
+#: ../lib/MDV/Control_Center.pm:98
 #, c-format
 msgid "Select the graphical theme of the system while booting"
 msgstr "選擇系統啟動時的佈景主題"
 
-#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#: ../lib/MDV/Control_Center.pm:107 ../lib/MDV/Control_Center.pm:108
 #, c-format
 msgid "Share the Internet connection with other local machines"
 msgstr "分享網際網路連線"
 
-#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#: ../lib/MDV/Control_Center.pm:117 ../lib/MDV/Control_Center.pm:118
 #, c-format
 msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
 msgstr "設定一個新的網路介面 (LAN、ISDN、ADSL、...)"
 
-#: ../lib/MDV/Control_Center.pm:148
+#: ../lib/MDV/Control_Center.pm:127
 #, c-format
 msgid "Internet access"
 msgstr "網際網路存取"
 
-#: ../lib/MDV/Control_Center.pm:149
+#: ../lib/MDV/Control_Center.pm:128
 #, c-format
 msgid "Alter miscellaneous internet settings"
 msgstr "改變各種網際網路設定"
 
-#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#: ../lib/MDV/Control_Center.pm:137 ../lib/MDV/Control_Center.pm:138
 #, c-format
 msgid "Open a console as administrator"
 msgstr "以管理者身份開啟一個終端機"
 
-#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#: ../lib/MDV/Control_Center.pm:148 ../lib/MDV/Control_Center.pm:149
 #, c-format
 msgid "Manage date and time"
 msgstr "管理日期與時間"
 
-#: ../lib/MDV/Control_Center.pm:179
+#: ../lib/MDV/Control_Center.pm:158
 #, c-format
 msgid "Set up display manager"
 msgstr "設定登入管理程式"
 
-#: ../lib/MDV/Control_Center.pm:180
+#: ../lib/MDV/Control_Center.pm:159
 #, c-format
 msgid "Choose the display manager that enables to select which user to log in"
 msgstr "選擇多使用者登入之顯示管理員"
 
-#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#: ../lib/MDV/Control_Center.pm:168 ../lib/MDV/Control_Center.pm:169
 #, c-format
 msgid "Configure a fax server"
 msgstr "設定傳真伺服器"
 
-#: ../lib/MDV/Control_Center.pm:199
+#: ../lib/MDV/Control_Center.pm:178
 #, c-format
 msgid "Set up your personal firewall"
 msgstr "設定您的個人防火牆"
 
-#: ../lib/MDV/Control_Center.pm:200
+#: ../lib/MDV/Control_Center.pm:179
 #, c-format
 msgid ""
 "Set up a personal firewall in order to protect the computer and the network"
 msgstr "設定個人防火牆以保護您的電腦及網路"
 
-#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#: ../lib/MDV/Control_Center.pm:188 ../lib/MDV/Control_Center.pm:189
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr "管理、新增及移除字型、匯入 Windows(TM) 字型"
 
-#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#: ../lib/MDV/Control_Center.pm:198 ../lib/MDV/Control_Center.pm:199
 #, c-format
 msgid "Set up the graphical server"
 msgstr "設定圖形伺服器"
 
-#: ../lib/MDV/Control_Center.pm:229
+#: ../lib/MDV/Control_Center.pm:208
 #, c-format
 msgid "Manage disk partitions"
 msgstr "管理磁碟分割區"
 
-#: ../lib/MDV/Control_Center.pm:230
+#: ../lib/MDV/Control_Center.pm:209
 #, c-format
 msgid "Create, delete and resize hard disk partitions"
 msgstr "建立、刪除與調整磁碟分割的大小"
 
-#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#: ../lib/MDV/Control_Center.pm:218 ../lib/MDV/Control_Center.pm:219
 #, c-format
 msgid "Browse and configure hardware"
 msgstr "檢視與設定硬體"
 
-#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#: ../lib/MDV/Control_Center.pm:229 ../lib/MDV/Control_Center.pm:230
 #, c-format
 msgid "Sound Configuration"
 msgstr "聲音設定"
 
-#: ../lib/MDV/Control_Center.pm:260
+#: ../lib/MDV/Control_Center.pm:239
 #, c-format
 msgid "Hosts definitions"
 msgstr "主機定義"
 
-#: ../lib/MDV/Control_Center.pm:261
+#: ../lib/MDV/Control_Center.pm:240
 #, c-format
 msgid "Manage hosts definitions"
 msgstr "管理主機定義"
 
-#: ../lib/MDV/Control_Center.pm:270
+#: ../lib/MDV/Control_Center.pm:249
 #, c-format
 msgid "Install & Remove Software"
 msgstr "安裝與移除軟體"
 
-#: ../lib/MDV/Control_Center.pm:271
+#: ../lib/MDV/Control_Center.pm:250
 #, c-format
 msgid "Install, uninstall software"
 msgstr "安裝、移除軟體"
 
-#: ../lib/MDV/Control_Center.pm:281
+#: ../lib/MDV/Control_Center.pm:260
 #, c-format
 msgid "Advanced setup for network interfaces and firewall"
 msgstr "網路界面與防火牆的進階設定"
 
-#: ../lib/MDV/Control_Center.pm:282
+#: ../lib/MDV/Control_Center.pm:261
 #, c-format
 msgid "Set up network interfaces failover and firewall replication"
 msgstr "設定網路界面熱備用 (failover) 與防火牆備援"
 
-#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#: ../lib/MDV/Control_Center.pm:270 ../lib/MDV/Control_Center.pm:271
 #, c-format
 msgid "Set up the keyboard layout"
 msgstr "設定鍵盤配置"
 
-#: ../lib/MDV/Control_Center.pm:301
+#: ../lib/MDV/Control_Center.pm:280
 #, c-format
 msgid "Kolab"
 msgstr "Kolab"
 
-#: ../lib/MDV/Control_Center.pm:302
+#: ../lib/MDV/Control_Center.pm:281
 #, c-format
 msgid "Set up a groupware server"
 msgstr "設定群組軟體伺服器"
 
-#: ../lib/MDV/Control_Center.pm:311
+#: ../lib/MDV/Control_Center.pm:290
 #, c-format
 msgid "Manage localization for your system"
 msgstr "管理您的系統之區域及語言"
 
-#: ../lib/MDV/Control_Center.pm:312
+#: ../lib/MDV/Control_Center.pm:291
 #, c-format
 msgid "Select the language and the country or region of the system"
 msgstr "選擇系統語言及國家或地區"
 
-#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#: ../lib/MDV/Control_Center.pm:299 ../lib/MDV/Control_Center.pm:300
 #, c-format
 msgid "View and search system logs"
 msgstr "檢視與搜尋系統日誌"
 
-#: ../lib/MDV/Control_Center.pm:330
+#: ../lib/MDV/Control_Center.pm:309
 #, c-format
 msgid "Manage connections"
 msgstr "管理連線"
 
-#: ../lib/MDV/Control_Center.pm:331
+#: ../lib/MDV/Control_Center.pm:310
 #, c-format
 msgid "Reconfigure a network interface"
 msgstr "重新設定網路介面"
 
-#: ../lib/MDV/Control_Center.pm:340
+#: ../lib/MDV/Control_Center.pm:319
 #, c-format
 msgid "Manage computer group"
 msgstr "管理電腦群組"
 
-#: ../lib/MDV/Control_Center.pm:341
+#: ../lib/MDV/Control_Center.pm:320
 #, c-format
 msgid "Manage installed software packages on a group of computers"
 msgstr "管理群組電腦中已安裝之套件"
 
-#: ../lib/MDV/Control_Center.pm:349
-#, c-format
-msgid "Configure authentication for Mandriva tools"
+#: ../lib/MDV/Control_Center.pm:328
+#, fuzzy, c-format
+msgid "Configure authentication for OpenMandriva tools"
 msgstr "設定使用 Mandriva 工具的認證方式"
 
-#: ../lib/MDV/Control_Center.pm:350
-#, c-format
+#: ../lib/MDV/Control_Center.pm:329
+#, fuzzy, c-format
 msgid ""
-"Define authentication required to access individual Mandriva configuration "
-"tools "
+"Define authentication required to access individual OpenMandriva "
+"configuration tools "
 msgstr "定義要存取個別 Mandriva 設定工具時需要的認證"
 
-#: ../lib/MDV/Control_Center.pm:358
+#: ../lib/MDV/Control_Center.pm:337
 #, c-format
 msgid "Update your system"
 msgstr "更新您的系統"
 
-#: ../lib/MDV/Control_Center.pm:359
+#: ../lib/MDV/Control_Center.pm:338
 #, c-format
 msgid ""
 "Look at available updates and apply any fixes or upgrades to installed "
 "packages"
 msgstr "對已經安裝的套件查詢可用的升級並進行修正或升級"
 
-#: ../lib/MDV/Control_Center.pm:369
+#: ../lib/MDV/Control_Center.pm:348
 #, c-format
 msgid "Menu Style"
 msgstr "選單風格"
 
-#: ../lib/MDV/Control_Center.pm:370
+#: ../lib/MDV/Control_Center.pm:349
 #, c-format
 msgid "Menu Style Configuration"
 msgstr "選單風格設定"
 
-#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#: ../lib/MDV/Control_Center.pm:358 ../lib/MDV/Control_Center.pm:359
 #, c-format
 msgid "Import Windows(TM) documents and settings"
 msgstr "匯入 Windows(TM) 文件與設定"
 
-#: ../lib/MDV/Control_Center.pm:389
+#: ../lib/MDV/Control_Center.pm:368
 #, c-format
 msgid "Monitor connections"
 msgstr "監控連線"
 
-#: ../lib/MDV/Control_Center.pm:390
+#: ../lib/MDV/Control_Center.pm:369
 #, c-format
 msgid "Monitor the network connections"
 msgstr "監控網路連線"
 
-#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#: ../lib/MDV/Control_Center.pm:378 ../lib/MDV/Control_Center.pm:379
 #, c-format
 msgid "Set up the pointer device (mouse, touchpad)"
 msgstr "設定游標裝置 (滑鼠、觸控板)"
 
-#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#: ../lib/MDV/Control_Center.pm:387 ../lib/MDV/Control_Center.pm:388
 #, c-format
 msgid "Parental Controls"
 msgstr "家長控制"
 
-#: ../lib/MDV/Control_Center.pm:418
+#: ../lib/MDV/Control_Center.pm:397
 #, c-format
 msgid "Network Center"
 msgstr "網路中心"
 
-#: ../lib/MDV/Control_Center.pm:428
+#: ../lib/MDV/Control_Center.pm:407
 #, c-format
 msgid "Manage different network profiles"
 msgstr "管理不同的網路設定檔"
 
-#: ../lib/MDV/Control_Center.pm:429
+#: ../lib/MDV/Control_Center.pm:408
 #, c-format
 msgid "Activate and manage network profiles"
 msgstr "啟用並管理網路設定檔"
 
-#: ../lib/MDV/Control_Center.pm:438
+#: ../lib/MDV/Control_Center.pm:417
 #, c-format
 msgid "Access NFS shared drives and directories"
 msgstr "存取 NFS 分享的磁碟機與目錄"
 
-#: ../lib/MDV/Control_Center.pm:439
+#: ../lib/MDV/Control_Center.pm:418
 #, c-format
 msgid "Set NFS mount points"
 msgstr "設定 NFS 掛載點"
 
-#: ../lib/MDV/Control_Center.pm:448
+#: ../lib/MDV/Control_Center.pm:427
 #, c-format
 msgid "Share drives and directories using NFS"
 msgstr "使用 NFS 分享磁碟機與目錄"
 
-#: ../lib/MDV/Control_Center.pm:449
+#: ../lib/MDV/Control_Center.pm:428
 #, c-format
 msgid "Manage NFS shares"
 msgstr "管理 NFS 分享"
 
-#: ../lib/MDV/Control_Center.pm:459
+#: ../lib/MDV/Control_Center.pm:438
 #, c-format
 msgid "Package Stats"
 msgstr "套件狀態"
 
-#: ../lib/MDV/Control_Center.pm:460
+#: ../lib/MDV/Control_Center.pm:439
 #, c-format
 msgid "Show statistics about usage of installed software packages"
 msgstr "顯示已經安裝的軟體的統計資訊"
 
-#: ../lib/MDV/Control_Center.pm:469
+#: ../lib/MDV/Control_Center.pm:448
 #, c-format
 msgid "Share your hard disk partitions"
 msgstr "分享您的硬碟分割區"
 
-#: ../lib/MDV/Control_Center.pm:470
+#: ../lib/MDV/Control_Center.pm:449
 #, c-format
 msgid "Set up sharing of your hard disk partitions"
 msgstr "設定硬碟分割共享"
 
-#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#: ../lib/MDV/Control_Center.pm:458 ../lib/MDV/Control_Center.pm:460
 #, c-format
 msgid "Set up the printer(s), the print job queues, ..."
 msgstr "設定印表機，列印佇列"
 
-#: ../lib/MDV/Control_Center.pm:491
+#: ../lib/MDV/Control_Center.pm:470
 #, c-format
 msgid "Scheduled tasks"
 msgstr "已經排程的工作"
 
-#: ../lib/MDV/Control_Center.pm:492
+#: ../lib/MDV/Control_Center.pm:471
 #, c-format
 msgid "Schedule programs to run periodically or at given times"
 msgstr "定期或指定時間運作程式"
 
-#: ../lib/MDV/Control_Center.pm:501
+#: ../lib/MDV/Control_Center.pm:480
 #, c-format
 msgid "Proxy"
 msgstr "Proxy"
 
-#: ../lib/MDV/Control_Center.pm:502
+#: ../lib/MDV/Control_Center.pm:481
 #, c-format
 msgid "Set up a proxy server for files and web browsing"
 msgstr "建立瀏覽檔案及網頁所用的代理伺服器"
 
-#: ../lib/MDV/Control_Center.pm:510
+#: ../lib/MDV/Control_Center.pm:489
 #, c-format
 msgid "Remote Control (Linux/Unix, Windows)"
 msgstr "遠端遙控 (Linux/Unix、Windows)"
 
-#: ../lib/MDV/Control_Center.pm:511
+#: ../lib/MDV/Control_Center.pm:490
 #, c-format
 msgid "Remote Control of another machine (Linux/Unix, Windows)"
 msgstr "遠端遙控電腦 (Linux/Unix、Windows)"
 
-#: ../lib/MDV/Control_Center.pm:520
+#: ../lib/MDV/Control_Center.pm:499
 #, c-format
 msgid "Remove a connection"
 msgstr "移除一連線"
 
-#: ../lib/MDV/Control_Center.pm:521
+#: ../lib/MDV/Control_Center.pm:500
 #, c-format
 msgid "Delete a network interface"
 msgstr "刪除網路介面"
 
-#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#: ../lib/MDV/Control_Center.pm:510 ../lib/MDV/Control_Center.pm:511
 #, c-format
 msgid "Wireless connection"
 msgstr "無線網路連線"
 
-#: ../lib/MDV/Control_Center.pm:541
+#: ../lib/MDV/Control_Center.pm:520
 #, c-format
 msgid "Access Windows (SMB) shared drives and directories"
 msgstr "設定 Windows (SMB) 分享磁碟機與目錄"
 
-#: ../lib/MDV/Control_Center.pm:542
+#: ../lib/MDV/Control_Center.pm:521
 #, c-format
 msgid "Configuration of Windows (Samba) shared drives and directories"
 msgstr "設定 Windows (Samba) 分享磁碟機與目錄"
 
-#: ../lib/MDV/Control_Center.pm:551
+#: ../lib/MDV/Control_Center.pm:530
 #, c-format
 msgid "Share drives and directories with Windows (SMB) systems"
 msgstr "與 Windows (SMB) 系統分享磁碟機與目錄"
 
-#: ../lib/MDV/Control_Center.pm:552
+#: ../lib/MDV/Control_Center.pm:531
 #, c-format
 msgid "Manage configuration of Samba"
 msgstr "管理 Samba 組態設定"
 
-#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#: ../lib/MDV/Control_Center.pm:540 ../lib/MDV/Control_Center.pm:541
 #, c-format
 msgid "Set up scanner"
 msgstr "設定掃描器"
 
-#: ../lib/MDV/Control_Center.pm:571
+#: ../lib/MDV/Control_Center.pm:550
 #, c-format
 msgid "Configure system security, permissions and audit"
 msgstr "微調系統安全、權限與稽核 "
 
-#: ../lib/MDV/Control_Center.pm:572
+#: ../lib/MDV/Control_Center.pm:551
 #, c-format
 msgid "Set the system security level, periodic security audit and permissions"
 msgstr "設定系統安全等級、安全審核週期與權限"
 
-#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
 #, c-format
 msgid "Manage system services by enabling or disabling them"
 msgstr "啟動或停用系統服務"
 
-#: ../lib/MDV/Control_Center.pm:592
+#: ../lib/MDV/Control_Center.pm:571
 #, c-format
 msgid "Configure media sources for install and update"
 msgstr "設定安裝與更新套件使用的媒體來源"
 
-#: ../lib/MDV/Control_Center.pm:593
+#: ../lib/MDV/Control_Center.pm:572
 #, c-format
 msgid "Select from where software packages are downloaded "
 msgstr "選擇從何處下載軟體套件"
 
-#: ../lib/MDV/Control_Center.pm:603
+#: ../lib/MDV/Control_Center.pm:582
 #, c-format
 msgid "Configure updates frequency"
 msgstr "設定更新頻率"
 
-#: ../lib/MDV/Control_Center.pm:612
+#: ../lib/MDV/Control_Center.pm:591
 #, c-format
 msgid "Access to extended maintenance"
 msgstr "存取延伸維護"
 
-#: ../lib/MDV/Control_Center.pm:621
+#: ../lib/MDV/Control_Center.pm:600
 #, c-format
 msgid "Configure TOMOYO Linux policy"
 msgstr "設定 TOMOYO Linux 政策"
 
-#: ../lib/MDV/Control_Center.pm:622
+#: ../lib/MDV/Control_Center.pm:601
 #, c-format
 msgid "View and configure TOMOYO Linux security policy"
 msgstr "檢視並設定 TOMOYO Linux 安全政策"
 
 #. -PO: here power means electrical power
 #. -PO: UPS==Uninterruptible power supply
-#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#: ../lib/MDV/Control_Center.pm:613 ../lib/MDV/Control_Center.pm:616
 #, c-format
 msgid "Set up a UPS for power monitoring"
 msgstr "建立監控電源的 UPS"
 
-#: ../lib/MDV/Control_Center.pm:647
+#: ../lib/MDV/Control_Center.pm:626
 #, c-format
 msgid "Manage users on system"
 msgstr "管理系統的使用者"
 
-#: ../lib/MDV/Control_Center.pm:648
+#: ../lib/MDV/Control_Center.pm:627
 #, c-format
 msgid "Add, remove or change users of the system"
 msgstr "新增、移除、或改變您系統內的使用者"
 
-#: ../lib/MDV/Control_Center.pm:658
+#: ../lib/MDV/Control_Center.pm:637
 #, c-format
 msgid "Virtualization"
 msgstr "虛擬化"
 
-#: ../lib/MDV/Control_Center.pm:659
+#: ../lib/MDV/Control_Center.pm:638
 #, c-format
 msgid "Virtual machines management"
 msgstr "管理虛擬系統"
 
-#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#: ../lib/MDV/Control_Center.pm:647 ../lib/MDV/Control_Center.pm:648
 #, c-format
 msgid "Configure VPN connection to secure network access"
 msgstr "設定 VPN 連線以保護網路存取"
 
-#: ../lib/MDV/Control_Center.pm:678
+#: ../lib/MDV/Control_Center.pm:657
 #, c-format
 msgid "Access WebDAV shared drives and directories"
 msgstr "存取 WebDAV 分享的磁碟機與目錄"
 
-#: ../lib/MDV/Control_Center.pm:679
+#: ../lib/MDV/Control_Center.pm:658
 #, c-format
 msgid "Set WebDAV mount points"
 msgstr "設定 WebDAV 掛載點"
@@ -1922,3 +1887,40 @@ msgstr "螢幕解析度"
 #: ../drakconf.desktop.in.h:1
 msgid "Configure Your Computer"
 msgstr "設定您的電腦"
+
+#~ msgid "Quit"
+#~ msgstr "離開"
+
+#~ msgid "_Themes"
+#~ msgstr "佈景主題 (_T)"
+
+#~ msgid ""
+#~ "This action will restart the control center.\n"
+#~ "Any change not applied will be lost."
+#~ msgstr ""
+#~ "此動作將會重新啟動控制中心。\n"
+#~ "任何尚未儲存的變更將會遺失。"
+
+#~ msgid "_More themes"
+#~ msgstr "更多佈景主題 (_T)"
+
+#~ msgid "Help"
+#~ msgstr "說明"
+
+#~ msgid "3D Desktop effects"
+#~ msgstr "3D 桌面效果"
+
+#~ msgid "Configure 3D Desktop effects"
+#~ msgstr "設定 3D 桌面效果"
+
+#~ msgid "Set up autologin to automatically log in"
+#~ msgstr "設定自動登入"
+
+#~ msgid "Enable autologin and select the user to automatically log in"
+#~ msgstr "啟動自動登入並選擇自動登入之使用者"
+
+#~ msgid "Set up boot system"
+#~ msgstr "設定系統開機"
+
+#~ msgid "Set up how the system boots"
+#~ msgstr "設定您的系統如何啟動"

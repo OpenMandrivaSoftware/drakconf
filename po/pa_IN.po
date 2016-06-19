@@ -5,10 +5,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: drakconf\n"
-"POT-Creation-Date: 2010-05-26 17:42+0200\n"
+"POT-Creation-Date: 2016-06-19 16:13+0200\n"
 "PO-Revision-Date: 2005-03-14 05:31+0530\n"
 "Last-Translator: Jaswinder Singh Phulewala <jaswinderphulewala@yahoo.com>\n"
 "Language-Team: PLT <punlinux-i18n@list.sourceforge.net>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +21,7 @@ msgstr ""
 msgid "Packagers"
 msgstr "ਪੈਕੇਜ਼ਰ"
 
-#: ../contributors.pl:12 ../contributors.pl:40
+#: ../contributors.pl:12 ../contributors.pl:41
 #, c-format
 msgid "Per Oyvind Karlsen"
 msgstr "Per Oyvind Karlsen"
@@ -78,7 +79,7 @@ msgstr ""
 "nc  ਦਾ ਡੇਬੀਅਨ ਪੈਚ ਨਾਲ ਨਵਿਨੀਕਰਨ ਕਰੋ, ਕੁਝ perl ਪੈਕੇਜ਼ ਸਥਿਰ ਕਰੋ, ਸ਼ੁਰੂਆਤੀ ਸਕਰਿਪਟ, urpmc, "
 "hddtemp, wipe, ਆਦਿ ਐਲਾਨ ਕਰੋ..."
 
-#: ../contributors.pl:17 ../contributors.pl:42
+#: ../contributors.pl:17 ../contributors.pl:43
 #, c-format
 msgid "Thomas Backlund"
 msgstr "Thomas Backlund"
@@ -213,7 +214,7 @@ msgstr "Andi Payn"
 msgid "many extra gnome applets and python modules"
 msgstr "ਬਹੁਤੇ ਵਾਧੂ ਗਨੋਮ ਐਪਲਿਟ ਅਤੇ ਪਾਇਥਨ ਮੈਡਿਊਲ"
 
-#: ../contributors.pl:29 ../contributors.pl:41
+#: ../contributors.pl:29 ../contributors.pl:42
 #, c-format
 msgid "Tibor Pittich"
 msgstr "Tibor Pittich"
@@ -328,204 +329,214 @@ msgstr "ਅਨੁਵਾਦਕ"
 
 #: ../contributors.pl:40
 #, c-format
+msgid "Maik Wagner"
+msgstr ""
+
+#: ../contributors.pl:40
+#, fuzzy, c-format
+msgid "German translator and coordinator"
+msgstr "ਅਨੁਵਾਦਕ ਅਤੇ ਸਹਿਯੋਗੀ ਸਮਾਪਤ"
+
+#: ../contributors.pl:41
+#, c-format
 msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
 msgstr "ਨਾਰਵੇਜੀਅਨ ਬੋਕਮਾਲ (nb) ਅਨੁਵਾਦਕ ਅਤੇ ਸਹਿਯੋਗੀ, i18n ਕੰਮ"
 
-#: ../contributors.pl:41
+#: ../contributors.pl:42
 #, c-format
 msgid "\"one-man\" mdk sk-i18n team"
 msgstr "\"one-man\" mdk sk-i18n ਟੀਮ"
 
-#: ../contributors.pl:42
+#: ../contributors.pl:43
 #, c-format
 msgid "Finnish translator and coordinator"
 msgstr "ਅਨੁਵਾਦਕ ਅਤੇ ਸਹਿਯੋਗੀ ਸਮਾਪਤ"
 
-#: ../contributors.pl:43
+#: ../contributors.pl:44
 #, c-format
 msgid "Reinout Van Schouwen"
 msgstr "Reinout Van Schouwen"
 
-#: ../contributors.pl:43
+#: ../contributors.pl:44
 #, c-format
 msgid "Dutch translator and coordinator"
 msgstr "ਡੱਚ ਅਨੁਵਾਦਕ ਅਤੇ ਸਹਿਯੋਗੀ"
 
-#: ../contributors.pl:44
+#: ../contributors.pl:45
 #, c-format
 msgid "Keld Simonsen"
 msgstr "Keld Simonsen"
 
-#: ../contributors.pl:44
+#: ../contributors.pl:45
 #, c-format
 msgid "Danish translator (and some Bokmal too:-)"
 msgstr "ਡੈਨਿਸ਼ ਅਨੁਵਾਦਕ (ਅਤੇ ਕੁਝ ਬੋਕਮਾਲ ਵੀ:-)"
 
-#: ../contributors.pl:45
+#: ../contributors.pl:46
 #, c-format
 msgid "Karl Ove Hufthammer"
 msgstr "Karl Ove Hufthammer"
 
-#: ../contributors.pl:45
+#: ../contributors.pl:46
 #, c-format
 msgid "Norwegian Nynorsk (nn) translator and coordinator"
 msgstr "ਨਾਰਵੇਜੀਅਨ ਨਾਇਨੌਰਸਕ (nn) ਅਨੁਵਾਦਕ ਅਤੇ ਸਹਿਯੋਗੀ"
 
-#: ../contributors.pl:46
+#: ../contributors.pl:47
 #, c-format
 msgid "Marek Laane"
 msgstr "Marek Laane"
 
-#: ../contributors.pl:46
+#: ../contributors.pl:47
 #, c-format
 msgid "Estonian translator"
 msgstr "ਇਸਟੋਨੀਅਨ ਅਨੁਵਾਦਕ"
 
-#: ../contributors.pl:47
+#: ../contributors.pl:48
 #, c-format
 msgid "Andrea Celli"
 msgstr "Andrea Celli"
 
-#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#: ../contributors.pl:48 ../contributors.pl:49 ../contributors.pl:50
 #, c-format
 msgid "Italian Translator"
 msgstr "ਇਟਲੀ ਅਨੁਵਾਦਕ"
 
-#: ../contributors.pl:48 ../contributors.pl:64
+#: ../contributors.pl:49 ../contributors.pl:65
 #, c-format
 msgid "Simone Riccio"
 msgstr "Simone Riccio"
 
-#: ../contributors.pl:49 ../contributors.pl:65
+#: ../contributors.pl:50 ../contributors.pl:66
 #, c-format
 msgid "Daniele Pighin"
 msgstr "Daniele Pighin"
 
-#: ../contributors.pl:50 ../contributors.pl:68
+#: ../contributors.pl:51 ../contributors.pl:69
 #, c-format
 msgid "Vedran Ljubovic"
 msgstr "Vedran Ljubovic"
 
-#: ../contributors.pl:50
+#: ../contributors.pl:51
 #, c-format
 msgid "Bosnian translator"
 msgstr "ਬੋਸਨੀਅਨ ਅਨੁਵਾਦਕ"
 
-#: ../contributors.pl:51
+#: ../contributors.pl:52
 #, c-format
 msgid "Testers"
 msgstr "ਜਾਂਚਕਾਰ"
 
-#: ../contributors.pl:52
+#: ../contributors.pl:53
 #, c-format
 msgid "Benoit Audouard"
 msgstr "Benoit Audouard"
 
-#: ../contributors.pl:52
+#: ../contributors.pl:53
 #, c-format
 msgid "testing and bug reporting, integration of eagle-usb driver"
 msgstr "ਜਾਂਚ ਅਤੇ ਬੱਗ ਰਿਪੋਰਟ, eagle-usb ਡਰਾਈਵਰ ਦੀ ਪੂਰਨਤਾ"
 
-#: ../contributors.pl:53
+#: ../contributors.pl:54
 #, c-format
 msgid "Bernhard Gruen"
 msgstr "Bernhard Gruen"
 
-#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
-#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
-#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
-#: ../contributors.pl:62
+#: ../contributors.pl:54 ../contributors.pl:55 ../contributors.pl:56
+#: ../contributors.pl:57 ../contributors.pl:58 ../contributors.pl:59
+#: ../contributors.pl:60 ../contributors.pl:61 ../contributors.pl:62
+#: ../contributors.pl:63
 #, c-format
 msgid "testing and bug reporting"
 msgstr "ਜਾਂਚ ਅਤੇ ਬੱਗ ਰਿਪੋਰਟ"
 
-#: ../contributors.pl:54
+#: ../contributors.pl:55
 #, c-format
 msgid "Jure Repinc"
 msgstr "Jure Repinc"
 
-#: ../contributors.pl:55
+#: ../contributors.pl:56
 #, c-format
 msgid "Felix Miata"
 msgstr "Felix Miata"
 
-#: ../contributors.pl:56
+#: ../contributors.pl:57
 #, c-format
 msgid "Tim Sawchuck"
 msgstr "Tim Sawchuck"
 
-#: ../contributors.pl:57
+#: ../contributors.pl:58
 #, c-format
 msgid "Eric Fernandez"
 msgstr "Eric Fernandez"
 
-#: ../contributors.pl:58
+#: ../contributors.pl:59
 #, c-format
 msgid "Ricky Ng-Adam"
 msgstr "Ricky Ng-Adam"
 
-#: ../contributors.pl:59
+#: ../contributors.pl:60
 #, c-format
 msgid "Pierre Jarillon"
 msgstr "Pierre Jarillon"
 
-#: ../contributors.pl:60
+#: ../contributors.pl:61
 #, c-format
 msgid "Michael Brower"
 msgstr "Michael Brower"
 
-#: ../contributors.pl:61
+#: ../contributors.pl:62
 #, c-format
 msgid "Frederik Himpe"
 msgstr "Frederik Himpe"
 
-#: ../contributors.pl:62
+#: ../contributors.pl:63
 #, c-format
 msgid "Jason Komar"
 msgstr "Jason Komar"
 
-#: ../contributors.pl:63
+#: ../contributors.pl:64
 #, c-format
 msgid "Raphael Gertz"
 msgstr "Raphael Gertz"
 
-#: ../contributors.pl:63
+#: ../contributors.pl:64
 #, c-format
 msgid "testing, bug report, Nvidia package try"
 msgstr "ਜਾਂਚ, ਬੱਗ ਰਿਪੋਰਟ, ਇਨਵੀਡੀਆ ਪੈਕੇਜ਼ ਕੋਸ਼ਿਸ਼"
 
-#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
-#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#: ../contributors.pl:65 ../contributors.pl:66 ../contributors.pl:67
+#: ../contributors.pl:68 ../contributors.pl:69 ../contributors.pl:70
 #, c-format
 msgid "testing, bug reporting"
 msgstr "ਜਾਂਚ, ਬੱਗ ਰਿਪੋਰਟ"
 
-#: ../contributors.pl:66
+#: ../contributors.pl:67
 #, c-format
 msgid "Fabrice FACORAT"
 msgstr "Fabrice FACORAT"
 
-#: ../contributors.pl:67
+#: ../contributors.pl:68
 #, c-format
 msgid "Mihai Dobrescu"
 msgstr "Mihai Dobrescu"
 
-#: ../contributors.pl:69
+#: ../contributors.pl:70
 #, c-format
 msgid "Mary V. Jones-Giampalo"
 msgstr "Mary V. Jones-Giampalo"
 
-#: ../contributors.pl:70
+#: ../contributors.pl:71
 #, c-format
 msgid "Vincent Meyer"
 msgstr "Vincent Meyer"
 
-#: ../contributors.pl:70
+#: ../contributors.pl:71
 #, c-format
 msgid "MD, testing, bug reporting"
 msgstr "MD, ਜਾਂਚ, ਬੱਗ ਰਿਪੋਰਟ"
 
-#: ../contributors.pl:71
+#: ../contributors.pl:72
 #, c-format
 msgid ""
 "And many unnamed and unknown beta testers and bug reporters that helped make "
@@ -534,60 +545,60 @@ msgstr ""
 "ਅਤੇ ਬਹੁਤ ਸਾਰੇ ਬਿਨਾ ਨਾਂ ਅਤੇ ਅਣਪਛਾਤੇ ਬੀਟਾ ਜਾਂਚਕਾਰ ਅਤੇ ਬੱਗ ਰਿਪੋਰਟਰ ਜੋ ਇਸ ਦੇ ਠੀਕ ਕੰਮ ਕਰਨ ਦਾ "
 "ਯਕੀਨ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹਨ।"
 
-#: ../control-center:90
+#: ../control-center:95
 #, fuzzy, c-format
 msgid "OpenMandriva Lx"
 msgstr "ਮੈਂਡਰਿਵ ਆਨਲਾਈਨ"
 
-#: ../control-center:100 ../control-center:105
+#: ../control-center:105 ../control-center:110
 #, c-format
 msgid "%s Control Center"
 msgstr "ਮੈਂਡਰਿਵ ਲੀਨਕਸ ਕੰਟਰੋਲ ਸੈਂਟਰ"
 
-#: ../control-center:106 ../control-center:1058
+#: ../control-center:111 ../control-center:1064
 #, c-format
 msgid "Loading... Please wait"
 msgstr "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ... ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕੋ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:151 ../control-center:155
+#: ../control-center:156 ../control-center:160
 #, c-format
 msgid "Software Management"
 msgstr "ਸਾਫਟਵੇਅਰ ਪ੍ਰਬੰਧਨ"
 
-#: ../control-center:167 ../control-center:355 ../control-center:390
-#: ../control-center:548
+#: ../control-center:172 ../control-center:359 ../control-center:394
+#: ../control-center:552
 #, fuzzy, c-format
 msgid "Others"
 msgstr "ਜਾਂਚਕਾਰ"
 
-#: ../control-center:177
+#: ../control-center:182
 #, c-format
 msgid "Server wizards"
 msgstr "ਸਰਵਰ ਤਖਤੀ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:180 ../control-center:183
+#: ../control-center:185 ../control-center:188
 #, c-format
 msgid "Sharing"
 msgstr "ਸ਼ੇਅਰਿੰਗ"
 
-#: ../control-center:186
+#: ../control-center:191
 #, c-format
 msgid "Configure FTP"
 msgstr "FTP ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:187
+#: ../control-center:192
 #, c-format
 msgid "Set up an FTP server"
 msgstr "FTP ਸਰਵਰ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../control-center:189
+#: ../control-center:194
 #, c-format
 msgid "Configure Samba"
 msgstr "ਸਾਂਬਾ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:190
+#: ../control-center:195
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
@@ -595,453 +606,437 @@ msgid ""
 msgstr ""
 "ਵਰਕ-ਸਟੇਸ਼ਨ ਜੋ ਲੀਨਕਸ ਅਤੇ ਨਾਨ-ਲੀਨਕਸ ਸਿਸਟਮ ਚਲਾਉਂਦੇ ਹਨ ਲਈ ਫਾਇਲ ਅਤੇ ਪ੍ਰਿੰਟ ਸਰਵਰ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../control-center:192
+#: ../control-center:197
 #, fuzzy, c-format
 msgid "Manage Samba share"
 msgstr "ਸਾਂਬਾ ਸੇਵਾ ਯੋਗ ਕਰੋ"
 
-#: ../control-center:193
+#: ../control-center:198
 #, c-format
 msgid "Manage, create special share, create public/user share"
 msgstr ""
 
-#: ../control-center:195
+#: ../control-center:200
 #, c-format
 msgid "Configure web server"
 msgstr "ਵੈਬ ਸਰਵਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:196
+#: ../control-center:201
 #, c-format
 msgid "Set up a web server"
 msgstr "ਵੈਬ ਸਰਵਰ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../control-center:198
+#: ../control-center:203
 #, c-format
 msgid "Configure installation server"
 msgstr "ਇੰਸਟਾਲੇਸ਼ਨ ਸਰਵਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:199
+#: ../control-center:204
 #, c-format
 msgid "Set up server for network installations of %s"
 msgstr "ਮੈਂਡਰਿਵ ਲੀਨਕਸ ਦੀ ਨੈੱਟਵਰਕ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ ਸਰਵਰ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:209 ../control-center:212
+#: ../control-center:214 ../control-center:217
 #, c-format
 msgid "Network Services"
 msgstr "ਨੈੱਟਵਰਕ ਸੇਵਾਵਾਂ"
 
-#: ../control-center:215
+#: ../control-center:220
 #, c-format
 msgid "Configure DHCP"
 msgstr "DHCP ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:216
+#: ../control-center:221
 #, c-format
 msgid "Set up a DHCP server"
 msgstr "DHCP ਸਰਵਰ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../control-center:218
+#: ../control-center:223
 #, c-format
 msgid "Configure DNS"
 msgstr "DNS ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:219
+#: ../control-center:224
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
 msgstr "DNS ਸਰਵਰ (ਨੈੱਟਵਰਕ ਨਾਂ ਮਿਲਾਪ) ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../control-center:221
+#: ../control-center:226
 #, c-format
 msgid "Configure proxy"
 msgstr "ਪਰਾਕਸੀ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:222
+#: ../control-center:227
 #, c-format
 msgid "Configure a web caching proxy server"
 msgstr "ਵੈਬ ਕੈਸ਼ਿੰਗ ਪਰਾਕਸੀ ਸਰਵਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:224
+#: ../control-center:229
 #, c-format
 msgid "Configure time"
 msgstr "ਸਮਾਂ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:225
+#: ../control-center:230
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
 msgstr "ਬਾਹਰੀ ਸਮਾਂ ਸਰਵਰ ਨਾਲ ਸਮਕਾਲੀ ਹੋਣ ਲਈ ਸਰਵਰ ਦਾ ਸਮਾਂ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../control-center:227 ../control-center:228
+#: ../control-center:232 ../control-center:233
 #, fuzzy, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "ldap ਸੰਰਚਨਾ ਵਿਖਾਓ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #. -PO: this message is already translated in drakx domain from which MCC will searchs it:
-#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#: ../control-center:244 ../control-center:247 ../lib/MDV/Control_Center.pm:56
 #, c-format
 msgid "Authentication"
 msgstr "ਪ੍ਰਮਾਣਿਕਤਾ"
 
-#: ../control-center:246
+#: ../control-center:251
 #, c-format
 msgid "Configure NIS and Autofs"
 msgstr "NIS ਅਤੇ Autofs ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:247
+#: ../control-center:252
 #, c-format
 msgid "Configure the NIS and Autofs services"
 msgstr "NIS ਅਤੇ Autofs ਸੇਵਾਵਾਂ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:249
+#: ../control-center:254
 #, c-format
 msgid "Configure LDAP"
 msgstr "LDAP ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:250
+#: ../control-center:255
 #, c-format
 msgid "Configure the LDAP directory services"
 msgstr "LDAP ਡਾਇਰੈਕਟਰੀ ਸੇਵਾਵਾਂ ਸੰਰਚਿਤ ਕਰੋ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:261 ../control-center:264
+#: ../control-center:266 ../control-center:269
 #, c-format
 msgid "Groupware"
 msgstr "ਗਰੁੱਪਵੇਅਰ"
 
-#: ../control-center:267
+#: ../control-center:272
 #, c-format
 msgid "Configure news"
 msgstr "ਖਬਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:268
+#: ../control-center:273
 #, c-format
 msgid "Configure a newsgroup server"
 msgstr "ਖਬਰ-ਸਮੂਹ ਸਰਵਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:270
+#: ../control-center:275
 #, c-format
 msgid "Configure groupware"
 msgstr "ਗਰੁੱਪਵੇਅਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:271
+#: ../control-center:276
 #, c-format
 msgid "Configure a groupware server"
 msgstr "ਗਰੁੱਪਵੇਅਰ ਸਰਵਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:273
+#: ../control-center:278
 #, c-format
 msgid "Configure mail"
 msgstr "ਪੱਤਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:274
+#: ../control-center:279
 #, c-format
 msgid "Configure the Internet Mail services"
 msgstr "ਇੰਟਰਨੈੱਟ ਪੱਤਰ ਸੇਵਾਵਾਂ ਸੰਰਚਿਤ ਕਰੋ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:286 ../control-center:289
+#: ../control-center:291 ../control-center:294
 #, c-format
 msgid "Online Administration"
 msgstr "ਆਨਲਾਈਨ ਪ੍ਰਬੰਧਨ"
 
-#: ../control-center:305
+#: ../control-center:310
 #, c-format
 msgid "Local administration"
 msgstr "ਲੋਕਲ ਪ੍ਰਬੰਧਨ"
 
-#: ../control-center:306
+#: ../control-center:311
 #, c-format
 msgid "Configure the local machine via web interface"
 msgstr "ਲੋਕਲ ਮਸ਼ੀਨ ਨੂੰ ਵੈਬ ਇੰਟਰਫੇਸ ਦੁਆਰਾ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:306
+#: ../control-center:311
 #, c-format
 msgid "You don't seem to have webmin intalled. Local config is disabled"
 msgstr "ਤੁਹਾਡੇ ਕੋਲ webmin ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ। ਲੋਕਲ config ਅਯੋਗ ਹੈ"
 
-#: ../control-center:308
+#: ../control-center:313
 #, c-format
 msgid "Remote administration"
 msgstr "ਰਿਮੋਟ ਪ੍ਰਬੰਧਨ"
 
-#: ../control-center:309
+#: ../control-center:314
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr "ਇੱਥੇ ਦਬਾਓ ਜੇ ਤੁਸੀਂ ਰਿਮੋਟ ਬਾਕਸ ਨੂੰ ਵੈਬ ਇੰਟਰਫੇਸ ਦੁਆਰਾ ਸੰਰਚਿਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:323
+#: ../control-center:328
 #, c-format
 msgid "Hardware"
 msgstr "ਹਾਰਡਵੇਅਰ"
 
-#: ../control-center:326
+#: ../control-center:331
 #, fuzzy, c-format
 msgid "Manage your hardware"
 msgstr "ਸਾਂਬਾ ਸੇਵਾ ਯੋਗ ਕਰੋ"
 
-#: ../control-center:333
+#: ../control-center:338
 #, fuzzy, c-format
 msgid "Configure graphics"
 msgstr "ਪੱਤਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:340
+#: ../control-center:344
 #, fuzzy, c-format
 msgid "Configure mouse and keyboard"
 msgstr "ਆਪਣਾ ਮਾਨੀਟਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:347
+#: ../control-center:351
 #, c-format
 msgid "Configure printing and scanning"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:365 ../drakxconf:31
+#: ../control-center:369 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr "ਨੈੱਟਵਰਕ ਤੇ ਇੰਟਰਨੈੱਟ"
 
-#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#: ../control-center:372 ../lib/MDV/Control_Center.pm:398
 #, fuzzy, c-format
 msgid "Manage your network devices"
 msgstr "ਨੈੱਟਵਰਕ ਸੇਵਾਵਾਂ"
 
-#: ../control-center:381
+#: ../control-center:385
 #, c-format
 msgid "Personalize and Secure your network"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:400
+#: ../control-center:404
 #, c-format
 msgid "System"
 msgstr "ਸਿਸਟਮ"
 
-#: ../control-center:403
+#: ../control-center:407
 #, fuzzy, c-format
 msgid "Manage system services"
 msgstr "ਸਿਸਟਮ ਸੇਵਾਵਾਂ ਯੋਗ ਜਾਂ ਅਯੋਗ ਕਰੋ"
 
-#: ../control-center:412
+#: ../control-center:416
 #, fuzzy, c-format
 msgid "Localization"
 msgstr "ਲੋਕਲ ਪ੍ਰਬੰਧਨ"
 
-#: ../control-center:419
+#: ../control-center:423
 #, fuzzy, c-format
 msgid "Administration tools"
 msgstr "ਆਨਲਾਈਨ ਪ੍ਰਬੰਧਨ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:436
+#: ../control-center:440
 #, fuzzy, c-format
 msgid "Network Sharing"
 msgstr "ਨੈੱਟਵਰਕ ਸੇਵਾਵਾਂ"
 
-#: ../control-center:439
+#: ../control-center:443
 #, fuzzy, c-format
 msgid "Configure Windows(R) shares"
 msgstr "ਗਰੁੱਪਵੇਅਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:446
+#: ../control-center:450
 #, fuzzy, c-format
 msgid "Configure NFS shares"
 msgstr "DNS ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:453
+#: ../control-center:457
 #, fuzzy, c-format
 msgid "Configure WebDAV shares"
 msgstr "ਵੈਬ ਸਰਵਰ ਸੰਰਚਿਤ ਕਰੋ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:463 ../control-center:466
+#: ../control-center:467 ../control-center:470
 #, fuzzy, c-format
 msgid "Local disks"
 msgstr "ਲੋਕਲ ਡਿਸਕ ਸ਼ੇਅਰਿੰਗ"
 
-#: ../control-center:490
+#: ../control-center:494
 #, fuzzy, c-format
 msgid "CD-ROM (%s)"
 msgstr "DVD-ROM"
 
-#: ../control-center:491
+#: ../control-center:495
 #, fuzzy, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
 msgstr "ਨਿਰਧਾਰਿਤ ਕਰੋ ਕਿ ਕਿੱਥੇ ਤੁਹਾਡੀ CD-ROM ਡਰਾਈਵ ਮਾਊਂਟ ਹੋਣੀ ਹੈ"
 
-#: ../control-center:493
+#: ../control-center:497
 #, fuzzy, c-format
 msgid "DVD-ROM (%s)"
 msgstr "DVD-ROM"
 
-#: ../control-center:494
+#: ../control-center:498
 #, fuzzy, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
 msgstr "ਨਿਰਧਾਰਿਤ ਕਰੋ ਕਿ ਕਿੱਥੇ ਤੁਹਾਡੀ DVD-ROM ਡਰਾਈਵ ਮਾਊਂਟ ਹੋਣੀ ਹੈ"
 
-#: ../control-center:496
+#: ../control-center:500
 #, fuzzy, c-format
 msgid "CD/DVD burner (%s)"
 msgstr "CD/DVD ਬਰਨਰ"
 
-#: ../control-center:497
+#: ../control-center:501
 #, fuzzy, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
 msgstr "ਨਿਰਧਾਰਿਤ ਕਰੋ ਕਿ ਕਿੱਥੇ ਤੁਹਾਡੀ CD/DVD ਬਰਨਰ ਮਾਊਂਟ ਹੋਣੀ ਹੈ"
 
-#: ../control-center:499
+#: ../control-center:503
 #, c-format
 msgid "ZIP drive"
 msgstr "ZIP ਡਰਾਈਵ"
 
-#: ../control-center:500
+#: ../control-center:504
 #, c-format
 msgid "Set where your ZIP drive is mounted"
 msgstr "ਨਿਰਧਾਰਿਤ ਕਰੋ ਕਿ ਕਿੱਥੇ ਤੁਹਾਡੀ ZIP ਡਰਾਈਵ ਮਾਊਂਟ ਹੋਣੀ ਹੈ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:512 ../control-center:515
+#: ../control-center:516 ../control-center:519
 #, c-format
 msgid "Security"
 msgstr "ਸੁਰੱਖਿਆ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:530
+#: ../control-center:534
 #, c-format
 msgid "Boot"
 msgstr "ਬੂਟ"
 
-#: ../control-center:533
+#: ../control-center:537
 #, fuzzy, c-format
 msgid "Configure boot steps"
 msgstr "ਸਮਾਂ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../control-center:542
+#: ../control-center:546
 #, c-format
 msgid "Boot look'n feel"
 msgstr ""
 
-#: ../control-center:559
+#: ../control-center:563
 #, fuzzy, c-format
 msgid "Additional wizards"
 msgstr "ਵਾਧੂ ਸਰੂਪ"
 
-#: ../control-center:614 ../control-center:615 ../control-center:616
-#: ../control-center:628
-#, c-format
-msgid "_Options"
+#: ../control-center:618 ../control-center:619
+#, fuzzy, c-format
+msgid "/_Options"
 msgstr "ਚੋਣ"
 
-#: ../control-center:614
-#, c-format
-msgid "Display _Logs"
-msgstr "ਲਾਗ ਵਿਖਾਓ"
-
-#: ../control-center:615
-#, c-format
-msgid "_Embedded Mode"
+#: ../control-center:618
+#, fuzzy, c-format
+msgid "/_Embedded Mode"
 msgstr "ਸ਼ਾਮਿਲ ਵਿਧੀ"
 
-#: ../control-center:616
-#, c-format
-msgid "Expert mode in _wizards"
+#: ../control-center:619
+#, fuzzy, c-format
+msgid "/Expert mode in _wizards"
 msgstr "ਤਖਤੀ ਵਿੱਚ ਮਾਹਿਰ ਵਿਧੀ"
 
-#: ../control-center:626 ../control-center:627
+#: ../control-center:641
 #, c-format
 msgid "_File"
 msgstr "ਫਾਇਲ"
 
-#: ../control-center:627
+#: ../control-center:642
 #, c-format
 msgid "_Quit"
 msgstr "ਬਾਹਰ"
 
-#: ../control-center:627
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:645
 #, c-format
 msgid "<control>Q"
 msgstr "<control>Q"
 
-#: ../control-center:627
+#: ../control-center:646
 #, c-format
-msgid "Quit"
-msgstr "ਬਾਹਰ"
+msgid "_Options"
+msgstr "ਚੋਣ"
 
-#: ../control-center:648 ../control-center:651 ../control-center:664
+#: ../control-center:647 ../control-center:659
 #, c-format
-msgid "_Themes"
-msgstr "ਸਰੂਪ"
+msgid "Display _Logs"
+msgstr "ਲਾਗ ਵਿਖਾਓ"
 
-#: ../control-center:654
-#, c-format
-msgid ""
-"This action will restart the control center.\n"
-"Any change not applied will be lost."
-msgstr ""
-"ਇਹ ਕਾਰਵਾਈ ਕੰਟਰੋਲ ਸੈਂਟਰ ਨੂੰ ਮੁੜ ਚਲਾਏਗੀ।\n"
-"ਨਾ-ਲਾਗੂ ਕੀਤੀ ਹਰ ਤਬਦੀਲੀ ਗੁੰਮ ਹੋ ਜਾਵੇਗੀ।"
-
-#: ../control-center:664
-#, c-format
-msgid "_More themes"
-msgstr "ਹੋਰ ਸਰੂਪ"
-
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669 ../control-center:670 ../control-center:671
-#: ../control-center:674
+#: ../control-center:648 ../control-center:649
 #, c-format
 msgid "_Help"
 msgstr "ਸਹਾਇਤਾ"
 
-#: ../control-center:667 ../control-center:668 ../control-center:669
-#: ../control-center:670
-#, c-format
-msgid "Help"
-msgstr "ਸਹਾਇਤਾ"
+#: ../control-center:649
+#, fuzzy, c-format
+msgid "<control>H"
+msgstr "<control>Q"
 
-#: ../control-center:668
+#: ../control-center:650
 #, fuzzy, c-format
 msgid "_Release notes"
 msgstr "ਹਟਾਓ"
 
-#: ../control-center:669
+#: ../control-center:651
 #, c-format
 msgid "What's _New?"
 msgstr ""
 
-#: ../control-center:670
+#: ../control-center:652
 #, c-format
 msgid "_Errata"
 msgstr ""
 
-#: ../control-center:671
+#: ../control-center:653
 #, c-format
 msgid "_Report Bug"
 msgstr "ਰਿਪੋਰਟ ਬੱਗ"
 
-#: ../control-center:674
+#: ../control-center:656
 #, c-format
 msgid "_About..."
 msgstr "ਬਾਰੇ..."
 
-#: ../control-center:730
+#: ../control-center:669
+#, c-format
+msgid "Expert mode in _wizards"
+msgstr "ਤਖਤੀ ਵਿੱਚ ਮਾਹਿਰ ਵਿਧੀ"
+
+#: ../control-center:736
 #, c-format
 msgid "Cancel"
 msgstr "ਰੱਦ ਕਰੋ"
 
-#: ../control-center:750
+#: ../control-center:756
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "ਮੈਂਡਰਿਵ ਲੀਨਕਸ ਕੰਟਰੋਲ ਸੈਂਟਰ %s [%s ਤੇ]"
 
-#: ../control-center:1037 ../control-center:1102
+#: ../control-center:1043 ../control-center:1107
 #, c-format
 msgid "Error"
 msgstr "ਗਲਤੀ"
 
-#: ../control-center:1037
+#: ../control-center:1043
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1049,22 +1044,22 @@ msgid ""
 "Please report that bug."
 msgstr ""
 
-#: ../control-center:1102
+#: ../control-center:1107
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr "ਅਣਪਛਾਤਾ '%s' ਪ੍ਰੋਗਰਾਮ ਚਲਾਉਣਾ ਅਸੰਭਵ ਹੈ"
 
-#: ../control-center:1121
+#: ../control-center:1126
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr "ਵਰਤਮਾਨ ਮੈਡਿਊਲ ਵਿੱਚ ਕੀਤੀਆਂ ਤਬਦੀਲੀਆਂ ਸੰਭਾਲੀਆਂ ਨਹੀਂ।"
 
-#: ../control-center:1208
+#: ../control-center:1213
 #, c-format
 msgid "cannot fork: %s"
 msgstr "ਵੰਡ ਨਹੀਂ ਸਕਦਾ: %s"
 
-#: ../control-center:1231
+#: ../control-center:1246
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr "\"%s\" ਨੂੰ ਵੰਡ ਅਤੇ ਚਲਾ ਨਹੀਂ ਸਕਦਾ ਕਿਉਂਕਿ ਇਹ ਚੱਲਣਯੋਗ ਨਹੀਂ ਹੈ"
@@ -1079,7 +1074,7 @@ msgstr "ਇਹ ਪ੍ਰੋਗਰਾਮ ਅਚਾਨਕ ਬੰਦ ਹੋ ਗਿ�
 msgid "Warning"
 msgstr "ਚੇਤਾਵਨੀ"
 
-#: ../control-center:1389 ../drakconsole:31
+#: ../control-center:1389 ../drakconsole:37
 #, c-format
 msgid "Close"
 msgstr "ਬੰਦ"
@@ -1130,54 +1125,54 @@ msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1455
+#: ../control-center:1454
 #, c-format
 msgid "- %s: %s\n"
 msgstr ""
 
-#: ../control-center:1470
+#: ../control-center:1469
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "Jaswinder Singh Phulewala (Jassy)"
 
-#: ../control-center:1472
+#: ../control-center:1471
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "jaswinderphulewala@yahoo.com"
 
-#: ../control-center:1474
+#: ../control-center:1473
 #, c-format
 msgid "Translator: "
 msgstr "ਅਨੁਵਾਦਕ:"
 
-#. -PO: Here, first %s will be replaced by 'OpenMandriva Lx'
-#. -PO: second %s will be replaced by the version (eg: "OpenMandriva Lx 2007.1 (Discovery) Control Center")
-#: ../control-center:1483
+#. -PO: Here, first %s will be replaced by 'Mandriva Linux'
+#. -PO: second %s will be replaced by the version (eg: "Mandriva Linux 2007.1 (Discovery) Control Center")
+#: ../control-center:1482
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "ਮੈਂਡਰਿਵ ਲੀਨਕਸ ਕੰਟਰੋਲ ਸੈਂਟਰ"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1488
-#, c-format
-msgid "Copyright (C) %s OpenMandriva Association"
+#: ../control-center:1487
+#, fuzzy, c-format
+msgid "Copyright (C) %s Mandriva SA"
 msgstr "ਹੱਕ ਰਾਖਵਾਂ (C) %s ਮੈਂਡਰਿਵ SA"
 
-#: ../control-center:1494
+#: ../control-center:1493
 #, c-format
 msgid "Authors"
 msgstr "ਸੰਪਾਦਕ"
 
-#: ../control-center:1495
-#, c-format
-msgid "OpenMandriva Lx Contributors"
+#: ../control-center:1494
+#, fuzzy, c-format
+msgid "OpenMandriva Linux Contributors"
 msgstr "ਮੈਂਡਰਿਵ ਲੀਨਕਸ ਸਹਿਯੋਗੀ"
 
-#: ../drakconsole:27
+#: ../drakconsole:33
 #, c-format
 msgid "DrakConsole"
 msgstr "DrakConsole"
@@ -1229,518 +1224,488 @@ msgstr "ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਸ਼ੇਅਰਿੰਗ"
 
 #: ../drakxconf:38
 #, c-format
-msgid "3D Desktop effects"
-msgstr ""
-
-#: ../drakxconf:39
-#, c-format
 msgid "Partitions"
 msgstr "ਭਾਗ"
 
-#: ../drakxconf:42
+#: ../drakxconf:41
 #, c-format
 msgid "Control Center"
 msgstr "ਕੰਟਰੋਲ ਸੈਂਟਰ"
 
-#: ../drakxconf:42
+#: ../drakxconf:41
 #, c-format
 msgid "Choose the tool you want to use"
 msgstr "ਸੰਦ ਜੋ ਤੁਸੀਂ ਵਰਤਣਾ ਚਾਹੁੰਦੇ ਹੋ ਚੁਣੋ"
 
-#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
-#, fuzzy, c-format
-msgid "Configure 3D Desktop effects"
-msgstr "ਖਬਰ-ਸਮੂਹ ਸਰਵਰ ਸੰਰਚਿਤ ਕਰੋ"
-
-#: ../lib/MDV/Control_Center.pm:68
+#: ../lib/MDV/Control_Center.pm:57
 #, c-format
 msgid ""
 "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
 msgstr "ਪ੍ਰਮਾਣਿਕਤਾ ਵਿਧੀ ਚੁਣੋ (ਲੋਕਲ, NIS, LDAP, Windows ਡੋਮੇਨ, ...)"
 
-#: ../lib/MDV/Control_Center.pm:77
-#, fuzzy, c-format
-msgid "Set up autologin to automatically log in"
-msgstr "ਸਵੈ-ਲਾਗਇਨ ਯੋਗ ਕਰੋ ਅਤੇ ਸਵੈ ਲਾਗਇਨ ਕਰਨ ਲਈ ਉਪਭੋਗੀ ਚੁਣੋ"
-
-#: ../lib/MDV/Control_Center.pm:78
-#, c-format
-msgid "Enable autologin and select the user to automatically log in"
-msgstr "ਸਵੈ-ਲਾਗਇਨ ਯੋਗ ਕਰੋ ਅਤੇ ਸਵੈ ਲਾਗਇਨ ਕਰਨ ਲਈ ਉਪਭੋਗੀ ਚੁਣੋ"
-
-#: ../lib/MDV/Control_Center.pm:87
+#: ../lib/MDV/Control_Center.pm:66
 #, c-format
 msgid "Backups"
 msgstr "ਬੈਕਅੱਪ"
 
-#: ../lib/MDV/Control_Center.pm:88
+#: ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Configure backups of the system and of the users' data"
 msgstr "ਸਿਸਟਮ ਅਤੇ ਉਪਭੋਗੀ ਡਾਟਾ ਦਾ ਬੈਕਅੱਪ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:98
+#: ../lib/MDV/Control_Center.pm:77
 #, c-format
 msgid "Snapshots"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:108
-#, fuzzy, c-format
-msgid "Set up boot system"
-msgstr "ਨਿਰਧਾਰਿਤ ਕਰੋ ਕਿ ਸਿਸਟਮ ਕਿਵੇਂ ਬੂਟ ਕਰਦਾ ਹੈ"
-
-#: ../lib/MDV/Control_Center.pm:109
-#, c-format
-msgid "Set up how the system boots"
-msgstr "ਨਿਰਧਾਰਿਤ ਕਰੋ ਕਿ ਸਿਸਟਮ ਕਿਵੇਂ ਬੂਟ ਕਰਦਾ ਹੈ"
-
-#: ../lib/MDV/Control_Center.pm:118
+#: ../lib/MDV/Control_Center.pm:97
 #, fuzzy, c-format
 msgid "Set up boot graphical theme of system"
 msgstr "ਸਿਸਟਨ ਦਾ ਬੂਟ ਹੋਣ ਸਮੇਂ ਗਰਾਫੀਕਲ ਸਰੂਪ ਚੁਣੋ"
 
-#: ../lib/MDV/Control_Center.pm:119
+#: ../lib/MDV/Control_Center.pm:98
 #, c-format
 msgid "Select the graphical theme of the system while booting"
 msgstr "ਸਿਸਟਨ ਦਾ ਬੂਟ ਹੋਣ ਸਮੇਂ ਗਰਾਫੀਕਲ ਸਰੂਪ ਚੁਣੋ"
 
-#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#: ../lib/MDV/Control_Center.pm:107 ../lib/MDV/Control_Center.pm:108
 #, c-format
 msgid "Share the Internet connection with other local machines"
 msgstr "ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਹੋਰ ਲੋਕਲ ਮਸ਼ੀਨਾਂ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#: ../lib/MDV/Control_Center.pm:117 ../lib/MDV/Control_Center.pm:118
 #, c-format
 msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
 msgstr "ਨਵਾਂ ਨੈੱਟਵਰਕ ਇੰਟਰਫੇਸ (LAN, ISDN, ADSL, ...) ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:148
+#: ../lib/MDV/Control_Center.pm:127
 #, c-format
 msgid "Internet access"
 msgstr "ਇੰਟਰਨੈੱਟ ਪਹੁੰਚ"
 
-#: ../lib/MDV/Control_Center.pm:149
+#: ../lib/MDV/Control_Center.pm:128
 #, c-format
 msgid "Alter miscellaneous internet settings"
 msgstr "ਫੁਟਕਲ ਇੰਟਰਨੈੱਟ ਵਿਵਸਥਾ ਤਬਦੀਲ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#: ../lib/MDV/Control_Center.pm:137 ../lib/MDV/Control_Center.pm:138
 #, fuzzy, c-format
 msgid "Open a console as administrator"
 msgstr "ਕੰਸੋਲ ਖੋਲੋ"
 
-#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#: ../lib/MDV/Control_Center.pm:148 ../lib/MDV/Control_Center.pm:149
 #, fuzzy, c-format
 msgid "Manage date and time"
 msgstr "ਮਿਤੀ ਅਤੇ ਸਮਾਂ"
 
-#: ../lib/MDV/Control_Center.pm:179
+#: ../lib/MDV/Control_Center.pm:158
 #, fuzzy, c-format
 msgid "Set up display manager"
 msgstr "ਦ੍ਰਿਸ਼ ਮੈਨੇਜਰ"
 
-#: ../lib/MDV/Control_Center.pm:180
+#: ../lib/MDV/Control_Center.pm:159
 #, c-format
 msgid "Choose the display manager that enables to select which user to log in"
 msgstr "ਦ੍ਰਿਸ਼ ਮੈਨੇਜਰ ਚੁਣੋ ਜੋ ਲਾਗਇਨ ਕਰਨ ਲਈ ਉਪਭੋਗੀ ਚੁਣਨ ਦੇ ਯੋਗ ਕਰਦਾ ਹੈ"
 
-#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#: ../lib/MDV/Control_Center.pm:168 ../lib/MDV/Control_Center.pm:169
 #, c-format
 msgid "Configure a fax server"
 msgstr "ਫੈਕਸ ਸਰਵਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:199
+#: ../lib/MDV/Control_Center.pm:178
 #, c-format
 msgid "Set up your personal firewall"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:200
+#: ../lib/MDV/Control_Center.pm:179
 #, c-format
 msgid ""
 "Set up a personal firewall in order to protect the computer and the network"
 msgstr "ਕੰਪਿਊਟਰ ਅਤੇ ਨੈੱਟਵਰਕ ਨੂੰ ਬਚਾਉਣ ਲਈ ਨਿੱਜੀ ਫਾਇਰਵਾਲ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#: ../lib/MDV/Control_Center.pm:188 ../lib/MDV/Control_Center.pm:189
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr "ਫੌਂਟ ਪ੍ਰਬੰਧਨ ਕਰੋ, ਸ਼ਾਮਿਲ ਕਰੋ, ਹਟਾਓ। Windows(TM) ਫੌਂਟ ਅਯਾਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#: ../lib/MDV/Control_Center.pm:198 ../lib/MDV/Control_Center.pm:199
 #, c-format
 msgid "Set up the graphical server"
 msgstr "ਗਰਾਫਿਕਲ ਸਰਵਰ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:229
+#: ../lib/MDV/Control_Center.pm:208
 #, fuzzy, c-format
 msgid "Manage disk partitions"
 msgstr "ਕੁਨੈਕਸ਼ਨ ਪ੍ਰਬੰਧਨ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:230
+#: ../lib/MDV/Control_Center.pm:209
 #, c-format
 msgid "Create, delete and resize hard disk partitions"
 msgstr "ਹਾਰਡ ਡਿਸਕ ਭਾਗ ਬਣਾਓ, ਹਟਾਓ, ਅਤੇ ਮੁੜ ਅਕਾਰ ਦਿਓ"
 
-#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#: ../lib/MDV/Control_Center.pm:218 ../lib/MDV/Control_Center.pm:219
 #, fuzzy, c-format
 msgid "Browse and configure hardware"
 msgstr "ਹਾਰਡਵੇਅਰ ਵੇਖੋ ਅਤੇ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#: ../lib/MDV/Control_Center.pm:229 ../lib/MDV/Control_Center.pm:230
 #, fuzzy, c-format
 msgid "Sound Configuration"
 msgstr "ਪਰਾਕਸੀ ਸੰਰਚਨਾ"
 
-#: ../lib/MDV/Control_Center.pm:260
+#: ../lib/MDV/Control_Center.pm:239
 #, c-format
 msgid "Hosts definitions"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:261
+#: ../lib/MDV/Control_Center.pm:240
 #, fuzzy, c-format
 msgid "Manage hosts definitions"
 msgstr "ਕੁਨੈਕਸ਼ਨ ਪ੍ਰਬੰਧਨ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:270
+#: ../lib/MDV/Control_Center.pm:249
 #, fuzzy, c-format
 msgid "Install & Remove Software"
 msgstr "ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ"
 
-#: ../lib/MDV/Control_Center.pm:271
+#: ../lib/MDV/Control_Center.pm:250
 #, fuzzy, c-format
 msgid "Install, uninstall software"
 msgstr "ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:281
+#: ../lib/MDV/Control_Center.pm:260
 #, c-format
 msgid "Advanced setup for network interfaces and firewall"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:282
+#: ../lib/MDV/Control_Center.pm:261
 #, c-format
 msgid "Set up network interfaces failover and firewall replication"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#: ../lib/MDV/Control_Center.pm:270 ../lib/MDV/Control_Center.pm:271
 #, c-format
 msgid "Set up the keyboard layout"
 msgstr "ਕੀਬੋਰਡ ਖਾਕਾ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:301
+#: ../lib/MDV/Control_Center.pm:280
 #, c-format
 msgid "Kolab"
 msgstr "ਕੋਲਾਬ"
 
-#: ../lib/MDV/Control_Center.pm:302
+#: ../lib/MDV/Control_Center.pm:281
 #, c-format
 msgid "Set up a groupware server"
 msgstr "ਗਰੁੱਪਵੇਅਰ ਸਰਵਰ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:311
+#: ../lib/MDV/Control_Center.pm:290
 #, c-format
 msgid "Manage localization for your system"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:312
+#: ../lib/MDV/Control_Center.pm:291
 #, c-format
 msgid "Select the language and the country or region of the system"
 msgstr "ਸਿਸਟਮ ਦੀ ਭਾਸ਼ਾ ਅਤੇ ਦੇਸ਼ ਜਾਂ ਖੇਤਰ ਚੁਣੋ"
 
-#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#: ../lib/MDV/Control_Center.pm:299 ../lib/MDV/Control_Center.pm:300
 #, c-format
 msgid "View and search system logs"
 msgstr "ਸਿਸਟਮ ਲਾਗ ਵੇਖੋ ਅਤੇ ਖੋਜੋ"
 
-#: ../lib/MDV/Control_Center.pm:330
+#: ../lib/MDV/Control_Center.pm:309
 #, c-format
 msgid "Manage connections"
 msgstr "ਕੁਨੈਕਸ਼ਨ ਪ੍ਰਬੰਧਨ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:331
+#: ../lib/MDV/Control_Center.pm:310
 #, c-format
 msgid "Reconfigure a network interface"
 msgstr "ਨੈੱਟਵਰਕ ਇੰਟਰਫੇਸ ਮੁੜ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:340
+#: ../lib/MDV/Control_Center.pm:319
 #, c-format
 msgid "Manage computer group"
 msgstr "ਕੰਪਿਊਟਰ ਸਮੂਹ ਪ੍ਰਬੰਧਨ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:341
+#: ../lib/MDV/Control_Center.pm:320
 #, c-format
 msgid "Manage installed software packages on a group of computers"
 msgstr "ਕੰਪਿਊਟਰਾਂ ਦੇ ਸਮੂਹ ਤੇ ਇੰਸਟਾਲ ਕੀਤੇ ਸਾਫਟਵੇਅਰ ਪੈਕੇਜ਼ਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:349
+#: ../lib/MDV/Control_Center.pm:328
 #, c-format
-msgid "Configure authentication for Mandriva tools"
+msgid "Configure authentication for OpenMandriva tools"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:350
+#: ../lib/MDV/Control_Center.pm:329
 #, c-format
 msgid ""
-"Define authentication required to access individual Mandriva configuration "
-"tools "
+"Define authentication required to access individual OpenMandriva "
+"configuration tools "
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:358
+#: ../lib/MDV/Control_Center.pm:337
 #, c-format
 msgid "Update your system"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:359
+#: ../lib/MDV/Control_Center.pm:338
 #, c-format
 msgid ""
 "Look at available updates and apply any fixes or upgrades to installed "
 "packages"
 msgstr "ਉਪਲੱਬਧ ਨਵਿਨੀਕਰਨ ਵੇਖੋ ਅਤੇ ਇੰਸਟਾਲ ਕੀਤੇ ਪੈਕੇਜ਼ਾਂ ਤੇ ਕੋਈ ਸਥਿਰਤਾ ਜਾਂ ਸਹੂਲਤ ਲਾਗੂ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:369
+#: ../lib/MDV/Control_Center.pm:348
 #, c-format
 msgid "Menu Style"
 msgstr "ਮੇਨੂ ਸ਼ੈਲੀ"
 
-#: ../lib/MDV/Control_Center.pm:370
+#: ../lib/MDV/Control_Center.pm:349
 #, fuzzy, c-format
 msgid "Menu Style Configuration"
 msgstr "ਸੂਚੀ ਸੰਰਚਨਾ ਸੈਂਟਰ"
 
-#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#: ../lib/MDV/Control_Center.pm:358 ../lib/MDV/Control_Center.pm:359
 #, c-format
 msgid "Import Windows(TM) documents and settings"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:389
+#: ../lib/MDV/Control_Center.pm:368
 #, c-format
 msgid "Monitor connections"
 msgstr "ਮਾਨੀਟਰ ਕੁਨੈਕਸ਼ਨ"
 
-#: ../lib/MDV/Control_Center.pm:390
+#: ../lib/MDV/Control_Center.pm:369
 #, c-format
 msgid "Monitor the network connections"
 msgstr "ਮਾਨੀਟਰ ਅਤੇ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ"
 
-#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#: ../lib/MDV/Control_Center.pm:378 ../lib/MDV/Control_Center.pm:379
 #, c-format
 msgid "Set up the pointer device (mouse, touchpad)"
 msgstr "ਸੰਕੇਤਕ ਜੰਤਰ (ਮਾਊਸ, ਟੱਚਪੈਡ) ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#: ../lib/MDV/Control_Center.pm:387 ../lib/MDV/Control_Center.pm:388
 #, c-format
 msgid "Parental Controls"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:418
+#: ../lib/MDV/Control_Center.pm:397
 #, fuzzy, c-format
 msgid "Network Center"
 msgstr "ਨੈੱਟਵਰਕ ਤੇ ਇੰਟਰਨੈੱਟ"
 
-#: ../lib/MDV/Control_Center.pm:428
+#: ../lib/MDV/Control_Center.pm:407
 #, fuzzy, c-format
 msgid "Manage different network profiles"
 msgstr "ਨੈੱਟਵਰਕ ਸੇਵਾਵਾਂ"
 
-#: ../lib/MDV/Control_Center.pm:429
+#: ../lib/MDV/Control_Center.pm:408
 #, c-format
 msgid "Activate and manage network profiles"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:438
+#: ../lib/MDV/Control_Center.pm:417
 #, c-format
 msgid "Access NFS shared drives and directories"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:439
+#: ../lib/MDV/Control_Center.pm:418
 #, c-format
 msgid "Set NFS mount points"
 msgstr "NFS ਮਾਊਂਟ ਪੁਆਂਇਟ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:448
+#: ../lib/MDV/Control_Center.pm:427
 #, c-format
 msgid "Share drives and directories using NFS"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:449
+#: ../lib/MDV/Control_Center.pm:428
 #, c-format
 msgid "Manage NFS shares"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:459
+#: ../lib/MDV/Control_Center.pm:438
 #, c-format
 msgid "Package Stats"
 msgstr "ਪੈਕੇਜ਼ ਸਥਿਤੀ"
 
-#: ../lib/MDV/Control_Center.pm:460
+#: ../lib/MDV/Control_Center.pm:439
 #, c-format
 msgid "Show statistics about usage of installed software packages"
 msgstr "ਇੰਸਟਾਲ ਕੀਤੇ ਸਾਫਟਵੇਅਰ ਪੈਕੇਜ਼ਾਂ ਦੀ ਉਪਯੋਗਤਾ ਬਾਰੇ ਵਿਗਿਆਨ-ਅੰਕੜਾ ਵਿਖਾਓ"
 
-#: ../lib/MDV/Control_Center.pm:469
+#: ../lib/MDV/Control_Center.pm:448
 #, fuzzy, c-format
 msgid "Share your hard disk partitions"
 msgstr "ਲੋਕਲ ਡਿਸਕ ਭਾਗਾਂ ਦੀ ਸ਼ੇਅਰਿੰਗ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:470
+#: ../lib/MDV/Control_Center.pm:449
 #, c-format
 msgid "Set up sharing of your hard disk partitions"
 msgstr "ਲੋਕਲ ਡਿਸਕ ਭਾਗਾਂ ਦੀ ਸ਼ੇਅਰਿੰਗ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#: ../lib/MDV/Control_Center.pm:458 ../lib/MDV/Control_Center.pm:460
 #, c-format
 msgid "Set up the printer(s), the print job queues, ..."
 msgstr "ਪ੍ਰਿੰਟਰ, ਪ੍ਰਿੰਟ ਕਾਰਜ ਕਤਾਰ ਨਿਰਧਾਰਿਤ ਕਰੋ ..."
 
-#: ../lib/MDV/Control_Center.pm:491
+#: ../lib/MDV/Control_Center.pm:470
 #, c-format
 msgid "Scheduled tasks"
 msgstr "ਕ੍ਰਮਬੱਧ ਕਾਰਜ"
 
-#: ../lib/MDV/Control_Center.pm:492
+#: ../lib/MDV/Control_Center.pm:471
 #, c-format
 msgid "Schedule programs to run periodically or at given times"
 msgstr "ਲਗਾਤਾਰ ਜਾਂ ਦਿੱਤੇ ਸਮੇਂ ਤੇ ਚੱਲਣ ਲਈ ਕ੍ਰਮਬੱਧ ਪ੍ਰੋਗਰਾਮ"
 
-#: ../lib/MDV/Control_Center.pm:501
+#: ../lib/MDV/Control_Center.pm:480
 #, c-format
 msgid "Proxy"
 msgstr "ਪਰਾਕਸੀ"
 
-#: ../lib/MDV/Control_Center.pm:502
+#: ../lib/MDV/Control_Center.pm:481
 #, c-format
 msgid "Set up a proxy server for files and web browsing"
 msgstr "ਫਾਇਲਾਂ ਅਤੇ ਵੈਬ ਝਲਕਾਰੇ ਲਈ ਪਰਾਕਸੀ ਸਰਵਰ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:510
+#: ../lib/MDV/Control_Center.pm:489
 #, c-format
 msgid "Remote Control (Linux/Unix, Windows)"
 msgstr "ਰਿਮੋਟ ਕੰਟਰੋਲ (ਲੀਨਕਸ/ਯੂਨਿਕਸ, Windows)"
 
-#: ../lib/MDV/Control_Center.pm:511
+#: ../lib/MDV/Control_Center.pm:490
 #, c-format
 msgid "Remote Control of another machine (Linux/Unix, Windows)"
 msgstr "ਹੋਰ ਮਸ਼ੀਨ ਦਾ ਰਿਮੋਟ ਕੰਟਰੋਲ (ਲੀਨਕਸ/ਯੂਨਿਕਸ, Windows)"
 
-#: ../lib/MDV/Control_Center.pm:520
+#: ../lib/MDV/Control_Center.pm:499
 #, c-format
 msgid "Remove a connection"
 msgstr "ਕੁਨੈਕਸ਼ਨ ਹਟਾਓ"
 
-#: ../lib/MDV/Control_Center.pm:521
+#: ../lib/MDV/Control_Center.pm:500
 #, c-format
 msgid "Delete a network interface"
 msgstr "ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਹਟਾਓ"
 
-#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#: ../lib/MDV/Control_Center.pm:510 ../lib/MDV/Control_Center.pm:511
 #, c-format
 msgid "Wireless connection"
 msgstr "ਵਾਇਰਲੈੱਸ ਕੁਨੈਕਸ਼ਨ"
 
-#: ../lib/MDV/Control_Center.pm:541
+#: ../lib/MDV/Control_Center.pm:520
 #, c-format
 msgid "Access Windows (SMB) shared drives and directories"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:542
+#: ../lib/MDV/Control_Center.pm:521
 #, c-format
 msgid "Configuration of Windows (Samba) shared drives and directories"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:551
+#: ../lib/MDV/Control_Center.pm:530
 #, c-format
 msgid "Share drives and directories with Windows (SMB) systems"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:552
+#: ../lib/MDV/Control_Center.pm:531
 #, fuzzy, c-format
 msgid "Manage configuration of Samba"
 msgstr "ਪ੍ਰਿੰਟਿੰਗ ਸੰਰਚਨਾ"
 
-#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#: ../lib/MDV/Control_Center.pm:540 ../lib/MDV/Control_Center.pm:541
 #, c-format
 msgid "Set up scanner"
 msgstr "ਸਕੈਨਰ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:571
+#: ../lib/MDV/Control_Center.pm:550
 #, fuzzy, c-format
 msgid "Configure system security, permissions and audit"
 msgstr "ਸਿਸਟਮ ਦੀ ਸੁਰੱਖਿਆ ਮਨਜੂਰੀ ਵਧਾਓ"
 
-#: ../lib/MDV/Control_Center.pm:572
+#: ../lib/MDV/Control_Center.pm:551
 #, fuzzy, c-format
 msgid "Set the system security level, periodic security audit and permissions"
 msgstr "ਸਿਸਟਮ ਸੁਰੱਖਿਆ ਪੱਧਰ ਅਤੇ ਅੰਤਰਾਲ ਸੁਰੱਖਿਆ ਆਡਿਟ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
 #, c-format
 msgid "Manage system services by enabling or disabling them"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:592
+#: ../lib/MDV/Control_Center.pm:571
 #, c-format
 msgid "Configure media sources for install and update"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:593
+#: ../lib/MDV/Control_Center.pm:572
 #, fuzzy, c-format
 msgid "Select from where software packages are downloaded "
 msgstr "ਚੁਣੋ ਕਿ ਸਿਸਟਮ ਦੇ ਨਵਿਨੀਕਰਨ ਦੌਰਾਨ ਕਿੱਥੋਂ ਸਾਫਟਵੇਅਰ ਪੈਕੇਜ਼ ਡਾਊਨਲੋਡ ਕਰਨੇ ਹਨ"
 
-#: ../lib/MDV/Control_Center.pm:603
+#: ../lib/MDV/Control_Center.pm:582
 #, fuzzy, c-format
 msgid "Configure updates frequency"
 msgstr "ਗਰੁੱਪਵੇਅਰ ਸੰਰਚਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:612
+#: ../lib/MDV/Control_Center.pm:591
 #, c-format
 msgid "Access to extended maintenance"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:621
+#: ../lib/MDV/Control_Center.pm:600
 #, c-format
 msgid "Configure TOMOYO Linux policy"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:622
+#: ../lib/MDV/Control_Center.pm:601
 #, c-format
 msgid "View and configure TOMOYO Linux security policy"
 msgstr ""
 
 #. -PO: here power means electrical power
 #. -PO: UPS==Uninterruptible power supply
-#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#: ../lib/MDV/Control_Center.pm:613 ../lib/MDV/Control_Center.pm:616
 #, c-format
 msgid "Set up a UPS for power monitoring"
 msgstr "ਬਿਜਲੀ ਪ੍ਰਬੰਧਨ ਲਈ UPS ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:647
+#: ../lib/MDV/Control_Center.pm:626
 #, fuzzy, c-format
 msgid "Manage users on system"
 msgstr "ਸਿਸਟਮ ਦੇ ਉਪਭੋਗੀ ਸ਼ਾਮਿਲ ਕਰੋ, ਹਟਾਓ ਜਾਂ ਤਬਦੀਲ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:648
+#: ../lib/MDV/Control_Center.pm:627
 #, c-format
 msgid "Add, remove or change users of the system"
 msgstr "ਸਿਸਟਮ ਦੇ ਉਪਭੋਗੀ ਸ਼ਾਮਿਲ ਕਰੋ, ਹਟਾਓ ਜਾਂ ਤਬਦੀਲ ਕਰੋ"
 
-#: ../lib/MDV/Control_Center.pm:658
+#: ../lib/MDV/Control_Center.pm:637
 #, c-format
 msgid "Virtualization"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:659
+#: ../lib/MDV/Control_Center.pm:638
 #, c-format
 msgid "Virtual machines management"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#: ../lib/MDV/Control_Center.pm:647 ../lib/MDV/Control_Center.pm:648
 #, fuzzy, c-format
 msgid "Configure VPN connection to secure network access"
 msgstr "ਮਾਨੀਟਰ ਕੁਨੈਕਸ਼ਨ"
 
-#: ../lib/MDV/Control_Center.pm:678
+#: ../lib/MDV/Control_Center.pm:657
 #, c-format
 msgid "Access WebDAV shared drives and directories"
 msgstr ""
 
-#: ../lib/MDV/Control_Center.pm:679
+#: ../lib/MDV/Control_Center.pm:658
 #, c-format
 msgid "Set WebDAV mount points"
 msgstr "WebDAV ਮਾਊਂਟ ਪੁਆਂਇਟ ਨਿਰਧਾਰਿਤ ਕਰੋ"
@@ -1915,6 +1880,43 @@ msgstr "ਪਰਦਾ ਰੈਜ਼ੋਲੂਸ਼ਨ"
 #, fuzzy
 msgid "Configure Your Computer"
 msgstr "ਗਰੁੱਪਵੇਅਰ ਸੰਰਚਿਤ ਕਰੋ"
+
+#~ msgid "Quit"
+#~ msgstr "ਬਾਹਰ"
+
+#~ msgid "_Themes"
+#~ msgstr "ਸਰੂਪ"
+
+#~ msgid ""
+#~ "This action will restart the control center.\n"
+#~ "Any change not applied will be lost."
+#~ msgstr ""
+#~ "ਇਹ ਕਾਰਵਾਈ ਕੰਟਰੋਲ ਸੈਂਟਰ ਨੂੰ ਮੁੜ ਚਲਾਏਗੀ।\n"
+#~ "ਨਾ-ਲਾਗੂ ਕੀਤੀ ਹਰ ਤਬਦੀਲੀ ਗੁੰਮ ਹੋ ਜਾਵੇਗੀ।"
+
+#~ msgid "_More themes"
+#~ msgstr "ਹੋਰ ਸਰੂਪ"
+
+#~ msgid "Help"
+#~ msgstr "ਸਹਾਇਤਾ"
+
+#, fuzzy
+#~ msgid "Configure 3D Desktop effects"
+#~ msgstr "ਖਬਰ-ਸਮੂਹ ਸਰਵਰ ਸੰਰਚਿਤ ਕਰੋ"
+
+#, fuzzy
+#~ msgid "Set up autologin to automatically log in"
+#~ msgstr "ਸਵੈ-ਲਾਗਇਨ ਯੋਗ ਕਰੋ ਅਤੇ ਸਵੈ ਲਾਗਇਨ ਕਰਨ ਲਈ ਉਪਭੋਗੀ ਚੁਣੋ"
+
+#~ msgid "Enable autologin and select the user to automatically log in"
+#~ msgstr "ਸਵੈ-ਲਾਗਇਨ ਯੋਗ ਕਰੋ ਅਤੇ ਸਵੈ ਲਾਗਇਨ ਕਰਨ ਲਈ ਉਪਭੋਗੀ ਚੁਣੋ"
+
+#, fuzzy
+#~ msgid "Set up boot system"
+#~ msgstr "ਨਿਰਧਾਰਿਤ ਕਰੋ ਕਿ ਸਿਸਟਮ ਕਿਵੇਂ ਬੂਟ ਕਰਦਾ ਹੈ"
+
+#~ msgid "Set up how the system boots"
+#~ msgstr "ਨਿਰਧਾਰਿਤ ਕਰੋ ਕਿ ਸਿਸਟਮ ਕਿਵੇਂ ਬੂਟ ਕਰਦਾ ਹੈ"
 
 #, fuzzy
 #~ msgid "Set up security level and audit"
