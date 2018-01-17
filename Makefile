@@ -1,4 +1,4 @@
-VERSION = 13.5
+VERSION = 13.6
 NAME = drakconf
 SUBDIRS = po polkit pixmaps #data
 localedir = $(DESTDIR)/usr/share/locale
