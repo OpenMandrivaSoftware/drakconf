@@ -584,15 +584,6 @@ our %programs =
    },
 
 
-   "Extended Maintenance" =>
-   {
-    binary => "mdkapplet-add-media-helper --product=extended $version",
-    embedded => 1,
-    description => N("Access to extended maintenance"),
-    icon => 'extended_maintenance',
-   },
-
-
    "Tomoyo Policy" =>
    {
     binary => "tomoyo-gui",

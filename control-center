@@ -22,7 +22,7 @@
 
 
 
-
+BEGIN { $ENV{GDK_BACKEND} = 'x11' if exists $ENV{WAYLAND_DISPLAY} }
 use lib qw(/usr/lib/libDrakX);
 use c;
 use standalone;
@@ -31,6 +31,7 @@ use detect_devices;
 use lang;
 use feature 'state';
 use POSIX qw(:signal_h :sys_utsname_h :math_h :sys_wait_h :unistd_h);
+use Glib::Object::Introspection;
 
 POSIX::sigprocmask(SIG_BLOCK, POSIX::SigSet->new(SIGCHLD));
 
@@ -38,10 +39,11 @@ POSIX::sigprocmask(SIG_BLOCK, POSIX::SigSet->new(SIGCHLD));
 BEGIN { unshift @::textdomains, 'drakconf' }
 use mygtk3 qw(gtknew);
 use ugtk3 qw(:create :dialogs :helpers :wrappers);
-use Gtk3::WebKit;
+use Cairo;
+use Pango;
+use Gtk3::WebKit2;
 
 use MDV::Control_Center;
-
 
 my (%tool_pids, %tool_feedback, $gurpmi_pid);
 
@@ -600,7 +602,7 @@ $::main_window = $window_global;
 if ($geometry) {
     @h{qw(HEIGTH WIDTH)} = $geometry =~ /(\d+)x(\d+)/;
     my ($x, $y) = $geometry =~ /([+-]\d+)([+-]\d+)/;
-    $window_global->set_uposition($x, $y) if $x || $y;
+    $window_global->move($x, $y) if $x || $y;
 } else {
 }
 $window_global->resize(max($default_width, $h{WIDTH}, $min_width), max($h{HEIGTH}, $default_height, $min_height));
@@ -692,14 +694,24 @@ my $ui = gtknew('UIManager', actions => [
   </menubar>
 </ui>));
 my $menu = $ui->get_widget('/MenuBar');
- 
+
 my @buttons;
 my $offset = 15;
 
-$view = gtknew('WebKit_View', no_popup_menu => 1);
-$view->signal_connect('load-finished' => sub {
+$view = gtknew('WebKit2_WebView', no_popup_menu => 1);
+
+# disable plugins and the like:
+my $settings = $view->get_settings;
+$settings->set_enable_plugins(0);
+$settings->set_enable_java(0);
+$settings->set_enable_write_console_messages_to_stdout(1) if $::testing;
+$settings->set_allow_universal_access_from_file_urls(1);
+
+$view->signal_connect('load-changed' => sub {
+    my (undef, $msg) = @_;
     state $done;
     return if $done;
+    return if $msg ne 'finished';
     $done = 1;
     Glib::Timeout->add(100, sub { sig_child('CHLD', 1); 1 });
     load_program() if $program;
@@ -717,7 +729,7 @@ gtkadd($window_global,
                 1, gtkpack_(Gtk3::HBox->new(0, 0),
                             1, $steps = gtknew('MDV_Notebook', parent_window => $window_global, children => [ #Layout Fixed
                                 # 145 is the vertical offset in order to be below the actual logo:
-				[ gtknew('VBox', spacing => 0, width => (192 - $offset),
+                                [ gtknew('VBox', spacing => 0, width => (192 - $offset),
                                          children_tight => [ map {
                                              gtknew('HBox', spacing => 0, children => [
                                                  1, $_,
@@ -727,7 +739,13 @@ gtkadd($window_global,
                             ], right_child => gtknew('ScrolledWindow', child => gtkset_border_width($view, 5),
                                                      no_shadow => 1, h_policy => 'never')),
                             1, gtkpack(my $emb_box = Gtk3::VBox->new(0, 0),
-                                       my $wait_darea = gtkset_size_request(Gtk3::DrawingArea->new, -1, -1),
+                                       my $wait_darea = gtkset_size_request(
+					    gtkpack_(gtknew('VBox'),
+						    1, gtknew('VBox'),
+						    0, my $wait_img = Gtk3::Image->new,
+						    0, Gtk3::Label->new(N("Loading... Please wait")),
+						    1, gtknew('VBox')
+					   ), -1, -1),
                                       ),
                            ),
                 0, Gtk3::HSeparator->new,
@@ -856,7 +874,7 @@ sub build_widget_element {
 
 my (@strings, $current_string_idx);
 sub load_view() {
-    $view->load_html_string($strings[$current_string_idx], 'file:///');
+    $view->load_html($strings[$current_string_idx], 'file:///');
 }
 
 sub build_list() {
@@ -993,28 +1011,29 @@ foreach (@tree) {
 }
 }
 
-$view->signal_connect('navigation-requested' => 
+$view->signal_connect('decide-policy' =>
                         sub {
-                            my (undef, undef, $request) = @_;
-                            my $res = 'ignore';
+                            my (undef, $decision, $type) = @_;
+                            my $res = 'true';
+                            my $request = $decision->get_request;
 
                             # get the actual program ID:
                             my $url = Glib::filename_from_uri($request->get_uri);
                             $url =~ s!^/*!!; # not a path
 
                             # workaround wekbit calling navigation-requested with "/":
-                            if (!$url) {
-                                return 'accept';
-			    }
+                            return if !$url;
 
                             # url can be a translated UTF-8 string (eg: for CD/DVD entries):
                             c::set_tagged_utf8($url);
- 
+
                             # do not crash on eg: "reload":
                             if (!$tool_callbacks{$url}) {
                                 warn "Warning: invalid tool name: $url\n";
                                 return $res;
                             }
+                            # prevent WebKit2 to try to load 'app' page:
+                            $decision->ignore;
                             $tool_callbacks{$url}->();
                             # FIXME: the following code is currently useless: 
                             #        should we provide a way to kill buggy embedded programs ?
@@ -1037,7 +1056,7 @@ foreach my $label (difference2([ keys %programs ], [ keys %tool_callbacks ])) {
 foreach (keys %check_boxes) {
     my $widget = $check_boxes{$_};
     if (defined $widget) {
-        $widget->activate($option_values{$_});
+        $widget->set_active($option_values{$_});
     } else {
         print STDERR qq(BUG with LANGUAGE "$ENV{LANGUAGE}" for "$_"\n);
         err_dialog(N("Error"), N("There's a bug in translations of your language (%s)
@@ -1048,38 +1067,15 @@ Please report that bug.", $ENV{LANGUAGE}));
 
 # "wait while launching a program" area :
 
-my ($run_pixbuf, $run_counter, $run_counter_add, %run_pixbufs);
+my $run_pixbuf;
 
 sub stop_wait_area() {
     $wait_darea->hide;
-    Glib::Source->remove($timeout) if $timeout;
-    undef %run_pixbufs;
-}
-
-$wait_darea->signal_connect(draw => sub {
-    my ($w) = @_;
-    return if !$wait_darea->get_realized;
-    return unless $run_pixbuf; # some people got an expose event before we start an embedded tool
-    return unless $wait_darea->{size};
-    $wait_darea->{layout} ||= $wait_darea->create_pango_layout(N("Loading... Please wait"));
-    my $pixbuf = $run_pixbufs{$run_counter} ||= mygtk3::_pixbuf_render_alpha($run_pixbuf, $run_counter);
-    if (!$wait_darea->{first_expose}) {
-        $wait_darea->{first_expose} = 1;
-        my $size = $wait_darea->{size};
-        my ($d_width, $d_height) = ($size->width, $size->height);
-        ($w->{pix_width}, $w->{pix_height}) = ($pixbuf->get_allocated_width, $pixbuf->get_allocated_height);
-        my ($txt_width, $txt_height) = $wait_darea->{layout}->get_pixel_size;
-        $w->{pix_yy} = ($d_width  - $w->{pix_width})/2;
-        $w->{pix_xx} = ($d_height - $w->{pix_height} - $txt_height)/2;
-        $w->{text_yy} = $w->{pix_yy} + ($w->{pix_width} - $txt_width)/2;
-        $w->{text_xx} = $w->{pix_xx} + $w->{pix_height} + 5;
+    if ($timeout) {
+        Glib::Source->remove($timeout);
+        undef $timeout;
     }
-    $pixbuf->render_to_drawable($w->get_window, $w->get_style->fg_gc('normal'), 0, 0, $w->{pix_yy}, $w->{pix_xx}, $w->{pix_width}, $w->{pix_height}, 'normal', 0, 0);
-    my $style = $wait_darea->{style} ||= $wait_darea->get_style;
-    $wait_darea->get_window->draw_layout($style->text_gc('normal'), $w->{text_yy}, $w->{text_xx}, $w->{layout});
-    $run_counter += $run_counter_add;
-    $run_counter_add = -$run_counter_add if $run_counter < 100 || 255-$run_counter_add < $run_counter;
-});
+}
 
 gtkflush();
 
@@ -1261,38 +1257,11 @@ sub run_tool {
             $wait_darea->show;
             $cancel->show;
             $run_pixbuf = eval { gtkcreate_pixbuf($icon . "_128") };
-            $run_counter = 255;
-            $run_counter_add = -5;
-            undef $wait_darea->{color};
-            undef $wait_darea->{size};
-            undef $wait_darea->{first_expose};
-            $wait_darea->{not_yet_complete} = 1;
-            $timeout = Glib::Timeout->add(35, sub { 
-                                              return;
-                                              $wait_darea->{size} ||= $wait_darea->get_allocation;
-                                              my $style = $wait_darea->{style} ||= $wait_darea->get_style;
-                                              my $bg    = $wait_darea->{bg}    ||= $style->bg('normal');
-                                              my $base  = $wait_darea->{base}  ||= $style->base('normal');
-                                              my $color = $wait_darea->{color} ||= $base;
-                                              # $base -> $bg
-                                              my @colors = ([ $color->red,   $bg->red ],
-                                                            [ $color->green, $bg->green ],
-                                                            [ $color->blue,  $bg->blue ]);
-                                              if ($wait_darea->{not_yet_complete} && any { $_->[0] != $_->[1] } @colors) {
-                                                  $wait_darea->get_window->set_background($color);
-                                                  $wait_darea->{color} = gtkcolor(map { $_->[0] - min(300, $_->[0] - $_->[1]) } @colors);
-                                                  $wait_darea->queue_draw;
-                                              } elsif ($wait_darea->{not_yet_complete}) {
-                                                  # set exact color
-                                                  $wait_darea->get_window->set_background($bg);
-                                                  $wait_darea->queue_draw;
-                                                  $wait_darea->{not_yet_complete} = 0;
-                                              } else {
-                                                  my $w = $wait_darea;
-                                                  $wait_darea->queue_draw_area($w->{pix_yy}, $w->{pix_xx}, $w->{pix_width}, $w->{pix_height});
-                                              }
-                                              1;
-                                          });
+            my $anim = Gtk3::Gdk::PixbufSimpleAnim->new(128,128, 1000/35);
+            $anim->add_frame(mygtk3::_pixbuf_render_alpha($run_pixbuf, 255-$_*5)) foreach 0..31; # fade away
+            $anim->add_frame(mygtk3::_pixbuf_render_alpha($run_pixbuf,  95+$_*5)) foreach 0..31; # fade back
+            $anim->set_loop(1);
+            $wait_img->set_from_animation($anim);
             $left_locked = 1;
             $buttons->show;
             $tool_pids{$label} = fork_($exec);
@@ -1501,37 +1470,9 @@ sub about_cc() {
 #-------------------------------------------------------------
 # mcc specific graphic functions:
 
-
-sub set_page {
-    my ($index) = @_;
-    set_page_raw($index);
-    hide_buttons();
-}
-
 sub hide_buttons() {
     $buttons->hide;
     $cancel->hide;
-}
-
-
-sub create_packtable2 {
-    my ($options, @l) = @_;
-    my $w = Gtk3::Table->new(0, 0, 1);
-    add2hash_($options, { xpadding => 5, ypadding => 0 });
-    each_index {
-	my ($i, $l) = ($::i, $_);
-	each_index {
-	    my $j = $::i;
-	    if ($_) {
-		ref $_ or $_ = gtknew('WrappedLabel', text => $_);
-          $w->attach($_, $j, $j + 1, $i, $i + 1, ['expand', 'fill'], ['expand', 'fill'], $options->{xpadding}, $options->{ypadding});
-		$_->show;
-	    }
-	} @$l;
-    } @l;
-    $w->set_col_spacings($options->{col_spacings} || 0);
-    $w->set_row_spacings($options->{row_spacings} || 0);
-    gtkset_border_width($w, $::isInstall ? 3 : 10);
 }
 
 #-------------------------------------------------------------
@@ -1546,7 +1487,7 @@ sub render_shiner {
 
 sub scale {
     my ($pixbuf, $gain) = @_;
-    my ($width, $height) = ($pixbuf->get_allocated_height, $pixbuf->get_allocated_width);
+    my ($width, $height) = ($pixbuf->get_height, $pixbuf->get_width);
     $pixbuf->scale_simple($height+$gain, $width+$gain, 'hyper');
 }
 

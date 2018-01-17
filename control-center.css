@@ -27,11 +27,6 @@
 # scrolled windows per mcc category
 */
 
-GtkTextView, focus * {
-    -GtkTreeView-interior-focus: 0;
-    -GtkTreeView-focus-line-width: 0;
- }
-
 #StepsLabel {
     color: #FFFFFF
 }
